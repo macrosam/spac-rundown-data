@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T05:23:38Z",
+ "generated_at": "2026-07-06T13:01:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2311,10 +2311,28 @@
  ],
  "media": [
   {
+   "title": "Agility Robotics announces SPAC merger to go public and expand production - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RVVVa3h5YUNBbWx0TWJmM0ZmOWpreHp5bGZnakUxWE9QTnppRHlVNWtXNkUyQ3ZaXzBKeENJXzZoTlJ5bVN3aHU3YV9mTkZqVDBMTm4zd1ZqRjEzMmJxMjFWMlBCcm9QN3UzSWtzX0RkZw?oc=5",
+   "published": "2026-07-06",
+   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+  },
+  {
    "title": "Quantum Space SPAC merger with Inflection Point values it at $1.2B - qz.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTHVoWk1oU1VRclV4VkZBOVhJdXFrek8wcjg2T1ZOd1pnUzRJaFotenZybElyYkUzcGw3b1l0MFV2ZFJUZ0dyQzdTZHd2RUdhLVZRcTN3QXZocWVtNXFiYmFoOTNnME9RUWhjZ1hRMTd2OXBsTnZhWTBmOA?oc=5",
    "published": "2026-07-04",
    "source": "qz.com"
+  },
+  {
+   "title": "IQMX Stock Surges On Second Day Of Trading \u2013 Retail Hopeful About Growth Prospects For This Quantum Computing Play - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMXlMY09EcjAydHk0V2pQRWl0S291NW90TE5BMGt2WnhoUnVJaml6TDVCZFg5TjVQU0ZmN3hIMHZvbHBYRkVoWTlTYTQ4aDJjSllQamZ5RVV6VmRTU09RWUlvNVQ5S3R0NGNLT3RUQkZEeFdZM2ZWaHMzd0RucTUwalAydHc4dFcwUUpMR0VwNExUTWlHN1g0R3VfYTJKSnJZSFJ1b2FkbnBFeWxtT2prT0Y3WE93QVN2ek9IdzJhZkZldTdGZWNLRm51TUhoOTQ5MXRPemZaQXNSY0c0aXc2aU9DcVZiNlpRSl9mWVp5a0dnd19uWWpITkkydy1HeFdfN1FR?oc=5",
+   "published": "2026-07-06",
+   "source": "TradingView"
+  },
+  {
+   "title": "Gores Holdings XI (GHXIU) Stock Price, News & Analysis - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sNDU0Y1lJU2F6c2hmc1l4TlRJYVBYM3JyQ3pYRjRLWmxuU1k2bnlEbE1BS0tKSHFRSU16TlRkOFpBdk5iRnhGUHRSR1FNM0QwN3RvWQ?oc=5",
+   "published": "2026-07-06",
+   "source": "Stock Titan"
   },
   {
    "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
@@ -2327,24 +2345,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUk4dk91MllXSDh4Zmh2T292SGFVTl9UREExU2oyY0NWZU1UbjQ1b0l1UVc1dUh2Q21tcmdrV3F1TkNOaF9XYndjNVlIRXNFQnEyM19vSHF3UE5pOWVqRGVmeTlNU1NmS2xLbDNhZmhFMTY3MnJFNFVCMTBiOW16YmhDNVBjMDFWWjFPLVNpOVN1Zw?oc=5",
    "published": "2026-07-04",
    "source": "CryptoRank"
-  },
-  {
-   "title": "Humanoid Robot Stock: Agility Robotics Eyes Nasdaq Debut With $2.5B SPAC Deal - Tech Times",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29KN0M4UW1wdll4QnhQVkR5S3FKR3VVaHUtck1jdXk2OUJWdzR0VEh1ejRob293bUdMZnNSRzBuTTJ1VUdtZFlBX3hhM0pxcVNkVzUtTW9wRGl4aWt3RHFaa0RnSV9kb3F1RGpFTnRGTmU1WGlqVmhkSlhfbmMxUzFyZ3lVT0YtRUNjUVVJdTVKblFXcXVjZm9DbmU1YUNPV2RKdlZFWlZ1VDhoY1BtRTFFd1RyNjVfS1Qxdm1qUm4yZw?oc=5",
-   "published": "2026-07-04",
-   "source": "Tech Times"
-  },
-  {
-   "title": "StablecoinX (Nasdaq: USDE) completes TLGY merger and starts trading on Nasdaq - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUxaZWlsSkMwZ1NhSnF1SUMyWk5mREUyU0xTWXlRYWttR1IweTFkOVIzSEgyUDREQzM3YVF1dWh6VUJFblEwRFR1TzhxTmlZOHZzcnl6M0w2Nmh6YmZmUFNMZ3BCdTlaYUQ1SVNqRnhyUEhSQW1Ga3c3aXFmaHR4QTRrWnl3N0lseEFRbzNaUGxlQTI2dDJwSVVneVhueGwtWjgzbUc4cDRlUQ?oc=5",
-   "published": "2026-07-04",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Agility Robotics goes public with Churchill Capital SPAC merger - qz.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXY4YkFxSnYyYzRiYndUZ2JXZ2VOWnNfc282bVIwamhQUThiek5FRWNXbDFOSmZBWkRYaS1GeDNTaWdUbzU3X0xudWlubDNiVFlZVnU0d0FlS3lGV3lkNWpqbmhnVzVzUnB0eVZMajJ3TlgzMDJCMWdRWnJyX2p0eHhrSzRvUHc?oc=5",
-   "published": "2026-07-04",
-   "source": "qz.com"
   }
  ],
  "regs": []
