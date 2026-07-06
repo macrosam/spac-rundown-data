@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPAC Rundown</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #ffffff; --ink: #1a1a1a; --muted: #6b6b6b;
+    --line: #e3e3de; --accent: #0b5cad; --chip: #eef3f8; --chip-ink: #0b5cad;
+    --warn: #9a6700;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121417; --card: #1b1e23; --ink: #e8e8e6; --muted: #9aa0a6;
+      --line: #2a2e34; --accent: #6cb1f0; --chip: #223140; --chip-ink: #8fc2f2;
+      --warn: #d4a72c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 28px 20px 60px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: -0.02em; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0 8px; align-items: center; }
+  .controls .win { display: flex; gap: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .controls button {
+    background: var(--card); color: var(--ink); border: 0; padding: 6px 14px;
+    font: inherit; font-size: 13px; cursor: pointer;
+  }
+  .controls button + button { border-left: 1px solid var(--line); }
+  .controls button.on { background: var(--accent); color: #fff; }
+  .controls input {
+    flex: 1; min-width: 180px; padding: 7px 12px; font: inherit; font-size: 13px;
+    border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink);
+  }
+  section { margin-top: 26px; }
+  h2 {
+    font-size: 15px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--muted); border-bottom: 1px solid var(--line);
+    padding-bottom: 6px; margin: 0 0 10px;
+  }
+  h2 .count { color: var(--accent); }
+  .item {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 12px 14px; margin-bottom: 8px;
+  }
+  .item .top { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
+  .item .co { font-weight: 650; }
+  .item .form {
+    font-size: 12px; background: var(--chip); color: var(--chip-ink);
+    border-radius: 5px; padding: 1px 7px; white-space: nowrap;
+  }
+  .item .date { color: var(--muted); font-size: 12.5px; }
+  .item .more { color: var(--muted); font-size: 12px; }
+  .item .blurb { margin-top: 5px; font-size: 13.5px; color: var(--ink); }
+  .item .note { margin-top: 3px; font-size: 13px; color: var(--muted); font-style: italic; }
+  .item a { color: var(--accent); text-decoration: none; font-size: 13px; }
+  .item a:hover { text-decoration: underline; }
+  .empty { color: var(--muted); font-style: italic; font-size: 14px; padding: 4px 2px; }
+  .fallback { color: var(--warn); font-size: 13px; margin-bottom: 8px; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 14px; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SPAC Rundown</h1>
+    <div class="sub" id="meta">Loading…</div>
+  </header>
+
+  <div class="controls">
+    <div class="win" id="winBtns">
+      <button data-days="2">48h</button>
+      <button data-days="7" class="on">7 days</button>
+      <button data-days="30">30 days</button>
+    </div>
+    <input id="q" type="search" placeholder="Filter by company or keyword…">
+  </div>
+
+  <div id="sections"></div>
+
+  <footer>
+    Sources: SEC EDGAR daily index &amp; 8-K item headers, Google News, SEC.gov.
+    Data refreshes ~7:45&nbsp;AM and ~2:45&nbsp;PM ET on weekdays via
+    <a href="https://github.com/macrosam/spac-rundown-data">macrosam/spac-rundown-data</a>.
+    Blurbs are auto-extracted from filing cover pages — verify against the linked filing before relying on them.
+  </footer>
+</div>
+
+<script>
+const SECTIONS = [
+  ["pipeline",  "IPO Pipeline (new & active filings)"],
+  ["pricings",  "IPO Pricings"],
+  ["amends",    "New/Amended S-1/F-1"],
+  ["mergers",   "Mergers / De-SPAC Updates", {dedupe: true}],
+  ["votes",     "Vote Dates / Extension Deadlines", {dedupe: true}],
+  ["pipes",     "PIPEs / RDs / Lockups"],
+  ["sponsors",  "Sponsor & Team Moves"],
+  ["media",     "Media & Commentary", {news: true}],
+  ["exchanges", "Exchanges & Listings"],
+  ["regs",      "Regulatory & Policy", {news: true}],
+];
+let FEED = null, days = 7, query = "";
+
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const cutoff = d => new Date(Date.now() - d * 864e5).toISOString().slice(0, 10);
+const filingUrl = p => "https://www.sec.gov/Archives/" + p.replace(/\.txt$/, "-index.htm");
+
+function dedupe(rows) {
+  const seen = {}, out = [];
+  for (const r of rows) {
+    const k = r.cik || r.company;
+    if (seen[k]) { seen[k].count++; continue; }
+    seen[k] = Object.assign({count: 1}, r);
+    out.push(seen[k]);
+  }
+  return out;
+}
+
+function render() {
+  const el = document.getElementById("sections");
+  if (!FEED) { el.innerHTML = ""; return; }
+  const q = query.toLowerCase();
+  let html = "";
+  for (const [key, title, opts = {}] of SECTIONS) {
+    let rows = FEED[key] || [];
+    let fallbackNote = "";
+    if (!opts.news) {
+      const w = rows.filter(r => r.filed >= cutoff(days));
+      if (!w.length && rows.filter(r => r.filed >= cutoff(30)).length && days < 30) {
+        rows = rows.filter(r => r.filed >= cutoff(30));
+        fallbackNote = "Nothing in the selected window — showing the last 30 days.";
+      } else {
+        rows = w;
+      }
+      if (opts.dedupe) rows = dedupe(rows);
+    }
+    if (q) rows = rows.filter(r =>
+      ((r.company || "") + " " + (r.title || "") + " " + (r.blurb || "") + " " + (r.note || "")).toLowerCase().includes(q));
+    html += `<section><h2>${esc(title)} <span class="count">${rows.length}</span></h2>`;
+    if (fallbackNote) html += `<div class="fallback">${esc(fallbackNote)}</div>`;
+    if (!rows.length) { html += `<div class="empty">No items in this window.</div></section>`; continue; }
+    for (const r of rows) {
+      if (opts.news) {
+        html += `<div class="item"><div class="top">
+          <span class="co">${esc(r.title)}</span>
+          ${r.source ? `<span class="form">${esc(r.source)}</span>` : ""}
+          <span class="date">${esc(r.published || "")}</span>
+          <a href="${esc(r.link)}" target="_blank" rel="noopener">open ↗</a>
+        </div></div>`;
+      } else {
+        html += `<div class="item"><div class="top">
+          <span class="co">${esc(r.company)}</span>
+          <span class="form">${esc(r.form)}</span>
+          <span class="date">${esc(r.filed)}</span>
+          ${r.count > 1 ? `<span class="more">+${r.count - 1} more filings in window</span>` : ""}
+          <a href="${filingUrl(esc(r.path))}" target="_blank" rel="noopener">filing ↗</a>
+        </div>
+        ${r.blurb ? `<div class="blurb">${esc(r.blurb.replace(" (auto-extracted)", ""))}</div>` : ""}
+        ${r.note ? `<div class="note">${esc(r.note)}</div>` : ""}
+        </div>`;
+      }
+    }
+    html += `</section>`;
+  }
+  el.innerHTML = html;
+}
+
+document.getElementById("winBtns").addEventListener("click", e => {
+  if (!e.target.dataset.days) return;
+  days = +e.target.dataset.days;
+  for (const b of e.currentTarget.querySelectorAll("button")) b.classList.toggle("on", b === e.target);
+  render();
+});
+document.getElementById("q").addEventListener("input", e => { query = e.target.value.trim(); render(); });
+
+fetch("data/latest.json?cb=" + Date.now())
+  .then(r => r.json())
+  .then(f => {
+    FEED = f;
+    document.getElementById("meta").textContent =
+      "Data generated " + f.generated_at + " (UTC) • rolling " + (f.history_days || 35) + "-day store";
+    render();
+  })
+  .catch(e => { document.getElementById("meta").textContent = "Failed to load feed: " + e; });
+</script>
+</body>
+</html>
