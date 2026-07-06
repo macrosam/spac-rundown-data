@@ -1,0 +1,123 @@
+{
+ "generated_at": "2026-07-06T04:56:03Z",
+ "lookback_days": 10,
+ "source": "SEC EDGAR daily index",
+ "pipeline": [
+  {
+   "company": "Gold Mountain Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2105318",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2105318/0001493152-26-031978.txt"
+  },
+  {
+   "company": "Laris Growth Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2140589",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2140589/0001213900-26-075107.txt"
+  },
+  {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2128462",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2128462/0001193125-26-290930.txt"
+  },
+  {
+   "company": "AMR Resources Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2110119",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2110119/0001213900-26-072712.txt"
+  }
+ ],
+ "pricings": [
+  {
+   "company": "Meridian3 Industrials Acquisition Corp",
+   "form": "424B4",
+   "cik": "2136530",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2136530/0001104659-26-080405.txt"
+  },
+  {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "424B4",
+   "cik": "2113481",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2113481/0001213900-26-074446.txt"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "424B3",
+   "cik": "2010653",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2010653/0001829126-26-007011.txt"
+  },
+  {
+   "company": "Ares Acquisition Corp III",
+   "form": "424B4",
+   "cik": "2128115",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2128115/0001104659-26-079331.txt"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "424B3",
+   "cik": "2010653",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2010653/0001829126-26-006996.txt"
+  },
+  {
+   "company": "Futurewave Acquisition Corp",
+   "form": "424B4",
+   "cik": "2116105",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2116105/0001829126-26-006890.txt"
+  }
+ ],
+ "amends": [
+  {
+   "company": "Mercator Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2106436",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2106436/0001213900-26-074947.txt"
+  },
+  {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2129659",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2129659/0001213900-26-074033.txt"
+  },
+  {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "S-1/A",
+   "cik": "2094712",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2094712/0001493152-26-031152.txt"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2139246",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2139246/0001213900-26-073322.txt"
+  },
+  {
+   "company": "AMR Resources Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2110119",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2110119/0001213900-26-073226.txt"
+  },
+  {
+   "company": "Meridian3 Industrials Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2136530",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2136530/0001104659-26-078781.txt"
+  }
+ ]
+}

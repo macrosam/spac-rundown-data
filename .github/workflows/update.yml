@@ -1,0 +1,45 @@
+name: Update SPAC filings feed
+
+on:
+  schedule:
+    # UTC. Runs before the Apps Script email triggers (~8:23 AM and ~3:37 PM ET).
+    # During EST (winter) these fire an hour earlier in ET, which is still fine.
+    - cron: "45 11 * * 1-5" # ~7:45 AM EDT
+    - cron: "45 18 * * 1-5" # ~2:45 PM EDT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch SPAC filings from EDGAR
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python fetch_spac_filings.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "spac-rundown-bot"
+          git config user.email "actions@github.com"
+          git add data/latest.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update SPAC filings feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
