@@ -1,7 +1,14 @@
 # spac-rundown-data
 
-Public feed of SPAC-related SEC EDGAR filings (S-1/F-1 pipeline, 424B/FWP
-pricings, S-1/A / F-1/A amendments) extracted from the EDGAR daily indexes.
+Public feed of SPAC-related SEC EDGAR filings extracted from the EDGAR daily
+indexes: S-1/F-1 pipeline, 424B/FWP pricings, S-1/A amendments, merger/de-SPAC
+filings (425, S-4/F-4, merger proxies), vote/extension proxies, PIPE signals,
+sponsor/team moves and listing actions (via 8-K item headers), plus SPAC news
+(Google News RSS) and SPAC-related SEC press releases.
+
+`data/history.json` is a rolling ~35-day store so the email can widen empty
+sections to a 30-day window; normal runs only re-fetch the last 7 days of
+indexes and enrich each new SPAC 8-K once.
 
 - `fetch_spac_filings.py` runs twice each weekday via GitHub Actions
   (see `.github/workflows/update.yml`) and writes `data/latest.json`.
