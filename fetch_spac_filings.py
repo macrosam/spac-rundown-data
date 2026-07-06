@@ -1,12 +1,26 @@
 #!/usr/bin/env python3
 """Fetch SEC EDGAR daily indexes and extract SPAC-related filings.
 
-Writes data/latest.json, consumed by the "Spac Snapshot" Google Apps Script
-that sends the SPAC Rundown email. Apps Script cannot fetch sec.gov directly
-(SEC's WAF blocks Google Apps Script traffic and UrlFetchApp overrides the
-User-Agent header), so this job does the fetching from GitHub Actions.
+Writes data/latest.json (consumed by the "Spac Snapshot" Google Apps Script
+that sends the SPAC Rundown email) and maintains data/history.json, a rolling
+~35-day store so the email can fall back to a 30-day window when a section has
+nothing new. Apps Script cannot fetch sec.gov directly (SEC's WAF blocks
+Google Apps Script traffic and UrlFetchApp overrides the User-Agent header),
+so this job does the fetching from GitHub Actions.
 
-All data here is public SEC EDGAR data.
+Sections and their sources:
+  pipeline   S-1, F-1                          (SPAC-like names)
+  pricings   424B1-424B5, FWP                  (SPAC-like names)
+  amends     S-1/A, F-1/A                      (SPAC-like names)
+  mergers    425, S-4(/A), F-4(/A), DEFM14A/C, PREM14A + 8-K items 1.01/1.02/2.01
+  votes      DEF 14A, DEFA14A, PRE 14A, PRER14A + 8-K items 5.07/5.03
+  pipes      8-K item 3.02 (unregistered sales — PIPE signal)
+  sponsors   8-K item 5.02 (officer/director changes)
+  exchanges  8-A12B, 8-A12G, 25, 25-NSE + 8-K item 3.01
+  media      Google News RSS (SPAC search, last ~2 days)
+  regs       SEC press-release RSS filtered for SPAC keywords
+
+All data here is public SEC EDGAR / RSS data.
 """
 
 import json
@@ -16,14 +30,38 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
 
 INDEX_BASE = "https://www.sec.gov/Archives/edgar/daily-index"
-LOOKBACK_DAYS = 10  # superset of the email's AM (7d) and PM (2d) windows
+HISTORY_PATH = "data/history.json"
+LATEST_PATH = "data/latest.json"
+HISTORY_DAYS = 35          # rolling store horizon
+BOOTSTRAP_DAYS = 31        # first-ever run backfills this much
+INCREMENTAL_DAYS = 7       # normal runs re-check this window (covers gaps)
 
-FORMS_PIPELINE = {"S-1", "F-1"}
-FORMS_PRICING = {"424B1", "424B2", "424B3", "424B4", "424B5", "FWP"}
-FORMS_AMENDS = {"S-1/A", "F-1/A"}
+FORMS = {
+    "pipeline": {"S-1", "F-1"},
+    "pricings": {"424B1", "424B2", "424B3", "424B4", "424B5", "FWP"},
+    "amends": {"S-1/A", "F-1/A"},
+    "mergers": {"425", "S-4", "S-4/A", "F-4", "F-4/A", "DEFM14A", "DEFM14C", "PREM14A"},
+    "votes": {"DEF 14A", "DEFA14A", "PRE 14A", "PRER14A"},
+    "exchanges": {"8-A12B", "8-A12G", "25", "25-NSE"},
+}
+EIGHTK_FORMS = {"8-K", "8-K/A"}
+ALL_FORMS = set().union(*FORMS.values()) | EIGHTK_FORMS
+
+# 8-K "ITEM INFORMATION" header text -> (section, short note)
+EIGHTK_ITEM_MAP = [
+    ("entry into a material definitive agreement", ("mergers", "8-K: entry into material definitive agreement")),
+    ("termination of a material definitive agreement", ("mergers", "8-K: termination of material agreement")),
+    ("completion of acquisition", ("mergers", "8-K: completion of acquisition")),
+    ("unregistered sales of equity securities", ("pipes", "8-K: unregistered equity sale (PIPE signal)")),
+    ("submission of matters to a vote", ("votes", "8-K: shareholder vote results")),
+    ("amendments to articles", ("votes", "8-K: charter amendment (possible extension)")),
+    ("departure of directors", ("sponsors", "8-K: officer/director change")),
+    ("notice of delisting", ("exchanges", "8-K: delisting / listing-deficiency notice")),
+]
 
 # form.idx is fixed-width with FORM TYPE first. Column offsets drift between
 # files, so anchor on CIK digits + YYYYMMDD date + edgar/ path instead.
@@ -33,6 +71,17 @@ ACQ_NAME = re.compile(r"acquisition\s+(corp|co|company|corporation|holdings|i|ii
 SPAC_WORD = re.compile(r"\bspac\b", re.I)
 SPAC_PHRASES = ("special purpose acquisition", "blank check", "blank-check")
 
+REG_KEYWORDS = re.compile(r"\bspac(s)?\b|blank[- ]check|special purpose acquisition|shell compan", re.I)
+
+# Quoted deal-specific phrases: bare "SPAC" matches the Saratoga Performing
+# Arts Center in Google News.
+NEWS_RSS = (
+    "https://news.google.com/rss/search?"
+    "q=%22SPAC%20merger%22%20OR%20%22de-SPAC%22%20OR%20%22SPAC%20IPO%22%20OR%20%22SPAC%20deal%22"
+    "%20OR%20%22blank%20check%20company%22%20when:2d&hl=en-US&gl=US&ceid=US:en"
+)
+SEC_PRESS_RSS = "https://www.sec.gov/news/pressreleases.rss"
+
 
 def looks_spac(company: str) -> bool:
     lc = company.lower()
@@ -41,14 +90,15 @@ def looks_spac(company: str) -> bool:
     )
 
 
-def fetch(url: str, ua: str) -> str | None:
-    req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "text/plain,*/*"})
+def fetch(url: str, ua: str, max_bytes: int | None = None) -> str | None:
+    req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "*/*"})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
-            return resp.read().decode("latin-1")
+            data = resp.read(max_bytes) if max_bytes else resp.read()
+            return data.decode("latin-1", errors="replace")
     except urllib.error.HTTPError as e:
         # Weekends/holidays have no index file; SEC answers 403/404 for those.
-        print(f"  index not available: {url} ({e.code})")
+        print(f"  not available: {url} ({e.code})")
         return None
     except Exception as e:  # noqa: BLE001
         print(f"  fetch error: {url} ({e})")
@@ -66,7 +116,7 @@ def parse_daily_idx(text: str) -> list[dict]:
         if not line.strip():
             continue
         if "|" in line:
-            # master.idx: CIK | Company | Form | Date | Path (CIKs are NOT zero-padded)
+            # master.idx: CIK | Company | Form | Date | Path (CIKs NOT zero-padded)
             parts = [p.strip() for p in line.split("|")]
             if len(parts) < 5:
                 continue
@@ -87,15 +137,61 @@ def parse_daily_idx(text: str) -> list[dict]:
     return out
 
 
+def eightk_items(path: str, ua: str) -> list[str]:
+    """Read ITEM INFORMATION lines from the SGML header of a full submission."""
+    text = fetch(f"https://www.sec.gov/Archives/{path}", ua, max_bytes=30000)
+    if text is None:
+        return []
+    return [
+        m.group(1).strip()
+        for m in re.finditer(r"ITEM INFORMATION:\s*(.+)", text)
+    ]
+
+
+def fetch_rss_items(url: str, ua: str) -> list[dict]:
+    text = fetch(url, ua)
+    if not text:
+        return []
+    try:
+        root = ET.fromstring(text.encode("latin-1", errors="replace"))
+    except ET.ParseError as e:
+        print(f"  rss parse error for {url}: {e}")
+        return []
+    items = []
+    for item in root.iter("item"):
+        get = lambda tag: (item.findtext(tag) or "").strip()  # noqa: E731
+        pub = get("pubDate")
+        try:
+            pub_iso = datetime.strptime(pub[:25].strip(), "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
+        except ValueError:
+            pub_iso = pub[:16]
+        src = item.find("source")
+        items.append({
+            "title": get("title"),
+            "link": get("link"),
+            "published": pub_iso,
+            "source": (src.text or "").strip() if src is not None else "",
+            "summary": re.sub(r"<[^>]+>", " ", get("description"))[:300],
+        })
+    return items
+
+
 def main() -> int:
     ua = os.environ.get("SEC_USER_AGENT", "").strip()
     if not ua:
         print("SEC_USER_AGENT env var is required (SEC needs a declared contact).", file=sys.stderr)
         return 1
 
+    # --- rolling history store ---
+    history: dict[str, dict] = {}
+    if os.path.exists(HISTORY_PATH):
+        with open(HISTORY_PATH) as f:
+            history = json.load(f).get("rows", {})
+    days = INCREMENTAL_DAYS if history else BOOTSTRAP_DAYS
+    print(f"history rows: {len(history)}; fetching last {days} days of indexes")
+
     today = date.today()
-    rows: list[dict] = []
-    for k in range(LOOKBACK_DAYS + 1):
+    for k in range(days + 1):
         d = today - timedelta(days=k)
         q = (d.month - 1) // 3 + 1
         base = f"{INDEX_BASE}/{d.year}/QTR{q}"
@@ -105,40 +201,76 @@ def main() -> int:
             text = fetch(f"{base}/master.{d:%Y%m%d}.idx", ua)
         if text is None:
             continue
-        parsed = parse_daily_idx(text)
-        print(f"  parsed {len(parsed)} rows")
-        rows.extend(parsed)
+        added = 0
+        for r in parse_daily_idx(text):
+            form = r["form"].upper()
+            if form not in ALL_FORMS or not looks_spac(r["company"]) or r["path"] in history:
+                continue
+            history[r["path"]] = r
+            added += 1
+        print(f"  +{added} SPAC-relevant rows")
         time.sleep(0.4)  # polite pause per SEC fair-access guidance
 
-    pipeline, pricings, amends = [], [], []
-    for r in rows:
-        form = r["form"].upper()
-        if form in FORMS_PIPELINE and looks_spac(r["company"]):
-            pipeline.append(r)
-        elif form in FORMS_PRICING and looks_spac(r["company"]):
-            pricings.append(r)
-        elif form in FORMS_AMENDS and looks_spac(r["company"]):
-            amends.append(r)
+    # Enrich 8-Ks with their item lines (once per filing; cached in history)
+    pending = [r for r in history.values() if r["form"].upper() in EIGHTK_FORMS and "items" not in r]
+    print(f"enriching {len(pending)} 8-K filings with item headers")
+    for r in pending:
+        r["items"] = eightk_items(r["path"], ua)
+        time.sleep(0.3)
 
-    by_date_desc = lambda r: r["filed"]  # noqa: E731
-    for bucket in (pipeline, pricings, amends):
-        bucket.sort(key=by_date_desc, reverse=True)
+    # Prune beyond the rolling horizon
+    cutoff = (today - timedelta(days=HISTORY_DAYS)).isoformat()
+    history = {p: r for p, r in history.items() if r["filed"] >= cutoff}
+
+    # --- build sections ---
+    sections: dict[str, list[dict]] = {k: [] for k in
+        ("pipeline", "pricings", "amends", "mergers", "votes", "pipes", "sponsors", "exchanges")}
+    for r in history.values():
+        form = r["form"].upper()
+        rec = {k: r[k] for k in ("company", "form", "cik", "filed", "path")}
+        placed = False
+        for section, forms in FORMS.items():
+            if form in forms:
+                sections[section].append(rec)
+                placed = True
+                break
+        if not placed and form in EIGHTK_FORMS:
+            seen = set()
+            for item_text in r.get("items", []):
+                lt = item_text.lower()
+                for needle, (section, note) in EIGHTK_ITEM_MAP:
+                    if needle in lt and section not in seen:
+                        seen.add(section)
+                        sections[section].append({**rec, "note": note})
+    for lst in sections.values():
+        lst.sort(key=lambda r: r["filed"], reverse=True)
+
+    # --- non-EDGAR sources ---
+    print("fetching media + regulatory RSS")
+    media = fetch_rss_items(NEWS_RSS, ua)[:6]
+    regs = [
+        {k: it[k] for k in ("title", "link", "published", "source")}
+        for it in fetch_rss_items(SEC_PRESS_RSS, ua)
+        if REG_KEYWORDS.search(it["title"] + " " + it["summary"])
+    ][:5]
+    for it in media:
+        it.pop("summary", None)
 
     feed = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "lookback_days": LOOKBACK_DAYS,
-        "source": "SEC EDGAR daily index",
-        "pipeline": pipeline,
-        "pricings": pricings,
-        "amends": amends,
+        "history_days": HISTORY_DAYS,
+        "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
+        **sections,
+        "media": media,
+        "regs": regs,
     }
     os.makedirs("data", exist_ok=True)
-    with open("data/latest.json", "w") as f:
+    with open(LATEST_PATH, "w") as f:
         json.dump(feed, f, indent=1)
-    print(
-        f"wrote data/latest.json: pipeline={len(pipeline)} "
-        f"pricings={len(pricings)} amends={len(amends)}"
-    )
+    with open(HISTORY_PATH, "w") as f:
+        json.dump({"rows": history}, f, indent=1)
+    print("wrote", LATEST_PATH, "|", " ".join(f"{k}={len(v)}" for k, v in sections.items()),
+          f"media={len(media)} regs={len(regs)}")
     return 0
 
 

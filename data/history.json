@@ -1,0 +1,2812 @@
+{
+ "rows": {
+  "edgar/data/2136530/0001104659-26-080405.txt": {
+   "company": "Meridian3 Industrials Acquisition Corp",
+   "form": "424B4",
+   "cik": "2136530",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2136530/0001104659-26-080405.txt"
+  },
+  "edgar/data/2113481/0001213900-26-074446.txt": {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "424B4",
+   "cik": "2113481",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2113481/0001213900-26-074446.txt"
+  },
+  "edgar/data/1884046/0001104659-26-080442.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-07-02",
+   "path": "edgar/data/1884046/0001104659-26-080442.txt"
+  },
+  "edgar/data/2125551/0001213900-26-074955.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "8-K",
+   "cik": "2125551",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2125551/0001213900-26-074955.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2128115/0001104659-26-080008.txt": {
+   "company": "Ares Acquisition Corp III",
+   "form": "8-K",
+   "cik": "2128115",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2128115/0001104659-26-080008.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2090441/0001213900-26-074616.txt": {
+   "company": "Iron Dome Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2090441",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2090441/0001213900-26-074616.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1889983/0001213900-26-075073.txt": {
+   "company": "Keen Vision Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1889983",
+   "filed": "2026-07-02",
+   "path": "edgar/data/1889983/0001213900-26-075073.txt"
+  },
+  "edgar/data/1801417/0001213900-26-075009.txt": {
+   "company": "byNordic Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1801417",
+   "filed": "2026-07-02",
+   "path": "edgar/data/1801417/0001213900-26-075009.txt"
+  },
+  "edgar/data/2105318/0001493152-26-031978.txt": {
+   "company": "Gold Mountain Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2105318",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2105318/0001493152-26-031978.txt"
+  },
+  "edgar/data/2140589/0001213900-26-075107.txt": {
+   "company": "Laris Growth Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2140589",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2140589/0001213900-26-075107.txt"
+  },
+  "edgar/data/2106436/0001213900-26-074947.txt": {
+   "company": "Mercator Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2106436",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2106436/0001213900-26-074947.txt"
+  },
+  "edgar/data/2026767/0001493152-26-031763.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2026767/0001493152-26-031763.txt"
+  },
+  "edgar/data/2053927/0001829126-26-007196.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-07-02",
+   "path": "edgar/data/2053927/0001829126-26-007196.txt"
+  },
+  "edgar/data/2052161/0001354457-26-000634.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "25-NSE",
+   "cik": "2052161",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2052161/0001354457-26-000634.txt"
+  },
+  "edgar/data/1881741/0001213900-26-074247.txt": {
+   "company": "Arogo Capital Acquisition Corp.",
+   "form": "425",
+   "cik": "1881741",
+   "filed": "2026-07-01",
+   "path": "edgar/data/1881741/0001213900-26-074247.txt"
+  },
+  "edgar/data/2074850/0001104659-26-079438.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2074850/0001104659-26-079438.txt"
+  },
+  "edgar/data/2136530/0001104659-26-079769.txt": {
+   "company": "Meridian3 Industrials Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2136530",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2136530/0001104659-26-079769.txt"
+  },
+  "edgar/data/1881741/0001213900-26-074220.txt": {
+   "company": "Arogo Capital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1881741",
+   "filed": "2026-07-01",
+   "path": "edgar/data/1881741/0001213900-26-074220.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2081515/0001829126-26-007114.txt": {
+   "company": "Berto Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2081515",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2081515/0001829126-26-007114.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2121703/0001829126-26-007140.txt": {
+   "company": "FortuneX Acquisition Corp",
+   "form": "8-K",
+   "cik": "2121703",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2121703/0001829126-26-007140.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-073908.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "8-K",
+   "cik": "2030482",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2030482/0001213900-26-073908.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-073911.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "DEFA14A",
+   "cik": "2030482",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2030482/0001213900-26-073911.txt"
+  },
+  "edgar/data/2128462/0001193125-26-290930.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2128462",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2128462/0001193125-26-290930.txt"
+  },
+  "edgar/data/2129659/0001213900-26-074033.txt": {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2129659",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2129659/0001213900-26-074033.txt"
+  },
+  "edgar/data/2065779/0001829126-26-007145.txt": {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "S-4",
+   "cik": "2065779",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2065779/0001829126-26-007145.txt"
+  },
+  "edgar/data/2095161/0001829126-26-007124.txt": {
+   "company": "D. Boral Acquisition I Corp.",
+   "form": "S-4",
+   "cik": "2095161",
+   "filed": "2026-07-01",
+   "path": "edgar/data/2095161/0001829126-26-007124.txt"
+  },
+  "edgar/data/2010653/0001829126-26-007011.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "424B3",
+   "cik": "2010653",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2010653/0001829126-26-007011.txt"
+  },
+  "edgar/data/2128115/0001104659-26-079331.txt": {
+   "company": "Ares Acquisition Corp III",
+   "form": "424B4",
+   "cik": "2128115",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2128115/0001104659-26-079331.txt"
+  },
+  "edgar/data/2088295/0001213900-26-073692.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2088295/0001213900-26-073692.txt"
+  },
+  "edgar/data/2059654/0001185185-26-002725.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2059654/0001185185-26-002725.txt"
+  },
+  "edgar/data/2023676/0001213900-26-073598.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2023676/0001213900-26-073598.txt"
+  },
+  "edgar/data/2074850/0001104659-26-078976.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2074850/0001104659-26-078976.txt"
+  },
+  "edgar/data/2009183/0001829126-26-007002.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2009183/0001829126-26-007002.txt"
+  },
+  "edgar/data/2113481/0001213900-26-073572.txt": {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "8-A12B",
+   "cik": "2113481",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2113481/0001213900-26-073572.txt"
+  },
+  "edgar/data/2139246/0001213900-26-073649.txt": {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-A12B",
+   "cik": "2139246",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2139246/0001213900-26-073649.txt"
+  },
+  "edgar/data/2125551/0001213900-26-073790.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "8-K",
+   "cik": "2125551",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2125551/0001213900-26-073790.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2088295/0001213900-26-073672.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2088295/0001213900-26-073672.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2059654/0001185185-26-002723.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2059654/0001185185-26-002723.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2116105/0001829126-26-007072.txt": {
+   "company": "Futurewave Acquisition Corp",
+   "form": "8-K",
+   "cik": "2116105",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2116105/0001829126-26-007072.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2023676/0001213900-26-073592.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2023676",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2023676/0001213900-26-073592.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-073261.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "8-K",
+   "cik": "2030482",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2030482/0001213900-26-073261.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2074850/0001104659-26-078975.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2074850",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2074850/0001104659-26-078975.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-073269.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "DEFA14A",
+   "cik": "2030482",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2030482/0001213900-26-073269.txt"
+  },
+  "edgar/data/2094712/0001493152-26-031152.txt": {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "S-1/A",
+   "cik": "2094712",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2094712/0001493152-26-031152.txt"
+  },
+  "edgar/data/2139246/0001213900-26-073322.txt": {
+   "company": "Viking Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2139246",
+   "filed": "2026-06-30",
+   "path": "edgar/data/2139246/0001213900-26-073322.txt"
+  },
+  "edgar/data/2010653/0001829126-26-006996.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "424B3",
+   "cik": "2010653",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2010653/0001829126-26-006996.txt"
+  },
+  "edgar/data/2112446/0001193125-26-286936.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2112446/0001193125-26-286936.txt"
+  },
+  "edgar/data/2112446/0001193125-26-288357.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2112446/0001193125-26-288357.txt"
+  },
+  "edgar/data/2112446/0001193125-26-288377.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2112446/0001193125-26-288377.txt"
+  },
+  "edgar/data/2052161/0001213900-26-073128.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2052161/0001213900-26-073128.txt"
+  },
+  "edgar/data/1926599/0001193125-26-286758.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-29",
+   "path": "edgar/data/1926599/0001193125-26-286758.txt"
+  },
+  "edgar/data/2128115/0001104659-26-078412.txt": {
+   "company": "Ares Acquisition Corp III",
+   "form": "8-A12B",
+   "cik": "2128115",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2128115/0001104659-26-078412.txt"
+  },
+  "edgar/data/2082526/0001493152-26-031108.txt": {
+   "company": "Aeon Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2082526",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2082526/0001493152-26-031108.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2125551/0001213900-26-073110.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "8-K",
+   "cik": "2125551",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2125551/0001213900-26-073110.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1834032/0001213900-26-073127.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "8-K",
+   "cik": "1834032",
+   "filed": "2026-06-29",
+   "path": "edgar/data/1834032/0001213900-26-073127.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant"
+   ]
+  },
+  "edgar/data/2112446/0001193125-26-286926.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2112446",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2112446/0001193125-26-286926.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102155/0001213900-26-073229.txt": {
+   "company": "Quantum Leap Acquisition Corp",
+   "form": "8-K",
+   "cik": "2102155",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2102155/0001213900-26-073229.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1854463/0001493152-26-031048.txt": {
+   "company": "WinVest Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1854463",
+   "filed": "2026-06-29",
+   "path": "edgar/data/1854463/0001493152-26-031048.txt",
+   "items": [
+    "Changes in Registrant's Certifying Accountant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1851909/0001493152-26-031076.txt": {
+   "company": "Compass Digital Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1851909",
+   "filed": "2026-06-29",
+   "path": "edgar/data/1851909/0001493152-26-031076.txt"
+  },
+  "edgar/data/2016072/0001213900-26-073120.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "DEF 14A",
+   "cik": "2016072",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2016072/0001213900-26-073120.txt"
+  },
+  "edgar/data/1853047/0001096906-26-001013.txt": {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "PRE 14A",
+   "cik": "1853047",
+   "filed": "2026-06-29",
+   "path": "edgar/data/1853047/0001096906-26-001013.txt"
+  },
+  "edgar/data/2110119/0001213900-26-073226.txt": {
+   "company": "AMR Resources Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2110119",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2110119/0001213900-26-073226.txt"
+  },
+  "edgar/data/2136530/0001104659-26-078781.txt": {
+   "company": "Meridian3 Industrials Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2136530",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2136530/0001104659-26-078781.txt"
+  },
+  "edgar/data/2052162/0001493152-26-031117.txt": {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2052162",
+   "filed": "2026-06-29",
+   "path": "edgar/data/2052162/0001493152-26-031117.txt"
+  },
+  "edgar/data/2116105/0001829126-26-006890.txt": {
+   "company": "Futurewave Acquisition Corp",
+   "form": "424B4",
+   "cik": "2116105",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2116105/0001829126-26-006890.txt"
+  },
+  "edgar/data/2057030/0001213900-26-072173.txt": {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2057030/0001213900-26-072173.txt"
+  },
+  "edgar/data/2057030/0001213900-26-072174.txt": {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2057030/0001213900-26-072174.txt"
+  },
+  "edgar/data/2023676/0001213900-26-072364.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2023676/0001213900-26-072364.txt"
+  },
+  "edgar/data/2074850/0001104659-26-078259.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2074850/0001104659-26-078259.txt"
+  },
+  "edgar/data/2009183/0001829126-26-006941.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2009183/0001829126-26-006941.txt"
+  },
+  "edgar/data/2024459/0001213900-26-072597.txt": {
+   "company": "Charlton Aria Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024459",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2024459/0001213900-26-072597.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2079013/0001829126-26-006943.txt": {
+   "company": "Hall Chadwick Acquisition Corp",
+   "form": "8-K",
+   "cik": "2079013",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2079013/0001829126-26-006943.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/1846235/0001213900-26-072647.txt": {
+   "company": "International Media Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1846235",
+   "filed": "2026-06-26",
+   "path": "edgar/data/1846235/0001213900-26-072647.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2096755/0001213900-26-072689.txt": {
+   "company": "Texas Ventures Acquisition IV Corp",
+   "form": "8-K",
+   "cik": "2096755",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2096755/0001213900-26-072689.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2083946/0001213900-26-072611.txt": {
+   "company": "Willow Lane Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2083946",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2083946/0001213900-26-072611.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2110119/0001213900-26-072712.txt": {
+   "company": "AMR Resources Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2110119",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2110119/0001213900-26-072712.txt"
+  },
+  "edgar/data/2065779/0001829126-26-006917.txt": {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "S-4/A",
+   "cik": "2065779",
+   "filed": "2026-06-26",
+   "path": "edgar/data/2065779/0001829126-26-006917.txt"
+  },
+  "edgar/data/2125551/0001213900-26-072089.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "424B4",
+   "cik": "2125551",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2125551/0001213900-26-072089.txt"
+  },
+  "edgar/data/2028516/0001104659-26-077836.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2028516/0001104659-26-077836.txt"
+  },
+  "edgar/data/2088295/0001213900-26-071789.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2088295/0001213900-26-071789.txt"
+  },
+  "edgar/data/2024203/0001493152-26-030136.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "425",
+   "cik": "2024203",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2024203/0001493152-26-030136.txt"
+  },
+  "edgar/data/2102041/0001213900-26-072041.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2102041/0001213900-26-072041.txt"
+  },
+  "edgar/data/2023676/0001213900-26-071782.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2023676/0001213900-26-071782.txt"
+  },
+  "edgar/data/2052161/0001213900-26-072155.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2052161/0001213900-26-072155.txt"
+  },
+  "edgar/data/2074850/0001104659-26-077842.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2074850/0001104659-26-077842.txt"
+  },
+  "edgar/data/2080023/0001213900-26-072046.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2080023/0001213900-26-072046.txt"
+  },
+  "edgar/data/2080023/0001213900-26-072120.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2080023/0001213900-26-072120.txt"
+  },
+  "edgar/data/2082526/0001493152-26-030188.txt": {
+   "company": "Aeon Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2082526",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2082526/0001493152-26-030188.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2101393/0001185185-26-002642.txt": {
+   "company": "AmperCap Acquisition Co",
+   "form": "8-K",
+   "cik": "2101393",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2101393/0001185185-26-002642.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028516/0001104659-26-077835.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "8-K",
+   "cik": "2028516",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2028516/0001104659-26-077835.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1841610/0001185185-26-002652.txt": {
+   "company": "BPGC Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1841610",
+   "filed": "2026-06-25",
+   "path": "edgar/data/1841610/0001185185-26-002652.txt",
+   "items": [
+    "Termination of a Material Definitive Agreement"
+   ]
+  },
+  "edgar/data/2088295/0001213900-26-071787.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2088295/0001213900-26-071787.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2024203/0001493152-26-030134.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024203",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2024203/0001493152-26-030134.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1850059/0001829126-26-006872.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-06-25",
+   "path": "edgar/data/1850059/0001829126-26-006872.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2015502/0001213900-26-072106.txt": {
+   "company": "Launch One Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2015502",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2015502/0001213900-26-072106.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2023676/0001213900-26-071780.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2023676",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2023676/0001213900-26-071780.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035644/0001193125-26-281968.txt": {
+   "company": "Range Capital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035644",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2035644/0001193125-26-281968.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2052161/0001213900-26-072153.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2052161/0001213900-26-072153.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2015502/0001213900-26-072111.txt": {
+   "company": "Launch One Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "2015502",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2015502/0001213900-26-072111.txt"
+  },
+  "edgar/data/2080023/0001213900-26-071664.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "F-4",
+   "cik": "2080023",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2080023/0001213900-26-071664.txt"
+  },
+  "edgar/data/2088295/0001213900-26-071788.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "F-4/A",
+   "cik": "2088295",
+   "filed": "2026-06-25",
+   "path": "edgar/data/2088295/0001213900-26-071788.txt"
+  },
+  "edgar/data/2068454/0001829126-26-006826.txt": {
+   "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
+   "form": "425",
+   "cik": "2068454",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2068454/0001829126-26-006826.txt"
+  },
+  "edgar/data/2074850/0001104659-26-077133.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2074850/0001104659-26-077133.txt"
+  },
+  "edgar/data/2074850/0001104659-26-077355.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2074850/0001104659-26-077355.txt"
+  },
+  "edgar/data/2125551/0001213900-26-071425.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2125551",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2125551/0001213900-26-071425.txt"
+  },
+  "edgar/data/2116105/0001829126-26-006825.txt": {
+   "company": "Futurewave Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2116105",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2116105/0001829126-26-006825.txt"
+  },
+  "edgar/data/1865111/0001493152-26-029938.txt": {
+   "company": "Alpha Star Acquisition Corp",
+   "form": "8-K",
+   "cik": "1865111",
+   "filed": "2026-06-24",
+   "path": "edgar/data/1865111/0001493152-26-029938.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-006786.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2047455/0001829126-26-006786.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2074850/0001104659-26-077363.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2074850",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2074850/0001104659-26-077363.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2096755/0001213900-26-071553.txt": {
+   "company": "Texas Ventures Acquisition IV Corp",
+   "form": "8-K",
+   "cik": "2096755",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2096755/0001213900-26-071553.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2097376/0001213900-26-071599.txt": {
+   "company": "MOZAYYX Acquisition Corp.",
+   "form": "8-K/A",
+   "cik": "2097376",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2097376/0001213900-26-071599.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2049248/0001929980-26-000294.txt": {
+   "company": "Lakeshore Acquisition III Corp.",
+   "form": "PRE 14A",
+   "cik": "2049248",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2049248/0001929980-26-000294.txt"
+  },
+  "edgar/data/2140700/0001213900-26-071220.txt": {
+   "company": "Hoya Acquisition Corp. I",
+   "form": "S-1",
+   "cik": "2140700",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2140700/0001213900-26-071220.txt"
+  },
+  "edgar/data/2139246/0001213900-26-071585.txt": {
+   "company": "Viking Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2139246",
+   "filed": "2026-06-24",
+   "path": "edgar/data/2139246/0001213900-26-071585.txt"
+  },
+  "edgar/data/2102155/0000876661-26-000550.txt": {
+   "company": "Quantum Leap Acquisition Corp",
+   "form": "25-NSE",
+   "cik": "2102155",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2102155/0000876661-26-000550.txt"
+  },
+  "edgar/data/2028516/0001104659-26-076805.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2028516/0001104659-26-076805.txt"
+  },
+  "edgar/data/2024203/0001493152-26-029808.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "425",
+   "cik": "2024203",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2024203/0001493152-26-029808.txt"
+  },
+  "edgar/data/2000410/0001213900-26-070826.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "425",
+   "cik": "2000410",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2000410/0001213900-26-070826.txt"
+  },
+  "edgar/data/2085659/0001213900-26-071191.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2085659/0001213900-26-071191.txt"
+  },
+  "edgar/data/2074850/0001104659-26-076693.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2074850/0001104659-26-076693.txt"
+  },
+  "edgar/data/1926599/0001104659-26-076686.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-23",
+   "path": "edgar/data/1926599/0001104659-26-076686.txt"
+  },
+  "edgar/data/1926599/0001193125-26-278623.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-23",
+   "path": "edgar/data/1926599/0001193125-26-278623.txt"
+  },
+  "edgar/data/2024203/0001493152-26-029805.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024203",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2024203/0001493152-26-029805.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2000410/0001213900-26-070821.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2000410/0001213900-26-070821.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2040381/0001829126-26-006778.txt": {
+   "company": "Pioneer Acquisition I Corp",
+   "form": "8-K",
+   "cik": "2040381",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2040381/0001829126-26-006778.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2085659/0001213900-26-071185.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2085659/0001213900-26-071185.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926599/0001104659-26-076684.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1926599",
+   "filed": "2026-06-23",
+   "path": "edgar/data/1926599/0001104659-26-076684.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926599/0001104659-26-076687.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "1926599",
+   "filed": "2026-06-23",
+   "path": "edgar/data/1926599/0001104659-26-076687.txt"
+  },
+  "edgar/data/2041047/0001213900-26-070790.txt": {
+   "company": "COLLECTIVE ACQUISITION CORP.",
+   "form": "PRE 14A",
+   "cik": "2041047",
+   "filed": "2026-06-23",
+   "path": "edgar/data/2041047/0001213900-26-070790.txt"
+  },
+  "edgar/data/2048951/0001354457-26-000605.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "25-NSE",
+   "cik": "2048951",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2048951/0001354457-26-000605.txt"
+  },
+  "edgar/data/1834032/0001213900-26-070648.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-06-22",
+   "path": "edgar/data/1834032/0001213900-26-070648.txt"
+  },
+  "edgar/data/2052161/0001213900-26-070359.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2052161/0001213900-26-070359.txt"
+  },
+  "edgar/data/2052161/0001213900-26-070635.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2052161/0001213900-26-070635.txt"
+  },
+  "edgar/data/1926599/0001193125-26-276612.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-22",
+   "path": "edgar/data/1926599/0001193125-26-276612.txt"
+  },
+  "edgar/data/2048951/0001193125-26-276307.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "8-A12B",
+   "cik": "2048951",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2048951/0001193125-26-276307.txt"
+  },
+  "edgar/data/2048951/0001213900-26-070289.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2048951",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2048951/0001213900-26-070289.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102155/0001213900-26-070302.txt": {
+   "company": "Quantum Leap Acquisition Corp",
+   "form": "8-K",
+   "cik": "2102155",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2102155/0001213900-26-070302.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2052161/0001213900-26-070357.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2052161/0001213900-26-070357.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2020987/0001683168-26-004996.txt": {
+   "company": "YHN Acquisition I Ltd",
+   "form": "8-K",
+   "cik": "2020987",
+   "filed": "2026-06-22",
+   "path": "edgar/data/2020987/0001683168-26-004996.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1889983/0001213900-26-070674.txt": {
+   "company": "Keen Vision Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1889983",
+   "filed": "2026-06-22",
+   "path": "edgar/data/1889983/0001213900-26-070674.txt"
+  },
+  "edgar/data/2096755/0001213900-26-070224.txt": {
+   "company": "Texas Ventures Acquisition IV Corp",
+   "form": "424B4",
+   "cik": "2096755",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2096755/0001213900-26-070224.txt"
+  },
+  "edgar/data/2052162/0001493152-26-029394.txt": {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052162",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2052162/0001493152-26-029394.txt"
+  },
+  "edgar/data/2085659/0001213900-26-069764.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2085659/0001213900-26-069764.txt"
+  },
+  "edgar/data/1879814/0001213900-26-069777.txt": {
+   "company": "TLGY ACQUISITION CORP",
+   "form": "425",
+   "cik": "1879814",
+   "filed": "2026-06-18",
+   "path": "edgar/data/1879814/0001213900-26-069777.txt"
+  },
+  "edgar/data/2009183/0001829126-26-006658.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2009183/0001829126-26-006658.txt"
+  },
+  "edgar/data/2009183/0001829126-26-006659.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2009183/0001829126-26-006659.txt"
+  },
+  "edgar/data/2101393/0001185185-26-002588.txt": {
+   "company": "AmperCap Acquisition Co",
+   "form": "8-K",
+   "cik": "2101393",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2101393/0001185185-26-002588.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1969475/0001493152-26-029383.txt": {
+   "company": "Bayview Acquisition Corp",
+   "form": "8-K",
+   "cik": "1969475",
+   "filed": "2026-06-18",
+   "path": "edgar/data/1969475/0001493152-26-029383.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant"
+   ]
+  },
+  "edgar/data/2052162/0001493152-26-029392.txt": {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052162",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2052162/0001493152-26-029392.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2097986/0001213900-26-070136.txt": {
+   "company": "Forefront Tech Holdings Acquisition Corp",
+   "form": "8-K",
+   "cik": "2097986",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2097986/0001213900-26-070136.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102771/0001213900-26-069960.txt": {
+   "company": "Keystone Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2102771",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2102771/0001213900-26-069960.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016072/0001213900-26-070120.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "8-K",
+   "cik": "2016072",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2016072/0001213900-26-070120.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/1863460/0001493152-26-029346.txt": {
+   "company": "PHP Ventures Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1863460",
+   "filed": "2026-06-18",
+   "path": "edgar/data/1863460/0001493152-26-029346.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-006629.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2047455/0001829126-26-006629.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1926599/0001104659-26-075471.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1926599",
+   "filed": "2026-06-18",
+   "path": "edgar/data/1926599/0001104659-26-075471.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1945422/0001213900-26-070198.txt": {
+   "company": "Oak Woods Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1945422",
+   "filed": "2026-06-18",
+   "path": "edgar/data/1945422/0001213900-26-070198.txt"
+  },
+  "edgar/data/2016072/0001213900-26-070178.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "PRE 14A",
+   "cik": "2016072",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2016072/0001213900-26-070178.txt"
+  },
+  "edgar/data/2128045/0001213900-26-070217.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "S-1",
+   "cik": "2128045",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2128045/0001213900-26-070217.txt"
+  },
+  "edgar/data/2137679/0001829126-26-006632.txt": {
+   "company": "OceanLight Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2137679",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2137679/0001829126-26-006632.txt"
+  },
+  "edgar/data/2026767/0001493152-26-029398.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4",
+   "cik": "2026767",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2026767/0001493152-26-029398.txt"
+  },
+  "edgar/data/2052162/0001493152-26-029236.txt": {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2052162",
+   "filed": "2026-06-18",
+   "path": "edgar/data/2052162/0001493152-26-029236.txt"
+  },
+  "edgar/data/2052161/0001213900-26-069630.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2052161/0001213900-26-069630.txt"
+  },
+  "edgar/data/2085659/0001213900-26-069436.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2085659/0001213900-26-069436.txt"
+  },
+  "edgar/data/2085659/0001213900-26-069741.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2085659/0001213900-26-069741.txt"
+  },
+  "edgar/data/2074850/0001104659-26-075217.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2074850/0001104659-26-075217.txt"
+  },
+  "edgar/data/2080023/0001185185-26-002554.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2080023/0001185185-26-002554.txt"
+  },
+  "edgar/data/2096755/0001213900-26-069521.txt": {
+   "company": "Texas Ventures Acquisition IV Corp",
+   "form": "8-A12B",
+   "cik": "2096755",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2096755/0001213900-26-069521.txt"
+  },
+  "edgar/data/2115404/0001213900-26-069661.txt": {
+   "company": "Collective Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2115404",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2115404/0001213900-26-069661.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1850059/0001829126-26-006621.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-06-17",
+   "path": "edgar/data/1850059/0001829126-26-006621.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2128739/0001213900-26-069635.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2128739",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2128739/0001213900-26-069635.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016221/0001213900-26-069699.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "8-K",
+   "cik": "2016221",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2016221/0001213900-26-069699.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926314/0001493152-26-028972.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-06-17",
+   "path": "edgar/data/1926314/0001493152-26-028972.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2052161/0001213900-26-069624.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2052161/0001213900-26-069624.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2085659/0001213900-26-069434.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2085659/0001213900-26-069434.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1851909/0001493152-26-029095.txt": {
+   "company": "Compass Digital Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1851909",
+   "filed": "2026-06-17",
+   "path": "edgar/data/1851909/0001493152-26-029095.txt"
+  },
+  "edgar/data/2135163/0001829126-26-006553.txt": {
+   "company": "Albatross Acquisition Corp",
+   "form": "S-1",
+   "cik": "2135163",
+   "filed": "2026-06-17",
+   "path": "edgar/data/2135163/0001829126-26-006553.txt"
+  },
+  "edgar/data/2074850/0001104659-26-074659.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2074850/0001104659-26-074659.txt"
+  },
+  "edgar/data/2100704/0001493152-26-028833.txt": {
+   "company": "East West Ave Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2100704",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2100704/0001493152-26-028833.txt"
+  },
+  "edgar/data/2010930/0001213900-26-069299.txt": {
+   "company": "Centurion Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010930",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2010930/0001213900-26-069299.txt",
+   "items": [
+    "Material Modifications to Rights of Security Holders",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-006522.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2047455/0001829126-26-006522.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2123475/0001213900-26-069285.txt": {
+   "company": "Snow Rothschild Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2123475",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2123475/0001213900-26-069285.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-006550.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K/A",
+   "cik": "2047455",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2047455/0001829126-26-006550.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-068965.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "DEF 14A",
+   "cik": "2030482",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2030482/0001213900-26-068965.txt"
+  },
+  "edgar/data/2012807/0001829126-26-006538.txt": {
+   "company": "RF Acquisition Corp II",
+   "form": "F-4/A",
+   "cik": "2012807",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2012807/0001829126-26-006538.txt"
+  },
+  "edgar/data/2133136/0001213900-26-069333.txt": {
+   "company": "Market Technology Acquisition Corp",
+   "form": "S-1",
+   "cik": "2133136",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2133136/0001213900-26-069333.txt"
+  },
+  "edgar/data/2137679/0001829126-26-006500.txt": {
+   "company": "OceanLight Acquisition Corp",
+   "form": "S-1",
+   "cik": "2137679",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2137679/0001829126-26-006500.txt"
+  },
+  "edgar/data/2122392/0001829126-26-006527.txt": {
+   "company": "Pelican Acquisition II Corp",
+   "form": "S-1/A",
+   "cik": "2122392",
+   "filed": "2026-06-16",
+   "path": "edgar/data/2122392/0001829126-26-006527.txt"
+  },
+  "edgar/data/2102041/0001213900-26-068925.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-15",
+   "path": "edgar/data/2102041/0001213900-26-068925.txt"
+  },
+  "edgar/data/1884046/0001104659-26-074012.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-06-15",
+   "path": "edgar/data/1884046/0001104659-26-074012.txt"
+  },
+  "edgar/data/2074850/0001104659-26-074098.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-15",
+   "path": "edgar/data/2074850/0001104659-26-074098.txt"
+  },
+  "edgar/data/1926599/0001193125-26-270239.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-15",
+   "path": "edgar/data/1926599/0001193125-26-270239.txt"
+  },
+  "edgar/data/1926314/0001493152-26-028579.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-06-15",
+   "path": "edgar/data/1926314/0001493152-26-028579.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1879814/0001213900-26-068762.txt": {
+   "company": "TLGY ACQUISITION CORP",
+   "form": "8-K",
+   "cik": "1879814",
+   "filed": "2026-06-15",
+   "path": "edgar/data/1879814/0001213900-26-068762.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1854463/0001493152-26-028657.txt": {
+   "company": "WinVest Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1854463",
+   "filed": "2026-06-15",
+   "path": "edgar/data/1854463/0001493152-26-028657.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant"
+   ]
+  },
+  "edgar/data/2109823/0001213900-26-068419.txt": {
+   "company": "Leader's Advantage Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2109823",
+   "filed": "2026-06-15",
+   "path": "edgar/data/2109823/0001213900-26-068419.txt"
+  },
+  "edgar/data/2113481/0001213900-26-068811.txt": {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "S-1",
+   "cik": "2113481",
+   "filed": "2026-06-15",
+   "path": "edgar/data/2113481/0001213900-26-068811.txt"
+  },
+  "edgar/data/2000410/0001213900-26-068462.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000410",
+   "filed": "2026-06-15",
+   "path": "edgar/data/2000410/0001213900-26-068462.txt"
+  },
+  "edgar/data/2032950/0001354457-26-000570.txt": {
+   "company": "Horizon Space Acquisition II Corp.",
+   "form": "25-NSE",
+   "cik": "2032950",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2032950/0001354457-26-000570.txt"
+  },
+  "edgar/data/2074850/0001104659-26-073425.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "424B3",
+   "cik": "2074850",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2074850/0001104659-26-073425.txt"
+  },
+  "edgar/data/2102041/0001213900-26-067960.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2102041/0001213900-26-067960.txt"
+  },
+  "edgar/data/2102041/0001213900-26-068271.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2102041/0001213900-26-068271.txt"
+  },
+  "edgar/data/2016072/0001213900-26-068291.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "425",
+   "cik": "2016072",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2016072/0001213900-26-068291.txt"
+  },
+  "edgar/data/2052161/0001213900-26-068403.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2052161/0001213900-26-068403.txt"
+  },
+  "edgar/data/2009183/0001829126-26-006455.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2009183/0001829126-26-006455.txt"
+  },
+  "edgar/data/2101393/0001185185-26-002501.txt": {
+   "company": "AmperCap Acquisition Co",
+   "form": "8-K",
+   "cik": "2101393",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2101393/0001185185-26-002501.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities",
+    "Other Events"
+   ]
+  },
+  "edgar/data/1882198/0001213900-26-068262.txt": {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "1882198",
+   "filed": "2026-06-12",
+   "path": "edgar/data/1882198/0001213900-26-068262.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2010930/0001213900-26-068127.txt": {
+   "company": "Centurion Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010930",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2010930/0001213900-26-068127.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2010653/0001829126-26-006401.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2010653/0001829126-26-006401.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102041/0001213900-26-068265.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2102041",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2102041/0001213900-26-068265.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2122505/0001104659-26-073469.txt": {
+   "company": "Irenic Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2122505",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2122505/0001104659-26-073469.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2128739/0001213900-26-068378.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2128739",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2128739/0001213900-26-068378.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016072/0001213900-26-068287.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "8-K",
+   "cik": "2016072",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2016072/0001213900-26-068287.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Termination of a Material Definitive Agreement",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030829/0001213900-26-068323.txt": {
+   "company": "PANTAGES CAPITAL ACQUISITION Corp",
+   "form": "8-K",
+   "cik": "2030829",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2030829/0001213900-26-068323.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2052161/0001213900-26-068399.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2052161/0001213900-26-068399.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2123475/0001213900-26-068326.txt": {
+   "company": "Snow Rothschild Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2123475",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2123475/0001213900-26-068326.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2009183/0001829126-26-006454.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2009183",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2009183/0001829126-26-006454.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926599/0001104659-26-073428.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1926599",
+   "filed": "2026-06-12",
+   "path": "edgar/data/1926599/0001104659-26-073428.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities"
+   ]
+  },
+  "edgar/data/1936255/0001213900-26-068384.txt": {
+   "company": "Four Leaf Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1936255",
+   "filed": "2026-06-12",
+   "path": "edgar/data/1936255/0001213900-26-068384.txt"
+  },
+  "edgar/data/2128115/0001104659-26-073478.txt": {
+   "company": "Ares Acquisition Corp III",
+   "form": "S-1",
+   "cik": "2128115",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2128115/0001104659-26-073478.txt"
+  },
+  "edgar/data/2125567/0001213900-26-068402.txt": {
+   "company": "Samos Energy Acquisition Corp",
+   "form": "S-1",
+   "cik": "2125567",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2125567/0001213900-26-068402.txt"
+  },
+  "edgar/data/2116230/0001929980-26-000257.txt": {
+   "company": "Southern Cross Acquisition I Corp.",
+   "form": "S-1",
+   "cik": "2116230",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2116230/0001929980-26-000257.txt"
+  },
+  "edgar/data/2010653/0001829126-26-006424.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2010653",
+   "filed": "2026-06-12",
+   "path": "edgar/data/2010653/0001829126-26-006424.txt"
+  },
+  "edgar/data/2029492/0001354457-26-000567.txt": {
+   "company": "Mountain Lake Acquisition Corp.",
+   "form": "25-NSE",
+   "cik": "2029492",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2029492/0001354457-26-000567.txt"
+  },
+  "edgar/data/2102041/0001213900-26-067491.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2102041/0001213900-26-067491.txt"
+  },
+  "edgar/data/1884046/0001104659-26-072637.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1884046/0001104659-26-072637.txt"
+  },
+  "edgar/data/1884046/0001104659-26-072646.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1884046/0001104659-26-072646.txt"
+  },
+  "edgar/data/1884046/0001104659-26-072654.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1884046/0001104659-26-072654.txt"
+  },
+  "edgar/data/1884046/0001104659-26-072662.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1884046/0001104659-26-072662.txt"
+  },
+  "edgar/data/2074850/0001104659-26-072511.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2074850/0001104659-26-072511.txt"
+  },
+  "edgar/data/1973056/0001493152-26-028288.txt": {
+   "company": "Bowen Acquisition Corp",
+   "form": "8-K",
+   "cik": "1973056",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1973056/0001493152-26-028288.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2045473/0001829126-26-006336.txt": {
+   "company": "Copley Acquisition Corp",
+   "form": "8-K",
+   "cik": "2045473",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2045473/0001829126-26-006336.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016221/0001213900-26-067825.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "8-K",
+   "cik": "2016221",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2016221/0001213900-26-067825.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016221/0001213900-26-067857.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "8-K",
+   "cik": "2016221",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2016221/0001213900-26-067857.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2029492/0001213900-26-067813.txt": {
+   "company": "Mountain Lake Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2029492",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2029492/0001213900-26-067813.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1884046/0001104659-26-072635.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "8-K",
+   "cik": "1884046",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1884046/0001104659-26-072635.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2094919/0001213900-26-067852.txt": {
+   "company": "Tribeca Strategic Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2094919",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2094919/0001213900-26-067852.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2020987/0001683168-26-004735.txt": {
+   "company": "YHN Acquisition I Ltd",
+   "form": "8-K",
+   "cik": "2020987",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2020987/0001683168-26-004735.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2000410/0001213900-26-067804.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "2000410",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2000410/0001213900-26-067804.txt"
+  },
+  "edgar/data/2016221/0001213900-26-067862.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "DEFA14A",
+   "cik": "2016221",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2016221/0001213900-26-067862.txt"
+  },
+  "edgar/data/1945422/0001213900-26-067542.txt": {
+   "company": "Oak Woods Acquisition Corp",
+   "form": "PRER14A",
+   "cik": "1945422",
+   "filed": "2026-06-11",
+   "path": "edgar/data/1945422/0001213900-26-067542.txt"
+  },
+  "edgar/data/2122392/0001829126-26-006339.txt": {
+   "company": "Pelican Acquisition II Corp",
+   "form": "S-1",
+   "cik": "2122392",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2122392/0001829126-26-006339.txt"
+  },
+  "edgar/data/2139246/0001213900-26-067909.txt": {
+   "company": "Viking Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2139246",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2139246/0001213900-26-067909.txt"
+  },
+  "edgar/data/2000775/0001829126-26-006338.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000775",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2000775/0001829126-26-006338.txt"
+  },
+  "edgar/data/2065779/0001829126-26-006354.txt": {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "S-4/A",
+   "cik": "2065779",
+   "filed": "2026-06-11",
+   "path": "edgar/data/2065779/0001829126-26-006354.txt"
+  },
+  "edgar/data/2095443/0001354457-26-000561.txt": {
+   "company": "Breeze Acquisition Corp. II",
+   "form": "25-NSE",
+   "cik": "2095443",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2095443/0001354457-26-000561.txt"
+  },
+  "edgar/data/2006815/0001354457-26-000558.txt": {
+   "company": "Voyager Acquisition Corp./Cayman Islands",
+   "form": "25-NSE",
+   "cik": "2006815",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2006815/0001354457-26-000558.txt"
+  },
+  "edgar/data/2128739/0001213900-26-067360.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "424B4",
+   "cik": "2128739",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2128739/0001213900-26-067360.txt"
+  },
+  "edgar/data/1926314/0001493152-26-028056.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "424B4",
+   "cik": "1926314",
+   "filed": "2026-06-10",
+   "path": "edgar/data/1926314/0001493152-26-028056.txt"
+  },
+  "edgar/data/2000410/0001213900-26-067317.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "425",
+   "cik": "2000410",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2000410/0001213900-26-067317.txt"
+  },
+  "edgar/data/2048951/0001213900-26-067072.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "425",
+   "cik": "2048951",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2048951/0001213900-26-067072.txt"
+  },
+  "edgar/data/2016072/0001213900-26-067349.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "425",
+   "cik": "2016072",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2016072/0001213900-26-067349.txt"
+  },
+  "edgar/data/2074850/0001104659-26-072010.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2074850/0001104659-26-072010.txt"
+  },
+  "edgar/data/1926599/0001193125-26-265584.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-06-10",
+   "path": "edgar/data/1926599/0001193125-26-265584.txt"
+  },
+  "edgar/data/2059654/0001185185-26-002444.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2059654/0001185185-26-002444.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2000410/0001213900-26-067308.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2000410/0001213900-26-067308.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102771/0001213900-26-067269.txt": {
+   "company": "Keystone Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2102771",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2102771/0001213900-26-067269.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016072/0001213900-26-067344.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "8-K",
+   "cik": "2016072",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2016072/0001213900-26-067344.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2029492/0001213900-26-067149.txt": {
+   "company": "Mountain Lake Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2029492",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2029492/0001213900-26-067149.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030829/0001213900-26-067035.txt": {
+   "company": "PANTAGES CAPITAL ACQUISITION Corp",
+   "form": "8-K",
+   "cik": "2030829",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2030829/0001213900-26-067035.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Material Modifications to Rights of Security Holders",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-067335.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2035016/0001213900-26-067335.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1801417/0001213900-26-067371.txt": {
+   "company": "byNordic Acquisition Corp",
+   "form": "8-K",
+   "cik": "1801417",
+   "filed": "2026-06-10",
+   "path": "edgar/data/1801417/0001213900-26-067371.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2015502/0001213900-26-067392.txt": {
+   "company": "Launch One Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2015502",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2015502/0001213900-26-067392.txt"
+  },
+  "edgar/data/2016072/0001213900-26-067350.txt": {
+   "company": "M3-Brigade Acquisition V Corp.",
+   "form": "DEFA14A",
+   "cik": "2016072",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2016072/0001213900-26-067350.txt"
+  },
+  "edgar/data/2111009/0001213900-26-066994.txt": {
+   "company": "American Ventures Acquisition Corp. I",
+   "form": "S-1",
+   "cik": "2111009",
+   "filed": "2026-06-10",
+   "path": "edgar/data/2111009/0001213900-26-066994.txt"
+  },
+  "edgar/data/2123475/0001213900-26-066805.txt": {
+   "company": "Snow Rothschild Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2123475",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2123475/0001213900-26-066805.txt"
+  },
+  "edgar/data/2057030/0001213900-26-066554.txt": {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2057030/0001213900-26-066554.txt"
+  },
+  "edgar/data/1834032/0001213900-26-066882.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-06-09",
+   "path": "edgar/data/1834032/0001213900-26-066882.txt"
+  },
+  "edgar/data/1834032/0001213900-26-066883.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-06-09",
+   "path": "edgar/data/1834032/0001213900-26-066883.txt"
+  },
+  "edgar/data/2028935/0001213900-26-066835.txt": {
+   "company": "FACT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2028935",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2028935/0001213900-26-066835.txt"
+  },
+  "edgar/data/2012318/0001213900-26-066515.txt": {
+   "company": "Inflection Point Acquisition Corp. III",
+   "form": "425",
+   "cik": "2012318",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2012318/0001213900-26-066515.txt"
+  },
+  "edgar/data/2102041/0001213900-26-066459.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2102041/0001213900-26-066459.txt"
+  },
+  "edgar/data/2102041/0001213900-26-066506.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2102041/0001213900-26-066506.txt"
+  },
+  "edgar/data/2048951/0001213900-26-066863.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "425",
+   "cik": "2048951",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2048951/0001213900-26-066863.txt"
+  },
+  "edgar/data/2085177/0001829126-26-006241.txt": {
+   "company": "QuasarEdge Acquisition Corp",
+   "form": "425",
+   "cik": "2085177",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2085177/0001829126-26-006241.txt"
+  },
+  "edgar/data/2052161/0001213900-26-066452.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2052161/0001213900-26-066452.txt"
+  },
+  "edgar/data/2052161/0001213900-26-066454.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052161",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2052161/0001213900-26-066454.txt"
+  },
+  "edgar/data/2128739/0001213900-26-066620.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "8-A12B",
+   "cik": "2128739",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2128739/0001213900-26-066620.txt"
+  },
+  "edgar/data/2082526/0001493152-26-027777.txt": {
+   "company": "Aeon Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2082526",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2082526/0001493152-26-027777.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2057030/0001213900-26-066551.txt": {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "2057030",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2057030/0001213900-26-066551.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2095443/0001213900-26-066799.txt": {
+   "company": "Breeze Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2095443",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2095443/0001213900-26-066799.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2000410/0001213900-26-066822.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2000410/0001213900-26-066822.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/1850059/0001829126-26-006238.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-06-09",
+   "path": "edgar/data/1850059/0001829126-26-006238.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2012318/0001213900-26-066511.txt": {
+   "company": "Inflection Point Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2012318",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2012318/0001213900-26-066511.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2048951/0001213900-26-066769.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2048951",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2048951/0001213900-26-066769.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2048951/0001213900-26-066859.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2048951",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2048951/0001213900-26-066859.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2085177/0001829126-26-006240.txt": {
+   "company": "QuasarEdge Acquisition Corp",
+   "form": "8-K",
+   "cik": "2085177",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2085177/0001829126-26-006240.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2052161/0001213900-26-066449.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2052161/0001213900-26-066449.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035173/0001213900-26-066802.txt": {
+   "company": "Renatus Tactical Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2035173",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2035173/0001213900-26-066802.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-066469.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2035016/0001213900-26-066469.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1969475/0001493152-26-027935.txt": {
+   "company": "Bayview Acquisition Corp",
+   "form": "8-K/A",
+   "cik": "1969475",
+   "filed": "2026-06-09",
+   "path": "edgar/data/1969475/0001493152-26-027935.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2048951/0001213900-26-066867.txt": {
+   "company": "Live Oak Acquisition Corp. V",
+   "form": "DEFA14A",
+   "cik": "2048951",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2048951/0001213900-26-066867.txt"
+  },
+  "edgar/data/2096755/0001213900-26-066790.txt": {
+   "company": "Texas Ventures Acquisition IV Corp",
+   "form": "S-1/A",
+   "cik": "2096755",
+   "filed": "2026-06-09",
+   "path": "edgar/data/2096755/0001213900-26-066790.txt"
+  },
+  "edgar/data/2068454/0001829126-26-006185.txt": {
+   "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
+   "form": "425",
+   "cik": "2068454",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2068454/0001829126-26-006185.txt"
+  },
+  "edgar/data/2102041/0001213900-26-066032.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2102041/0001213900-26-066032.txt"
+  },
+  "edgar/data/2048948/0001213900-26-066335.txt": {
+   "company": "New Providence Acquisition Corp. III/Cayman",
+   "form": "425",
+   "cik": "2048948",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2048948/0001213900-26-066335.txt"
+  },
+  "edgar/data/2074850/0001104659-26-071410.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2074850/0001104659-26-071410.txt"
+  },
+  "edgar/data/1926314/0001493152-26-027705.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "1926314",
+   "filed": "2026-06-08",
+   "path": "edgar/data/1926314/0001493152-26-027705.txt"
+  },
+  "edgar/data/2123475/0001213900-26-066191.txt": {
+   "company": "Snow Rothschild Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2123475",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2123475/0001213900-26-066191.txt"
+  },
+  "edgar/data/2121703/0001829126-26-006182.txt": {
+   "company": "FortuneX Acquisition Corp",
+   "form": "8-K",
+   "cik": "2121703",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2121703/0001829126-26-006182.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102041/0001213900-26-066027.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2102041",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2102041/0001213900-26-066027.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2102771/0001213900-26-066255.txt": {
+   "company": "Keystone Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2102771",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2102771/0001213900-26-066255.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2048948/0001213900-26-066354.txt": {
+   "company": "New Providence Acquisition Corp. III/Cayman",
+   "form": "8-K",
+   "cik": "2048948",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2048948/0001213900-26-066354.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2099095/0001213900-26-066058.txt": {
+   "company": "Patriot Acquisition Corp./CI",
+   "form": "8-K",
+   "cik": "2099095",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2099095/0001213900-26-066058.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2074850/0001104659-26-071408.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2074850",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2074850/0001104659-26-071408.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2114463/0001213900-26-066301.txt": {
+   "company": "AParadise II Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2114463",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2114463/0001213900-26-066301.txt"
+  },
+  "edgar/data/2138170/0001213900-26-065988.txt": {
+   "company": "Spring Valley Acquisition Corp. V",
+   "form": "S-1",
+   "cik": "2138170",
+   "filed": "2026-06-08",
+   "path": "edgar/data/2138170/0001213900-26-065988.txt"
+  },
+  "edgar/data/2028935/0001213900-26-065794.txt": {
+   "company": "FACT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2028935",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2028935/0001213900-26-065794.txt"
+  },
+  "edgar/data/2074850/0001104659-26-070650.txt": {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2074850/0001104659-26-070650.txt"
+  },
+  "edgar/data/2101393/0001185185-26-002358.txt": {
+   "company": "AmperCap Acquisition Co",
+   "form": "8-K",
+   "cik": "2101393",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2101393/0001185185-26-002358.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2010930/0001213900-26-065684.txt": {
+   "company": "Centurion Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010930",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2010930/0001213900-26-065684.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2029492/0001213900-26-065849.txt": {
+   "company": "Mountain Lake Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2029492",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2029492/0001213900-26-065849.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-065883.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2035016/0001213900-26-065883.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2020385/0001213900-26-065833.txt": {
+   "company": "Tavia Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2020385",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2020385/0001213900-26-065833.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2010930/0001213900-26-065682.txt": {
+   "company": "Centurion Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "2010930",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2010930/0001213900-26-065682.txt"
+  },
+  "edgar/data/2052161/0001193125-26-259964.txt": {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "DEFM14A",
+   "cik": "2052161",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2052161/0001193125-26-259964.txt"
+  },
+  "edgar/data/1936255/0001213900-26-065821.txt": {
+   "company": "Four Leaf Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1936255",
+   "filed": "2026-06-05",
+   "path": "edgar/data/1936255/0001213900-26-065821.txt"
+  },
+  "edgar/data/2030482/0001213900-26-065904.txt": {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "PRE 14A",
+   "cik": "2030482",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2030482/0001213900-26-065904.txt"
+  },
+  "edgar/data/2125551/0001213900-26-065805.txt": {
+   "company": "Alpex Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2125551",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2125551/0001213900-26-065805.txt"
+  },
+  "edgar/data/2100704/0001493152-26-027546.txt": {
+   "company": "East West Ave Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2100704",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2100704/0001493152-26-027546.txt"
+  },
+  "edgar/data/2128739/0001213900-26-065480.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "S-1/A",
+   "cik": "2128739",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2128739/0001213900-26-065480.txt"
+  },
+  "edgar/data/2128739/0001213900-26-065763.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "S-1/A",
+   "cik": "2128739",
+   "filed": "2026-06-05",
+   "path": "edgar/data/2128739/0001213900-26-065763.txt"
+  }
+ }
+}
