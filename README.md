@@ -1,5 +1,9 @@
 # spac-rundown-data
 
+**Dashboard: https://macrosam.github.io/spac-rundown-data/** (GitHub Pages,
+renders `data/latest.json` with 48h/7d/30d windows, search, and cover-page
+fact blurbs).
+
 Public feed of SPAC-related SEC EDGAR filings extracted from the EDGAR daily
 indexes: S-1/F-1 pipeline, 424B/FWP pricings, S-1/A amendments, merger/de-SPAC
 filings (425, S-4/F-4, merger proxies), vote/extension proxies, PIPE signals,
