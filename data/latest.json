@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T13:01:06Z",
+ "generated_at": "2026-07-06T19:22:04Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2311,16 +2311,28 @@
  ],
  "media": [
   {
+   "title": "ProLogium files SEC merger paperwork as TDAC deal moves ahead - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEl5R28xMk9sQ3V0MjIxUGhrWHhYVXhCMzVrMWR3Tl8yNFNjclFlT0ZHeGtWRkh6YmNOTmcxVzNVRno4ak5kQWhqX3hjYTlJaTVKY1Z0cXdYSjgtX2JFVHA0ZXhPOHB5V3h0WldoZUxaUjFPMEVnVnQxTlNIMzh0VUotcGMxLWtmY1NKSDA2SjBTQTRXSnRveWRBVFBmeGoyUXlhYktzc1UtS2dBU0tGcWQwV09ETkR3UEtr?oc=5",
+   "published": "2026-07-06",
+   "source": "Stock Titan"
+  },
+  {
    "title": "Agility Robotics announces SPAC merger to go public and expand production - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RVVVa3h5YUNBbWx0TWJmM0ZmOWpreHp5bGZnakUxWE9QTnppRHlVNWtXNkUyQ3ZaXzBKeENJXzZoTlJ5bVN3aHU3YV9mTkZqVDBMTm4zd1ZqRjEzMmJxMjFWMlBCcm9QN3UzSWtzX0RkZw?oc=5",
    "published": "2026-07-06",
    "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
   },
   {
-   "title": "Quantum Space SPAC merger with Inflection Point values it at $1.2B - qz.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTHVoWk1oU1VRclV4VkZBOVhJdXFrek8wcjg2T1ZOd1pnUzRJaFotenZybElyYkUzcGw3b1l0MFV2ZFJUZ0dyQzdTZHd2RUdhLVZRcTN3QXZocWVtNXFiYmFoOTNnME9RUWhjZ1hRMTd2OXBsTnZhWTBmOA?oc=5",
+   "title": "Cantor Shareholders Approve Securitize SPAC Merger - CryptoRank",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUk4dk91MllXSDh4Zmh2T292SGFVTl9UREExU2oyY0NWZU1UbjQ1b0l1UVc1dUh2Q21tcmdrV3F1TkNOaF9XYndjNVlIRXNFQnEyM19vSHF3UE5pOWVqRGVmeTlNU1NmS2xLbDNhZmhFMTY3MnJFNFVCMTBiOW16YmhDNVBjMDFWWjFPLVNpOVN1Zw?oc=5",
    "published": "2026-07-04",
-   "source": "qz.com"
+   "source": "CryptoRank"
+  },
+  {
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-07-05",
+   "source": "Stocktwits"
   },
   {
    "title": "IQMX Stock Surges On Second Day Of Trading \u2013 Retail Hopeful About Growth Prospects For This Quantum Computing Play - TradingView",
@@ -2333,18 +2345,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sNDU0Y1lJU2F6c2hmc1l4TlRJYVBYM3JyQ3pYRjRLWmxuU1k2bnlEbE1BS0tKSHFRSU16TlRkOFpBdk5iRnhGUHRSR1FNM0QwN3RvWQ?oc=5",
    "published": "2026-07-06",
    "source": "Stock Titan"
-  },
-  {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-07-05",
-   "source": "Stocktwits"
-  },
-  {
-   "title": "Cantor Shareholders Approve Securitize SPAC Merger - CryptoRank",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUk4dk91MllXSDh4Zmh2T292SGFVTl9UREExU2oyY0NWZU1UbjQ1b0l1UVc1dUh2Q21tcmdrV3F1TkNOaF9XYndjNVlIRXNFQnEyM19vSHF3UE5pOWVqRGVmeTlNU1NmS2xLbDNhZmhFMTY3MnJFNFVCMTBiOW16YmhDNVBjMDFWWjFPLVNpOVN1Zw?oc=5",
-   "published": "2026-07-04",
-   "source": "CryptoRank"
   }
  ],
  "regs": []
