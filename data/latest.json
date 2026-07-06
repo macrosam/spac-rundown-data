@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T05:10:01Z",
+ "generated_at": "2026-07-06T05:23:38Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -8,28 +8,32 @@
    "form": "S-1",
    "cik": "2105318",
    "filed": "2026-07-02",
-   "path": "edgar/data/2105318/0001493152-26-031978.txt"
+   "path": "edgar/data/2105318/0001493152-26-031978.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Laris Growth Acquisition Corp.",
    "form": "S-1",
    "cik": "2140589",
    "filed": "2026-07-02",
-   "path": "edgar/data/2140589/0001213900-26-075107.txt"
+   "path": "edgar/data/2140589/0001213900-26-075107.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: identifying and acquiring a high-growth deep-tech business where we believe the private-to-public valuation arbitrage is most compelling and (auto-extracted)"
   },
   {
    "company": "Three Lions Acquisition Corp.",
    "form": "S-1",
    "cik": "2128462",
    "filed": "2026-07-01",
-   "path": "edgar/data/2128462/0001193125-26-290930.txt"
+   "path": "edgar/data/2128462/0001193125-26-290930.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "AMR Resources Acquisition Corp.",
    "form": "S-1",
    "cik": "2110119",
    "filed": "2026-06-26",
-   "path": "edgar/data/2110119/0001213900-26-072712.txt"
+   "path": "edgar/data/2110119/0001213900-26-072712.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: target businesses in the mineral resources sector, we may pursue an acquisition opportunity in any business, industry, sector or geographica (auto-extracted)"
   },
   {
    "company": "Hoya Acquisition Corp. I",
@@ -43,49 +47,56 @@
    "form": "S-1",
    "cik": "2128045",
    "filed": "2026-06-18",
-   "path": "edgar/data/2128045/0001213900-26-070217.txt"
+   "path": "edgar/data/2128045/0001213900-26-070217.txt",
+   "blurb": "offering $300,000,000; 30,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Albatross Acquisition Corp",
    "form": "S-1",
    "cik": "2135163",
    "filed": "2026-06-17",
-   "path": "edgar/data/2135163/0001829126-26-006553.txt"
+   "path": "edgar/data/2135163/0001829126-26-006553.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Market Technology Acquisition Corp",
    "form": "S-1",
    "cik": "2133136",
    "filed": "2026-06-16",
-   "path": "edgar/data/2133136/0001213900-26-069333.txt"
+   "path": "edgar/data/2133136/0001213900-26-069333.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "OceanLight Acquisition Corp",
    "form": "S-1",
    "cik": "2137679",
    "filed": "2026-06-16",
-   "path": "edgar/data/2137679/0001829126-26-006500.txt"
+   "path": "edgar/data/2137679/0001829126-26-006500.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Leader's Advantage Acquisition Corp.",
    "form": "S-1",
    "cik": "2109823",
    "filed": "2026-06-15",
-   "path": "edgar/data/2109823/0001213900-26-068419.txt"
+   "path": "edgar/data/2109823/0001213900-26-068419.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Osprey Acquisition Corp. III",
    "form": "S-1",
    "cik": "2113481",
    "filed": "2026-06-15",
-   "path": "edgar/data/2113481/0001213900-26-068811.txt"
+   "path": "edgar/data/2113481/0001213900-26-068811.txt",
+   "blurb": "offering $261,000,000; 26,100,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
    "form": "S-1",
    "cik": "2128115",
    "filed": "2026-06-12",
-   "path": "edgar/data/2128115/0001104659-26-073478.txt"
+   "path": "edgar/data/2128115/0001104659-26-073478.txt",
+   "blurb": "offering $300,000,000; 30,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Samos Energy Acquisition Corp",
@@ -99,42 +110,48 @@
    "form": "S-1",
    "cik": "2116230",
    "filed": "2026-06-12",
-   "path": "edgar/data/2116230/0001929980-26-000257.txt"
+   "path": "edgar/data/2116230/0001929980-26-000257.txt",
+   "blurb": "offering $5,000,001; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Pelican Acquisition II Corp",
    "form": "S-1",
    "cik": "2122392",
    "filed": "2026-06-11",
-   "path": "edgar/data/2122392/0001829126-26-006339.txt"
+   "path": "edgar/data/2122392/0001829126-26-006339.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: target businesses within the technology industry globally (auto-extracted)"
   },
   {
    "company": "Viking Acquisition Corp. II",
    "form": "S-1",
    "cik": "2139246",
    "filed": "2026-06-11",
-   "path": "edgar/data/2139246/0001213900-26-067909.txt"
+   "path": "edgar/data/2139246/0001213900-26-067909.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "American Ventures Acquisition Corp. I",
    "form": "S-1",
    "cik": "2111009",
    "filed": "2026-06-10",
-   "path": "edgar/data/2111009/0001213900-26-066994.txt"
+   "path": "edgar/data/2111009/0001213900-26-066994.txt",
+   "blurb": "offering $100,000,000; $5.00./unit; focus: industries that complement our management team s background, and to capitalize on the ability of our management team to identify and acquire (auto-extracted)"
   },
   {
    "company": "AParadise II Acquisition Corp.",
    "form": "S-1",
    "cik": "2114463",
    "filed": "2026-06-08",
-   "path": "edgar/data/2114463/0001213900-26-066301.txt"
+   "path": "edgar/data/2114463/0001213900-26-066301.txt",
+   "blurb": "offering $135,000,000; 13,500,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. V",
    "form": "S-1",
    "cik": "2138170",
    "filed": "2026-06-08",
-   "path": "edgar/data/2138170/0001213900-26-065988.txt"
+   "path": "edgar/data/2138170/0001213900-26-065988.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: opportunities that capitalize on the expertise and ability of our management team, particularly our executive officers, to identify, acquire (auto-extracted)"
   }
  ],
  "pricings": [
@@ -143,84 +160,96 @@
    "form": "424B4",
    "cik": "2136530",
    "filed": "2026-07-02",
-   "path": "edgar/data/2136530/0001104659-26-080405.txt"
+   "path": "edgar/data/2136530/0001104659-26-080405.txt",
+   "blurb": "offering $175,000,000; 17,500,000 units; $10.00/unit; focus: Industry 4 (auto-extracted)"
   },
   {
    "company": "Osprey Acquisition Corp. III",
    "form": "424B4",
    "cik": "2113481",
    "filed": "2026-07-02",
-   "path": "edgar/data/2113481/0001213900-26-074446.txt"
+   "path": "edgar/data/2113481/0001213900-26-074446.txt",
+   "blurb": "offering $261,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Future Vision II Acquisition Corp.",
    "form": "424B3",
    "cik": "2010653",
    "filed": "2026-06-30",
-   "path": "edgar/data/2010653/0001829126-26-007011.txt"
+   "path": "edgar/data/2010653/0001829126-26-007011.txt",
+   "blurb": "offering $90,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
    "form": "424B4",
    "cik": "2128115",
    "filed": "2026-06-30",
-   "path": "edgar/data/2128115/0001104659-26-079331.txt"
+   "path": "edgar/data/2128115/0001104659-26-079331.txt",
+   "blurb": "offering $345,000,000; 34,500,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Future Vision II Acquisition Corp.",
    "form": "424B3",
    "cik": "2010653",
    "filed": "2026-06-29",
-   "path": "edgar/data/2010653/0001829126-26-006996.txt"
+   "path": "edgar/data/2010653/0001829126-26-006996.txt",
+   "blurb": "offering $90,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Futurewave Acquisition Corp",
    "form": "424B4",
    "cik": "2116105",
    "filed": "2026-06-26",
-   "path": "edgar/data/2116105/0001829126-26-006890.txt"
+   "path": "edgar/data/2116105/0001829126-26-006890.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: potential acquisition targets that exhibit compelling long-term growth potential and highly defensible market positions (auto-extracted)"
   },
   {
    "company": "Alpex Acquisition Corp",
    "form": "424B4",
    "cik": "2125551",
    "filed": "2026-06-25",
-   "path": "edgar/data/2125551/0001213900-26-072089.txt"
+   "path": "edgar/data/2125551/0001213900-26-072089.txt",
+   "blurb": "offering $100,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Texas Ventures Acquisition IV Corp",
    "form": "424B4",
    "cik": "2096755",
    "filed": "2026-06-18",
-   "path": "edgar/data/2096755/0001213900-26-070224.txt"
+   "path": "edgar/data/2096755/0001213900-26-070224.txt",
+   "blurb": "offering $150,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "424B3",
    "cik": "2074850",
    "filed": "2026-06-12",
-   "path": "edgar/data/2074850/0001104659-26-073425.txt"
+   "path": "edgar/data/2074850/0001104659-26-073425.txt",
+   "blurb": "offering $600,000,000; $10.20/unit (auto-extracted)"
   },
   {
    "company": "JAB Acquisition Corp I",
    "form": "424B4",
    "cik": "2128739",
    "filed": "2026-06-10",
-   "path": "edgar/data/2128739/0001213900-26-067360.txt"
+   "path": "edgar/data/2128739/0001213900-26-067360.txt",
+   "blurb": "offering $150,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Ocean Capital Acquisition Corp",
    "form": "424B4",
    "cik": "1926314",
    "filed": "2026-06-10",
-   "path": "edgar/data/1926314/0001493152-26-028056.txt"
+   "path": "edgar/data/1926314/0001493152-26-028056.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Snow Rothschild Acquisition Corp.",
    "form": "424B4",
    "cik": "2123475",
    "filed": "2026-06-09",
-   "path": "edgar/data/2123475/0001213900-26-066805.txt"
+   "path": "edgar/data/2123475/0001213900-26-066805.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
@@ -229,14 +258,16 @@
    "form": "S-1/A",
    "cik": "2106436",
    "filed": "2026-07-02",
-   "path": "edgar/data/2106436/0001213900-26-074947.txt"
+   "path": "edgar/data/2106436/0001213900-26-074947.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Freedom Metals Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2129659",
    "filed": "2026-07-01",
-   "path": "edgar/data/2129659/0001213900-26-074033.txt"
+   "path": "edgar/data/2129659/0001213900-26-074033.txt",
+   "blurb": "offering $275,000,000; 27,500,000 units; $10.00/unit; focus: target businesses in the mining and critical minerals industry, we may pursue an acquisition opportunity in any business, industry, sector o (auto-extracted)"
   },
   {
    "company": "ARC Group Securities Acquisition I",
@@ -250,77 +281,88 @@
    "form": "S-1/A",
    "cik": "2139246",
    "filed": "2026-06-30",
-   "path": "edgar/data/2139246/0001213900-26-073322.txt"
+   "path": "edgar/data/2139246/0001213900-26-073322.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "AMR Resources Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2110119",
    "filed": "2026-06-29",
-   "path": "edgar/data/2110119/0001213900-26-073226.txt"
+   "path": "edgar/data/2110119/0001213900-26-073226.txt",
+   "blurb": "offering $650,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
    "form": "S-1/A",
    "cik": "2136530",
    "filed": "2026-06-29",
-   "path": "edgar/data/2136530/0001104659-26-078781.txt"
+   "path": "edgar/data/2136530/0001104659-26-078781.txt",
+   "blurb": "offering $175,000,000; 17,500,000 units; $10.00/unit; focus: Industry 4 (auto-extracted)"
   },
   {
    "company": "Viking Acquisition Corp. II",
    "form": "S-1/A",
    "cik": "2139246",
    "filed": "2026-06-24",
-   "path": "edgar/data/2139246/0001213900-26-071585.txt"
+   "path": "edgar/data/2139246/0001213900-26-071585.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "OceanLight Acquisition Corp",
    "form": "S-1/A",
    "cik": "2137679",
    "filed": "2026-06-18",
-   "path": "edgar/data/2137679/0001829126-26-006632.txt"
+   "path": "edgar/data/2137679/0001829126-26-006632.txt",
+   "blurb": "offering $101,612,500; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Pelican Acquisition II Corp",
    "form": "S-1/A",
    "cik": "2122392",
    "filed": "2026-06-16",
-   "path": "edgar/data/2122392/0001829126-26-006527.txt"
+   "path": "edgar/data/2122392/0001829126-26-006527.txt",
+   "blurb": "offering $75,750,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Texas Ventures Acquisition IV Corp",
    "form": "S-1/A",
    "cik": "2096755",
    "filed": "2026-06-09",
-   "path": "edgar/data/2096755/0001213900-26-066790.txt"
+   "path": "edgar/data/2096755/0001213900-26-066790.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Alpex Acquisition Corp",
    "form": "S-1/A",
    "cik": "2125551",
    "filed": "2026-06-05",
-   "path": "edgar/data/2125551/0001213900-26-065805.txt"
+   "path": "edgar/data/2125551/0001213900-26-065805.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "East West Ave Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2100704",
    "filed": "2026-06-05",
-   "path": "edgar/data/2100704/0001493152-26-027546.txt"
+   "path": "edgar/data/2100704/0001493152-26-027546.txt",
+   "blurb": "offering $622,500; 1,500,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "JAB Acquisition Corp I",
    "form": "S-1/A",
    "cik": "2128739",
    "filed": "2026-06-05",
-   "path": "edgar/data/2128739/0001213900-26-065480.txt"
+   "path": "edgar/data/2128739/0001213900-26-065480.txt",
+   "blurb": "offering $2,600,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "JAB Acquisition Corp I",
    "form": "S-1/A",
    "cik": "2128739",
    "filed": "2026-06-05",
-   "path": "edgar/data/2128739/0001213900-26-065763.txt"
+   "path": "edgar/data/2128739/0001213900-26-065763.txt",
+   "blurb": "offering $2,600,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
@@ -329,7 +371,8 @@
    "form": "425",
    "cik": "1884046",
    "filed": "2026-07-02",
-   "path": "edgar/data/1884046/0001104659-26-080442.txt"
+   "path": "edgar/data/1884046/0001104659-26-080442.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -365,7 +408,8 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-07-01",
-   "path": "edgar/data/2074850/0001104659-26-079438.txt"
+   "path": "edgar/data/2074850/0001104659-26-079438.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "D. Boral ARC Acquisition I Corp.",
@@ -386,7 +430,8 @@
    "form": "425",
    "cik": "2088295",
    "filed": "2026-06-30",
-   "path": "edgar/data/2088295/0001213900-26-073692.txt"
+   "path": "edgar/data/2088295/0001213900-26-073692.txt",
+   "blurb": "business combination with Bleichroeder (auto-extracted)"
   },
   {
    "company": "Blue Acquisition Corp/Cayman",
@@ -400,7 +445,8 @@
    "form": "425",
    "cik": "2023676",
    "filed": "2026-06-30",
-   "path": "edgar/data/2023676/0001213900-26-073598.txt"
+   "path": "edgar/data/2023676/0001213900-26-073598.txt",
+   "blurb": "business combination with LatAm Logistic Properties S.A. (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
@@ -414,7 +460,8 @@
    "form": "425",
    "cik": "2009183",
    "filed": "2026-06-30",
-   "path": "edgar/data/2009183/0001829126-26-007002.txt"
+   "path": "edgar/data/2009183/0001829126-26-007002.txt",
+   "blurb": "business combination with OpenPayd (auto-extracted)"
   },
   {
    "company": "Blue Acquisition Corp/Cayman",
@@ -466,7 +513,8 @@
    "form": "425",
    "cik": "2052161",
    "filed": "2026-06-29",
-   "path": "edgar/data/2052161/0001213900-26-073128.txt"
+   "path": "edgar/data/2052161/0001213900-26-073128.txt",
+   "blurb": "business combination with Real Asset Acquisition Corp. (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
@@ -524,14 +572,16 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-26",
-   "path": "edgar/data/2074850/0001104659-26-078259.txt"
+   "path": "edgar/data/2074850/0001104659-26-078259.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Titan Acquisition Corp.",
    "form": "425",
    "cik": "2009183",
    "filed": "2026-06-26",
-   "path": "edgar/data/2009183/0001829126-26-006941.txt"
+   "path": "edgar/data/2009183/0001829126-26-006941.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
   },
   {
    "company": "D. Boral ARC Acquisition I Corp.",
@@ -552,7 +602,8 @@
    "form": "425",
    "cik": "2088295",
    "filed": "2026-06-25",
-   "path": "edgar/data/2088295/0001213900-26-071789.txt"
+   "path": "edgar/data/2088295/0001213900-26-071789.txt",
+   "blurb": "business combination with Bleichroeder (auto-extracted)"
   },
   {
    "company": "Cayson Acquisition Corp",
@@ -587,21 +638,24 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-25",
-   "path": "edgar/data/2074850/0001104659-26-077842.txt"
+   "path": "edgar/data/2074850/0001104659-26-077842.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Viking Acquisition Corp I",
    "form": "425",
    "cik": "2080023",
    "filed": "2026-06-25",
-   "path": "edgar/data/2080023/0001213900-26-072046.txt"
+   "path": "edgar/data/2080023/0001213900-26-072046.txt",
+   "blurb": "business combination with NorthStar (auto-extracted)"
   },
   {
    "company": "Viking Acquisition Corp I",
    "form": "425",
    "cik": "2080023",
    "filed": "2026-06-25",
-   "path": "edgar/data/2080023/0001213900-26-072120.txt"
+   "path": "edgar/data/2080023/0001213900-26-072120.txt",
+   "blurb": "business combination with NorthStar (auto-extracted)"
   },
   {
    "company": "BPGC Acquisition Corp.",
@@ -661,14 +715,16 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-24",
-   "path": "edgar/data/2074850/0001104659-26-077133.txt"
+   "path": "edgar/data/2074850/0001104659-26-077133.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-24",
-   "path": "edgar/data/2074850/0001104659-26-077355.txt"
+   "path": "edgar/data/2074850/0001104659-26-077355.txt",
+   "blurb": "business combination with General Fusion (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
@@ -691,7 +747,8 @@
    "form": "425",
    "cik": "2028516",
    "filed": "2026-06-23",
-   "path": "edgar/data/2028516/0001104659-26-076805.txt"
+   "path": "edgar/data/2028516/0001104659-26-076805.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
   },
   {
    "company": "Cayson Acquisition Corp",
@@ -719,7 +776,8 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-23",
-   "path": "edgar/data/2074850/0001104659-26-076693.txt"
+   "path": "edgar/data/2074850/0001104659-26-076693.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
@@ -805,14 +863,16 @@
    "form": "425",
    "cik": "2009183",
    "filed": "2026-06-18",
-   "path": "edgar/data/2009183/0001829126-26-006658.txt"
+   "path": "edgar/data/2009183/0001829126-26-006658.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
   },
   {
    "company": "Titan Acquisition Corp.",
    "form": "425",
    "cik": "2009183",
    "filed": "2026-06-18",
-   "path": "edgar/data/2009183/0001829126-26-006659.txt"
+   "path": "edgar/data/2009183/0001829126-26-006659.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
   },
   {
    "company": "Digital Asset Acquisition Corp.",
@@ -849,7 +909,8 @@
    "form": "425",
    "cik": "2052161",
    "filed": "2026-06-17",
-   "path": "edgar/data/2052161/0001213900-26-069630.txt"
+   "path": "edgar/data/2052161/0001213900-26-069630.txt",
+   "blurb": "business combination with RAAQ (auto-extracted)"
   },
   {
    "company": "Silicon Valley Acquisition Corp.",
@@ -870,7 +931,8 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-17",
-   "path": "edgar/data/2074850/0001104659-26-075217.txt"
+   "path": "edgar/data/2074850/0001104659-26-075217.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Viking Acquisition Corp I",
@@ -899,7 +961,8 @@
    "form": "F-4/A",
    "cik": "2012807",
    "filed": "2026-06-16",
-   "path": "edgar/data/2012807/0001829126-26-006538.txt"
+   "path": "edgar/data/2012807/0001829126-26-006538.txt",
+   "blurb": "business combination with PubCo (auto-extracted)"
   },
   {
    "company": "Inflection Point Acquisition Corp. VI",
@@ -913,14 +976,16 @@
    "form": "425",
    "cik": "1884046",
    "filed": "2026-06-15",
-   "path": "edgar/data/1884046/0001104659-26-074012.txt"
+   "path": "edgar/data/1884046/0001104659-26-074012.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-15",
-   "path": "edgar/data/2074850/0001104659-26-074098.txt"
+   "path": "edgar/data/2074850/0001104659-26-074098.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
@@ -1061,28 +1126,32 @@
    "form": "425",
    "cik": "1884046",
    "filed": "2026-06-11",
-   "path": "edgar/data/1884046/0001104659-26-072646.txt"
+   "path": "edgar/data/1884046/0001104659-26-072646.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
   },
   {
    "company": "Spark I Acquisition Corp",
    "form": "425",
    "cik": "1884046",
    "filed": "2026-06-11",
-   "path": "edgar/data/1884046/0001104659-26-072654.txt"
+   "path": "edgar/data/1884046/0001104659-26-072654.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
   },
   {
    "company": "Spark I Acquisition Corp",
    "form": "425",
    "cik": "1884046",
    "filed": "2026-06-11",
-   "path": "edgar/data/1884046/0001104659-26-072662.txt"
+   "path": "edgar/data/1884046/0001104659-26-072662.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-11",
-   "path": "edgar/data/2074850/0001104659-26-072511.txt"
+   "path": "edgar/data/2074850/0001104659-26-072511.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Copley Acquisition Corp",
@@ -1148,7 +1217,8 @@
    "form": "425",
    "cik": "2074850",
    "filed": "2026-06-10",
-   "path": "edgar/data/2074850/0001104659-26-072010.txt"
+   "path": "edgar/data/2074850/0001104659-26-072010.txt",
+   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
@@ -1178,7 +1248,8 @@
    "form": "425",
    "cik": "2057030",
    "filed": "2026-06-09",
-   "path": "edgar/data/2057030/0001213900-26-066554.txt"
+   "path": "edgar/data/2057030/0001213900-26-066554.txt",
+   "blurb": "business combination with Axiom (auto-extracted)"
   },
   {
    "company": "Constellation Acquisition Corp I",
@@ -1199,21 +1270,24 @@
    "form": "425",
    "cik": "2028935",
    "filed": "2026-06-09",
-   "path": "edgar/data/2028935/0001213900-26-066835.txt"
+   "path": "edgar/data/2028935/0001213900-26-066835.txt",
+   "blurb": "business combination with FACT II Acquisition Corp. (auto-extracted)"
   },
   {
    "company": "Inflection Point Acquisition Corp. III",
    "form": "425",
    "cik": "2012318",
    "filed": "2026-06-09",
-   "path": "edgar/data/2012318/0001213900-26-066515.txt"
+   "path": "edgar/data/2012318/0001213900-26-066515.txt",
+   "blurb": "business combination with Air Water Ventures Holdings Limited (auto-extracted)"
   },
   {
    "company": "Inflection Point Acquisition Corp. VI",
    "form": "425",
    "cik": "2102041",
    "filed": "2026-06-09",
-   "path": "edgar/data/2102041/0001213900-26-066459.txt"
+   "path": "edgar/data/2102041/0001213900-26-066459.txt",
+   "blurb": "business combination with Inflection Point Acquisition Corp. VI (auto-extracted)"
   },
   {
    "company": "Inflection Point Acquisition Corp. VI",
@@ -1339,7 +1413,8 @@
    "form": "425",
    "cik": "2028935",
    "filed": "2026-06-05",
-   "path": "edgar/data/2028935/0001213900-26-065794.txt"
+   "path": "edgar/data/2028935/0001213900-26-065794.txt",
+   "blurb": "business combination with FACT II Acquisition Corp. (auto-extracted)"
   },
   {
    "company": "Spring Valley Acquisition Corp. III",
@@ -1369,7 +1444,8 @@
    "form": "DEFM14A",
    "cik": "2052161",
    "filed": "2026-06-05",
-   "path": "edgar/data/2052161/0001193125-26-259964.txt"
+   "path": "edgar/data/2052161/0001193125-26-259964.txt",
+   "blurb": "meeting June 25, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "votes": [
@@ -1386,14 +1462,16 @@
    "form": "DEF 14A",
    "cik": "1889983",
    "filed": "2026-07-02",
-   "path": "edgar/data/1889983/0001213900-26-075073.txt"
+   "path": "edgar/data/1889983/0001213900-26-075073.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "byNordic Acquisition Corp",
    "form": "PRE 14A",
    "cik": "1801417",
    "filed": "2026-07-02",
-   "path": "edgar/data/1801417/0001213900-26-075009.txt"
+   "path": "edgar/data/1801417/0001213900-26-075009.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Arogo Capital Acquisition Corp.",
@@ -1408,7 +1486,8 @@
    "form": "DEFA14A",
    "cik": "2030482",
    "filed": "2026-07-01",
-   "path": "edgar/data/2030482/0001213900-26-073911.txt"
+   "path": "edgar/data/2030482/0001213900-26-073911.txt",
+   "blurb": "meeting July 10, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Futurewave Acquisition Corp",
@@ -1423,7 +1502,8 @@
    "form": "DEFA14A",
    "cik": "2030482",
    "filed": "2026-06-30",
-   "path": "edgar/data/2030482/0001213900-26-073269.txt"
+   "path": "edgar/data/2030482/0001213900-26-073269.txt",
+   "blurb": "meeting July 2, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Alpex Acquisition Corp",
@@ -1438,21 +1518,24 @@
    "form": "DEF 14A",
    "cik": "1851909",
    "filed": "2026-06-29",
-   "path": "edgar/data/1851909/0001493152-26-031076.txt"
+   "path": "edgar/data/1851909/0001493152-26-031076.txt",
+   "blurb": "meeting July 15, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "M3-Brigade Acquisition V Corp.",
    "form": "DEF 14A",
    "cik": "2016072",
    "filed": "2026-06-29",
-   "path": "edgar/data/2016072/0001213900-26-073120.txt"
+   "path": "edgar/data/2016072/0001213900-26-073120.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Hudson Acquisition I Corp.",
    "form": "PRE 14A",
    "cik": "1853047",
    "filed": "2026-06-29",
-   "path": "edgar/data/1853047/0001096906-26-001013.txt"
+   "path": "edgar/data/1853047/0001096906-26-001013.txt",
+   "blurb": "meeting July 17, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Range Capital Acquisition Corp.",
@@ -1475,7 +1558,8 @@
    "form": "DEFA14A",
    "cik": "2015502",
    "filed": "2026-06-25",
-   "path": "edgar/data/2015502/0001213900-26-072111.txt"
+   "path": "edgar/data/2015502/0001213900-26-072111.txt",
+   "blurb": "meeting July 7, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Alpha Star Acquisition Corp",
@@ -1506,21 +1590,24 @@
    "form": "PRE 14A",
    "cik": "2049248",
    "filed": "2026-06-24",
-   "path": "edgar/data/2049248/0001929980-26-000294.txt"
+   "path": "edgar/data/2049248/0001929980-26-000294.txt",
+   "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
    "form": "DEFA14A",
    "cik": "1926599",
    "filed": "2026-06-23",
-   "path": "edgar/data/1926599/0001104659-26-076687.txt"
+   "path": "edgar/data/1926599/0001104659-26-076687.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "COLLECTIVE ACQUISITION CORP.",
    "form": "PRE 14A",
    "cik": "2041047",
    "filed": "2026-06-23",
-   "path": "edgar/data/2041047/0001213900-26-070790.txt"
+   "path": "edgar/data/2041047/0001213900-26-070790.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Live Oak Acquisition Corp. V",
@@ -1535,7 +1622,8 @@
    "form": "PRE 14A",
    "cik": "1889983",
    "filed": "2026-06-22",
-   "path": "edgar/data/1889983/0001213900-26-070674.txt"
+   "path": "edgar/data/1889983/0001213900-26-070674.txt",
+   "blurb": "meeting July 24, 2024; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Translational Development Acquisition Corp.",
@@ -1550,14 +1638,16 @@
    "form": "DEF 14A",
    "cik": "1945422",
    "filed": "2026-06-18",
-   "path": "edgar/data/1945422/0001213900-26-070198.txt"
+   "path": "edgar/data/1945422/0001213900-26-070198.txt",
+   "blurb": "meeting July 8, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "M3-Brigade Acquisition V Corp.",
    "form": "PRE 14A",
    "cik": "2016072",
    "filed": "2026-06-18",
-   "path": "edgar/data/2016072/0001213900-26-070178.txt"
+   "path": "edgar/data/2016072/0001213900-26-070178.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Flag Ship Acquisition Corp",
@@ -1580,7 +1670,8 @@
    "form": "PRE 14A",
    "cik": "1851909",
    "filed": "2026-06-17",
-   "path": "edgar/data/1851909/0001493152-26-029095.txt"
+   "path": "edgar/data/1851909/0001493152-26-029095.txt",
+   "blurb": "meeting October 19, 2023; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Centurion Acquisition Corp.",
@@ -1595,7 +1686,8 @@
    "form": "DEF 14A",
    "cik": "2030482",
    "filed": "2026-06-16",
-   "path": "edgar/data/2030482/0001213900-26-068965.txt"
+   "path": "edgar/data/2030482/0001213900-26-068965.txt",
+   "blurb": "meeting July 2, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Ocean Capital Acquisition Corp",
@@ -1634,7 +1726,8 @@
    "form": "DEF 14A",
    "cik": "1936255",
    "filed": "2026-06-12",
-   "path": "edgar/data/1936255/0001213900-26-068384.txt"
+   "path": "edgar/data/1936255/0001213900-26-068384.txt",
+   "blurb": "meeting June 22, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Bowen Acquisition Corp",
@@ -1649,21 +1742,24 @@
    "form": "DEF 14A",
    "cik": "2000410",
    "filed": "2026-06-11",
-   "path": "edgar/data/2000410/0001213900-26-067804.txt"
+   "path": "edgar/data/2000410/0001213900-26-067804.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Melar Acquisition Corp. I/Cayman",
    "form": "DEFA14A",
    "cik": "2016221",
    "filed": "2026-06-11",
-   "path": "edgar/data/2016221/0001213900-26-067862.txt"
+   "path": "edgar/data/2016221/0001213900-26-067862.txt",
+   "blurb": "meeting June 16, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Oak Woods Acquisition Corp",
    "form": "PRER14A",
    "cik": "1945422",
    "filed": "2026-06-11",
-   "path": "edgar/data/1945422/0001213900-26-067542.txt"
+   "path": "edgar/data/1945422/0001213900-26-067542.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "PANTAGES CAPITAL ACQUISITION Corp",
@@ -1678,14 +1774,16 @@
    "form": "DEF 14A",
    "cik": "2015502",
    "filed": "2026-06-10",
-   "path": "edgar/data/2015502/0001213900-26-067392.txt"
+   "path": "edgar/data/2015502/0001213900-26-067392.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "M3-Brigade Acquisition V Corp.",
    "form": "DEFA14A",
    "cik": "2016072",
    "filed": "2026-06-10",
-   "path": "edgar/data/2016072/0001213900-26-067350.txt"
+   "path": "edgar/data/2016072/0001213900-26-067350.txt",
+   "blurb": "meeting June 15, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Aeon Acquisition I Corp.",
@@ -1708,7 +1806,8 @@
    "form": "DEFA14A",
    "cik": "2048951",
    "filed": "2026-06-09",
-   "path": "edgar/data/2048951/0001213900-26-066867.txt"
+   "path": "edgar/data/2048951/0001213900-26-066867.txt",
+   "blurb": "meeting June 16, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Keystone Acquisition Corp.",
@@ -1747,21 +1846,24 @@
    "form": "DEFA14A",
    "cik": "2010930",
    "filed": "2026-06-05",
-   "path": "edgar/data/2010930/0001213900-26-065682.txt"
+   "path": "edgar/data/2010930/0001213900-26-065682.txt",
+   "blurb": "meeting June 9, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Four Leaf Acquisition Corp",
    "form": "PRE 14A",
    "cik": "1936255",
    "filed": "2026-06-05",
-   "path": "edgar/data/1936255/0001213900-26-065821.txt"
+   "path": "edgar/data/1936255/0001213900-26-065821.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Plum Acquisition Corp, IV",
    "form": "PRE 14A",
    "cik": "2030482",
    "filed": "2026-06-05",
-   "path": "edgar/data/2030482/0001213900-26-065904.txt"
+   "path": "edgar/data/2030482/0001213900-26-065904.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [

@@ -148,6 +148,70 @@ def eightk_items(path: str, ua: str) -> list[str]:
     ]
 
 
+# ---------------------------------------------------------------------------
+# Cover-page fact extraction ("blurbs")
+# ---------------------------------------------------------------------------
+BLURB_OFFERING = FORMS["pipeline"] | FORMS["pricings"] | FORMS["amends"]
+BLURB_PROXY = FORMS["votes"] | {"DEFM14A", "DEFM14C", "PREM14A"}
+BLURB_DEAL = {"425", "S-4", "S-4/A", "F-4", "F-4/A"}
+BLURB_FORMS = BLURB_OFFERING | BLURB_PROXY | BLURB_DEAL
+
+MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+
+
+def _strip_html(text: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
+    return re.sub(r"\s+", " ", text)
+
+
+def extract_blurb(form: str, path: str, ua: str) -> str:
+    """Best-effort key facts from a filing's cover page. Labeled auto-extracted."""
+    raw = fetch(f"https://www.sec.gov/Archives/{path}", ua, max_bytes=120000)
+    if raw is None:
+        return ""
+    # Skip the SGML header; work on the document body text
+    body = raw.split("</SEC-HEADER>", 1)[-1]
+    text = _strip_html(body)
+    parts = []
+
+    if form in BLURB_OFFERING:
+        m = re.search(r"\$\s?([1-9][\d,]{6,14})(?!\d)", text)
+        if m:
+            parts.append("offering $" + m.group(1))
+        m = re.search(r"([1-9][\d,]{5,14})\s+Units\b", text)
+        if m:
+            parts.append(m.group(1) + " units")
+        m = re.search(r"offering price of\s+\$([\d.]{1,6})", text) or re.search(
+            r"\$([\d.]{1,6})\s+per\s+[Uu]nit", text)
+        if m:
+            parts.append("$" + m.group(1) + "/unit")
+        m = re.search(r"focus(?:ing|ed)?\s+on\s+([^.;]{10,140})", text)
+        if m:
+            parts.append("focus: " + m.group(1).strip())
+
+    elif form in BLURB_PROXY:
+        m = re.search(rf"meeting[\s\S]{{0,300}}?((?:{MONTHS})\s+\d{{1,2}},\s+\d{{4}})", text)
+        if m:
+            parts.append("meeting " + m.group(1))
+        head = text[:20000].lower()
+        if "extend" in head or "extension" in head:
+            parts.append("extension on the agenda")
+        elif "business combination" in head or "merger" in head:
+            parts.append("business-combination vote")
+
+    elif form in BLURB_DEAL:
+        m = re.search(
+            r"business combination(?: agreement)?\s+(?:with|between|among)\s+"
+            r"([A-Z][A-Za-z0-9&.,'\- ]{2,60}?)(?:,|\s+and\b|\s+\()", text)
+        if m:
+            parts.append("business combination with " + m.group(1).strip())
+
+    if not parts:
+        return ""
+    return "; ".join(parts)[:220] + " (auto-extracted)"
+
+
 def fetch_rss_items(url: str, ua: str) -> list[dict]:
     text = fetch(url, ua)
     if not text:
@@ -218,6 +282,14 @@ def main() -> int:
         r["items"] = eightk_items(r["path"], ua)
         time.sleep(0.3)
 
+    # Extract cover-page facts for offering/proxy/deal filings (once per filing)
+    pending = [r for r in history.values()
+               if r["form"].upper() in BLURB_FORMS and "blurb" not in r]
+    print(f"extracting cover-page facts for {len(pending)} filings")
+    for r in pending:
+        r["blurb"] = extract_blurb(r["form"].upper(), r["path"], ua)
+        time.sleep(0.3)
+
     # Prune beyond the rolling horizon
     cutoff = (today - timedelta(days=HISTORY_DAYS)).isoformat()
     history = {p: r for p, r in history.items() if r["filed"] >= cutoff}
@@ -228,6 +300,8 @@ def main() -> int:
     for r in history.values():
         form = r["form"].upper()
         rec = {k: r[k] for k in ("company", "form", "cik", "filed", "path")}
+        if r.get("blurb"):
+            rec["blurb"] = r["blurb"]
         placed = False
         for section, forms in FORMS.items():
             if form in forms:
