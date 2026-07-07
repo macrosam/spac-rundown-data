@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T12:37:08Z",
+ "generated_at": "2026-07-07T19:23:53Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2433,10 +2433,16 @@
  ],
  "media": [
   {
-   "title": "How to Play SECZ Stock Now After the Securitize SPAC Merger Closed Last Week - Barchart",
+   "title": "Agility Robotics to go public through $2.5 billion SPAC merger - Robotics & Automation News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3FrVEpKMklZNkpDeVpDbE9mMVdWZTVyN3RHaU41Sk05SjJfMkQ4YzdvOUFzNEpVbUtta0dUZnVVVm9LcEJqY0pfdU1EYjVtbXdJc1JJcHozcldiaGg0VlpwOHRTbTg5bEhMWTRMb2RXQnpfTDc3RXdCWjRyTHZPMGNCV3ZrX05oU3VpS00yVXFXWG5EclFhN29RTENncXFubFRLUjVKRWdpX2ZoMEJyRzg1S0UtdVdxRnc?oc=5",
+   "published": "2026-07-07",
+   "source": "Robotics & Automation News"
+  },
+  {
+   "title": "How to Play SECZ Stock Now After the Securitize SPAC Merger Closed Last Week - Barchart.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDZZaU9PQ2JFV1RGZXZJZWkyRTViWFhMdVhIb2VCS3pxSUc4b3dBT0FSUUEwUnVCaHRPbDd0Mi1NQlBKWGc4dFpPcFp4dk5ZUUtyZkRyYzBIcmFrelNhbjh2YVJNTnFOUDdsZDlSVy1qa3lxOXZmQk5RZG9KSzJDMTlGX0JJSVM5X3NfUlYyaDNSV3Zsa2hYOHhNcEFkLWFHQmczVmVsZ0lTMlQwdmk4dXZja3BUYWplWUxKeg?oc=5",
    "published": "2026-07-06",
-   "source": "Barchart"
+   "source": "Barchart.com"
   },
   {
    "title": "Walkers advises Securitize on US$1.25bn de-SPAC transaction - Cayman Finance",
@@ -2451,22 +2457,16 @@
    "source": "Stock Titan"
   },
   {
+   "title": "Windrose hit with $413K judgment amid wage disputes, probe - MSN",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX1RqWkRoRHJwc1ZuY3h3eVA5YVRYYXRpNUtUaEp6ZGRDN2VqZzNnWV9HVTJCRGt2a2xnTGRxN2lQQkxVWUgtRXZKMlpPRWhUbThBeEhvV3VBNGY3WWNCUFM4QmJ6UEkzQ05xSUd5NC01ZkRlT1lOQ21BZTVybXpuZXF1OFI3X2hnc0hVWjJ6em85cmFMNWdVUzNORTMwbjNBaGViS0lPaU5QaGV0OElTNnA0empUanhKSVFXd0pIak5NdnVOS21OZTkxY0xxQTBnbzc5T1RPakJUSkNBRXd2NUhXeFVIRmRiVEgzb3pqZw?oc=5",
+   "published": "2026-07-07",
+   "source": "MSN"
+  },
+  {
    "title": "Agility Robotics announces SPAC merger to go public and expand production - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RVVVa3h5YUNBbWx0TWJmM0ZmOWpreHp5bGZnakUxWE9QTnppRHlVNWtXNkUyQ3ZaXzBKeENJXzZoTlJ5bVN3aHU3YV9mTkZqVDBMTm4zd1ZqRjEzMmJxMjFWMlBCcm9QN3UzSWtzX0RkZw?oc=5",
    "published": "2026-07-06",
    "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
-  },
-  {
-   "title": "Windrose hit with $413K judgment amid wage disputes, probe - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX1RqWkRoRHJwc1ZuY3h3eVA5YVRYYXRpNUtUaEp6ZGRDN2VqZzNnWV9HVTJCRGt2a2xnTGRxN2lQQkxVWUgtRXZKMlpPRWhUbThBeEhvV3VBNGY3WWNCUFM4QmJ6UEkzQ05xSUd5NC01ZkRlT1lOQ21BZTVybXpuZXF1OFI3X2hnc0hVWjJ6em85cmFMNWdVUzNORTMwbjNBaGViS0lPaU5QaGV0OElTNnA0empUanhKSVFXd0pIak5NdnVOS21OZTkxY0xxQTBnbzc5T1RPakJUSkNBRXd2NUhXeFVIRmRiVEgzb3pqZw?oc=5",
-   "published": "2026-07-06",
-   "source": "MSN"
-  },
-  {
-   "title": "Is the Saylor playbook cracking? Bitcoin's biggest buyer just became a seller - CoinDesk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkJVaUhwcUFCNVVSNzFTbFRxVW5pNmk4RGdiZ25IVjN5WVZ4TzQ3VW9rc0VrdE43bDVCdTRJajNTazFpMk5haU44S3g5a2pyMGFGajVUdl9ocUkwVVBpUlR5TTVfOXJnZWNzU29HS0NkZk1wR21tNzQ3cE15UjRLT2d4OVlMWnZBSGl3cWEtMzJJWjhPQ0Fic1c2eXZ5RUd0TkN0UUlJUV84QQ?oc=5",
-   "published": "2026-07-06",
-   "source": "CoinDesk"
   }
  ],
  "regs": []
