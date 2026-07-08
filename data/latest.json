@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T19:23:53Z",
+ "generated_at": "2026-07-08T12:13:31Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -155,6 +155,30 @@
   }
  ],
  "pricings": [
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "424B3",
+   "cik": "2065779",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2065779/0001829126-26-007331.txt",
+   "blurb": "offering $25,000, (auto-extracted)"
+  },
+  {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "424B3",
+   "cik": "2052162",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2052162/0001493152-26-032276.txt",
+   "blurb": "offering $3,725,000 (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "424B4",
+   "cik": "2128045",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2128045/0001213900-26-075753.txt",
+   "blurb": "offering $300,000,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Viking Acquisition Corp. II",
    "form": "424B4",
@@ -374,6 +398,54 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2074850/0001104659-26-080880.txt",
+   "blurb": "business combination with General Fusion Inc. (auto-extracted)"
+  },
+  {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2074850/0001104659-26-081348.txt",
+   "blurb": "business combination with General Fusion Inc. (auto-extracted)"
+  },
+  {
+   "company": "FortuneX Acquisition Corp",
+   "form": "8-K",
+   "cik": "2121703",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2121703/0001829126-26-007307.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2113481",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2113481/0001213900-26-075986.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2139246/0001213900-26-076045.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "DEFM14A",
+   "cik": "2065779",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2065779/0001829126-26-007326.txt",
+   "blurb": "business-combination vote (auto-extracted)"
+  },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "425",
@@ -1509,6 +1581,30 @@
  ],
  "votes": [
   {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2113481",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2113481/0001213900-26-075986.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2139246/0001213900-26-076045.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Lakeshore Acquisition III Corp.",
+   "form": "DEF 14A",
+   "cik": "2049248",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2049248/0001929980-26-000315.txt",
+   "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Eureka Acquisition Corp",
    "form": "8-K",
    "cik": "2000410",
@@ -1967,6 +2063,30 @@
  ],
  "pipes": [
   {
+   "company": "Launch One Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2015502",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2015502/0001213900-26-075677.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2113481",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2113481/0001213900-26-075986.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2139246/0001213900-26-076045.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Meridian3 Industrials Acquisition Corp",
    "form": "8-K",
    "cik": "2136530",
@@ -2129,6 +2249,30 @@
  ],
  "sponsors": [
   {
+   "company": "Four Leaf Acquisition Corp",
+   "form": "8-K",
+   "cik": "1936255",
+   "filed": "2026-07-07",
+   "path": "edgar/data/1936255/0001213900-26-075951.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Osprey Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2113481",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2113481/0001213900-26-075986.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2139246/0001213900-26-076045.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Meridian3 Industrials Acquisition Corp",
    "form": "8-K",
    "cik": "2136530",
@@ -2266,6 +2410,13 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2129659",
+   "filed": "2026-07-07",
+   "path": "edgar/data/2129659/0001213900-26-075945.txt"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-A12B",
@@ -2433,10 +2584,16 @@
  ],
  "media": [
   {
-   "title": "Agility Robotics to go public through $2.5 billion SPAC merger - Robotics & Automation News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3FrVEpKMklZNkpDeVpDbE9mMVdWZTVyN3RHaU41Sk05SjJfMkQ4YzdvOUFzNEpVbUtta0dUZnVVVm9LcEJqY0pfdU1EYjVtbXdJc1JJcHozcldiaGg0VlpwOHRTbTg5bEhMWTRMb2RXQnpfTDc3RXdCWjRyTHZPMGNCV3ZrX05oU3VpS00yVXFXWG5EclFhN29RTENncXFubFRLUjVKRWdpX2ZoMEJyRzg1S0UtdVdxRnc?oc=5",
+   "title": "Cartesian Growth Corp IV (CGCFU) closes $275M SPAC IPO, funds trust for future merger - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkFsU1MzVkgtTnhDZGFXSV9PcE1XVEJzUnVDeW9PVFA3WGtLOWkyWnJtLUQtYjhEbmZZOUp6MXNSVDhSNTBWSHJsbDRCd0dBRmdJM1ZsSDVERkdabXoxWHYtRlVQYmYtanBLaTdBNzI4cjlBQXNMWDc5b3RTZnNBc2ZqQm5ENXRqd0s3ZFczWTJUSXhsVkYtX1JrMmo2UDhmVlNITVhMRHdYQzExMTBfcWlVREw?oc=5",
+   "published": "2026-07-08",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "newcleo files registration for Nasdaq listing via SPAC merger - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHY4YWEyRUUtb1FDY3BmUkdta1pHWGNoeDFPLVBOWjhuMVB2WFhhMEpOeWk4OW14Sk0xNnBnbG04RUp0M2tnN0lWSDlkSFQyUFlaV0V6Rnh0N2s5dk5kb1ZDR3pTNnpqLVk0aXFYTFBxaTUxdC1yMG45dVRlXzlJOEdtemJoUW1oNUFOM3Vfc0luSm5BaG5ucEVaVVlncEFCeG9TNHZXUERVM0hma1dQRHBfR2FtcFBvd1E?oc=5",
    "published": "2026-07-07",
-   "source": "Robotics & Automation News"
+   "source": "Investing.com"
   },
   {
    "title": "How to Play SECZ Stock Now After the Securitize SPAC Merger Closed Last Week - Barchart.com",
@@ -2445,28 +2602,22 @@
    "source": "Barchart.com"
   },
   {
-   "title": "Walkers advises Securitize on US$1.25bn de-SPAC transaction - Cayman Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHdpaHFhekJBRkZOaUpDOWkyazFadURNVkNnQUs1YlNvMWpfNUNnRXJOclQ1YkJTVUZFeW9VaDFTbFpVS3NYMGVkV0dDWGdPQ3BIT3d2UTZNdEZ3LWdwNDBOMWNRcHRyQTJkUDZVN3hhMDNsM1ZVN0FZSDEwaEFOWVdtQmthMTYweEhCSlU4U1JxNElEYkJHM2JCNA?oc=5",
-   "published": "2026-07-07",
-   "source": "Cayman Finance"
-  },
-  {
-   "title": "Gores Holdings XI (GHXIU) Stock Price, News & Analysis - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sNDU0Y1lJU2F6c2hmc1l4TlRJYVBYM3JyQ3pYRjRLWmxuU1k2bnlEbE1BS0tKSHFRSU16TlRkOFpBdk5iRnhGUHRSR1FNM0QwN3RvWQ?oc=5",
+   "title": "Viking Acquisition Corp. II (VII) closes $230M SPAC IPO and funds trust - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzIxdFpMQmRPWHZNcXNOT0V5VDJJU25fOG1jak9hQVoySE1rdHctY2M3OWFXcVI2WXlybDRPcXhGZ3cwX3N1WFZiUWNBeElJaVZtRmRqLTVZVGk5TFlOZkxUd2NsRk9zUVFlRHZweVFVQzdxVDB2OFFwdVNiV1VaY1B0bW5ETXdYaVczYXlicl8xRFdLeU9GUU5HQTBqVVplZE5LZnc4aUctY0I3bFRkam9mVjY?oc=5",
    "published": "2026-07-07",
    "source": "Stock Titan"
   },
   {
-   "title": "Windrose hit with $413K judgment amid wage disputes, probe - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX1RqWkRoRHJwc1ZuY3h3eVA5YVRYYXRpNUtUaEp6ZGRDN2VqZzNnWV9HVTJCRGt2a2xnTGRxN2lQQkxVWUgtRXZKMlpPRWhUbThBeEhvV3VBNGY3WWNCUFM4QmJ6UEkzQ05xSUd5NC01ZkRlT1lOQ21BZTVybXpuZXF1OFI3X2hnc0hVWjJ6em85cmFMNWdVUzNORTMwbjNBaGViS0lPaU5QaGV0OElTNnA0empUanhKSVFXd0pIak5NdnVOS21OZTkxY0xxQTBnbzc5T1RPakJUSkNBRXd2NUhXeFVIRmRiVEgzb3pqZw?oc=5",
+   "title": "Agility Robotics to go public through $2.5 billion SPAC merger - Robotics & Automation News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3FrVEpKMklZNkpDeVpDbE9mMVdWZTVyN3RHaU41Sk05SjJfMkQ4YzdvOUFzNEpVbUtta0dUZnVVVm9LcEJqY0pfdU1EYjVtbXdJc1JJcHozcldiaGg0VlpwOHRTbTg5bEhMWTRMb2RXQnpfTDc3RXdCWjRyTHZPMGNCV3ZrX05oU3VpS00yVXFXWG5EclFhN29RTENncXFubFRLUjVKRWdpX2ZoMEJyRzg1S0UtdVdxRnc?oc=5",
    "published": "2026-07-07",
-   "source": "MSN"
+   "source": "Robotics & Automation News"
   },
   {
-   "title": "Agility Robotics announces SPAC merger to go public and expand production - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RVVVa3h5YUNBbWx0TWJmM0ZmOWpreHp5bGZnakUxWE9QTnppRHlVNWtXNkUyQ3ZaXzBKeENJXzZoTlJ5bVN3aHU3YV9mTkZqVDBMTm4zd1ZqRjEzMmJxMjFWMlBCcm9QN3UzSWtzX0RkZw?oc=5",
-   "published": "2026-07-06",
-   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+   "title": "Osprey Acquisition Sponsor III Discloses Stake at Osprey Acquisition Corp. III with 26.18% - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORWhOamU1ZDd3ZGdZRTFlamFyOTQtcExWYWVBQXFMYktXZExxUGhCTHZPMGNyN3JZd1B3R3lJRTJQXzN1V3VUMjhsbnI4Y1N0TDdIODNmSFI2WERRTzdmV0NKQ0FkSDlkYnZaQ2RQMExoR1VyVERBWm9EV2UyYzdWcmNNV3B6bmVIZjl6QkxwYVRvc2ZaMFlscjBiQlI1YTdVLXZ0cE1kQnhfMlZLenhzYjFwLWpaQjh3VDQ1aF9HR1B6RE5vU2pjZUdqeFZidDBkQWlMX2MyX04zTGJwV3pjRllRTEY?oc=5",
+   "published": "2026-07-07",
+   "source": "TradingView"
   }
  ],
  "regs": []
