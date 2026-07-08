@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T12:13:31Z",
+ "generated_at": "2026-07-08T19:14:09Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2584,6 +2584,24 @@
  ],
  "media": [
   {
+   "title": "Cantor, Adam Back\u2019s BSTR Seek New Terms for Bitcoin SPAC Merger - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnVwZzRzNDh2ZUdfYlpRT09PNVpKb0pLTWlZWXB2UFZhblpoWERpQ2FHOF9SMXcwQzRMLXE2bHczaDdTZm14S3pMSVFad01DOUFoSDV4R3lrSmJIMnVOX3pGU1daTWpQWTVreDEtTHlrRzNsQ3B0QUZTQ3JYYm5KdDlZajZLUlRYSjZlcjhZbS1IQklKTDh2WGZoXy0yb3FYOG9PaTFfaGk0X1VZM3NXTkNwNA?oc=5",
+   "published": "2026-07-08",
+   "source": "Bloomberg"
+  },
+  {
+   "title": "Adam Back's BSTR and Cantor to revise SPAC merger structure - CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVBWQXg2VkNrb1pqRGpCdU1Udkh1aGp2azFoamhUYnJpUkRzOWlDaWdYcXcxTWQ0N2pvWWNrOTU4VnNFREhlOGxIOGdzeWR0SzRDbVJMS3NKRlpkVjVzeVZPYkxTV0p6R0hQX3BrNExiRDUzR1VSOVJZNjY4Z28xNjRyRDByV0FZZkFfcy0wa05uZzdFZU5hOGY5ZTBLQk9JSkRkNg?oc=5",
+   "published": "2026-07-08",
+   "source": "CoinDesk"
+  },
+  {
+   "title": "Adam Back\u2019s Bitcoin treasury company seeks new terms with Cantor for SPAC merger - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSzRnWUpLVGp3NkxlYnN4bFNFYXRJSDJUOXFBT3luY0dPa0hwS1hkQUhwbkQyTTBiWVh0YUhvS1NxMTFpTEV1YnpOdENwanNVTzJtbklnY1k3V1dxanVKVk9SUkIwQjR1LUNkRzFkRUJSZk1lUk1ndEJhUkZGM1JMNkxSQ3NQdGExYVFpLUtzdmFIRkZzMWtGT2ViTDdlbDRabUNRUXJIRjhsTlg1QjZ0a3BxWW1HQm0tVk5fNGhUcWhLTzNYN0o5QjhPd0dFTXNKeFlRU21IV2NiSkZ5?oc=5",
+   "published": "2026-07-08",
+   "source": "TradingView"
+  },
+  {
    "title": "Cartesian Growth Corp IV (CGCFU) closes $275M SPAC IPO, funds trust for future merger - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkFsU1MzVkgtTnhDZGFXSV9PcE1XVEJzUnVDeW9PVFA3WGtLOWkyWnJtLUQtYjhEbmZZOUp6MXNSVDhSNTBWSHJsbDRCd0dBRmdJM1ZsSDVERkdabXoxWHYtRlVQYmYtanBLaTdBNzI4cjlBQXNMWDc5b3RTZnNBc2ZqQm5ENXRqd0s3ZFczWTJUSXhsVkYtX1JrMmo2UDhmVlNITVhMRHdYQzExMTBfcWlVREw?oc=5",
    "published": "2026-07-08",
@@ -2600,24 +2618,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDZZaU9PQ2JFV1RGZXZJZWkyRTViWFhMdVhIb2VCS3pxSUc4b3dBT0FSUUEwUnVCaHRPbDd0Mi1NQlBKWGc4dFpPcFp4dk5ZUUtyZkRyYzBIcmFrelNhbjh2YVJNTnFOUDdsZDlSVy1qa3lxOXZmQk5RZG9KSzJDMTlGX0JJSVM5X3NfUlYyaDNSV3Zsa2hYOHhNcEFkLWFHQmczVmVsZ0lTMlQwdmk4dXZja3BUYWplWUxKeg?oc=5",
    "published": "2026-07-06",
    "source": "Barchart.com"
-  },
-  {
-   "title": "Viking Acquisition Corp. II (VII) closes $230M SPAC IPO and funds trust - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzIxdFpMQmRPWHZNcXNOT0V5VDJJU25fOG1jak9hQVoySE1rdHctY2M3OWFXcVI2WXlybDRPcXhGZ3cwX3N1WFZiUWNBeElJaVZtRmRqLTVZVGk5TFlOZkxUd2NsRk9zUVFlRHZweVFVQzdxVDB2OFFwdVNiV1VaY1B0bW5ETXdYaVczYXlicl8xRFdLeU9GUU5HQTBqVVplZE5LZnc4aUctY0I3bFRkam9mVjY?oc=5",
-   "published": "2026-07-07",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Agility Robotics to go public through $2.5 billion SPAC merger - Robotics & Automation News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3FrVEpKMklZNkpDeVpDbE9mMVdWZTVyN3RHaU41Sk05SjJfMkQ4YzdvOUFzNEpVbUtta0dUZnVVVm9LcEJqY0pfdU1EYjVtbXdJc1JJcHozcldiaGg0VlpwOHRTbTg5bEhMWTRMb2RXQnpfTDc3RXdCWjRyTHZPMGNCV3ZrX05oU3VpS00yVXFXWG5EclFhN29RTENncXFubFRLUjVKRWdpX2ZoMEJyRzg1S0UtdVdxRnc?oc=5",
-   "published": "2026-07-07",
-   "source": "Robotics & Automation News"
-  },
-  {
-   "title": "Osprey Acquisition Sponsor III Discloses Stake at Osprey Acquisition Corp. III with 26.18% - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORWhOamU1ZDd3ZGdZRTFlamFyOTQtcExWYWVBQXFMYktXZExxUGhCTHZPMGNyN3JZd1B3R3lJRTJQXzN1V3VUMjhsbnI4Y1N0TDdIODNmSFI2WERRTzdmV0NKQ0FkSDlkYnZaQ2RQMExoR1VyVERBWm9EV2UyYzdWcmNNV3B6bmVIZjl6QkxwYVRvc2ZaMFlscjBiQlI1YTdVLXZ0cE1kQnhfMlZLenhzYjFwLWpaQjh3VDQ1aF9HR1B6RE5vU2pjZUdqeFZidDBkQWlMX2MyX04zTGJwV3pjRllRTEY?oc=5",
-   "published": "2026-07-07",
-   "source": "TradingView"
   }
  ],
  "regs": []
