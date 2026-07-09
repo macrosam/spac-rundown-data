@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-07-08T19:14:09Z",
+ "generated_at": "2026-07-09T12:45:10Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2104391",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2104391/0001213900-26-076132.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Gold Mountain Acquisition Corp.",
    "form": "S-1",
@@ -156,6 +164,14 @@
  ],
  "pricings": [
   {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2129659",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2129659/0001213900-26-076386.txt",
+   "blurb": "offering $275,000,000; $10.00/unit; focus: target businesses in the mining and critical minerals industry, we may pursue an acquisition opportunity in any business, industry, sector o (auto-extracted)"
+  },
+  {
    "company": "D. Boral ARC Acquisition I Corp.",
    "form": "424B3",
    "cik": "2065779",
@@ -286,6 +302,20 @@
  ],
  "amends": [
   {
+   "company": "AfterNext Acquisition I Corp.",
+   "form": "S-1/A",
+   "cik": "2087035",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2087035/0001493152-26-032427.txt"
+  },
+  {
+   "company": "Samos Energy Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2125567",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2125567/0001213900-26-076151.txt"
+  },
+  {
    "company": "Mercator Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2106436",
@@ -398,6 +428,53 @@
   }
  ],
  "mergers": [
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "425",
+   "cik": "2065779",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2065779/0001829126-26-007392.txt",
+   "blurb": "business combination with Exascale (auto-extracted)"
+  },
+  {
+   "company": "Quetta Acquisition Corp",
+   "form": "425",
+   "cik": "1978528",
+   "filed": "2026-07-08",
+   "path": "edgar/data/1978528/0001493152-26-032497.txt",
+   "blurb": "business combination with Quetta Acquisition Corp. (auto-extracted)"
+  },
+  {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "425",
+   "cik": "2074850",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2074850/0001104659-26-081828.txt"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2128045/0001213900-26-076443.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2052161/0001213900-26-076453.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. III",
+   "form": "DEFM14A",
+   "cik": "2012318",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2012318/0001213900-26-076450.txt",
+   "blurb": "business-combination vote (auto-extracted)"
+  },
   {
    "company": "Spring Valley Acquisition Corp. III",
    "form": "425",
@@ -1581,6 +1658,38 @@
  ],
  "votes": [
   {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2128045/0001213900-26-076443.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Chi Special Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1858007",
+   "filed": "2026-07-08",
+   "path": "edgar/data/1858007/0001213900-26-076109.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "COLLECTIVE ACQUISITION CORP.",
+   "form": "DEF 14A",
+   "cik": "2041047",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2041047/0001213900-26-076395.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Embrace Change Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1869601",
+   "filed": "2026-07-08",
+   "path": "edgar/data/1869601/0001493152-26-032548.txt",
+   "blurb": "meeting August 11, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Osprey Acquisition Corp. III",
    "form": "8-K",
    "cik": "2113481",
@@ -2063,6 +2172,14 @@
  ],
  "pipes": [
   {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2128045/0001213900-26-076443.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Launch One Acquisition Corp.",
    "form": "8-K",
    "cik": "2015502",
@@ -2249,6 +2366,30 @@
  ],
  "sponsors": [
   {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2128045/0001213900-26-076443.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Chi Special Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1858007",
+   "filed": "2026-07-08",
+   "path": "edgar/data/1858007/0001213900-26-076109.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2052161/0001213900-26-076453.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Four Leaf Acquisition Corp",
    "form": "8-K",
    "cik": "1936255",
@@ -2410,6 +2551,21 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Mercator Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2106436",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2106436/0001213900-26-076260.txt"
+  },
+  {
+   "company": "Real Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052161",
+   "filed": "2026-07-08",
+   "path": "edgar/data/2052161/0001213900-26-076453.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Freedom Metals Acquisition Corp.",
    "form": "8-A12B",
@@ -2584,10 +2740,22 @@
  ],
  "media": [
   {
-   "title": "Cantor, Adam Back\u2019s BSTR Seek New Terms for Bitcoin SPAC Merger - Bloomberg",
+   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - Investopedia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHBlYUdpM1V0QVlNdF81dm5QazVqNUpIdEdSMzdvejJrVGYtazlpSVdPMWxwSzNSa0dhb0w5MUx0LU8zQ2k1RXNSLU9xN09QTjZWWnYzRFdRTGowb0VzSEx3eUdhcC1samktZVh2bnJjYU5RV1JzZ1QwWFhxT05zQjEwNXFZaDBiSVdxNElRUlN0SmpRN2JMajZHaDJvckdMRkJFcUFyanVPMnFnVW1DN3RrbEdOTjRoenFFX1V0dU9RU3dHWXlBR1lJajRoUQ?oc=5",
+   "published": "2026-07-08",
+   "source": "Investopedia"
+  },
+  {
+   "title": "Columbus Circle Capital Prices A $200 Million SPAC IPO - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnI5YTRiQXZqZ2lTYnl1QmhITTlVcmVaXzV0aFUzTjF3T3VvZjVEazZvN0I0cFJuSklUN3R5Z3FMVnRPNHJGY1RDZGlZd2hUT0ZLQ0RxRUltRXg0dWYxY3otczNOUGJMMWFBUFhVdERRYXpvSFJnRHU3ZUx5RWJGWVhLcjROalNQNHc?oc=5",
+   "published": "2026-07-09",
+   "source": "Finimize"
+  },
+  {
+   "title": "Cantor, Adam Back\u2019s BSTR Seek New Terms for Bitcoin SPAC Merger - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnVwZzRzNDh2ZUdfYlpRT09PNVpKb0pLTWlZWXB2UFZhblpoWERpQ2FHOF9SMXcwQzRMLXE2bHczaDdTZm14S3pMSVFad01DOUFoSDV4R3lrSmJIMnVOX3pGU1daTWpQWTVreDEtTHlrRzNsQ3B0QUZTQ3JYYm5KdDlZajZLUlRYSjZlcjhZbS1IQklKTDh2WGZoXy0yb3FYOG9PaTFfaGk0X1VZM3NXTkNwNA?oc=5",
    "published": "2026-07-08",
-   "source": "Bloomberg"
+   "source": "Bloomberg.com"
   },
   {
    "title": "Adam Back's BSTR and Cantor to revise SPAC merger structure - CoinDesk",
@@ -2596,28 +2764,16 @@
    "source": "CoinDesk"
   },
   {
-   "title": "Adam Back\u2019s Bitcoin treasury company seeks new terms with Cantor for SPAC merger - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSzRnWUpLVGp3NkxlYnN4bFNFYXRJSDJUOXFBT3luY0dPa0hwS1hkQUhwbkQyTTBiWVh0YUhvS1NxMTFpTEV1YnpOdENwanNVTzJtbklnY1k3V1dxanVKVk9SUkIwQjR1LUNkRzFkRUJSZk1lUk1ndEJhUkZGM1JMNkxSQ3NQdGExYVFpLUtzdmFIRkZzMWtGT2ViTDdlbDRabUNRUXJIRjhsTlg1QjZ0a3BxWW1HQm0tVk5fNGhUcWhLTzNYN0o5QjhPd0dFTXNKeFlRU21IV2NiSkZ5?oc=5",
+   "title": "Adam Back\u2019s BSTR And Cantor Equity Partners I Scrap SPAC Merger After $1.5B Financing Fails - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaXlGWElXSktSdWtvSjdNeDRGX0k3QUdrM1UybFFjcU9RdkFEN1NwQ2ZmZXYza3JHZXJObHJTT3Zjd2M5d21tY2tURWFBZzR4dnR3dDlTZmlxLW1BaDFGWmlvWTBPNzNkUDNQbGl4dDRtYkJ4MkFJTWFXNWI5UTVJZXNJWTBwS1hKTWZhWWZEeHdJOWpCMHpuZ0M2S20yWTRvd3VtWVVBN2Zmck9LM25lZU4yWEltYkYwLUZDMlo3SU8zOWx3emR2SE44Q2FLNkZpdHFGNVN5UlNDWGdINF9PVDRGQUNZWTh1ekE?oc=5",
    "published": "2026-07-08",
-   "source": "TradingView"
+   "source": "NewsCord"
   },
   {
-   "title": "Cartesian Growth Corp IV (CGCFU) closes $275M SPAC IPO, funds trust for future merger - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkFsU1MzVkgtTnhDZGFXSV9PcE1XVEJzUnVDeW9PVFA3WGtLOWkyWnJtLUQtYjhEbmZZOUp6MXNSVDhSNTBWSHJsbDRCd0dBRmdJM1ZsSDVERkdabXoxWHYtRlVQYmYtanBLaTdBNzI4cjlBQXNMWDc5b3RTZnNBc2ZqQm5ENXRqd0s3ZFczWTJUSXhsVkYtX1JrMmo2UDhmVlNITVhMRHdYQzExMTBfcWlVREw?oc=5",
+   "title": "Bitcoin Standard Treasury cancels SPAC merger w... - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONU5oZXl1V3FzZ1BMSlZ2UGw4SDNpNWJsS2Zjc2JPdy03ZjN0SEhoVVN6MWktc1RZUm5iVDN4NGRhVW9HWkFUbDVSZExCYnJVOXBXUk4yWVBPeVRERF9SZkVoektWN2NvaVhxVFQwbEdRRmJ4bUVaOFA3UDFfbEptWVduMTc4SnBrRzFEUjB3SXN4UzJzSG1KN0NRcURNWGtkMlF1VW50VTEwQ3h4?oc=5",
    "published": "2026-07-08",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "newcleo files registration for Nasdaq listing via SPAC merger - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHY4YWEyRUUtb1FDY3BmUkdta1pHWGNoeDFPLVBOWjhuMVB2WFhhMEpOeWk4OW14Sk0xNnBnbG04RUp0M2tnN0lWSDlkSFQyUFlaV0V6Rnh0N2s5dk5kb1ZDR3pTNnpqLVk0aXFYTFBxaTUxdC1yMG45dVRlXzlJOEdtemJoUW1oNUFOM3Vfc0luSm5BaG5ucEVaVVlncEFCeG9TNHZXUERVM0hma1dQRHBfR2FtcFBvd1E?oc=5",
-   "published": "2026-07-07",
-   "source": "Investing.com"
-  },
-  {
-   "title": "How to Play SECZ Stock Now After the Securitize SPAC Merger Closed Last Week - Barchart.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDZZaU9PQ2JFV1RGZXZJZWkyRTViWFhMdVhIb2VCS3pxSUc4b3dBT0FSUUEwUnVCaHRPbDd0Mi1NQlBKWGc4dFpPcFp4dk5ZUUtyZkRyYzBIcmFrelNhbjh2YVJNTnFOUDdsZDlSVy1qa3lxOXZmQk5RZG9KSzJDMTlGX0JJSVM5X3NfUlYyaDNSV3Zsa2hYOHhNcEFkLWFHQmczVmVsZ0lTMlQwdmk4dXZja3BUYWplWUxKeg?oc=5",
-   "published": "2026-07-06",
-   "source": "Barchart.com"
+   "source": "Pluang"
   }
  ],
  "regs": []
