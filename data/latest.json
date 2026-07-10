@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T12:36:32Z",
+ "generated_at": "2026-07-10T19:14:39Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2842,16 +2842,16 @@
  ],
  "media": [
   {
-   "title": "Cancer Blood Screen Company\u2019s SPAC Merger Is Delayed by Test\u2019s Results - Barron's",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWUZIT0t2dkY3bVpmeU1JQ0FOWDVpVE9zT3VLMkJrN080SmZoYktuaG5xb2pyWmo5cm9ydmlnbmxkaWdGTTBDUUZ4VjVfQ3BXN3pmSjVZNnRWT3lIVDVUQThsS1BKNHJNTDh4eVNrTVdBSW1MeHJpbld6bTFaRFU?oc=5",
-   "published": "2026-07-09",
-   "source": "Barron's"
-  },
-  {
    "title": "RF Acquisition III to Combine With HCC Healthcare in $500 Million SPAC Merger; Holders Locked Up - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1BSMlNlT1lYNzNibnpMWk1aQUNHT25DMUFkWktqUjRrUFdYVFJPaWN4OVVjVHpxREh2Umd5UEFyN2w5LWF3N3J4ck85M2VIeE9udTNkVXZwcXBlNUF0aVUxYUZ2eWpJN2pETTBkdEVxS1ZfVTNUTkg0dTRSUkdNWEZIS0c5SWVxUnBOaUtOWHVGcS1RYlo0dWJ0U1haU01TS0ViLWNobjRjUTZITFk0QzhBMDhOeEl0b1J0NGRJNEFxQWJxRzVYSTdBQ3BkTV93bkFnd1o1TTNINTNicExWT2s1UVhQdWNxLTZQZQ?oc=5",
    "published": "2026-07-10",
    "source": "TradingView"
+  },
+  {
+   "title": "Cancer Blood Screen Company\u2019s SPAC Merger Is Delayed by Test\u2019s Results - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWUZIT0t2dkY3bVpmeU1JQ0FOWDVpVE9zT3VLMkJrN080SmZoYktuaG5xb2pyWmo5cm9ydmlnbmxkaWdGTTBDUUZ4VjVfQ3BXN3pmSjVZNnRWT3lIVDVUQThsS1BKNHJNTDh4eVNrTVdBSW1MeHJpbld6bTFaRFU?oc=5",
+   "published": "2026-07-09",
+   "source": "Barron's"
   },
   {
    "title": "Freedom Metals Acquisition Corp. (FDMMU) raises $275M in SPAC IPO and funds trust - Stock Titan",
@@ -2860,16 +2860,16 @@
    "source": "Stock Titan"
   },
   {
-   "title": "HCC Healthcare to go public via $500M SPAC merger with RF Acquisition - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHVmdGtNb2tOMEtVcFNoSVFsYUl2MlVKT0M4OHZUc1JKT09jTmNxVGg2R3ZEWGpzVjQ4elNHcjlPTnB4RmF3OHUtaU51TzdNaDRDbmpHdTU1NHRVQ1d4NEFlc1JpbjBTQmFLT3hkRGtpdWhyQWVnYUdXT0hkTFlJbmxqRk1RWTlLbHNaRU1LSWNSeDVDSy04VFZkMjk1V201QWpGOTMwM2FQaG03VnVoMDVIeVBPd0xFV3pxcVAtOW05SUE?oc=5",
-   "published": "2026-07-09",
-   "source": "Investing.com"
+   "title": "General Fusion completes SPAC merger, to trade on Nasdaq By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmFlTzhUNGNldDhBMXZ1ZnJCR3htWlJLYi1pX19NcTVad1E1bXl4ejh6cDVQYktUX0ZfUk1fQm0yMm1URTdJYmEzV3ItWlBucVFPc3QxT3lqYnRXcVZsWmhqQXlLcXVUWHlqZV9qTjFVb011WnRDR2lhTzdqQU4wZy1XSkdnMHZGQ0JLNnJuRERVS0NOUGp4TjVnVzh1MzdEOFpHTGtDemxJVGpOckt0SXhSOHExOEk?oc=5",
+   "published": "2026-07-10",
+   "source": "Investing.com Canada"
   },
   {
-   "title": "Cantor, Adam Back\u2019s BSTR Seek New Terms for Bitcoin SPAC Merger - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnVwZzRzNDh2ZUdfYlpRT09PNVpKb0pLTWlZWXB2UFZhblpoWERpQ2FHOF9SMXcwQzRMLXE2bHczaDdTZm14S3pMSVFad01DOUFoSDV4R3lrSmJIMnVOX3pGU1daTWpQWTVreDEtTHlrRzNsQ3B0QUZTQ3JYYm5KdDlZajZLUlRYSjZlcjhZbS1IQklKTDh2WGZoXy0yb3FYOG9PaTFfaGk0X1VZM3NXTkNwNA?oc=5",
-   "published": "2026-07-08",
-   "source": "Bloomberg.com"
+   "title": "Cancer Blood Screen SPAC's Merger Is Delayed by Test's Results -- Barrons.com - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkxobFRqNk03aVpJN1dyR1ZSNFV0RUxfdjlCWm5QRFl0TlNnamo3LXhiS0REa3RaQmx1UzlvN1FTYTNTT0ZLT2FFMmF5RzZwUWdIMUdLcXpjZm52Mjc0bWxncVNONmczNzNzSjluc21QN244ay04RnVvRDc5MDlZaUllVHh5bTJmbVM3bzBmV3E2TEY5cklzMF9HREk2N2hpMmZVc01sMVYydDZ3UktENmFKQlJiaC1GNHhhd1VkNEdqR2dhRDVpQQ?oc=5",
+   "published": "2026-07-09",
+   "source": "Moomoo"
   },
   {
    "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - Investopedia",
