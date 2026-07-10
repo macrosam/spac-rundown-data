@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-07-09T19:15:21Z",
+ "generated_at": "2026-07-10T12:36:32Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "S-1",
+   "cik": "2133239",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2133239/0001929980-26-000317.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Catalyst Acquisition Corp.",
    "form": "S-1",
@@ -302,6 +310,22 @@
  ],
  "amends": [
   {
+   "company": "BOA Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2080216",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2080216/0001193125-26-299584.txt",
+   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2137679",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2137679/0001829126-26-007426.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "AfterNext Acquisition I Corp.",
    "form": "S-1/A",
    "cik": "2087035",
@@ -428,6 +452,21 @@
   }
  ],
  "mergers": [
+  {
+   "company": "RF Acquisition Corp III",
+   "form": "425",
+   "cik": "2091712",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2091712/0001829126-26-007473.txt"
+  },
+  {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2129659",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2129659/0001213900-26-076724.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "D. Boral ARC Acquisition I Corp.",
    "form": "425",
@@ -1658,6 +1697,30 @@
  ],
  "votes": [
   {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2129659",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2129659/0001213900-26-076724.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Lakeshore Acquisition III Corp.",
+   "form": "DEFA14A",
+   "cik": "2049248",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2049248/0001929980-26-000319.txt",
+   "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "DEFA14A",
+   "cik": "2030482",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2030482/0001213900-26-076795.txt",
+   "blurb": "meeting July 10, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-K",
    "cik": "2128045",
@@ -2172,6 +2235,14 @@
  ],
  "pipes": [
   {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2129659",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2129659/0001213900-26-076724.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-K",
    "cik": "2128045",
@@ -2366,6 +2437,22 @@
  ],
  "sponsors": [
   {
+   "company": "EQV Ventures Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2042902",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2042902/0001213900-26-076713.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Freedom Metals Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2129659",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2129659/0001213900-26-076724.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-K",
    "cik": "2128045",
@@ -2551,6 +2638,21 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Samos Energy Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2125567",
+   "filed": "2026-07-09",
+   "path": "edgar/data/2125567/0001213900-26-076593.txt"
+  },
+  {
+   "company": "Bayview Acquisition Corp",
+   "form": "8-K",
+   "cik": "1969475",
+   "filed": "2026-07-09",
+   "path": "edgar/data/1969475/0001493152-26-032688.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Mercator Acquisition Corp.",
    "form": "8-A12B",
@@ -2740,10 +2842,28 @@
  ],
  "media": [
   {
-   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHBlYUdpM1V0QVlNdF81dm5QazVqNUpIdEdSMzdvejJrVGYtazlpSVdPMWxwSzNSa0dhb0w5MUx0LU8zQ2k1RXNSLU9xN09QTjZWWnYzRFdRTGowb0VzSEx3eUdhcC1samktZVh2bnJjYU5RV1JzZ1QwWFhxT05zQjEwNXFZaDBiSVdxNElRUlN0SmpRN2JMajZHaDJvckdMRkJFcUFyanVPMnFnVW1DN3RrbEdOTjRoenFFX1V0dU9RU3dHWXlBR1lJajRoUQ?oc=5",
-   "published": "2026-07-08",
-   "source": "Investopedia"
+   "title": "Cancer Blood Screen Company\u2019s SPAC Merger Is Delayed by Test\u2019s Results - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWUZIT0t2dkY3bVpmeU1JQ0FOWDVpVE9zT3VLMkJrN080SmZoYktuaG5xb2pyWmo5cm9ydmlnbmxkaWdGTTBDUUZ4VjVfQ3BXN3pmSjVZNnRWT3lIVDVUQThsS1BKNHJNTDh4eVNrTVdBSW1MeHJpbld6bTFaRFU?oc=5",
+   "published": "2026-07-09",
+   "source": "Barron's"
+  },
+  {
+   "title": "RF Acquisition III to Combine With HCC Healthcare in $500 Million SPAC Merger; Holders Locked Up - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1BSMlNlT1lYNzNibnpMWk1aQUNHT25DMUFkWktqUjRrUFdYVFJPaWN4OVVjVHpxREh2Umd5UEFyN2w5LWF3N3J4ck85M2VIeE9udTNkVXZwcXBlNUF0aVUxYUZ2eWpJN2pETTBkdEVxS1ZfVTNUTkg0dTRSUkdNWEZIS0c5SWVxUnBOaUtOWHVGcS1RYlo0dWJ0U1haU01TS0ViLWNobjRjUTZITFk0QzhBMDhOeEl0b1J0NGRJNEFxQWJxRzVYSTdBQ3BkTV93bkFnd1o1TTNINTNicExWT2s1UVhQdWNxLTZQZQ?oc=5",
+   "published": "2026-07-10",
+   "source": "TradingView"
+  },
+  {
+   "title": "Freedom Metals Acquisition Corp. (FDMMU) raises $275M in SPAC IPO and funds trust - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjRTMVRwMktySnlsSmtvV1Zjd3o1VTU5YVhjNGY4QmFEVHo4RllwNGFFcUdGVVBLWUVhYm5CYUFFb3AwQ0F3dURHTjM0NEtmN3RLY2VvZ2M3LThjQVlvWV9LcTM2TnUycXRUZHRuTjU4ZGhRM0VuRGl0Y2hzN3ZETHVuUDRkV090dGJsR2hXVVc2czdGMUtsMWtqQWQtd2VsczU0d3U1YWppNm5MaTdwV0NGdEh1cU5LMk50SWxn?oc=5",
+   "published": "2026-07-10",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "HCC Healthcare to go public via $500M SPAC merger with RF Acquisition - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHVmdGtNb2tOMEtVcFNoSVFsYUl2MlVKT0M4OHZUc1JKT09jTmNxVGg2R3ZEWGpzVjQ4elNHcjlPTnB4RmF3OHUtaU51TzdNaDRDbmpHdTU1NHRVQ1d4NEFlc1JpbjBTQmFLT3hkRGtpdWhyQWVnYUdXT0hkTFlJbmxqRk1RWTlLbHNaRU1LSWNSeDVDSy04VFZkMjk1V201QWpGOTMwM2FQaG03VnVoMDVIeVBPd0xFV3pxcVAtOW05SUE?oc=5",
+   "published": "2026-07-09",
+   "source": "Investing.com"
   },
   {
    "title": "Cantor, Adam Back\u2019s BSTR Seek New Terms for Bitcoin SPAC Merger - Bloomberg.com",
@@ -2752,28 +2872,10 @@
    "source": "Bloomberg.com"
   },
   {
-   "title": "Columbus Circle Capital Prices A $200 Million SPAC IPO - Finimize",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnI5YTRiQXZqZ2lTYnl1QmhITTlVcmVaXzV0aFUzTjF3T3VvZjVEazZvN0I0cFJuSklUN3R5Z3FMVnRPNHJGY1RDZGlZd2hUT0ZLQ0RxRUltRXg0dWYxY3otczNOUGJMMWFBUFhVdERRYXpvSFJnRHU3ZUx5RWJGWVhLcjROalNQNHc?oc=5",
-   "published": "2026-07-09",
-   "source": "Finimize"
-  },
-  {
-   "title": "Adam Back's BSTR and Cantor to revise SPAC merger structure - CoinDesk",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVBWQXg2VkNrb1pqRGpCdU1Udkh1aGp2azFoamhUYnJpUkRzOWlDaWdYcXcxTWQ0N2pvWWNrOTU4VnNFREhlOGxIOGdzeWR0SzRDbVJMS3NKRlpkVjVzeVZPYkxTV0p6R0hQX3BrNExiRDUzR1VSOVJZNjY4Z28xNjRyRDByV0FZZkFfcy0wa05uZzdFZU5hOGY5ZTBLQk9JSkRkNg?oc=5",
+   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - Investopedia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHBlYUdpM1V0QVlNdF81dm5QazVqNUpIdEdSMzdvejJrVGYtazlpSVdPMWxwSzNSa0dhb0w5MUx0LU8zQ2k1RXNSLU9xN09QTjZWWnYzRFdRTGowb0VzSEx3eUdhcC1samktZVh2bnJjYU5RV1JzZ1QwWFhxT05zQjEwNXFZaDBiSVdxNElRUlN0SmpRN2JMajZHaDJvckdMRkJFcUFyanVPMnFnVW1DN3RrbEdOTjRoenFFX1V0dU9RU3dHWXlBR1lJajRoUQ?oc=5",
    "published": "2026-07-08",
-   "source": "CoinDesk"
-  },
-  {
-   "title": "Adam Back\u2019s BSTR And Cantor Equity Partners I Scrap SPAC Merger After $1.5B Financing Fails - NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaXlGWElXSktSdWtvSjdNeDRGX0k3QUdrM1UybFFjcU9RdkFEN1NwQ2ZmZXYza3JHZXJObHJTT3Zjd2M5d21tY2tURWFBZzR4dnR3dDlTZmlxLW1BaDFGWmlvWTBPNzNkUDNQbGl4dDRtYkJ4MkFJTWFXNWI5UTVJZXNJWTBwS1hKTWZhWWZEeHdJOWpCMHpuZ0M2S20yWTRvd3VtWVVBN2Zmck9LM25lZU4yWEltYkYwLUZDMlo3SU8zOWx3emR2SE44Q2FLNkZpdHFGNVN5UlNDWGdINF9PVDRGQUNZWTh1ekE?oc=5",
-   "published": "2026-07-08",
-   "source": "NewsCord"
-  },
-  {
-   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbm9CNlB3NHRwSVBLQWxkdkpOaDRmcnRfZHltTWtjWHZ1Z0dnaTBsVGpBYm16eFVaTVRVNVE3dU85OERlWmszWnQ4VTA1eE5wRHZ5dGl1T21XSHFKMWtYb284NVRjZ1I2YnRxMW52UENoeGUzeUpNLVZGdV80N0NxZ0dEVEZEdVZz?oc=5",
-   "published": "2026-07-09",
-   "source": "AOL.com"
+   "source": "Investopedia"
   }
  ],
  "regs": []
