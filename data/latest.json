@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T19:14:39Z",
+ "generated_at": "2026-07-13T12:38:54Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -172,6 +172,14 @@
  ],
  "pricings": [
   {
+   "company": "Mercator Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2106436",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2106436/0001213900-26-076921.txt",
+   "blurb": "offering $150,000,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Freedom Metals Acquisition Corp.",
    "form": "424B4",
    "cik": "2129659",
@@ -310,6 +318,22 @@
  ],
  "amends": [
   {
+   "company": "Market Technology Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2133136",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2133136/0001213900-26-076891.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Pelican Acquisition II Corp",
+   "form": "S-1/A",
+   "cik": "2122392",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2122392/0001829126-26-007507.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: target businesses within the technology industry globally (auto-extracted)"
+  },
+  {
    "company": "BOA Acquisition Corp. II",
    "form": "S-1/A",
    "cik": "2080216",
@@ -417,41 +441,62 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2096755/0001213900-26-066790.txt",
    "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Alpex Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2125551",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2125551/0001213900-26-065805.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "East West Ave Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2100704",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2100704/0001493152-26-027546.txt",
-   "blurb": "offering $622,500; 1,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "JAB Acquisition Corp I",
-   "form": "S-1/A",
-   "cik": "2128739",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2128739/0001213900-26-065480.txt",
-   "blurb": "offering $2,600,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "JAB Acquisition Corp I",
-   "form": "S-1/A",
-   "cik": "2128739",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2128739/0001213900-26-065763.txt",
-   "blurb": "offering $2,600,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-07-10",
+   "path": "edgar/data/1834032/0001213900-26-076813.txt",
+   "blurb": "business combination with Constellation Acquisition Corp I (auto-extracted)"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "425",
+   "cik": "2000410",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2000410/0001213900-26-076817.txt"
+  },
+  {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "425",
+   "cik": "2030482",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2030482/0001213900-26-077229.txt"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2000410/0001213900-26-076814.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "8-K",
+   "cik": "2030482",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2030482/0001213900-26-077224.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "RF Acquisition Corp III",
+   "form": "8-K",
+   "cik": "2091712",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2091712/0001829126-26-007475.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "S-4/A",
+   "cik": "1882198",
+   "filed": "2026-07-10",
+   "path": "edgar/data/1882198/0001213900-26-076841.txt"
+  },
   {
    "company": "RF Acquisition Corp III",
    "form": "425",
@@ -1654,48 +1699,25 @@
    "filed": "2026-06-08",
    "path": "edgar/data/2074850/0001104659-26-071408.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "FACT II Acquisition Corp.",
-   "form": "425",
-   "cik": "2028935",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2028935/0001213900-26-065794.txt",
-   "blurb": "business combination with FACT II Acquisition Corp. (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2074850/0001104659-26-070650.txt"
-  },
-  {
-   "company": "AmperCap Acquisition Co",
-   "form": "8-K",
-   "cik": "2101393",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2101393/0001185185-26-002358.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Tavia Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2020385",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2020385/0001213900-26-065833.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Real Asset Acquisition Corp.",
-   "form": "DEFM14A",
-   "cik": "2052161",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2052161/0001193125-26-259964.txt",
-   "blurb": "meeting June 25, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "votes": [
+  {
+   "company": "FutureTech II Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1889450",
+   "filed": "2026-07-10",
+   "path": "edgar/data/1889450/0001493152-26-032854.txt",
+   "blurb": "meeting August 13, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "PRE 14A",
+   "cik": "2028355",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2028355/0001213900-26-077177.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Freedom Metals Acquisition Corp.",
    "form": "8-K",
@@ -2183,57 +2205,17 @@
    "filed": "2026-06-08",
    "path": "edgar/data/2102771/0001213900-26-066255.txt",
    "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "AmperCap Acquisition Co",
-   "form": "8-K",
-   "cik": "2101393",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2101393/0001185185-26-002358.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Mountain Lake Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2029492",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2029492/0001213900-26-065849.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Tavia Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2020385",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2020385/0001213900-26-065833.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Centurion Acquisition Corp.",
-   "form": "DEFA14A",
-   "cik": "2010930",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2010930/0001213900-26-065682.txt",
-   "blurb": "meeting June 9, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Four Leaf Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1936255",
-   "filed": "2026-06-05",
-   "path": "edgar/data/1936255/0001213900-26-065821.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Plum Acquisition Corp, IV",
-   "form": "PRE 14A",
-   "cik": "2030482",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2030482/0001213900-26-065904.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2000410/0001213900-26-076814.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Freedom Metals Acquisition Corp.",
    "form": "8-K",
@@ -2424,14 +2406,6 @@
    "cik": "2102771",
    "filed": "2026-06-08",
    "path": "edgar/data/2102771/0001213900-26-066255.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "AmperCap Acquisition Co",
-   "form": "8-K",
-   "cik": "2101393",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2101393/0001185185-26-002358.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
@@ -2627,17 +2601,23 @@
    "filed": "2026-06-08",
    "path": "edgar/data/2102771/0001213900-26-066255.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "AmperCap Acquisition Co",
-   "form": "8-K",
-   "cik": "2101393",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2101393/0001185185-26-002358.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "25-NSE",
+   "cik": "1901336",
+   "filed": "2026-07-10",
+   "path": "edgar/data/1901336/0001354457-26-000663.txt"
+  },
+  {
+   "company": "Spring Valley Acquisition Corp. III",
+   "form": "25-NSE",
+   "cik": "2074850",
+   "filed": "2026-07-10",
+   "path": "edgar/data/2074850/0001354457-26-000666.txt"
+  },
   {
    "company": "Samos Energy Acquisition Corp",
    "form": "8-A12B",
@@ -2830,52 +2810,44 @@
    "cik": "2123475",
    "filed": "2026-06-08",
    "path": "edgar/data/2123475/0001213900-26-066191.txt"
-  },
-  {
-   "company": "Ribbon Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2035016",
-   "filed": "2026-06-05",
-   "path": "edgar/data/2035016/0001213900-26-065883.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "RF Acquisition III to Combine With HCC Healthcare in $500 Million SPAC Merger; Holders Locked Up - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1BSMlNlT1lYNzNibnpMWk1aQUNHT25DMUFkWktqUjRrUFdYVFJPaWN4OVVjVHpxREh2Umd5UEFyN2w5LWF3N3J4ck85M2VIeE9udTNkVXZwcXBlNUF0aVUxYUZ2eWpJN2pETTBkdEVxS1ZfVTNUTkg0dTRSUkdNWEZIS0c5SWVxUnBOaUtOWHVGcS1RYlo0dWJ0U1haU01TS0ViLWNobjRjUTZITFk0QzhBMDhOeEl0b1J0NGRJNEFxQWJxRzVYSTdBQ3BkTV93bkFnd1o1TTNINTNicExWT2s1UVhQdWNxLTZQZQ?oc=5",
-   "published": "2026-07-10",
+   "title": "General Fusion goes public in $1B SPAC deal amid fusion race - MSN",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmMxd0ZsY1NUekFzWUpyMWVvY2JjbU9STEdGMEpxdmYxbmllUmU5b0N3bXl2VDNWclRoOTdwbzE0dk9RdkRUZlhhSTQ5akdpWmxMcXo1a3RTQXZCV2NzcVBhR0RnX3djNURDV2JLcGZnbTRrd1pZZ3QwdjZVTTdzYmtHZzN5NEhrRkFzRGVIc25LNVBNQ3BNcllldHNTbnhoXzV4c05XUXlDU0ZO?oc=5",
+   "published": "2026-07-12",
+   "source": "MSN"
+  },
+  {
+   "title": "Agility Robotics Nears Public Debut: Safety Cert, S-4, and a 34x Valuation - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5",
+   "published": "2026-07-12",
+   "source": "Tech Times"
+  },
+  {
+   "title": "What Led to Yotta Acquisition Corp.'s Latest Deal Termination - Kavout | AI",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTE5rSFFadnJGdDMxTGNLN0RWNmh4YWZQLVdGakJhdEQ0ZE1MNkZ5SjdCVEZoZkl6YTlteVBka1NsazdPS3RYN2J6bkttbHJVdzgwRVd1VWROd3FidEJVemZrd1FqYjVmcE1aSlI1amJRNE9OZFFjVzYwcDZ4LWpBWXNUVlNndmktNlRMNFhrajY0dnp0NWJyN0R4WQ?oc=5",
+   "published": "2026-07-11",
+   "source": "Kavout | AI"
+  },
+  {
+   "title": "Empery Digital Sells Entire 1,400 Bitcoin Stake, Pivots to AI Data Centers - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xaTZ4Qk1vQVlxcWF2d0dWdnZ4ZmhqaHR5c0JXLVFmVTQ4TS1nX2VIMTlPY2ViMUw1RTc4dUNWR2ltNjNfSmZnSUFiS2RBRGFmTHp0VjdROGpwem9odHp5ZkpIa2Q4YTZPajhpd1c5SENBUUN2blE?oc=5",
+   "published": "2026-07-11",
+   "source": "finance.biggo.com"
+  },
+  {
+   "title": "SAMOS ENERGY ACQUISITION CORP Financial Statements \u2013 NYSE:SAMO.U - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvM2thcVNRTVRKOTAtcEF1VFlrWVZEdkloa3hHUk5TNGFJMDFJNFYzV2U4aUlpWm1VQlZ0eWZOaVZ5MW1ERU9GMml6elVCWDNDc2ZrS2NmUVBHLXpFdEtGN1JzVTZ4SDZzZGhzcS1kV0s2cHRFUDh3?oc=5",
+   "published": "2026-07-11",
    "source": "TradingView"
   },
   {
-   "title": "Cancer Blood Screen Company\u2019s SPAC Merger Is Delayed by Test\u2019s Results - Barron's",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWUZIT0t2dkY3bVpmeU1JQ0FOWDVpVE9zT3VLMkJrN080SmZoYktuaG5xb2pyWmo5cm9ydmlnbmxkaWdGTTBDUUZ4VjVfQ3BXN3pmSjVZNnRWT3lIVDVUQThsS1BKNHJNTDh4eVNrTVdBSW1MeHJpbld6bTFaRFU?oc=5",
-   "published": "2026-07-09",
-   "source": "Barron's"
-  },
-  {
-   "title": "Freedom Metals Acquisition Corp. (FDMMU) raises $275M in SPAC IPO and funds trust - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjRTMVRwMktySnlsSmtvV1Zjd3o1VTU5YVhjNGY4QmFEVHo4RllwNGFFcUdGVVBLWUVhYm5CYUFFb3AwQ0F3dURHTjM0NEtmN3RLY2VvZ2M3LThjQVlvWV9LcTM2TnUycXRUZHRuTjU4ZGhRM0VuRGl0Y2hzN3ZETHVuUDRkV090dGJsR2hXVVc2czdGMUtsMWtqQWQtd2VsczU0d3U1YWppNm5MaTdwV0NGdEh1cU5LMk50SWxn?oc=5",
-   "published": "2026-07-10",
+   "title": "VII SEC Filings - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xeFg3TnhPNnNlTS1HdkVla0VHbHNGeFBaNTVuZUc4eHNzYWZuYUZZVEhqbF9UbmdGdzRVenNKZ0g4VUNFTXoxT0lEbzNoaV9tVnlqM3hTQzh5VTlpeFpMWGZCSGI?oc=5",
+   "published": "2026-07-11",
    "source": "Stock Titan"
-  },
-  {
-   "title": "General Fusion completes SPAC merger, to trade on Nasdaq By Investing.com - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmFlTzhUNGNldDhBMXZ1ZnJCR3htWlJLYi1pX19NcTVad1E1bXl4ejh6cDVQYktUX0ZfUk1fQm0yMm1URTdJYmEzV3ItWlBucVFPc3QxT3lqYnRXcVZsWmhqQXlLcXVUWHlqZV9qTjFVb011WnRDR2lhTzdqQU4wZy1XSkdnMHZGQ0JLNnJuRERVS0NOUGp4TjVnVzh1MzdEOFpHTGtDemxJVGpOckt0SXhSOHExOEk?oc=5",
-   "published": "2026-07-10",
-   "source": "Investing.com Canada"
-  },
-  {
-   "title": "Cancer Blood Screen SPAC's Merger Is Delayed by Test's Results -- Barrons.com - Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkxobFRqNk03aVpJN1dyR1ZSNFV0RUxfdjlCWm5QRFl0TlNnamo3LXhiS0REa3RaQmx1UzlvN1FTYTNTT0ZLT2FFMmF5RzZwUWdIMUdLcXpjZm52Mjc0bWxncVNONmczNzNzSjluc21QN244ay04RnVvRDc5MDlZaUllVHh5bTJmbVM3bzBmV3E2TEY5cklzMF9HREk2N2hpMmZVc01sMVYydDZ3UktENmFKQlJiaC1GNHhhd1VkNEdqR2dhRDVpQQ?oc=5",
-   "published": "2026-07-09",
-   "source": "Moomoo"
-  },
-  {
-   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHBlYUdpM1V0QVlNdF81dm5QazVqNUpIdEdSMzdvejJrVGYtazlpSVdPMWxwSzNSa0dhb0w5MUx0LU8zQ2k1RXNSLU9xN09QTjZWWnYzRFdRTGowb0VzSEx3eUdhcC1samktZVh2bnJjYU5RV1JzZ1QwWFhxT05zQjEwNXFZaDBiSVdxNElRUlN0SmpRN2JMajZHaDJvckdMRkJFcUFyanVPMnFnVW1DN3RrbEdOTjRoenFFX1V0dU9RU3dHWXlBR1lJajRoUQ?oc=5",
-   "published": "2026-07-08",
-   "source": "Investopedia"
   }
  ],
  "regs": []
