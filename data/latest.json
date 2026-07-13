@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T12:38:54Z",
+ "generated_at": "2026-07-13T19:14:05Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2814,6 +2814,24 @@
  ],
  "media": [
   {
+   "title": "First Public Fusion Company Surges in Wall Street Trading Debut - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVVpTndxOEZYdHZMNVo2aVV2U3VvYWttSVNNWFNEWWR4dWg0azV4c0pfbjlGTVcwaFdIQlJjYzhqT3c3UENnLVRGcFhiOUZlWXdHeHUxbXRxR0gyOG1UVmF0QXQ2LXlWQ0dQdjZuVEJqSlhVQUJqSjZyMlpKR0JaNXUzRnNtUkM1Q3VwTnVodWl5b2lHOHhfaGtkOVdXTEUzbkJTU2pvVmhSd2ctb2R6QkJzNEo?oc=5",
+   "published": "2026-07-13",
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "General Fusion shares begin trading on Nasdaq after SPAC deal finalized - The Logic",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc251V1A1aXlVN0RxT2pFTFlSR2ZTOWJGSjgxVDZWakRhZDl1SWRLckhmZXZlSEo1dzZmLTZ1Y1h3dEpibk5qMUU1N3QteGp4Y1NtZElQVmJQX2puWVIwdTZ2cTI2bnlES0IwTElxZkZLTFdSMF81NjdQc1B1OEx1QjRhZmlKT2dGWktwR0xINklKb2g5cmxzeGdjeWVzck5rZng0?oc=5",
+   "published": "2026-07-13",
+   "source": "The Logic"
+  },
+  {
+   "title": "Research Alliance IV prices $75M SPAC IPO - MSN",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTZRSjFDaGVNTUlnc3NPOW0wOHN5MlFwRFcyam9TMDY3eURBY2tvcDhCYmp2R2JUMkI2UEg0cEYzYmFqZHJMXzFKbUxrVG9oSUdxMlk5Q0FCY1NTeEg0MmR6eVNFUmZtZl84Rm9rOE12VHVIa0lURkJlMWxQVUFyZFRXNlhfbkdUZjdsakhNdXdxTUt6OUFkeE1PTHFzb2V2clYydlpNRGZnbEdlMk1GTDNlSFYyY0hIQkZqSw?oc=5",
+   "published": "2026-07-13",
+   "source": "MSN"
+  },
+  {
    "title": "General Fusion goes public in $1B SPAC deal amid fusion race - MSN",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmMxd0ZsY1NUekFzWUpyMWVvY2JjbU9STEdGMEpxdmYxbmllUmU5b0N3bXl2VDNWclRoOTdwbzE0dk9RdkRUZlhhSTQ5akdpWmxMcXo1a3RTQXZCV2NzcVBhR0RnX3djNURDV2JLcGZnbTRrd1pZZ3QwdjZVTTdzYmtHZzN5NEhrRkFzRGVIc25LNVBNQ3BNcllldHNTbnhoXzV4c05XUXlDU0ZO?oc=5",
    "published": "2026-07-12",
@@ -2826,28 +2844,10 @@
    "source": "Tech Times"
   },
   {
-   "title": "What Led to Yotta Acquisition Corp.'s Latest Deal Termination - Kavout | AI",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTE5rSFFadnJGdDMxTGNLN0RWNmh4YWZQLVdGakJhdEQ0ZE1MNkZ5SjdCVEZoZkl6YTlteVBka1NsazdPS3RYN2J6bkttbHJVdzgwRVd1VWROd3FidEJVemZrd1FqYjVmcE1aSlI1amJRNE9OZFFjVzYwcDZ4LWpBWXNUVlNndmktNlRMNFhrajY0dnp0NWJyN0R4WQ?oc=5",
-   "published": "2026-07-11",
-   "source": "Kavout | AI"
-  },
-  {
-   "title": "Empery Digital Sells Entire 1,400 Bitcoin Stake, Pivots to AI Data Centers - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xaTZ4Qk1vQVlxcWF2d0dWdnZ4ZmhqaHR5c0JXLVFmVTQ4TS1nX2VIMTlPY2ViMUw1RTc4dUNWR2ltNjNfSmZnSUFiS2RBRGFmTHp0VjdROGpwem9odHp5ZkpIa2Q4YTZPajhpd1c5SENBUUN2blE?oc=5",
-   "published": "2026-07-11",
-   "source": "finance.biggo.com"
-  },
-  {
-   "title": "SAMOS ENERGY ACQUISITION CORP Financial Statements \u2013 NYSE:SAMO.U - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvM2thcVNRTVRKOTAtcEF1VFlrWVZEdkloa3hHUk5TNGFJMDFJNFYzV2U4aUlpWm1VQlZ0eWZOaVZ5MW1ERU9GMml6elVCWDNDc2ZrS2NmUVBHLXpFdEtGN1JzVTZ4SDZzZGhzcS1kV0s2cHRFUDh3?oc=5",
-   "published": "2026-07-11",
-   "source": "TradingView"
-  },
-  {
-   "title": "VII SEC Filings - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xeFg3TnhPNnNlTS1HdkVla0VHbHNGeFBaNTVuZUc4eHNzYWZuYUZZVEhqbF9UbmdGdzRVenNKZ0g4VUNFTXoxT0lEbzNoaV9tVnlqM3hTQzh5VTlpeFpMWGZCSGI?oc=5",
-   "published": "2026-07-11",
-   "source": "Stock Titan"
+   "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQVV0YVMtZnkweVRzajN6LTBFQWlTb091cFJ2TDY2dm5iSXZRR3IzdlFNc244UVJ5emZqV0tVdHNLLTZFbWZXcEtrdkpCTkprOXppTkJKTkFOenZ0UFJ6b0RhM2xmZi1Qbm1EaDkyNnZTQ3F2dFI1RHdpZVZ1dGRBUlN6WktfMTRJREcwb0FYd2ZKY2FOSkNBQnlFdFBUNlpiODhJT3FfWHRlTDkydE4tbngteXd1NE5YR2JXb1l3?oc=5",
+   "published": "2026-07-13",
+   "source": "TechCrunch"
   }
  ],
  "regs": []
