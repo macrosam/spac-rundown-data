@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T12:11:48Z",
+ "generated_at": "2026-07-14T19:13:46Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2687,10 +2687,28 @@
  ],
  "media": [
   {
+   "title": "Agility Robotics Files for SPAC Merger with Churchill Capital Corp XI - AI Insider",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5",
+   "published": "2026-07-14",
+   "source": "AI Insider"
+  },
+  {
+   "title": "Archimedes Tech SPAC Merger Partner Forge Nano Adds $23 Million PIPE Commitment - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOTliZEZtWmVjNnc1QWJSSE9FYk1LelZTbHRCbEttQ1lIWDhPMktFbWg0RnBqeGxLS2VxNlQySzA1WnpYLXFyT1dxSVN2RDJVS0ZSeXVPMFc5RFZoNkFiQk5ESi01S2pJU2xlSk83SHRQY2ZnbF93UnZGbW50MUxUclo2Wm5oSTVKT1hFUTloQy10ZzlxQ1VPRi1ZMkQ0djUzenZKM0wycXVaTE1HWHFpWjU3ZkkxWGRlN2dSck5NbXMyVmp3VlhqX1dxQQ?oc=5",
+   "published": "2026-07-14",
+   "source": "marketscreener.com"
+  },
+  {
    "title": "Tavia Acquisition (Nasdaq: TAVI) eyes Vita de-SPAC at $450M value - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYU51cVJtTGFnNURjd2dfNFBURzhuc0NsSEo1NXlXREVBVmNfa1oyenZXSkpoamloTk9pT092QTVYYUlac0tvYlRWUWFzQWViSVVKb3c1T3UzZ0hYSENVZzdXT01qeDE3Y2F2V1Q3ZDZkNXlSNy1XVHFvUDBFVmJVc2tQMFZOZnpLWDhiaGNIckw5aW5YWDdIUzNkaFUzV2V6cWJXM05rUmlyZzFRLW53aA?oc=5",
    "published": "2026-07-13",
    "source": "Stock Titan"
+  },
+  {
+   "title": "Agility Robotics files for SPAC merger with Churchill XI By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE9OeXhiNWluNEdoQXBuOHZKaEFMX1ZiZzFueVFBTnRQS2pSdDVORnFNaDBkdVJaZUpuMkJJV0psWm5oVll1WDRLTUVjVlRJQkhTN1JoLU5POEowbGc4bUZ2aFl6b19KR0NmRy1fRjlIc0UtRV9sa1ZYNUVYS19NZGxfMHQwWmk2Q3VlNkpEdjVhYW5tMVowbV9BSXU4SUt1WVZFeXBkVmdkcEFkc0Y0N0JhbTVhMnFW?oc=5",
+   "published": "2026-07-14",
+   "source": "Investing.com Canada"
   },
   {
    "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
@@ -2699,28 +2717,10 @@
    "source": "Stocktwits"
   },
   {
-   "title": "First Public Fusion Firm Jumps in Wall Street Trading Debut - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVVpTndxOEZYdHZMNVo2aVV2U3VvYWttSVNNWFNEWWR4dWg0azV4c0pfbjlGTVcwaFdIQlJjYzhqT3c3UENnLVRGcFhiOUZlWXdHeHUxbXRxR0gyOG1UVmF0QXQ2LXlWQ0dQdjZuVEJqSlhVQUJqSjZyMlpKR0JaNXUzRnNtUkM1Q3VwTnVodWl5b2lHOHhfaGtkOVdXTEUzbkJTU2pvVmhSd2ctb2R6QkJzNEo?oc=5",
-   "published": "2026-07-13",
-   "source": "Bloomberg.com"
-  },
-  {
-   "title": "General Fusion shares begin trading on Nasdaq after SPAC deal finalized - The Logic",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc251V1A1aXlVN0RxT2pFTFlSR2ZTOWJGSjgxVDZWakRhZDl1SWRLckhmZXZlSEo1dzZmLTZ1Y1h3dEpibk5qMUU1N3QteGp4Y1NtZElQVmJQX2puWVIwdTZ2cTI2bnlES0IwTElxZkZLTFdSMF81NjdQc1B1OEx1QjRhZmlKT2dGWktwR0xINklKb2g5cmxzeGdjeWVzck5rZng0?oc=5",
-   "published": "2026-07-13",
-   "source": "The Logic"
-  },
-  {
    "title": "\ud83d\ude80 WHY AGC Altimeter Growth Corp GRAB SPAC MERGER IS HOTT \ud83d\ude80 Guyana (hoZpx2UOuO) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RGZoaldkeVNlNGJKRXpzVmNRanBwMmVaZEpTNnpFTEp3eWNGUWU2SGpvTmI1Y2xFWENmaXBMUFZ2SXlqc2dyZV92YVVhdjY5aXBXbFY0WHNzUGM?oc=5",
    "published": "2026-07-14",
    "source": "Mshale"
-  },
-  {
-   "title": "Vita Inclinata targets Nasdaq listing in proposed $450M SPAC deal - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFYwXzRsS3lyME1yb3g2N3dhSVJHWW83QUoxRmxRX0pHS0RlaUxJd0ZmbTZqb2t1azdpTDJUSnE0dTBZNkFXd3h1YkZvZml0QUIzT3gzREFCeEhXcTlnOWJQemQ3NC1ST3ZJTl9MWWhFa0JqY19LaEl1cFktVjJVOUM3OU9IczdiZGF3TG1Ec0k1MFdJQXhqb0twR3NzNUJVQi1xOXltZHNuVHNJVW5mTE5ZcWgzRXNCaWw3OXJR?oc=5",
-   "published": "2026-07-13",
-   "source": "Stock Titan"
   }
  ],
  "regs": []
