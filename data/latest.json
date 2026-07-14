@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-07-13T19:14:05Z",
+ "generated_at": "2026-07-14T12:11:48Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Material Resource Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2136360",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2136360/0002136360-26-000003.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: identifying and acquiring a company involved in the global material supply chain, including companies engaged in the exploration, mining, pr (auto-extracted)"
+  },
   {
    "company": "Southern Cross Acquisition II Corp.",
    "form": "S-1",
@@ -152,22 +160,6 @@
    "filed": "2026-06-10",
    "path": "edgar/data/2111009/0001213900-26-066994.txt",
    "blurb": "offering $100,000,000; $5.00./unit; focus: industries that complement our management team s background, and to capitalize on the ability of our management team to identify and acquire (auto-extracted)"
-  },
-  {
-   "company": "AParadise II Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2114463",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2114463/0001213900-26-066301.txt",
-   "blurb": "offering $135,000,000; 13,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. V",
-   "form": "S-1",
-   "cik": "2138170",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2138170/0001213900-26-065988.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: opportunities that capitalize on the expertise and ability of our management team, particularly our executive officers, to identify, acquire (auto-extracted)"
   }
  ],
  "pricings": [
@@ -210,14 +202,6 @@
    "filed": "2026-07-07",
    "path": "edgar/data/2128045/0001213900-26-075753.txt",
    "blurb": "offering $300,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "424B4",
-   "cik": "2139246",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2139246/0001213900-26-075135.txt",
-   "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
@@ -445,6 +429,76 @@
  ],
  "mergers": [
   {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2059654/0001185185-26-002915.txt"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "425",
+   "cik": "2026767",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2026767/0001493152-26-032969.txt",
+   "blurb": "business combination with GoodVision AI Inc. (auto-extracted)"
+  },
+  {
+   "company": "Plum Acquisition Corp. III",
+   "form": "425",
+   "cik": "1845550",
+   "filed": "2026-07-13",
+   "path": "edgar/data/1845550/0001213900-26-077375.txt",
+   "blurb": "business combination with Plum (auto-extracted)"
+  },
+  {
+   "company": "Tavia Acquisition Corp.",
+   "form": "425",
+   "cik": "2020385",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2020385/0001213900-26-077648.txt",
+   "blurb": "business combination with Tavia (auto-extracted)"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2010653/0001829126-26-007528.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Launch One Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2015502",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2015502/0001213900-26-077654.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K/A",
+   "cik": "2059654",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2059654/0001185185-26-002914.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "RF Acquisition Corp II",
+   "form": "F-4/A",
+   "cik": "2012807",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2012807/0001829126-26-007519.txt",
+   "blurb": "business combination with PubCo (auto-extracted)"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2026767/0001493152-26-033041.txt"
+  },
+  {
    "company": "Constellation Acquisition Corp I",
    "form": "425",
    "cik": "1834032",
@@ -606,57 +660,6 @@
    "filed": "2026-07-07",
    "path": "edgar/data/2065779/0001829126-26-007326.txt",
    "blurb": "business-combination vote (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2074850/0001104659-26-080461.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2074850/0001104659-26-080745.txt"
-  },
-  {
-   "company": "UY Scuti Acquisition Corp.",
-   "form": "425",
-   "cik": "2036973",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2036973/0001185185-26-002812.txt"
-  },
-  {
-   "company": "Viking Acquisition Corp I",
-   "form": "425",
-   "cik": "2080023",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2080023/0001213900-26-075472.txt"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000410",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2000410/0001213900-26-075470.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "8-K",
-   "cik": "2136530",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2136530/0001104659-26-080775.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Black Hawk Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2000775",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2000775/0001829126-26-007231.txt"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -1647,61 +1650,17 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2085177/0001829126-26-006240.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
-   "form": "425",
-   "cik": "2068454",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2068454/0001829126-26-006185.txt"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102041",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2102041/0001213900-26-066032.txt"
-  },
-  {
-   "company": "New Providence Acquisition Corp. III/Cayman",
-   "form": "425",
-   "cik": "2048948",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2048948/0001213900-26-066335.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2074850/0001104659-26-071410.txt"
-  },
-  {
-   "company": "Keystone Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2102771",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2102771/0001213900-26-066255.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "New Providence Acquisition Corp. III/Cayman",
-   "form": "8-K",
-   "cik": "2048948",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2048948/0001213900-26-066354.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2074850",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2074850/0001104659-26-071408.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "Launch One Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2015502",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2015502/0001213900-26-077654.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
   {
    "company": "FutureTech II Acquisition Corp.",
    "form": "PRE 14A",
@@ -1797,46 +1756,6 @@
    "filed": "2026-07-07",
    "path": "edgar/data/2049248/0001929980-26-000315.txt",
    "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000410",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2000410/0001213900-26-075470.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "8-K",
-   "cik": "2136530",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2136530/0001104659-26-080775.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2074850",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2074850/0001104659-26-080739.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Hudson Acquisition I Corp.",
-   "form": "DEF 14A",
-   "cik": "1853047",
-   "filed": "2026-07-06",
-   "path": "edgar/data/1853047/0001096906-26-001052.txt",
-   "blurb": "meeting July 17, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Plum Acquisition Corp. III",
-   "form": "PRE 14A",
-   "cik": "1845550",
-   "filed": "2026-07-06",
-   "path": "edgar/data/1845550/0001213900-26-075579.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -2197,17 +2116,17 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2048951/0001213900-26-066867.txt",
    "blurb": "meeting June 16, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Keystone Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2102771",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2102771/0001213900-26-066255.txt",
-   "note": "8-K: charter amendment (possible extension)"
   }
  ],
  "pipes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-07-13",
+   "path": "edgar/data/2010653/0001829126-26-007528.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Eureka Acquisition Corp",
    "form": "8-K",
@@ -2254,14 +2173,6 @@
    "cik": "2139246",
    "filed": "2026-07-07",
    "path": "edgar/data/2139246/0001213900-26-076045.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "8-K",
-   "cik": "2136530",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2136530/0001104659-26-080775.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
@@ -2399,14 +2310,6 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2082526/0001493152-26-027777.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Keystone Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2102771",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2102771/0001213900-26-066255.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
@@ -2472,14 +2375,6 @@
    "cik": "2139246",
    "filed": "2026-07-07",
    "path": "edgar/data/2139246/0001213900-26-076045.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "8-K",
-   "cik": "2136530",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2136530/0001104659-26-080775.txt",
    "note": "8-K: officer/director change"
   },
   {
@@ -2593,17 +2488,16 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2035173/0001213900-26-066802.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Keystone Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2102771",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2102771/0001213900-26-066255.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Bowen Acquisition Corp",
+   "form": "25-NSE",
+   "cik": "1973056",
+   "filed": "2026-07-13",
+   "path": "edgar/data/1973056/0001354457-26-000667.txt"
+  },
   {
    "company": "Alchemy Investments Acquisition Corp 1",
    "form": "25-NSE",
@@ -2654,13 +2548,6 @@
    "cik": "2129659",
    "filed": "2026-07-07",
    "path": "edgar/data/2129659/0001213900-26-075945.txt"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "8-A12B",
-   "cik": "2128045",
-   "filed": "2026-07-06",
-   "path": "edgar/data/2128045/0001213900-26-075469.txt"
   },
   {
    "company": "Real Asset Acquisition Corp.",
@@ -2796,25 +2683,23 @@
    "filed": "2026-06-09",
    "path": "edgar/data/2000410/0001213900-26-066822.txt",
    "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-A12B",
-   "cik": "1926314",
-   "filed": "2026-06-08",
-   "path": "edgar/data/1926314/0001493152-26-027705.txt"
-  },
-  {
-   "company": "Snow Rothschild Acquisition Corp.",
-   "form": "8-A12B",
-   "cik": "2123475",
-   "filed": "2026-06-08",
-   "path": "edgar/data/2123475/0001213900-26-066191.txt"
   }
  ],
  "media": [
   {
-   "title": "First Public Fusion Company Surges in Wall Street Trading Debut - Bloomberg.com",
+   "title": "Tavia Acquisition (Nasdaq: TAVI) eyes Vita de-SPAC at $450M value - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYU51cVJtTGFnNURjd2dfNFBURzhuc0NsSEo1NXlXREVBVmNfa1oyenZXSkpoamloTk9pT092QTVYYUlac0tvYlRWUWFzQWViSVVKb3c1T3UzZ0hYSENVZzdXT01qeDE3Y2F2V1Q3ZDZkNXlSNy1XVHFvUDBFVmJVc2tQMFZOZnpLWDhiaGNIckw5aW5YWDdIUzNkaFUzV2V6cWJXM05rUmlyZzFRLW53aA?oc=5",
+   "published": "2026-07-13",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-07-14",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "First Public Fusion Firm Jumps in Wall Street Trading Debut - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVVpTndxOEZYdHZMNVo2aVV2U3VvYWttSVNNWFNEWWR4dWg0azV4c0pfbjlGTVcwaFdIQlJjYzhqT3c3UENnLVRGcFhiOUZlWXdHeHUxbXRxR0gyOG1UVmF0QXQ2LXlWQ0dQdjZuVEJqSlhVQUJqSjZyMlpKR0JaNXUzRnNtUkM1Q3VwTnVodWl5b2lHOHhfaGtkOVdXTEUzbkJTU2pvVmhSd2ctb2R6QkJzNEo?oc=5",
    "published": "2026-07-13",
    "source": "Bloomberg.com"
@@ -2826,28 +2711,16 @@
    "source": "The Logic"
   },
   {
-   "title": "Research Alliance IV prices $75M SPAC IPO - MSN",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTZRSjFDaGVNTUlnc3NPOW0wOHN5MlFwRFcyam9TMDY3eURBY2tvcDhCYmp2R2JUMkI2UEg0cEYzYmFqZHJMXzFKbUxrVG9oSUdxMlk5Q0FCY1NTeEg0MmR6eVNFUmZtZl84Rm9rOE12VHVIa0lURkJlMWxQVUFyZFRXNlhfbkdUZjdsakhNdXdxTUt6OUFkeE1PTHFzb2V2clYydlpNRGZnbEdlMk1GTDNlSFYyY0hIQkZqSw?oc=5",
+   "title": "\ud83d\ude80 WHY AGC Altimeter Growth Corp GRAB SPAC MERGER IS HOTT \ud83d\ude80 Guyana (hoZpx2UOuO) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RGZoaldkeVNlNGJKRXpzVmNRanBwMmVaZEpTNnpFTEp3eWNGUWU2SGpvTmI1Y2xFWENmaXBMUFZ2SXlqc2dyZV92YVVhdjY5aXBXbFY0WHNzUGM?oc=5",
+   "published": "2026-07-14",
+   "source": "Mshale"
+  },
+  {
+   "title": "Vita Inclinata targets Nasdaq listing in proposed $450M SPAC deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFYwXzRsS3lyME1yb3g2N3dhSVJHWW83QUoxRmxRX0pHS0RlaUxJd0ZmbTZqb2t1azdpTDJUSnE0dTBZNkFXd3h1YkZvZml0QUIzT3gzREFCeEhXcTlnOWJQemQ3NC1ST3ZJTl9MWWhFa0JqY19LaEl1cFktVjJVOUM3OU9IczdiZGF3TG1Ec0k1MFdJQXhqb0twR3NzNUJVQi1xOXltZHNuVHNJVW5mTE5ZcWgzRXNCaWw3OXJR?oc=5",
    "published": "2026-07-13",
-   "source": "MSN"
-  },
-  {
-   "title": "General Fusion goes public in $1B SPAC deal amid fusion race - MSN",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmMxd0ZsY1NUekFzWUpyMWVvY2JjbU9STEdGMEpxdmYxbmllUmU5b0N3bXl2VDNWclRoOTdwbzE0dk9RdkRUZlhhSTQ5akdpWmxMcXo1a3RTQXZCV2NzcVBhR0RnX3djNURDV2JLcGZnbTRrd1pZZ3QwdjZVTTdzYmtHZzN5NEhrRkFzRGVIc25LNVBNQ3BNcllldHNTbnhoXzV4c05XUXlDU0ZO?oc=5",
-   "published": "2026-07-12",
-   "source": "MSN"
-  },
-  {
-   "title": "Agility Robotics Nears Public Debut: Safety Cert, S-4, and a 34x Valuation - Tech Times",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5",
-   "published": "2026-07-12",
-   "source": "Tech Times"
-  },
-  {
-   "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQVV0YVMtZnkweVRzajN6LTBFQWlTb091cFJ2TDY2dm5iSXZRR3IzdlFNc244UVJ5emZqV0tVdHNLLTZFbWZXcEtrdkpCTkprOXppTkJKTkFOenZ0UFJ6b0RhM2xmZi1Qbm1EaDkyNnZTQ3F2dFI1RHdpZVZ1dGRBUlN6WktfMTRJREcwb0FYd2ZKY2FOSkNBQnlFdFBUNlpiODhJT3FfWHRlTDkydE4tbngteXd1NE5YR2JXb1l3?oc=5",
-   "published": "2026-07-13",
-   "source": "TechCrunch"
+   "source": "Stock Titan"
   }
  ],
  "regs": []
