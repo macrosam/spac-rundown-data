@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T12:12:38Z",
+ "generated_at": "2026-07-15T19:12:38Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2405,6 +2405,12 @@
    "source": "TradingView"
   },
   {
+   "title": "Agility Robotics Files for SPAC Merger with Churchill Capital Corp XI - AI Insider",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5",
+   "published": "2026-07-14",
+   "source": "AI Insider"
+  },
+  {
    "title": "Bleichroeder Acquisition III (BCCQU) closes $345M SPAC IPO and funds trust - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREZUS21UZHRuNl9wQkRVSll5OWZyeXNLdjlTRjh6QVZBS01yWFRQbDRDSGRvMExSODBrXzdkbnBCQVVYR25ib09zNlk3bEVsOFpHdlVsMHIwdHlDOHYwd1pyVkFiUVl4eFNlRFdieU8tdUxscXZsLWRJaG5vdzRmb09WS1JWMzlpamtHZVIwTlFINjR4ZklicUtLRHI0RG01MktLSFFrVDhJRzFIZzlBOVlRRF9aeWJ6Rzdya3VrQ2k?oc=5",
    "published": "2026-07-14",
@@ -2417,22 +2423,16 @@
    "source": "BetaKit"
   },
   {
-   "title": "Agility Robotics Files for SPAC Merger with Churchill Capital Corp XI - AI Insider",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1lDcHdOR0NGTm1DamhvY3NHYy1fTVc3WXQyMlAteTVOSjFzSm1zelpfeHVvR0VnMXN4WjBuMFRpZ04wdnhTNEsyeVBxdERCdmNFMHJ3V2VDX0VaeW1ZWEsxUGFmZlg4S0MwSEhkU19RUVNXV1Q3QXNrT0VWaE9jRkhDYWk2dWIteTBMLXBBYUxLN2dpM1VzcnhtcGVyRF9LRmh2ek9KYWI0Y00?oc=5",
-   "published": "2026-07-14",
-   "source": "AI Insider"
+   "title": "\ud83d\ude80 WHY AGC Altimeter Growth Corp GRAB SPAC MERGER IS HOTT \ud83d\ude80 Guyana (hoZpx2UOuO) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RGZoaldkeVNlNGJKRXpzVmNRanBwMmVaZEpTNnpFTEp3eWNGUWU2SGpvTmI1Y2xFWENmaXBMUFZ2SXlqc2dyZV92YVVhdjY5aXBXbFY0WHNzUGM?oc=5",
+   "published": "2026-07-15",
+   "source": "Mshale"
   },
   {
    "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
    "published": "2026-07-15",
    "source": "CoinMarketCap"
-  },
-  {
-   "title": "General Fusion Shares Surge in Nasdaq Debut After $150 Million SPAC Merger - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PdVZ5NzNZclF1S2VWQm5TSWlBMV80RVFsVVpvS1Y0b3B3OWltNGo0bzdGYWZQV0l4blBvU0RRQXhHV3kxc2lPUktQZHExVHhsaU12UUY5am9XaThfb0Jva0lZeDJDZHdjS1o1aWVWcTNTZHE0R0E?oc=5",
-   "published": "2026-07-14",
-   "source": "finance.biggo.com"
   }
  ],
  "regs": []
