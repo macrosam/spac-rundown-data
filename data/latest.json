@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T12:13:38Z",
+ "generated_at": "2026-07-16T19:12:26Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2192,6 +2192,12 @@
  ],
  "media": [
   {
+   "title": "Research Alliance Corporation IV (RACD) seeks $75M SPAC IPO - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcU9vMGNlUE9Tb0pZamM0al9sOGg2RmtrSlNHTFJjOXZBTE9CYWFCSGVESlA3ZlQ4eExQVXVaUjF5b0Ewc3VWYnM4UlZueEV2OG1fcmM2LVRXcjVpQnNEcXRtVFU0MVJuRllpWFplSk14OGxwMVpKcnhWUDBockJEc0x5UF9JNl9QOGExbmdyVTA0WFpwX2dTNHhGV0NCT01vTkFaU21mb19FU2FiSDBiTnNMblMyWHk3ci1tMWI3N3dIdw?oc=5",
+   "published": "2026-07-16",
+   "source": "Stock Titan"
+  },
+  {
    "title": "KOSDAQ-listed battery materials maker seeks Nasdaq debut through SPAC merger - Aju Press",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQUJOclFWQTRiSmlQYUw2b001aU80Z1ZFU0J2dThCY1IyS0dOa0diLWc0YWF6SXR0ZDgydzVFLUEwZkp4V1ZXWjhBRmNack9DdDF3d2FyWmdORWfSAVdBVV95cUxOaldNaTFSN3dfcVEwclp2S2RZS253eF9uUlFlTjVMNk5jZ2U2bmVMZWg0SXRId3BXbUhmVDVtUUFnNVN5OWdWMDBFc3NGWkVoMFoxSGNvc2s?oc=5",
    "published": "2026-07-16",
@@ -2214,12 +2220,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbHExS1JVODN5Y01Db3VNbmRJSVB2MEh4RWl5d2tocDVfRjh6WWVPaEJwYVJjLXdfUXZmcE1mTmI4Z2V4alZKTmJPem1aZURfdlJkWnl3c0ZDajQzSWwyZHk0VzlCcV9KT01SVjdJbGRsVDQwczZzUUVYblhxSUg4WkZaMDVRNTNSQzBHTGtsamhsMmg4bXhoQ3pRZEQ0VGN6MEJGNGx2Y0E4eC10WmZiYXFhdkRpSFVxdkcwZU04eXVXM3RWOS1laHRwSG5XQXMydlhQdGozdU84SFdNamFsS0x4X0RBeE9ZQXRycGx6SFhDd1VUR3cxY3B3?oc=5",
    "published": "2026-07-14",
    "source": "TradingView"
-  },
-  {
-   "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries - AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbm9CNlB3NHRwSVBLQWxkdkpOaDRmcnRfZHltTWtjWHZ1Z0dnaTBsVGpBYm16eFVaTVRVNVE3dU85OERlWmszWnQ4VTA1eE5wRHZ5dGl1T21XSHFKMWtYb284NVRjZ1I2YnRxMW52UENoeGUzeUpNLVZGdV80N0NxZ0dEVEZEdVZz?oc=5",
-   "published": "2026-07-15",
-   "source": "AOL.com"
   },
   {
    "title": "General Fusion \u201cpleased\u201d with public-market debut after redemption-heavy SPAC deal - BetaKit",
