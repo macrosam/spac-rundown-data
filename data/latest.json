@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T12:11:14Z",
+ "generated_at": "2026-07-17T19:12:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1992,10 +1992,10 @@
    "source": "Stock Titan"
   },
   {
-   "title": "AMR Resources Acquisition raises $250M in Nasdaq SPAC IPO - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUtDZ0Vfb1pGSDg2S3ljUFBwMUVjR1E2VUZpaGMyalIzYm9DSllWaDRSSHFkc3FVXzNlUkpQY3pTM20xRXhOMzNNSHVVRDh3dld6SzdOZ2stUTVBQ2tjZ1ROcXpaYi1TV3R0bVo0NFViUDFuY0RhV3VaQ1hZUDFIQUtBMXhMOGF0MHlYbmZBMU5WNmVmaUhteXg1MVcwUDFtTkJZclZ1M0xoMmF5dHBkUEFLVFM1azdyZ0hxbXdhTHJpY3RvM0Rha0JJb2w2TmRBNHVNY2hYMGczbEJRcGJSVXlnU3pYZw?oc=5",
+   "title": "Columbus Circle 3 Sponsor Discloses Investment in Columbus Circle Capital Corp III with 25.3% Stake - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZzRkaHJQbklPa1lSQUN3VTBQQUFYUlphVTJNaE82NV9obGw5aEpNaW1YQm9JYU01bk4waG8wdThmNkFJb20yQU5BcU9WTzJiNldSdVB0NFFlVTBEQUVrOUViZXEzVzBkOEtSY0RWMEZMOXZUeVlCNWU0QkJwNzZLSENEMVJNLUQxWXVILXVVOHlfRDVURnRZZ19RcWZqWmZ5N2dTVW52OTVNQVNLLWJqZHd1ZG1Bc0lOaDBxTWdGRXFRZ0JJSWdTMloxeGVmU3kzZzMyRWtiRU1UNlgzVGtKaS1oU1c1dEFsYUNkUk1GNnhDdw?oc=5",
    "published": "2026-07-17",
-   "source": "MSN"
+   "source": "TradingView"
   },
   {
    "title": "SPAC led by Philadelphia firm execs targets energy companies after $300M IPO - The Business Journals",
@@ -2004,16 +2004,16 @@
    "source": "The Business Journals"
   },
   {
+   "title": "AMR Resources Acquisition raises $250M in Nasdaq SPAC IPO - MSN",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUtDZ0Vfb1pGSDg2S3ljUFBwMUVjR1E2VUZpaGMyalIzYm9DSllWaDRSSHFkc3FVXzNlUkpQY3pTM20xRXhOMzNNSHVVRDh3dld6SzdOZ2stUTVBQ2tjZ1ROcXpaYi1TV3R0bVo0NFViUDFuY0RhV3VaQ1hZUDFIQUtBMXhMOGF0MHlYbmZBMU5WNmVmaUhteXg1MVcwUDFtTkJZclZ1M0xoMmF5dHBkUEFLVFM1azdyZ0hxbXdhTHJpY3RvM0Rha0JJb2w2TmRBNHVNY2hYMGczbEJRcGJSVXlnU3pYZw?oc=5",
+   "published": "2026-07-17",
+   "source": "MSN"
+  },
+  {
    "title": "KOSDAQ-listed battery materials maker seeks Nasdaq debut through SPAC merger - Aju Press",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLQUJOclFWQTRiSmlQYUw2b001aU80Z1ZFU0J2dThCY1IyS0dOa0diLWc0YWF6SXR0ZDgydzVFLUEwZkp4V1ZXWjhBRmNack9DdDF3d2FyWmdORWfSAVdBVV95cUxOaldNaTFSN3dfcVEwclp2S2RZS253eF9uUlFlTjVMNk5jZ2U2bmVMZWg0SXRId3BXbUhmVDVtUUFnNVN5OWdWMDBFc3NGWkVoMFoxSGNvc2s?oc=5",
    "published": "2026-07-16",
    "source": "Aju Press"
-  },
-  {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-07-16",
-   "source": "Stocktwits"
   },
   {
    "title": "What's Driving the Resurgence in SPAC IPOs in 2026 - Kavout | AI",
