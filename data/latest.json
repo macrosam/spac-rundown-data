@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T12:28:35Z",
+ "generated_at": "2026-07-20T19:17:50Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1734,6 +1734,18 @@
  ],
  "media": [
   {
+   "title": "Prefab tiny home startup Boxabl goes public after $3.5B SPAC merger - Inman Real Estate News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWZNU0ZGMWR2UzhrVG5uWF9hLUJCZTlma1lMcTNXVGJHNU1FZVZaaUhKVWgxQVgwODNaMW5oT0I5enpBZnI3V2NiVTVGUFRvdUV5S1IyTDZtMFRDNG9BNFR0b1NxS3VSS0NkS3FQUG5GRmlPSDBoNTdLUkt2YkRUOTVLYmFuYlVm?oc=5",
+   "published": "2026-07-20",
+   "source": "Inman Real Estate News"
+  },
+  {
+   "title": "AMR Resources Acquisition raises $250M in Nasdaq SPAC IPO - MSN",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkJjMmpoRGNrNDVJQ2MwQ1dfS2UyVk5HSjBOYUZJVkllV0lIb2ZlWnRtSlpaZXNON2J3d0hWLXFYNEpiVlFoSTFDTUxIaXZmMEdwbGJCWnhGX0d0ZEM0U0VxZlRuejNDY0txS29IY0dsN2VnZkpTWkRlZEROQlF0ZTdWQ3dscm5IOTNneXZ3emNKNGh1Zms3Zi1tYkVmUmowMjVsU1RUQXE3TG9xNGp3?oc=5",
+   "published": "2026-07-20",
+   "source": "MSN"
+  },
+  {
    "title": "Agility Robotics Will List on Nasdaq After a $2.5 Billion SPAC Merger - Startup Fortune",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcndvaXdhM3BHWjFZZ1o5dVhnRUk2WkUzSTV6d2M1T0dhZU9MT3g2Rjdac19KdkpnZ1pSbzBqX1hYMkdYQUJPWDJmVFhmWGJMYjdteFBpbDNuenRfX0E4N3l6cWdUODg2SDF0V09GWkpVYzVtZUxYNUhJeDd0akpESExaMDJkQmxBYndCTDJPTTcwNVp4NU1OSUF5SQ?oc=5",
    "published": "2026-07-19",
@@ -1746,12 +1758,6 @@
    "source": "Pulse 2.0"
   },
   {
-   "title": "CoinShares Lists on Nasdaq After $1.2B SPAC Merger With Vine Hill - CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVJrN2FZR2tFZk9NOXNleHhfOGFVWi12U0VCUXYwVU9DWXlkZUVMbTBoSzNTV3ZQRHNRTjJCUWRtamVndU4yS2ZWZ1F1aUxkOUVkNFVfRFZ4SFg2cmlIaXQyOTRKTEVOcm9DekxRWE8zVnd5dWotLVFISHRmSjE1MzVSLURrY0lXQ3VIZG8tNkJTRkNyYzBBRXBSbGxPVlFQX1ktSVRPelNoOE16ZWcyYg?oc=5",
-   "published": "2026-07-18",
-   "source": "CoinMarketCap"
-  },
-  {
    "title": "Tavia Acquisition, Vita Inclinata Technologies sign LOI for $450M de-SPAC deal - MSN",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGF3c09GNjI4OVZudmxLbXI2RDBxYjJzQ2VxQ1R2NE11ZTREXzdWRmZROXpCanNxNFREN05VekM4Vy1WbTRUZTF6UTYwcV9UeHZQWHlZZkgwMFlMMHFSYnBpLXducTZoQV9GX05iUDZmeHRjVzhFS0plNHE0dXRqQ2tSYmtmVzZ5TE5Nb253am5ramJoWWIyazc4Yk9MOGJhdnBzQjRuVFBjVG9VT0RhVkxHSXh4c0M4b01UNWxSajkyM3FNRUpUamdwZTRoWjZnUzdEQ0pxNUs1Z0tsTHc?oc=5",
    "published": "2026-07-18",
@@ -1762,12 +1768,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQQjl3aVJmRjJUMGhxRVNXaGpqdW91Q2I0VkxzRW1sLUdFYUw0el9fUmJXak56cWRzelo1MmRvUHJUNndWM0dGUFY4OFd5TWplZjhEWjhiVjFZN3Qwa3hWeV8xV2NJaVBHbU1MRTMxLXpTSnZBTXN0amhkVUFfMGdsRUE0R3M3UEI4U1pjYS15TGk0N0pTdVhwQnU0LTdvUzZ6czZkZHdsTDFrSlFEX3VIQkZkTWV6Y1N6Z3pGaUJHVjltTVBPd0tpRWhOaFo5X3VZRGUwZ0JIVk1GMlZnQ2dKOE1wN081YTVTWFhIN096ZlZwaWVfSlVoU0NtMklYR2JyTmNrVWNxc1lsdFZMSUZfSE5LM3VweEdDUjloQzFFUXJETGdiU1pVZHVnOGExLU92UXM2MGdjOUs5MXJmbkZWY1BnQk5vcDJ0TWtJT3FwZU52UQ?oc=5",
    "published": "2026-07-18",
    "source": "MSN"
-  },
-  {
-   "title": "Blackstone acquires Busan-based automotive Futronic - Aju Press",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZVBjUUVUWmR3aFVOcF9CZ1MzVHB3b2tFaC1vNFdJMncxNVBiNUM4NzJZWkIwRmJVNUlPQVRsQkpEY2RrVk8yMEZDVUFvb05UdEJrbmFSdXE2bDjSAVdBVV95cUxPUy05UGtpd0ZkdVc3WUxmY2tZczRDSUgyamxYYXcxQUlpUS1iQ1NlNmw0VUJOTWkweGRjeFF3UVBQZzJPT0U5V0xsZUNqRjFuOV9CSGNkbkU?oc=5",
-   "published": "2026-07-20",
-   "source": "Aju Press"
   }
  ],
  "regs": []
