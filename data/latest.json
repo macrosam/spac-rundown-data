@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T12:15:06Z",
+ "generated_at": "2026-07-21T19:13:18Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1642,10 +1642,28 @@
  ],
  "media": [
   {
-   "title": "Freenome to begin trading on Nasdaq following SPAC merger - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVlDUlV4R0JFdUFyRk9WZUxqVHIxazMyVnRsZld1LWROdndsY0FMX2VPem5faFVITjMycmF2QUlQTGZqN0VTbGRYelB3ZVhHRmIzQTc2SVFVLVljS3dFMnRzZDhSZlUxTkx6a2V1V2x0cWtkcE5hcnBSMGhtXzVTb3JQVW04TmxmZ3ZRZjJXQjJlOHBsSHR1NzFHUWJnakVHVVZxX2NZZ1UtSHIxWXhLQUdvWDE?oc=5",
-   "published": "2026-07-20",
-   "source": "Investing.com"
+   "title": "Boxabl starts Nasdaq trading after FG Merger II SPAC deal - HousingWire",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFlUbjl4cnFtb1dwYmRvWGhYUVFBNWp2c3Y0bTFxakcxMXlQRzFNUVpGcDNqOHhaalJ5eEFOcEcyNzFia1l6OWtpQ1RCVVpPNG9aQlo2bFl1Y2hqeTVoWkpKcEFmckpZMndBRWN5bXZvdi1BcWxiakgwaVQyY3BMelNuaUVzSFk?oc=5",
+   "published": "2026-07-21",
+   "source": "HousingWire"
+  },
+  {
+   "title": "Tactical Resources Wins Nasdaq Approval Ahead of SPAC Deal Closing - IPO Edge",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjF4X0c2QlVFdFd3VF9GSDhUUVhtNjM0YnhkSEdXWWdYb3pST09DVlV5R1poTGV3dU1oSS1LRzYySWZ5MFFMWWc5ZThBSnNzWkhleWJqVmlfS2g0Mm1zRkFzOUlfUEY1LWV1TDhtNmkwcFQxUEgtYmlrZ00tR0QtZzU0ZXltZWYyQU1LN0EzSmFWUQ?oc=5",
+   "published": "2026-07-21",
+   "source": "IPO Edge"
+  },
+  {
+   "title": "Cancer testing company raises $300 million as it goes public - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2dEVVdaTWtIemkwWFNDQ3pQVEpzVUd4bGlSelFweFZXc3NFTU04ZG5pMGdvdHZIc3h0T3EwSkFKN28tRVJWME5OX24tNjVZWC1YX3RlaG9jR1N6dy13RFdpdlJIdVBQbkNWYUlFUVdSaEtqd3pCZFN5bzhLS2pmZGZGcTFxOF9OV0V3UnNMTTA3Y1RsZGNJcmZ5eWpCLWN6cXZQM1JaZGJ2Y3BmNE1zTGlB?oc=5",
+   "published": "2026-07-21",
+   "source": "The Business Journals"
+  },
+  {
+   "title": "Co2 Energy Transition Shareholders Approve Extension Of SPAC Deal Deadline To July 22 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY1JuQ2VTVmI4Zi1peG0yUTd5d19PMXd0Z2VfSHZrY2NrTnNDV21LejluTlg0aFlMVjBoVm1oUEdWQk5wWWtBWHdBWDVXQ3NZUnY2Z0JQdmo0MWNfY0c0dG1RaGlTRkhQc0Z0djdWbWtZeDBNZWc3N0dDeEtIMlZfWndoa3VZUVlEcU80YkhxN19xWlhfWnVnaTIyalVFalVxNG53SndoU21zcDl2LXQ4TEZ1M1V4X3BabndTTHpDV0Z1RVpTd0Q3Q1NnWkNTclhUcjR5X214MmRma1E1OVRYYjJ4ZFJEQ1hxNmR3?oc=5",
+   "published": "2026-07-21",
+   "source": "TradingView"
   },
   {
    "title": "Prefab home startup Boxabl goes public after $3.5B SPAC merger - Inman Real Estate News",
@@ -1654,28 +1672,10 @@
    "source": "Inman Real Estate News"
   },
   {
-   "title": "Abra Targets Nasdaq Listing in $750M SPAC Deal - CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3hkWjN0SEFyNnVDaHFDSGp3Z0N2a1E2SWVVWEVURUFTMi1pajZuenRWZjZQdVVuVEdIcmJTbVJYXzAyUFNwcENWVGRuc1ZRTEdzV1NrWXlsWmFycVJ3a2dJYXdESUpyQnNhNkFYMzZwTmc5MkJaeGk2Q0wxQ09lMUlCdzJoWWs5d1lfMXVsU2xvbGN2aXFTNQ?oc=5",
+   "title": "Freenome to begin trading on Nasdaq following SPAC merger - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVlDUlV4R0JFdUFyRk9WZUxqVHIxazMyVnRsZld1LWROdndsY0FMX2VPem5faFVITjMycmF2QUlQTGZqN0VTbGRYelB3ZVhHRmIzQTc2SVFVLVljS3dFMnRzZDhSZlUxTkx6a2V1V2x0cWtkcE5hcnBSMGhtXzVTb3JQVW04TmxmZ3ZRZjJXQjJlOHBsSHR1NzFHUWJnakVHVVZxX2NZZ1UtSHIxWXhLQUdvWDE?oc=5",
    "published": "2026-07-20",
-   "source": "CoinMarketCap"
-  },
-  {
-   "title": "Agility Robotics Will List on Nasdaq After a $2.5 Billion SPAC Merger - Startup Fortune",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcndvaXdhM3BHWjFZZ1o5dVhnRUk2WkUzSTV6d2M1T0dhZU9MT3g2Rjdac19KdkpnZ1pSbzBqX1hYMkdYQUJPWDJmVFhmWGJMYjdteFBpbDNuenRfX0E4N3l6cWdUODg2SDF0V09GWkpVYzVtZUxYNUhJeDd0akpESExaMDJkQmxBYndCTDJPTTcwNVp4NU1OSUF5SQ?oc=5",
-   "published": "2026-07-19",
-   "source": "Startup Fortune"
-  },
-  {
-   "title": "Jones Ventures INTL Acquisition1 Raises $200 Million IPO, Establishes SPAC Trust and Related Agreements - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlFETWJSRTZVZi1QV2p1SDZJYjR1Nk5SQjN4N1hvWFJqRTNIZnFBOGlHMjlMbjRjYlFySFFWRmlINHJHenhKUUFNbWYyRVhnQUpjNTRzWDE5ZHdyUG9PV0RBY3E0d0JTaGI3dEkxNEpyLUduYnNhNl9TZFVKOTRBQTNWbTMzWGZYbTdMTkdFaDNiT3c3WmJjZnhTcDQwZWtYNHp0S3lOLTFoQ1Z2SzNUczNTTXlDZVlwLUc1bTlNWWpGQmVlMHM0MkNRdDdZVDV5LThMQ2FQbS04MmdwVXR0eGh2RXJLOHUwWkNtc2R2RDZib3JtbkE?oc=5",
-   "published": "2026-07-21",
-   "source": "TradingView"
-  },
-  {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-07-20",
-   "source": "Stocktwits"
+   "source": "Investing.com"
   }
  ],
  "regs": []
