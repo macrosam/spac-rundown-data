@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-07-20T19:17:50Z",
+ "generated_at": "2026-07-21T12:15:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2137965",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2137965/0001193125-26-308950.txt",
+   "blurb": "offering $75,000,000; $10.00./unit (auto-extracted)"
+  },
   {
    "company": "Phalanx Acquisition Corp I",
    "form": "S-1",
    "cik": "2086549",
    "filed": "2026-07-16",
    "path": "edgar/data/2086549/0001213900-26-078705.txt"
-  },
-  {
-   "company": "Material Resource Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2136360",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2136360/0002136360-26-000003.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: identifying and acquiring a company involved in the global material supply chain, including companies engaged in the exploration, mining, pr (auto-extracted)"
   },
   {
    "company": "Gold Mountain Acquisition Corp.",
@@ -88,22 +88,6 @@
    "filed": "2026-06-16",
    "path": "edgar/data/2137679/0001829126-26-006500.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Leader's Advantage Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2109823",
-   "filed": "2026-06-15",
-   "path": "edgar/data/2109823/0001213900-26-068419.txt",
-   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Osprey Acquisition Corp. III",
-   "form": "S-1",
-   "cik": "2113481",
-   "filed": "2026-06-15",
-   "path": "edgar/data/2113481/0001213900-26-068811.txt",
-   "blurb": "offering $261,000,000; 26,100,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "pricings": [
@@ -278,6 +262,44 @@
  ],
  "mergers": [
   {
+   "company": "Compass Digital Acquisition Corp.",
+   "form": "425",
+   "cik": "1851909",
+   "filed": "2026-07-20",
+   "path": "edgar/data/1851909/0001493152-26-033936.txt"
+  },
+  {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "425",
+   "cik": "2028614",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2028614/0001213900-26-079686.txt"
+  },
+  {
+   "company": "COLLECTIVE ACQUISITION CORP.",
+   "form": "8-K",
+   "cik": "2041047",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2041047/0001213900-26-079700.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Compass Digital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1851909",
+   "filed": "2026-07-20",
+   "path": "edgar/data/1851909/0001493152-26-033934.txt",
+   "note": "8-K: termination of material agreement"
+  },
+  {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2028614",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2028614/0001213900-26-079678.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
    "company": "Calisa Acquisition Corp",
    "form": "425",
    "cik": "2026767",
@@ -385,76 +407,6 @@
    "filed": "2026-07-14",
    "path": "edgar/data/2028516/0001104659-26-083535.txt",
    "blurb": "business combination with Archimedes II is expected to close in the second half of 2026 (auto-extracted)"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "425",
-   "cik": "2059654",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2059654/0001185185-26-002915.txt"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "425",
-   "cik": "2026767",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2026767/0001493152-26-032969.txt",
-   "blurb": "business combination with GoodVision AI Inc. (auto-extracted)"
-  },
-  {
-   "company": "Plum Acquisition Corp. III",
-   "form": "425",
-   "cik": "1845550",
-   "filed": "2026-07-13",
-   "path": "edgar/data/1845550/0001213900-26-077375.txt",
-   "blurb": "business combination with Plum (auto-extracted)"
-  },
-  {
-   "company": "Tavia Acquisition Corp.",
-   "form": "425",
-   "cik": "2020385",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2020385/0001213900-26-077648.txt",
-   "blurb": "business combination with Tavia (auto-extracted)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2010653",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2010653/0001829126-26-007528.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Launch One Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2015502",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2015502/0001213900-26-077654.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "8-K/A",
-   "cik": "2059654",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2059654/0001185185-26-002914.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "F-4/A",
-   "cik": "2012807",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2012807/0001829126-26-007519.txt",
-   "blurb": "business combination with PubCo (auto-extracted)"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2026767",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2026767/0001493152-26-033041.txt"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -1053,54 +1005,41 @@
    "filed": "2026-06-16",
    "path": "edgar/data/2012807/0001829126-26-006538.txt",
    "blurb": "business combination with PubCo (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102041",
-   "filed": "2026-06-15",
-   "path": "edgar/data/2102041/0001213900-26-068925.txt"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "425",
-   "cik": "1884046",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1884046/0001104659-26-074012.txt",
-   "blurb": "business combination with ZincFive (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-15",
-   "path": "edgar/data/2074850/0001104659-26-074098.txt",
-   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "425",
-   "cik": "1926599",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1926599/0001193125-26-270239.txt"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "1926314",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1926314/0001493152-26-028579.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2000410",
-   "filed": "2026-06-15",
-   "path": "edgar/data/2000410/0001213900-26-068462.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Compass Digital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1851909",
+   "filed": "2026-07-20",
+   "path": "edgar/data/1851909/0001493152-26-033934.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "FutureTech II Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1889450",
+   "filed": "2026-07-20",
+   "path": "edgar/data/1889450/0001493152-26-033944.txt",
+   "blurb": "meeting August 13, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "DEF 14A",
+   "cik": "2028355",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2028355/0001213900-26-079622.txt",
+   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "PRE 14A",
+   "cik": "2025341",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2025341/0001213900-26-079665.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Mercator Acquisition Corp.",
    "form": "8-K",
@@ -1156,14 +1095,6 @@
    "filed": "2026-07-14",
    "path": "edgar/data/1801417/0001213900-26-077705.txt",
    "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Launch One Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2015502",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2015502/0001213900-26-077654.txt",
-   "note": "8-K: charter amendment (possible extension)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -1404,14 +1335,6 @@
    "filed": "2026-06-16",
    "path": "edgar/data/2030482/0001213900-26-068965.txt",
    "blurb": "meeting July 2, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "1926314",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1926314/0001493152-26-028579.txt",
-   "note": "8-K: charter amendment (possible extension)"
   }
  ],
  "pipes": [
@@ -1445,14 +1368,6 @@
    "cik": "2028516",
    "filed": "2026-07-14",
    "path": "edgar/data/2028516/0001104659-26-083534.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2010653",
-   "filed": "2026-07-13",
-   "path": "edgar/data/2010653/0001829126-26-007528.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
@@ -1502,17 +1417,17 @@
    "filed": "2026-06-17",
    "path": "edgar/data/2115404/0001213900-26-069661.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "1926314",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1926314/0001493152-26-028579.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "COLLECTIVE ACQUISITION CORP.",
+   "form": "8-K",
+   "cik": "2041047",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2041047/0001213900-26-079700.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Activate Energy Acquisition Corp.",
    "form": "8-K",
@@ -1608,17 +1523,17 @@
    "filed": "2026-06-18",
    "path": "edgar/data/2016072/0001213900-26-070120.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "1926314",
-   "filed": "2026-06-15",
-   "path": "edgar/data/1926314/0001493152-26-028579.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "8-K",
+   "cik": "2017950",
+   "filed": "2026-07-20",
+   "path": "edgar/data/2017950/0001493152-26-033932.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "AMR Resources Acquisition Corp.",
    "form": "8-A12B",
@@ -1639,13 +1554,6 @@
    "cik": "2116230",
    "filed": "2026-07-15",
    "path": "edgar/data/2116230/0001929980-26-000339.txt"
-  },
-  {
-   "company": "Bowen Acquisition Corp",
-   "form": "25-NSE",
-   "cik": "1973056",
-   "filed": "2026-07-13",
-   "path": "edgar/data/1973056/0001354457-26-000667.txt"
   },
   {
    "company": "Real Asset Acquisition Corp.",
@@ -1734,16 +1642,22 @@
  ],
  "media": [
   {
-   "title": "Prefab tiny home startup Boxabl goes public after $3.5B SPAC merger - Inman Real Estate News",
+   "title": "Freenome to begin trading on Nasdaq following SPAC merger - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVlDUlV4R0JFdUFyRk9WZUxqVHIxazMyVnRsZld1LWROdndsY0FMX2VPem5faFVITjMycmF2QUlQTGZqN0VTbGRYelB3ZVhHRmIzQTc2SVFVLVljS3dFMnRzZDhSZlUxTkx6a2V1V2x0cWtkcE5hcnBSMGhtXzVTb3JQVW04TmxmZ3ZRZjJXQjJlOHBsSHR1NzFHUWJnakVHVVZxX2NZZ1UtSHIxWXhLQUdvWDE?oc=5",
+   "published": "2026-07-20",
+   "source": "Investing.com"
+  },
+  {
+   "title": "Prefab home startup Boxabl goes public after $3.5B SPAC merger - Inman Real Estate News",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWZNU0ZGMWR2UzhrVG5uWF9hLUJCZTlma1lMcTNXVGJHNU1FZVZaaUhKVWgxQVgwODNaMW5oT0I5enpBZnI3V2NiVTVGUFRvdUV5S1IyTDZtMFRDNG9BNFR0b1NxS3VSS0NkS3FQUG5GRmlPSDBoNTdLUkt2YkRUOTVLYmFuYlVm?oc=5",
    "published": "2026-07-20",
    "source": "Inman Real Estate News"
   },
   {
-   "title": "AMR Resources Acquisition raises $250M in Nasdaq SPAC IPO - MSN",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkJjMmpoRGNrNDVJQ2MwQ1dfS2UyVk5HSjBOYUZJVkllV0lIb2ZlWnRtSlpaZXNON2J3d0hWLXFYNEpiVlFoSTFDTUxIaXZmMEdwbGJCWnhGX0d0ZEM0U0VxZlRuejNDY0txS29IY0dsN2VnZkpTWkRlZEROQlF0ZTdWQ3dscm5IOTNneXZ3emNKNGh1Zms3Zi1tYkVmUmowMjVsU1RUQXE3TG9xNGp3?oc=5",
+   "title": "Abra Targets Nasdaq Listing in $750M SPAC Deal - CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3hkWjN0SEFyNnVDaHFDSGp3Z0N2a1E2SWVVWEVURUFTMi1pajZuenRWZjZQdVVuVEdIcmJTbVJYXzAyUFNwcENWVGRuc1ZRTEdzV1NrWXlsWmFycVJ3a2dJYXdESUpyQnNhNkFYMzZwTmc5MkJaeGk2Q0wxQ09lMUlCdzJoWWs5d1lfMXVsU2xvbGN2aXFTNQ?oc=5",
    "published": "2026-07-20",
-   "source": "MSN"
+   "source": "CoinMarketCap"
   },
   {
    "title": "Agility Robotics Will List on Nasdaq After a $2.5 Billion SPAC Merger - Startup Fortune",
@@ -1752,22 +1666,16 @@
    "source": "Startup Fortune"
   },
   {
-   "title": "BOXABL Completes SPAC Merger At $3.5 Billion Valuation And Prepares For Nasdaq Debut - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUJVMTl1VlRjUDR0Qk1wcHpFdjVKb2VnZmlpb3EwMXlCcFRaYXFIVVNxS0ZpamlLSk1pX2FLQV9NYnI1N2tHS05lWHotZTgwV0lyOWJkMFdNUlpOeG56LWZLRkpHZGN4TDlsRGU1dWNTYzdOZFA4SHBNc1c0SG5GNjdGYkZOQjd4dVJtZmRkQlpZZElNZ0d2ZENYTDBpZFJmZkhzQTFLSzF3Y3PSAasBQVVfeXFMTmFCVTE5dVZUY1A0dEJNcHB6RXY1Sm9lZ2ZpaW9xMDF5QnBUWmFxSFVTcUtGaWppS0pNaV9hS0FfTWJyNTdrR0tOZVh6LWU4MFdJcjliZDBXTVJaTnhuei1mS0ZKR2RjeEw5bERlNXVjU2M3TmRQOEhwTXNXNEhuRjY3RmJGTkI3eHVSbWZkZEJaWWRJTWdHdmRDWEwwaWRSZmZIc0ExS0sxd2Nz?oc=5",
-   "published": "2026-07-19",
-   "source": "Pulse 2.0"
+   "title": "Jones Ventures INTL Acquisition1 Raises $200 Million IPO, Establishes SPAC Trust and Related Agreements - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlFETWJSRTZVZi1QV2p1SDZJYjR1Nk5SQjN4N1hvWFJqRTNIZnFBOGlHMjlMbjRjYlFySFFWRmlINHJHenhKUUFNbWYyRVhnQUpjNTRzWDE5ZHdyUG9PV0RBY3E0d0JTaGI3dEkxNEpyLUduYnNhNl9TZFVKOTRBQTNWbTMzWGZYbTdMTkdFaDNiT3c3WmJjZnhTcDQwZWtYNHp0S3lOLTFoQ1Z2SzNUczNTTXlDZVlwLUc1bTlNWWpGQmVlMHM0MkNRdDdZVDV5LThMQ2FQbS04MmdwVXR0eGh2RXJLOHUwWkNtc2R2RDZib3JtbkE?oc=5",
+   "published": "2026-07-21",
+   "source": "TradingView"
   },
   {
-   "title": "Tavia Acquisition, Vita Inclinata Technologies sign LOI for $450M de-SPAC deal - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGF3c09GNjI4OVZudmxLbXI2RDBxYjJzQ2VxQ1R2NE11ZTREXzdWRmZROXpCanNxNFREN05VekM4Vy1WbTRUZTF6UTYwcV9UeHZQWHlZZkgwMFlMMHFSYnBpLXducTZoQV9GX05iUDZmeHRjVzhFS0plNHE0dXRqQ2tSYmtmVzZ5TE5Nb253am5ramJoWWIyazc4Yk9MOGJhdnBzQjRuVFBjVG9VT0RhVkxHSXh4c0M4b01UNWxSajkyM3FNRUpUamdwZTRoWjZnUzdEQ0pxNUs1Z0tsTHc?oc=5",
-   "published": "2026-07-18",
-   "source": "MSN"
-  },
-  {
-   "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQQjl3aVJmRjJUMGhxRVNXaGpqdW91Q2I0VkxzRW1sLUdFYUw0el9fUmJXak56cWRzelo1MmRvUHJUNndWM0dGUFY4OFd5TWplZjhEWjhiVjFZN3Qwa3hWeV8xV2NJaVBHbU1MRTMxLXpTSnZBTXN0amhkVUFfMGdsRUE0R3M3UEI4U1pjYS15TGk0N0pTdVhwQnU0LTdvUzZ6czZkZHdsTDFrSlFEX3VIQkZkTWV6Y1N6Z3pGaUJHVjltTVBPd0tpRWhOaFo5X3VZRGUwZ0JIVk1GMlZnQ2dKOE1wN081YTVTWFhIN096ZlZwaWVfSlVoU0NtMklYR2JyTmNrVWNxc1lsdFZMSUZfSE5LM3VweEdDUjloQzFFUXJETGdiU1pVZHVnOGExLU92UXM2MGdjOUs5MXJmbkZWY1BnQk5vcDJ0TWtJT3FwZU52UQ?oc=5",
-   "published": "2026-07-18",
-   "source": "MSN"
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-07-20",
+   "source": "Stocktwits"
   }
  ],
  "regs": []
