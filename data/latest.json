@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T12:16:24Z",
+ "generated_at": "2026-07-22T19:13:08Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1692,40 +1692,40 @@
  ],
  "media": [
   {
+   "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFZULXFDZTMybXZIVjkwLXNpQ0Y4aUY3bVB3SmVCWFM2YzdlbnFJVjJqT3pTU0JnaEhqU2hQUjRJTWtDZ1NYa1Z4ZTByRDZIaEZxMmhveVA5cFF5bW1iM0dFelNuV2hiblF1cE5ta2dweUNIVmE0ajcwdWR6LW0tdkczTjBScnhKNnJNdXUxd0NoQUpGVFY0M0ZUYXItTnBtVVRsMDJhU2RjVGJUb3Z3WTZwaU1ad2JsZmJGT3Y3aw?oc=5",
+   "published": "2026-07-22",
+   "source": "Reuters"
+  },
+  {
+   "title": "Paul Hastings, Sidley Guide Data-Center Co.'s $4B SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQNlhOQmttMklidVFnNGdqbFpRZl9fd0RPeVpyV0pyd1BHanI1LVZGWWhSY3N5cHRKVlhYUE1UOXBLTmRHQVM0OVlSb2pwemFfN2s1Mkxn0gFWQVVfeXFMUFA2WE5Ca20ySWJ1UWc0Z2psWlFmX193RE95WnJXSnJ3UEdqcjUtVkZZaFJjc3lwdEpWWFhQTVQ5cEtOZEdBUzQ5WVJvanB6YV83azUyTGc?oc=5",
+   "published": "2026-07-22",
+   "source": "Law360"
+  },
+  {
    "title": "U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal - WSJ",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1RYZjdRNXlsLUJWUDZwMVdGT05ITzExNllmMHFHdW1XZTg1eUJlaTRuZXdaOXNtVmkyWm0yX2puUnJ4NXk1WWM5cGo5NFN6RUZEdTE5OFRKVklkR0drRUs0cm5hNkxrdm1vdjNCaFFpQy1JOXlDX2VkMi12SU1FZE1QVGF6d1NVLU9PVjVjS201X0M4VXhKUnZoSmlKZWdWc2RIeDVKdTNDMjROd1JCZktBd3RObnRQNzRmZ3ozM0V1UQ?oc=5",
    "published": "2026-07-22",
    "source": "WSJ"
   },
   {
+   "title": "Data Center Operator To Go Public Via SPAC Merger At $4B Valuation - Bisnow",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2VRdjlRdzNVLWdPZzZzSnVKY1JpYUFISWw1eWpqRkdhOWJJYVJIXzZZazVJLW1jQlpWdkt1ZHl6Qm9HNVRPNXotTnBPbEkyNXJiWENfblpjQ0JHQXBOMUhacmYwWUEtR1QzYjgxNkNLbVRSc1dfa0lockhDRkNrZkh0bTlpSGxtUmJ4UUJFTlVXRVRNVGJuc3lUU1EwUzZiOEJVeDVJNWQ1bW9hOUFvSE85OHYtMHc4Z3hUTUxLQ1ZudmZfSlNkWGc2QWw?oc=5",
+   "published": "2026-07-22",
+   "source": "Bisnow"
+  },
+  {
+   "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmFlbUZBYjBFZ211WDZpeFgzcXVZSENPYUZtWjhQTF9TZy1kTXpTTmpJZ2NLblNReS1WSXkyWmFheVJadXluanlFellLSkw3aWUyYXJzZ2trbmlxejJ6UUswOUk1SmEtN1dZblYycUVYeEpqNU5yZzRtcjRNRWpybGMtTnhOWFFvUTMta2VYdHdEakdzZTF6cjhScDUwN1pCa2VJYS1YbE82YTBGeVMyOTlUNTc5MkFLd3hBeHlaQWxlbXN3YzFidzFvdHJHdnVEaDZoMHlubTNhQQ?oc=5",
+   "published": "2026-07-22",
+   "source": "TradingView"
+  },
+  {
    "title": "Tactical Resources Wins Nasdaq Approval Ahead of SPAC Deal Closing - IPO Edge",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjF4X0c2QlVFdFd3VF9GSDhUUVhtNjM0YnhkSEdXWWdYb3pST09DVlV5R1poTGV3dU1oSS1LRzYySWZ5MFFMWWc5ZThBSnNzWkhleWJqVmlfS2g0Mm1zRkFzOUlfUEY1LWV1TDhtNmkwcFQxUEgtYmlrZ00tR0QtZzU0ZXltZWYyQU1LN0EzSmFWUQ?oc=5",
    "published": "2026-07-21",
    "source": "IPO Edge"
-  },
-  {
-   "title": "Boxabl starts Nasdaq trading after FG Merger II SPAC deal - HousingWire",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFlUbjl4cnFtb1dwYmRvWGhYUVFBNWp2c3Y0bTFxakcxMXlQRzFNUVpGcDNqOHhaalJ5eEFOcEcyNzFia1l6OWtpQ1RCVVpPNG9aQlo2bFl1Y2hqeTVoWkpKcEFmckpZMndBRWN5bXZvdi1BcWxiakgwaVQyY3BMelNuaUVzSFk?oc=5",
-   "published": "2026-07-21",
-   "source": "HousingWire"
-  },
-  {
-   "title": "Triangle CEO: SPAC path to Nasdaq helps us own AI - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFNSbksyU1VMbFhNZC00dFhyOF8zUDhkOVN1aWlLMzNnSldkalpOdUU1Zm1vWUtpX3lYbW40SFpaeHRPMjNnZVRhSEJITTByWl9oc0pZZm9Uc0g0QjN2ejdQWHpESnB0eDZLYlBaSmRlTjVnQlBkLXowVjg2TXZ5WnB0eVdRU1B5cG15WDdIVEpEM0VvZXhQVGdlTHhDUV9PMlc2aQ?oc=5",
-   "published": "2026-07-21",
-   "source": "The Business Journals"
-  },
-  {
-   "title": "Freenome Goes Public in $310M SPAC Deal - 360Dx",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ek9BZ183MG1PdUNMVV9Wa3JfTkVfVkVZUTJ3eE00clJZbE8wWjNfWEVVZFNaaEtXWFVBWDFiZGt4XzZVQTRrNGdUOTQ5bkhMSWdCQ3pfeGZ4eVBHbXVwZ2JRUjRJUDhqLXl1cWlTbmRRdw?oc=5",
-   "published": "2026-07-21",
-   "source": "360Dx"
-  },
-  {
-   "title": "TECfusions to go public via SPAC merger at $4 billion value - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUhVaFhBV04yOGlnY3dpeTJGZjZ1X3ZEZU03bjc1QmVMM0Y2RVJyY0dJMEtqaXFnS3NlcTBkdmNPUGFzd1NnMTltUWY4RHdoUUN6ZmNZd1k1NGt0WVAxMmg0M19qZGQ5VE45RllBSERKc056S0VsY1VfZVRrc0FPa3p5Q0lPT1Jla3lmVkdSSmNHV2sxQ3o0LU4wUlJjdi1RajE1Q0laSWJMMW5BX1Y2OXQwU2Jla1JNWUdr?oc=5",
-   "published": "2026-07-22",
-   "source": "Investing.com Canada"
   }
  ],
  "regs": []
