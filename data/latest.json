@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-07-22T19:13:08Z",
+ "generated_at": "2026-07-23T12:15:29Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "S-1",
+   "cik": "2133719",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2133719/0001213900-26-080207.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Pinnacle Acquisition Corp",
+   "form": "S-1",
+   "cik": "2123955",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2123955/0001213900-26-080433.txt"
+  },
   {
    "company": "TCGX Acquisition Corp.",
    "form": "S-1",
@@ -64,14 +79,6 @@
    "filed": "2026-06-18",
    "path": "edgar/data/2128045/0001213900-26-070217.txt",
    "blurb": "offering $300,000,000; 30,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Albatross Acquisition Corp",
-   "form": "S-1",
-   "cik": "2135163",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2135163/0001829126-26-006553.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "pricings": [
@@ -158,6 +165,14 @@
  ],
  "amends": [
   {
+   "company": "Market Technology Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2133136",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2133136/0001213900-26-080237.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "ARC Group Securities Acquisition II",
    "form": "S-1/A",
    "cik": "2094710",
@@ -180,14 +195,6 @@
    "filed": "2026-07-21",
    "path": "edgar/data/2076561/0001477932-26-004429.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: technology, media and telecommunications ( TMT ), healthcare, and climate tech sectors (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "S-1/A",
-   "cik": "2094712",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2094712/0001493152-26-033301.txt",
-   "blurb": "offering $700,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Mercator Acquisition Corp.",
@@ -254,6 +261,21 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102713",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2102713/0001193125-26-311391.txt"
+  },
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2102713",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2102713/0001193125-26-311388.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Axiom Intelligence Acquisition Corp 1",
    "form": "425",
@@ -423,38 +445,6 @@
    "cik": "2080023",
    "filed": "2026-07-16",
    "path": "edgar/data/2080023/0001213900-26-078454.txt"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-07-15",
-   "path": "edgar/data/1834032/0001213900-26-078351.txt",
-   "blurb": "business combination with CSTA (auto-extracted)"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "425",
-   "cik": "1884046",
-   "filed": "2026-07-15",
-   "path": "edgar/data/1884046/0001104659-26-083950.txt",
-   "blurb": "business combination with ZincFive (auto-extracted)"
-  },
-  {
-   "company": "Samos Energy Acquisition Corp",
-   "form": "8-K",
-   "cik": "2125567",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2125567/0001213900-26-078382.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Yorkville Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2064658",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2064658/0001104659-26-083939.txt",
-   "note": "8-K: entry into material definitive agreement"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -993,54 +983,17 @@
    "cik": "2052162",
    "filed": "2026-06-18",
    "path": "edgar/data/2052162/0001493152-26-029236.txt"
-  },
-  {
-   "company": "Real Asset Acquisition Corp.",
-   "form": "425",
-   "cik": "2052161",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2052161/0001213900-26-069630.txt",
-   "blurb": "business combination with RAAQ (auto-extracted)"
-  },
-  {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "425",
-   "cik": "2085659",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2085659/0001213900-26-069436.txt"
-  },
-  {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "425",
-   "cik": "2085659",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2085659/0001213900-26-069741.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2074850/0001104659-26-075217.txt",
-   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Viking Acquisition Corp I",
-   "form": "425",
-   "cik": "2080023",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2080023/0001185185-26-002554.txt"
-  },
-  {
-   "company": "Flag Ship Acquisition Corp",
-   "form": "8-K",
-   "cik": "1850059",
-   "filed": "2026-06-17",
-   "path": "edgar/data/1850059/0001829126-26-006621.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "1853047",
+   "filed": "2026-07-22",
+   "path": "edgar/data/1853047/0001096906-26-001106.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
   {
    "company": "AMR Resources Acquisition Corp.",
    "form": "8-K",
@@ -1136,14 +1089,6 @@
    "filed": "2026-07-16",
    "path": "edgar/data/1901336/0001104659-26-084103.txt",
    "blurb": "meeting September 1, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Samos Energy Acquisition Corp",
-   "form": "8-K",
-   "cik": "2125567",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2125567/0001213900-26-078382.txt",
-   "note": "8-K: charter amendment (possible extension)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -1344,33 +1289,17 @@
    "filed": "2026-06-18",
    "path": "edgar/data/2016072/0001213900-26-070178.txt",
    "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Flag Ship Acquisition Corp",
-   "form": "8-K",
-   "cik": "1850059",
-   "filed": "2026-06-17",
-   "path": "edgar/data/1850059/0001829126-26-006621.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "form": "8-K",
-   "cik": "2016221",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2016221/0001213900-26-069699.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Compass Digital Acquisition Corp.",
-   "form": "PRE 14A",
-   "cik": "1851909",
-   "filed": "2026-06-17",
-   "path": "edgar/data/1851909/0001493152-26-029095.txt",
-   "blurb": "meeting October 19, 2023; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2102713",
+   "filed": "2026-07-22",
+   "path": "edgar/data/2102713/0001193125-26-311388.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "AMR Resources Acquisition Corp.",
    "form": "8-K",
@@ -1393,22 +1322,6 @@
    "cik": "2106436",
    "filed": "2026-07-17",
    "path": "edgar/data/2106436/0001213900-26-078814.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Samos Energy Acquisition Corp",
-   "form": "8-K",
-   "cik": "2125567",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2125567/0001213900-26-078382.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Yorkville Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2064658",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2064658/0001104659-26-083939.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
@@ -1449,14 +1362,6 @@
    "cik": "2096755",
    "filed": "2026-06-24",
    "path": "edgar/data/2096755/0001213900-26-071553.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Collective Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2115404",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2115404/0001213900-26-069661.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
@@ -1499,14 +1404,6 @@
    "cik": "2083910",
    "filed": "2026-07-17",
    "path": "edgar/data/2083910/0001213900-26-079130.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Samos Energy Acquisition Corp",
-   "form": "8-K",
-   "cik": "2125567",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2125567/0001213900-26-078382.txt",
    "note": "8-K: officer/director change"
   },
   {
@@ -1606,13 +1503,6 @@
    "path": "edgar/data/2133136/0001213900-26-078601.txt"
   },
   {
-   "company": "Southern Cross Acquisition I Corp.",
-   "form": "8-A12B",
-   "cik": "2116230",
-   "filed": "2026-07-15",
-   "path": "edgar/data/2116230/0001929980-26-000339.txt"
-  },
-  {
    "company": "Real Asset Acquisition Corp.",
    "form": "25-NSE",
    "cik": "2052161",
@@ -1681,16 +1571,21 @@
    "cik": "2048951",
    "filed": "2026-06-22",
    "path": "edgar/data/2048951/0001193125-26-276307.txt"
-  },
-  {
-   "company": "Texas Ventures Acquisition IV Corp",
-   "form": "8-A12B",
-   "cik": "2096755",
-   "filed": "2026-06-17",
-   "path": "edgar/data/2096755/0001213900-26-069521.txt"
   }
  ],
  "media": [
+  {
+   "title": "Nth Cycle eyes a modest SPAC merger - Axios",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHAtVnJhb1g5X2RfSzZEQnZsQlBfRm5tRm5BQ2pnazVGZXJWTTdWeFIyX1I3X3dJdUxTSmtKZzNsaFU5SUN0VjJsMkJlNnE3NlpOUzZkTXV0Y19fOC1sSE9sTVRucENHbzdhRE1IcUZTQzNScDllZUdRVklxTm9Vb01tcE1oTFZxQWpN?oc=5",
+   "published": "2026-07-22",
+   "source": "Axios"
+  },
+  {
+   "title": "Beverly metals refiner Nth Cycle to go public via SPAC deal - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHFvM2NhQXVYMldMMnQyMmt4NFljX0ZEYjFpRkxsWGFtTHU4Tms0eTV4V0M3WTJzelRMY1pBWUVBZEUyNXZxSE5GOExpdjhWWmR0Ukd5NEFBMjFkZ1FPLWlxLUl3SFJFSE9NUEVaQkxoNmVuVHpFWlg4bmdydmI1Tg?oc=5",
+   "published": "2026-07-22",
+   "source": "The Business Journals"
+  },
   {
    "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - Reuters",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFZULXFDZTMybXZIVjkwLXNpQ0Y4aUY3bVB3SmVCWFM2YzdlbnFJVjJqT3pTU0JnaEhqU2hQUjRJTWtDZ1NYa1Z4ZTByRDZIaEZxMmhveVA5cFF5bW1iM0dFelNuV2hiblF1cE5ta2dweUNIVmE0ajcwdWR6LW0tdkczTjBScnhKNnJNdXUxd0NoQUpGVFY0M0ZUYXItTnBtVVRsMDJhU2RjVGJUb3Z3WTZwaU1ad2JsZmJGT3Y3aw?oc=5",
@@ -1698,16 +1593,10 @@
    "source": "Reuters"
   },
   {
-   "title": "Paul Hastings, Sidley Guide Data-Center Co.'s $4B SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQNlhOQmttMklidVFnNGdqbFpRZl9fd0RPeVpyV0pyd1BHanI1LVZGWWhSY3N5cHRKVlhYUE1UOXBLTmRHQVM0OVlSb2pwemFfN2s1Mkxn0gFWQVVfeXFMUFA2WE5Ca20ySWJ1UWc0Z2psWlFmX193RE95WnJXSnJ3UEdqcjUtVkZZaFJjc3lwdEpWWFhQTVQ5cEtOZEdBUzQ5WVJvanB6YV83azUyTGc?oc=5",
+   "title": "Latham, Hughes Hubbard Lead Nth Cycle's $585M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QaDZxbHd0TTlELTg4TE1ieGtpTjBNSUgxY2ZKWW1VU3l3cDhMZ3RGMFFlZ0M1NDFiSmNfWGVMZ003V2kzaVlSRXgwazJ5X3A3NkVqMkx30gFWQVVfeXFMTVBoNnFsd3RNOUQtODhMTWJ4a2lOME1JSDFjZkpZbVVTeXdwOExndEYwUWVnQzU0MWJKY19YZUxnTTdXaTNpWVJFeDBrMnlfcDc2RWoyTHc?oc=5",
    "published": "2026-07-22",
    "source": "Law360"
-  },
-  {
-   "title": "U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1RYZjdRNXlsLUJWUDZwMVdGT05ITzExNllmMHFHdW1XZTg1eUJlaTRuZXdaOXNtVmkyWm0yX2puUnJ4NXk1WWM5cGo5NFN6RUZEdTE5OFRKVklkR0drRUs0cm5hNkxrdm1vdjNCaFFpQy1JOXlDX2VkMi12SU1FZE1QVGF6d1NVLU9PVjVjS201X0M4VXhKUnZoSmlKZWdWc2RIeDVKdTNDMjROd1JCZktBd3RObnRQNzRmZ3ozM0V1UQ?oc=5",
-   "published": "2026-07-22",
-   "source": "WSJ"
   },
   {
    "title": "Data Center Operator To Go Public Via SPAC Merger At $4B Valuation - Bisnow",
@@ -1716,16 +1605,10 @@
    "source": "Bisnow"
   },
   {
-   "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmFlbUZBYjBFZ211WDZpeFgzcXVZSENPYUZtWjhQTF9TZy1kTXpTTmpJZ2NLblNReS1WSXkyWmFheVJadXluanlFellLSkw3aWUyYXJzZ2trbmlxejJ6UUswOUk1SmEtN1dZblYycUVYeEpqNU5yZzRtcjRNRWpybGMtTnhOWFFvUTMta2VYdHdEakdzZTF6cjhScDUwN1pCa2VJYS1YbE82YTBGeVMyOTlUNTc5MkFLd3hBeHlaQWxlbXN3YzFidzFvdHJHdnVEaDZoMHlubTNhQQ?oc=5",
-   "published": "2026-07-22",
-   "source": "TradingView"
-  },
-  {
-   "title": "Tactical Resources Wins Nasdaq Approval Ahead of SPAC Deal Closing - IPO Edge",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjF4X0c2QlVFdFd3VF9GSDhUUVhtNjM0YnhkSEdXWWdYb3pST09DVlV5R1poTGV3dU1oSS1LRzYySWZ5MFFMWWc5ZThBSnNzWkhleWJqVmlfS2g0Mm1zRkFzOUlfUEY1LWV1TDhtNmkwcFQxUEgtYmlrZ00tR0QtZzU0ZXltZWYyQU1LN0EzSmFWUQ?oc=5",
-   "published": "2026-07-21",
-   "source": "IPO Edge"
+   "title": "General Fusion begins Nasdaq trading after US$1 billion SPAC merger - Cayman Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlcycTBCbUttVnRYZ1hxY21qRHRueVJmWWVZc3BsTmEzdEloNU90SjdNMk5VVEhxSmttd0Y1blJRLU5fbmVUc0hCMTRVell0Vlp5eFpPU3ZCcDVqVGFfZHpQMlZ6aURoVjcxWTZ4WmFlNTd5b2czT1lNSnFUYzRhRzlVdVN1V3JjcUR5c1VuNVpneHJuQldRbXJFQkJmcjRHOG05dm13?oc=5",
+   "published": "2026-07-23",
+   "source": "Cayman Finance"
   }
  ],
  "regs": []
