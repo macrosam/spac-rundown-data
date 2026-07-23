@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T12:15:29Z",
+ "generated_at": "2026-07-23T19:12:44Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1575,16 +1575,16 @@
  ],
  "media": [
   {
+   "title": "Data center developer TECfusions to go public on Nasdaq via SPAC merger - Data Center Dynamics",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWhONzZzR0hKN21WVi05ODdDVTk1N3EyS3RmU2JfMEZkTHRoNXpfM1V5cTJWN0J3SXRIZG5pc3pwTWIwTkxpbDhrbDVNZGlOUTE2SDRDUnBmX3NUamI5YUI4Vi1WR3J4ci1fX2xNaWp6NHVmTnN0VmtfeUZxOFo3T0p0bGlsSDRlaklhVTFOOHFjb3g1Y3RIcGZLaVhySVZkYnExM0x6THhMZk1hZnR2UFlkcXNnUQ?oc=5",
+   "published": "2026-07-23",
+   "source": "Data Center Dynamics"
+  },
+  {
    "title": "Nth Cycle eyes a modest SPAC merger - Axios",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHAtVnJhb1g5X2RfSzZEQnZsQlBfRm5tRm5BQ2pnazVGZXJWTTdWeFIyX1I3X3dJdUxTSmtKZzNsaFU5SUN0VjJsMkJlNnE3NlpOUzZkTXV0Y19fOC1sSE9sTVRucENHbzdhRE1IcUZTQzNScDllZUdRVklxTm9Vb01tcE1oTFZxQWpN?oc=5",
    "published": "2026-07-22",
    "source": "Axios"
-  },
-  {
-   "title": "Beverly metals refiner Nth Cycle to go public via SPAC deal - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHFvM2NhQXVYMldMMnQyMmt4NFljX0ZEYjFpRkxsWGFtTHU4Tms0eTV4V0M3WTJzelRMY1pBWUVBZEUyNXZxSE5GOExpdjhWWmR0Ukd5NEFBMjFkZ1FPLWlxLUl3SFJFSE9NUEVaQkxoNmVuVHpFWlg4bmdydmI1Tg?oc=5",
-   "published": "2026-07-22",
-   "source": "The Business Journals"
   },
   {
    "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - Reuters",
@@ -1593,22 +1593,22 @@
    "source": "Reuters"
   },
   {
-   "title": "Latham, Hughes Hubbard Lead Nth Cycle's $585M SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QaDZxbHd0TTlELTg4TE1ieGtpTjBNSUgxY2ZKWW1VU3l3cDhMZ3RGMFFlZ0M1NDFiSmNfWGVMZ003V2kzaVlSRXgwazJ5X3A3NkVqMkx30gFWQVVfeXFMTVBoNnFsd3RNOUQtODhMTWJ4a2lOME1JSDFjZkpZbVVTeXdwOExndEYwUWVnQzU0MWJKY19YZUxnTTdXaTNpWVJFeDBrMnlfcDc2RWoyTHc?oc=5",
+   "title": "Beverly metals refiner Nth Cycle to go public via SPAC deal - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHFvM2NhQXVYMldMMnQyMmt4NFljX0ZEYjFpRkxsWGFtTHU4Tms0eTV4V0M3WTJzelRMY1pBWUVBZEUyNXZxSE5GOExpdjhWWmR0Ukd5NEFBMjFkZ1FPLWlxLUl3SFJFSE9NUEVaQkxoNmVuVHpFWlg4bmdydmI1Tg?oc=5",
    "published": "2026-07-22",
-   "source": "Law360"
+   "source": "The Business Journals"
+  },
+  {
+   "title": "Critical mineral refiner Nth Cycle to list on NYSE in $585m SPAC deal - Mining Weekly",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0VFMGhCLTltbFBHaU9LTUhRLXg0a2JmNFFJaDZkRzdOUUtfZlNDeXJmVnBCVTlWcjM5MW82RHlUQW9nUExhV1h1V2ktamhEVVNjZHM5cC1zellVYWI1WWY5YkpISEVzZXZtMnFWRWZDV3BPblFTclkyMG0zVkNyR0hxTnpZa3VXczRVYVA0WGowNklRRC1DdTVFNFVYbVFaMTRDbl9BSWlwWHRydk5xLWZoWEhXVWs?oc=5",
+   "published": "2026-07-23",
+   "source": "Mining Weekly"
   },
   {
    "title": "Data Center Operator To Go Public Via SPAC Merger At $4B Valuation - Bisnow",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2VRdjlRdzNVLWdPZzZzSnVKY1JpYUFISWw1eWpqRkdhOWJJYVJIXzZZazVJLW1jQlpWdkt1ZHl6Qm9HNVRPNXotTnBPbEkyNXJiWENfblpjQ0JHQXBOMUhacmYwWUEtR1QzYjgxNkNLbVRSc1dfa0lockhDRkNrZkh0bTlpSGxtUmJ4UUJFTlVXRVRNVGJuc3lUU1EwUzZiOEJVeDVJNWQ1bW9hOUFvSE85OHYtMHc4Z3hUTUxLQ1ZudmZfSlNkWGc2QWw?oc=5",
    "published": "2026-07-22",
    "source": "Bisnow"
-  },
-  {
-   "title": "General Fusion begins Nasdaq trading after US$1 billion SPAC merger - Cayman Finance",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlcycTBCbUttVnRYZ1hxY21qRHRueVJmWWVZc3BsTmEzdEloNU90SjdNMk5VVEhxSmttd0Y1blJRLU5fbmVUc0hCMTRVell0Vlp5eFpPU3ZCcDVqVGFfZHpQMlZ6aURoVjcxWTZ4WmFlNTd5b2czT1lNSnFUYzRhRzlVdVN1V3JjcUR5c1VuNVpneHJuQldRbXJFQkJmcjRHOG05dm13?oc=5",
-   "published": "2026-07-23",
-   "source": "Cayman Finance"
   }
  ],
  "regs": []
