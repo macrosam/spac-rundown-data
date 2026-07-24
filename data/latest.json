@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T12:13:12Z",
+ "generated_at": "2026-07-24T19:14:15Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1517,16 +1517,16 @@
    "source": "Stock Titan"
   },
   {
+   "title": "After receiving a $150 million investment from Ripple, LMAX explores sale, SPAC merger, or IPO - Bitget",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UmxEVF9LbDZSWTVTSFJJY2F2VE1Ea2thOTFBVXJqU21CMGpxZmdkMnR5NlY3UnR2aF85VGZaaS1IQ3VvUDl0TVNLRzlTQ0pETDZkWnpTMEpWbFotQWpIRUNsY9IBY0FVX3lxTE45UmxEVF9LbDZSWTVTSFJJY2F2VE1Ea2thOTFBVXJqU21CMGpxZmdkMnR5NlY3UnR2aF85VGZaaS1IQ3VvUDl0TVNLRzlTQ0pETDZkWnpTMEpWbFotQWpIRUNsYw?oc=5",
+   "published": "2026-07-24",
+   "source": "Bitget"
+  },
+  {
    "title": "Data center developer TECfusions to go public on Nasdaq via SPAC merger - Data Center Dynamics",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWhONzZzR0hKN21WVi05ODdDVTk1N3EyS3RmU2JfMEZkTHRoNXpfM1V5cTJWN0J3SXRIZG5pc3pwTWIwTkxpbDhrbDVNZGlOUTE2SDRDUnBmX3NUamI5YUI4Vi1WR3J4ci1fX2xNaWp6NHVmTnN0VmtfeUZxOFo3T0p0bGlsSDRlaklhVTFOOHFjb3g1Y3RIcGZLaVhySVZkYnExM0x6THhMZk1hZnR2UFlkcXNnUQ?oc=5",
    "published": "2026-07-23",
    "source": "Data Center Dynamics"
-  },
-  {
-   "title": "Critical mineral refiner Nth Cycle to go public in $585 million SPAC deal - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFZULXFDZTMybXZIVjkwLXNpQ0Y4aUY3bVB3SmVCWFM2YzdlbnFJVjJqT3pTU0JnaEhqU2hQUjRJTWtDZ1NYa1Z4ZTByRDZIaEZxMmhveVA5cFF5bW1iM0dFelNuV2hiblF1cE5ta2dweUNIVmE0ajcwdWR6LW0tdkczTjBScnhKNnJNdXUxd0NoQUpGVFY0M0ZUYXItTnBtVVRsMDJhU2RjVGJUb3Z3WTZwaU1ad2JsZmJGT3Y3aw?oc=5",
-   "published": "2026-07-22",
-   "source": "Reuters"
   }
  ],
  "regs": []
