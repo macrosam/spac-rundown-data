@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T12:45:47Z",
+ "generated_at": "2026-07-27T19:14:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1438,10 +1438,22 @@
  ],
  "media": [
   {
+   "title": "InoBat to Go Public in $1.27 Billion SPAC Deal to Expand Battery Storage Business - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzlKb0QwdUNFWndoT0JKaF9ZTnNZTzlfb1hkRm4xdUYzemxXbUNXNnhJUEVEZ3VWNDNhMnlUZG9lRFNpNzdUcHVuOThXX1pJUFFFTFRULUVFUTdCbER2VW9uU0xRcUo2T3I4UUJGV0l3bzlqanczWlIxT2o0S21SNjhqc193ekJZXzNLeUJ4V1RUV19UQmpLNzZOMmFPcWROcklXcEpWbFdacEVXT2RwYzhkTDZGRm5UaDZz?oc=5",
+   "published": "2026-07-27",
+   "source": "citybiz"
+  },
+  {
    "title": "Blank Check Company Karman Line Acquisition Corp To Offer 20,000,000 Units For $200 Million - SEC Filing - TradingView",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXEzbVlPRzN2MXJkaVFnLVY5TGg4blA1TFowNUNVOGJYT0ZMLWl4SVo3ejRicjhjRXZyNVJ2elNLVFQ0SG8xZC0xeVZOcHNDRHFHR3NpXzFJZThCSUQxQXVqc3lqQnB1alRXMHdlczI2Tll5QjFTbnpmRzdPOVkzY1hNMzZ0ZGVsM1NXUHQtU2dHYVdBRDgtMHhnejFpY3NQY1NiZVhIazNrN0xRdlpyVU5DbmpHTFdjWjg1UnFQSERkSTEzeDRackhNRk5tajgwYUs3X2pmTWFFUlFFRlNiMHUzRzM2VHpuNFBNcmlsMVpPMG56U1hKSU1VX2xsZ3Bh?oc=5",
    "published": "2026-07-27",
    "source": "TradingView"
+  },
+  {
+   "title": "InoBat\u2013Cartesian Growth II (REEUF) deal values battery firm at $1.265B - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3VyX1pBRWNLaTUyUjk4WGZCaE1TWWQtSHNFZWtaSUZfaEdCVmNEaWxmMVlIOWtiaVhqc1R3REQwb3JQbVJKd1pidHhSQ3RWR0IxZDY3S19mX0ZZQTlKY19lOVFkRldpZVktNjQySXFOUWx2cXNyazNtaTk0V05kN2NvWVhkb3djZllOS3RNX2Fia1JYdnh1eG1HaDVJZ0ZGd1BVS2I2bzc0UjZiaG9NVlZsVkRRdnZmTzFGZDBFckpUOGtt?oc=5",
+   "published": "2026-07-27",
+   "source": "Stock Titan"
   },
   {
    "title": "Nth Cycle announces public debut under NTH ticker, following $585 million SPAC merger - Teknovation.biz",
@@ -1459,18 +1471,6 @@
    "title": "LMAX Weighs $5 Billion IPO at Nearly 50 Times Its Last Reported EBITDA - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmFId0l1dm5SMFVRcEJScmU5NDkydjktbEYtemxUMkxmcHY4RFVoazZHSXVrNFUtTXdKRUUyN1BSQVZtWFBlVi1vdElna19rTVRJMDZQRU5XeF9MdnpZWE9qTGd2NEgwLWg0NG0tSllpY0Q4eXprNEd5RlNCWkN5NkFPVFJSdzJSNW03LUllTmlwWTk0cVd2MmpHbkVZUVhGbUxIOHZpdkhFN3MtWHB5UmtOR0pMRFJ2ZmE1YzVoLWpjOTJzcWVVbTB0eG1CZWp1?oc=5",
    "published": "2026-07-27",
-   "source": "TradingView"
-  },
-  {
-   "title": "RA Capital backs upstart rival to Ultragenyx and Ionis in rare brain disease - STAT",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnBqbTdfSVluTjdzSVBIaDVaQWdackQwNnJKd05YSmh5TkVPYXQyZWxuMkRoSVdLdFlmVmV2OUxwMjZrQkdWQl8tUXcxbnVsMGhYSEVVdjNVY1kwQ3hwUm8tdWZRVEQ5TE1teDNDVHZCX2RLOEx0aFhSSlNUckVZQlZwV3JkOHJOY3YwaTVZdTBKaWhSdk9kemxTeTVSZk43OWc?oc=5",
-   "published": "2026-07-27",
-   "source": "STAT"
-  },
-  {
-   "title": "Tribeca Strategic Acquisition Corp. Financial Statements \u2013 NASDAQ:BIDWR - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWEtqbnd4cTJkcVBPZTU4c095Z2ZxUHpma0lNN09XUWdQb3RiMTI1anQ4TDUyRDRqdEhkT2hwVUlFeFVra0JBLWlrbUxMeVVYbEVUR3FEQ2xDOUxJLWwyNTh4R3pFcG1fdHVZU2pxdnIwNXJJTnpNMw?oc=5",
-   "published": "2026-07-25",
    "source": "TradingView"
   }
  ],
