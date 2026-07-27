@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-07-24T19:14:15Z",
+ "generated_at": "2026-07-27T12:45:47Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2098410",
+   "filed": "2026-07-24",
+   "path": "edgar/data/2098410/0001104659-26-086682.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "K2 Capital Acquisition II Corp.",
+   "form": "S-1",
+   "cik": "2145384",
+   "filed": "2026-07-24",
+   "path": "edgar/data/2145384/0001213900-26-081485.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "NorthStrive Acquisition Corp I.",
    "form": "S-1",
@@ -68,20 +84,20 @@
  ],
  "pricings": [
   {
+   "company": "Pelican Acquisition II Corp",
+   "form": "424B4",
+   "cik": "2122392",
+   "filed": "2026-07-24",
+   "path": "edgar/data/2122392/0001829126-26-007833.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: target businesses within the technology industry globally (auto-extracted)"
+  },
+  {
    "company": "Southern Cross Acquisition I Corp.",
    "form": "424B4",
    "cik": "2116230",
    "filed": "2026-07-21",
    "path": "edgar/data/2116230/0001929980-26-000373.txt",
    "blurb": "offering $5,000,001; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "424B4",
-   "cik": "2110119",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2110119/0001213900-26-079231.txt",
-   "blurb": "offering $250,000,000; $10.00/unit; focus: target businesses in the mineral resources sector, we may pursue an acquisition opportunity in any business, industry, sector or geographica (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
@@ -230,6 +246,14 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-07-24",
+   "path": "edgar/data/2057030/0001213900-26-081484.txt",
+   "blurb": "business combination with Axiom Intelligence Acquisition Corp 1 (auto-extracted)"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -406,61 +430,6 @@
    "filed": "2026-07-20",
    "path": "edgar/data/2028614/0001213900-26-079678.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "425",
-   "cik": "2026767",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2026767/0001493152-26-033739.txt",
-   "blurb": "business combination with GoodVision (auto-extracted)"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-07-17",
-   "path": "edgar/data/1834032/0001213900-26-078825.txt",
-   "blurb": "business combination with CSTA (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. V",
-   "form": "425",
-   "cik": "2028355",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2028355/0001213900-26-079198.txt",
-   "blurb": "business combination with IPEX (auto-extracted)"
-  },
-  {
-   "company": "Four Leaf Acquisition Corp",
-   "form": "8-K",
-   "cik": "1936255",
-   "filed": "2026-07-17",
-   "path": "edgar/data/1936255/0001213900-26-078905.txt",
-   "note": "8-K: termination of material agreement"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. V",
-   "form": "8-K",
-   "cik": "2028355",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2028355/0001213900-26-079194.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Mercator Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2106436",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2106436/0001213900-26-078814.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Cayson Acquisition Corp",
-   "form": "F-4/A",
-   "cik": "2024203",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2024203/0001493152-26-033753.txt"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -1024,14 +993,6 @@
    "blurb": "extension on the agenda (auto-extracted)"
   },
   {
-   "company": "Mercator Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2106436",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2106436/0001213900-26-078814.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
    "company": "Ares Acquisition Corp III",
    "form": "8-K",
    "cik": "2128115",
@@ -1242,14 +1203,6 @@
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
-   "company": "Mercator Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2106436",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2106436/0001213900-26-078814.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
    "company": "Ares Acquisition Corp III",
    "form": "8-K",
    "cik": "2128115",
@@ -1292,6 +1245,14 @@
  ],
  "sponsors": [
   {
+   "company": "Renatus Tactical Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2035173",
+   "filed": "2026-07-24",
+   "path": "edgar/data/2035173/0001213900-26-081384.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Southern Cross Acquisition I Corp.",
    "form": "8-K",
    "cik": "2116230",
@@ -1321,22 +1282,6 @@
    "cik": "2041047",
    "filed": "2026-07-20",
    "path": "edgar/data/2041047/0001213900-26-079700.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Activate Energy Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2083689",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2083689/0001213900-26-078867.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Archimedes Tech SPAC Partners III Co.",
-   "form": "8-K",
-   "cik": "2083910",
-   "filed": "2026-07-17",
-   "path": "edgar/data/2083910/0001213900-26-079130.txt",
    "note": "8-K: officer/director change"
   },
   {
@@ -1493,40 +1438,40 @@
  ],
  "media": [
   {
-   "title": "3 Firms Guide Health Wellness Co.'s $650M SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UHFDbVVZcU40aGIwX01CRDJUM1lpZW9nYl9iOTJPTXdoN2R5OTdESFR6ZGgtOUU0WXpOVmpxNUxBMU9US3g4Q000aUpTQlotazVpLXB30gFWQVVfeXFMTnpQcUNtVVlxTjRoYjBfTUJEMlQzWWllb2diX2I5Mk9Nd2g3ZHk5N0RIVHpkaC05RTRZek5WanE1TEExT1RLeDhDTTRpSlNCWi1rNWktcHc?oc=5",
-   "published": "2026-07-24",
-   "source": "Law360"
-  },
-  {
-   "title": "Freenome Amends SPAC Merger Pact to Set Seven-Member Board After Closing - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNERhcUp3ZmJBZlk4Wmd0VnpZb3cxOTlZZmtwcUU5MklodlVFMmNKNU1TYkliRk9udmJYMzhESWlGVWxTN2RMd0xhS2hfME94ZUJvQlJOM3lQNlNSN2VRQmgtVzZ0NTY3cm9rSTVoNk9SbjBlNl9zSS1qdkpNcmRpUXNMSFhrMW1hYlp4ZEo3N3ZUTW5zWTFoU184MGJPMHFhanZjUERoWHZCZkdvRXp6ZGdvdFN5alNFOTZneFZ4QmVwVjVVOFZfNEJYd3JQX00?oc=5",
-   "published": "2026-07-24",
+   "title": "Blank Check Company Karman Line Acquisition Corp To Offer 20,000,000 Units For $200 Million - SEC Filing - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXEzbVlPRzN2MXJkaVFnLVY5TGg4blA1TFowNUNVOGJYT0ZMLWl4SVo3ejRicjhjRXZyNVJ2elNLVFQ0SG8xZC0xeVZOcHNDRHFHR3NpXzFJZThCSUQxQXVqc3lqQnB1alRXMHdlczI2Tll5QjFTbnpmRzdPOVkzY1hNMzZ0ZGVsM1NXUHQtU2dHYVdBRDgtMHhnejFpY3NQY1NiZVhIazNrN0xRdlpyVU5DbmpHTFdjWjg1UnFQSERkSTEzeDRackhNRk5tajgwYUs3X2pmTWFFUlFFRlNiMHUzRzM2VHpuNFBNcmlsMVpPMG56U1hKSU1VX2xsZ3Bh?oc=5",
+   "published": "2026-07-27",
    "source": "TradingView"
   },
   {
-   "title": "Scoop: Nth Cycle canceled $50M raise before pivoting to SPAC merger - Axios",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlFpNWFaR1VFM0JLUmVIZDdWS2pLZWRVSVNaUWxzRWVMcDdLZDNfQUJZUmxxbVVsRm5uTlhTRDVqNUs5X09mX3NsT2JBeGwtQ1VoNUVEQ2xaMzZxUVlEWFlwRGl0MnprNzZNbUtNNlpSejU1Z29KRUNBeGVOSHgyUFlHWmptVTJoeHNSV08yMzVtS2NNa2lsSUk2Ry05bWc?oc=5",
-   "published": "2026-07-23",
-   "source": "Axios"
+   "title": "Nth Cycle announces public debut under NTH ticker, following $585 million SPAC merger - Teknovation.biz",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHdDT29ybG95eUtNZTgxaUE3enhPT0tTdzl4dmdTVGdRTTFRdWRZSl9zX0RXeWFhQlhEaEd6ZXBld0g3YnYyYzRNWVMwdkxDRHdkYnBHRnJxWFcxRTFURHFRNldzdmlCUjBjVWlxNlY5bWdlZDQ4aDRMaEc1X3lpOVM4ZWZpeEZwckZlbzB2YWtLTTFOb1A3UFVnVExYTUNKVHBWX09VclBsUElSMFE1NUd3?oc=5",
+   "published": "2026-07-26",
+   "source": "Teknovation.biz"
   },
   {
-   "title": "Freenome, Inc. (FRNM) closes SPAC deal, nets $310.3M and new backers - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWG1zZXdWNXdmZnNQTVoyT0FRNlg4ejBSaTAwT01yYUwyRFQyN3dhOVIyRHVpYWNpeWowSWtYV3pYeW9pTU5WRFk5U2pVS0tkMk45aHJ1ZmQwVGZGWUpIZmhfTExmdmJCREhRWko0Y1JkRU5JYkxoSG1zcWZEMzAwMFp0WVlXZTNfSnU5a24xTmFFYzBNdkdCZ0U1Tk1mVloxQjhGRm04LU5LZnJNbUlxVnBtMnVkeVBEWmU1cW9uWQ?oc=5",
-   "published": "2026-07-24",
-   "source": "Stock Titan"
+   "title": "Research Alliance to Acquire OHB Pediatrics in Stock Deal Valued at $160 Million Plus SAFEs - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1Ffbm84a1V4Mm9vb0JXS1o1cnNVTXBPVUxwWmVDME5zemViT0FYYVI5OGtTWng2Sno4M0k4OHJpeGRhaXJMN2VWSWpuaGJYOU5JUWVQM1p4LW9vYnpibjZQNE5aSnFFV2UycFN3bU8wd0xkYkluZU9CcGpwTF92b2xhY1FlWmhuSnAzb1VDTS03NE5DYXhuZXBtVU1kZ2ZMYS1zQzNPQVowdmJ5SzRtalNpYUlaY0NEeG1HYnNPeVhkYUNjNy1tSE1Xb3dQSGxnQTRGbkw5cHJIQ2I3Sk53NlVvOXlsR00?oc=5",
+   "published": "2026-07-27",
+   "source": "TradingView"
   },
   {
-   "title": "After receiving a $150 million investment from Ripple, LMAX explores sale, SPAC merger, or IPO - Bitget",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UmxEVF9LbDZSWTVTSFJJY2F2VE1Ea2thOTFBVXJqU21CMGpxZmdkMnR5NlY3UnR2aF85VGZaaS1IQ3VvUDl0TVNLRzlTQ0pETDZkWnpTMEpWbFotQWpIRUNsY9IBY0FVX3lxTE45UmxEVF9LbDZSWTVTSFJJY2F2VE1Ea2thOTFBVXJqU21CMGpxZmdkMnR5NlY3UnR2aF85VGZaaS1IQ3VvUDl0TVNLRzlTQ0pETDZkWnpTMEpWbFotQWpIRUNsYw?oc=5",
-   "published": "2026-07-24",
-   "source": "Bitget"
+   "title": "LMAX Weighs $5 Billion IPO at Nearly 50 Times Its Last Reported EBITDA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmFId0l1dm5SMFVRcEJScmU5NDkydjktbEYtemxUMkxmcHY4RFVoazZHSXVrNFUtTXdKRUUyN1BSQVZtWFBlVi1vdElna19rTVRJMDZQRU5XeF9MdnpZWE9qTGd2NEgwLWg0NG0tSllpY0Q4eXprNEd5RlNCWkN5NkFPVFJSdzJSNW03LUllTmlwWTk0cVd2MmpHbkVZUVhGbUxIOHZpdkhFN3MtWHB5UmtOR0pMRFJ2ZmE1YzVoLWpjOTJzcWVVbTB0eG1CZWp1?oc=5",
+   "published": "2026-07-27",
+   "source": "TradingView"
   },
   {
-   "title": "Data center developer TECfusions to go public on Nasdaq via SPAC merger - Data Center Dynamics",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWhONzZzR0hKN21WVi05ODdDVTk1N3EyS3RmU2JfMEZkTHRoNXpfM1V5cTJWN0J3SXRIZG5pc3pwTWIwTkxpbDhrbDVNZGlOUTE2SDRDUnBmX3NUamI5YUI4Vi1WR3J4ci1fX2xNaWp6NHVmTnN0VmtfeUZxOFo3T0p0bGlsSDRlaklhVTFOOHFjb3g1Y3RIcGZLaVhySVZkYnExM0x6THhMZk1hZnR2UFlkcXNnUQ?oc=5",
-   "published": "2026-07-23",
-   "source": "Data Center Dynamics"
+   "title": "RA Capital backs upstart rival to Ultragenyx and Ionis in rare brain disease - STAT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnBqbTdfSVluTjdzSVBIaDVaQWdackQwNnJKd05YSmh5TkVPYXQyZWxuMkRoSVdLdFlmVmV2OUxwMjZrQkdWQl8tUXcxbnVsMGhYSEVVdjNVY1kwQ3hwUm8tdWZRVEQ5TE1teDNDVHZCX2RLOEx0aFhSSlNUckVZQlZwV3JkOHJOY3YwaTVZdTBKaWhSdk9kemxTeTVSZk43OWc?oc=5",
+   "published": "2026-07-27",
+   "source": "STAT"
+  },
+  {
+   "title": "Tribeca Strategic Acquisition Corp. Financial Statements \u2013 NASDAQ:BIDWR - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWEtqbnd4cTJkcVBPZTU4c095Z2ZxUHpma0lNN09XUWdQb3RiMTI1anQ4TDUyRDRqdEhkT2hwVUlFeFVra0JBLWlrbUxMeVVYbEVUR3FEQ2xDOUxJLWwyNTh4R3pFcG1fdHVZU2pxdnIwNXJJTnpNMw?oc=5",
+   "published": "2026-07-25",
+   "source": "TradingView"
   }
  ],
  "regs": []
