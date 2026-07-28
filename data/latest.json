@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-07-27T19:14:06Z",
+ "generated_at": "2026-07-28T12:23:51Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2134856",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2134856/0001829126-26-007847.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "S-1",
@@ -33,14 +41,6 @@
    "cik": "2123955",
    "filed": "2026-07-22",
    "path": "edgar/data/2123955/0001213900-26-080433.txt"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2137965",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2137965/0001193125-26-308950.txt",
-   "blurb": "offering $75,000,000; $10.00./unit (auto-extracted)"
   },
   {
    "company": "Gold Mountain Acquisition Corp.",
@@ -83,6 +83,22 @@
   }
  ],
  "pricings": [
+  {
+   "company": "RF Acquisition Corp II",
+   "form": "424B3",
+   "cik": "2012807",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2012807/0001829126-26-007878.txt",
+   "blurb": "offering $1,500,000,000; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Market Technology Acquisition Corp",
+   "form": "424B4",
+   "cik": "2133136",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2133136/0001213900-26-081597.txt",
+   "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Pelican Acquisition II Corp",
    "form": "424B4",
@@ -157,6 +173,22 @@
   }
  ],
  "amends": [
+  {
+   "company": "BOA Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2080216",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2080216/0001193125-26-318212.txt",
+   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Watu Metals Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2115659",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2115659/0001829126-26-007852.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Market Technology Acquisition Corp",
    "form": "S-1/A",
@@ -246,6 +278,43 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2028516/0001104659-26-087145.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
+  },
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-07-27",
+   "path": "edgar/data/1926599/0001104659-26-087089.txt"
+  },
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1926599",
+   "filed": "2026-07-27",
+   "path": "edgar/data/1926599/0001104659-26-087086.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "S-4/A",
+   "cik": "1882198",
+   "filed": "2026-07-27",
+   "path": "edgar/data/1882198/0001213900-26-081541.txt"
+  },
+  {
+   "company": "IB Acquisition Corp.",
+   "form": "S-4",
+   "cik": "1998781",
+   "filed": "2026-07-24",
+   "path": "edgar/data/1998781/0001493152-26-034626.txt"
+  },
   {
    "company": "Axiom Intelligence Acquisition Corp 1",
    "form": "425",
@@ -392,44 +461,6 @@
    "cik": "2053927",
    "filed": "2026-07-21",
    "path": "edgar/data/2053927/0001829126-26-007691.txt"
-  },
-  {
-   "company": "Compass Digital Acquisition Corp.",
-   "form": "425",
-   "cik": "1851909",
-   "filed": "2026-07-20",
-   "path": "edgar/data/1851909/0001493152-26-033936.txt"
-  },
-  {
-   "company": "Drugs Made In America Acquisition Corp.",
-   "form": "425",
-   "cik": "2028614",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2028614/0001213900-26-079686.txt"
-  },
-  {
-   "company": "COLLECTIVE ACQUISITION CORP.",
-   "form": "8-K",
-   "cik": "2041047",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2041047/0001213900-26-079700.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Compass Digital Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1851909",
-   "filed": "2026-07-20",
-   "path": "edgar/data/1851909/0001493152-26-033934.txt",
-   "note": "8-K: termination of material agreement"
-  },
-  {
-   "company": "Drugs Made In America Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2028614",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2028614/0001213900-26-079678.txt",
-   "note": "8-K: entry into material definitive agreement"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -873,37 +904,17 @@
    "filed": "2026-06-23",
    "path": "edgar/data/2085659/0001213900-26-071185.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-06-22",
-   "path": "edgar/data/1834032/0001213900-26-070648.txt"
-  },
-  {
-   "company": "Real Asset Acquisition Corp.",
-   "form": "425",
-   "cik": "2052161",
-   "filed": "2026-06-22",
-   "path": "edgar/data/2052161/0001213900-26-070359.txt"
-  },
-  {
-   "company": "Real Asset Acquisition Corp.",
-   "form": "425",
-   "cik": "2052161",
-   "filed": "2026-06-22",
-   "path": "edgar/data/2052161/0001213900-26-070635.txt"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "425",
-   "cik": "1926599",
-   "filed": "2026-06-22",
-   "path": "edgar/data/1926599/0001193125-26-276612.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2010653/0001829126-26-007886.txt",
+   "note": "8-K: shareholder vote results"
+  },
   {
    "company": "Four Leaf Acquisition Corp",
    "form": "8-K",
@@ -959,38 +970,6 @@
    "filed": "2026-07-21",
    "path": "edgar/data/2012807/0001829126-26-007713.txt",
    "blurb": "meeting August 15, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Compass Digital Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1851909",
-   "filed": "2026-07-20",
-   "path": "edgar/data/1851909/0001493152-26-033934.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "FutureTech II Acquisition Corp.",
-   "form": "DEF 14A",
-   "cik": "1889450",
-   "filed": "2026-07-20",
-   "path": "edgar/data/1889450/0001493152-26-033944.txt",
-   "blurb": "meeting August 13, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. V",
-   "form": "DEF 14A",
-   "cik": "2028355",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2028355/0001213900-26-079622.txt",
-   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Andretti Acquisition Corp. II",
-   "form": "PRE 14A",
-   "cik": "2025341",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2025341/0001213900-26-079665.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -1151,25 +1130,17 @@
    "filed": "2026-06-23",
    "path": "edgar/data/2041047/0001213900-26-070790.txt",
    "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Live Oak Acquisition Corp. V",
-   "form": "8-K",
-   "cik": "2048951",
-   "filed": "2026-06-22",
-   "path": "edgar/data/2048951/0001213900-26-070289.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "PRE 14A",
-   "cik": "1889983",
-   "filed": "2026-06-22",
-   "path": "edgar/data/1889983/0001213900-26-070674.txt",
-   "blurb": "meeting July 24, 2024; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1926599",
+   "filed": "2026-07-27",
+   "path": "edgar/data/1926599/0001104659-26-087086.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Southern Cross Acquisition I Corp.",
    "form": "8-K",
@@ -1277,14 +1248,6 @@
    "note": "8-K: officer/director change"
   },
   {
-   "company": "COLLECTIVE ACQUISITION CORP.",
-   "form": "8-K",
-   "cik": "2041047",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2041047/0001213900-26-079700.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
    "company": "Futurewave Acquisition Corp",
    "form": "8-K",
    "cik": "2116105",
@@ -1351,19 +1314,18 @@
  ],
  "exchanges": [
   {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2104391",
+   "filed": "2026-07-27",
+   "path": "edgar/data/2104391/0001213900-26-081776.txt"
+  },
+  {
    "company": "Pelican Acquisition II Corp",
    "form": "8-A12B",
    "cik": "2122392",
    "filed": "2026-07-23",
    "path": "edgar/data/2122392/0001829126-26-007768.txt"
-  },
-  {
-   "company": "DT Cloud Star Acquisition Corp",
-   "form": "8-K",
-   "cik": "2017950",
-   "filed": "2026-07-20",
-   "path": "edgar/data/2017950/0001493152-26-033932.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   },
   {
    "company": "Real Asset Acquisition Corp.",
@@ -1420,40 +1382,32 @@
    "cik": "2102155",
    "filed": "2026-06-23",
    "path": "edgar/data/2102155/0000876661-26-000550.txt"
-  },
-  {
-   "company": "Live Oak Acquisition Corp. V",
-   "form": "25-NSE",
-   "cik": "2048951",
-   "filed": "2026-06-22",
-   "path": "edgar/data/2048951/0001354457-26-000605.txt"
-  },
-  {
-   "company": "Live Oak Acquisition Corp. V",
-   "form": "8-A12B",
-   "cik": "2048951",
-   "filed": "2026-06-22",
-   "path": "edgar/data/2048951/0001193125-26-276307.txt"
   }
  ],
  "media": [
   {
-   "title": "InoBat to Go Public in $1.27 Billion SPAC Deal to Expand Battery Storage Business - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzlKb0QwdUNFWndoT0JKaF9ZTnNZTzlfb1hkRm4xdUYzemxXbUNXNnhJUEVEZ3VWNDNhMnlUZG9lRFNpNzdUcHVuOThXX1pJUFFFTFRULUVFUTdCbER2VW9uU0xRcUo2T3I4UUJGV0l3bzlqanczWlIxT2o0S21SNjhqc193ekJZXzNLeUJ4V1RUV19UQmpLNzZOMmFPcWROcklXcEpWbFdacEVXT2RwYzhkTDZGRm5UaDZz?oc=5",
+   "title": "Finance Watch: Scribe Launches IPO, Oak Hill Going Public Via SPAC Merger - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTEtQOXVUMTRJcnBhSzBOOFZBQVVjcWFzbV9Ea2tWSlJ0dEIteUFxZDEwV1d3Q3Bsa21NUXlFWWtMNFhtR3pSYjNSdUpNQUx5eVRIcGlva19QWmFkZk0yUlBpZXlkNzJyZzA5WlViQS1wamI4M0EyLTRUcjdTcm5UeEdTR1phMWJncm96N1EzMEUtSkx2blZPVkVpZXdkYWtkb0R6STQwSUozRV9XN2VrX2JfNnNNV2FpWENRRHZoWU5hOXNuQ1Ztc3BsSkF5SFJtWVdLU3VVcXB2Smk0d2RaUGZ5OXNJZDBBbjBSUC14Qm93RURjSE5wbTBXd3k?oc=5",
    "published": "2026-07-27",
-   "source": "citybiz"
+   "source": "insights.citeline.com"
   },
   {
-   "title": "Blank Check Company Karman Line Acquisition Corp To Offer 20,000,000 Units For $200 Million - SEC Filing - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXEzbVlPRzN2MXJkaVFnLVY5TGg4blA1TFowNUNVOGJYT0ZMLWl4SVo3ejRicjhjRXZyNVJ2elNLVFQ0SG8xZC0xeVZOcHNDRHFHR3NpXzFJZThCSUQxQXVqc3lqQnB1alRXMHdlczI2Tll5QjFTbnpmRzdPOVkzY1hNMzZ0ZGVsM1NXUHQtU2dHYVdBRDgtMHhnejFpY3NQY1NiZVhIazNrN0xRdlpyVU5DbmpHTFdjWjg1UnFQSERkSTEzeDRackhNRk5tajgwYUs3X2pmTWFFUlFFRlNiMHUzRzM2VHpuNFBNcmlsMVpPMG56U1hKSU1VX2xsZ3Bh?oc=5",
-   "published": "2026-07-27",
-   "source": "TradingView"
+   "title": "Oak Hill takes SPAC track to Nasdaq with Roche asset in tow - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNW4xekFMMnJuVzdqUmxTYk92LWRkdl9XT3l6bGtXc3RwZm5BaEtJbXZraUhoR0wwYkhObXpLeGJYVHhZR19IT3FTaDh4UzZvSTdBZHpkdzlPdENsUWRqMlVqd2NkUXAzUVNJd0U1eDNWV3IxbUNTS2MzQmdSaFpHaE9rMXdvZHF1OUwxM0ViaWE1R1I2Vi1hTg?oc=5",
+   "published": "2026-07-28",
+   "source": "BioSpace"
   },
   {
-   "title": "InoBat\u2013Cartesian Growth II (REEUF) deal values battery firm at $1.265B - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3VyX1pBRWNLaTUyUjk4WGZCaE1TWWQtSHNFZWtaSUZfaEdCVmNEaWxmMVlIOWtiaVhqc1R3REQwb3JQbVJKd1pidHhSQ3RWR0IxZDY3S19mX0ZZQTlKY19lOVFkRldpZVktNjQySXFOUWx2cXNyazNtaTk0V05kN2NvWVhkb3djZllOS3RNX2Fia1JYdnh1eG1HaDVJZ0ZGd1BVS2I2bzc0UjZiaG9NVlZsVkRRdnZmTzFGZDBFckpUOGtt?oc=5",
+   "title": "Cambridge biotech to go public via RA Capital-backed SPAC - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hdWltOUM2eElocmZDaGwyUHlSa0JEbEJqOWtLejdVeExfaXFoRXJUVWF2UTd0UVc2ZlRTLWhMcV83OWRkUnZJSGd5TmZNTkVxNWY3MmE5LWVmTHh6QlpDVGdEZHJCOS1YRDRxZUgxQmJSdTFMT3ljUnVubTE5QQ?oc=5",
    "published": "2026-07-27",
-   "source": "Stock Titan"
+   "source": "The Business Journals"
+  },
+  {
+   "title": "Oak Hill to get $175M cash infusion in merger with RA Capital-backed SPAC - FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TREVPNlV5STF1TEEzNkFjOGVWQ29YZERxMllzbWtUTGVqOUt0cmkzUElVLUtQOUExTzUwQTJZekstODVnQkRCVERqNGgxQmJfX1pv?oc=5",
+   "published": "2026-07-28",
+   "source": "FirstWord Pharma"
   },
   {
    "title": "Nth Cycle announces public debut under NTH ticker, following $585 million SPAC merger - Teknovation.biz",
@@ -1462,14 +1416,8 @@
    "source": "Teknovation.biz"
   },
   {
-   "title": "Research Alliance to Acquire OHB Pediatrics in Stock Deal Valued at $160 Million Plus SAFEs - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1Ffbm84a1V4Mm9vb0JXS1o1cnNVTXBPVUxwWmVDME5zemViT0FYYVI5OGtTWng2Sno4M0k4OHJpeGRhaXJMN2VWSWpuaGJYOU5JUWVQM1p4LW9vYnpibjZQNE5aSnFFV2UycFN3bU8wd0xkYkluZU9CcGpwTF92b2xhY1FlWmhuSnAzb1VDTS03NE5DYXhuZXBtVU1kZ2ZMYS1zQzNPQVowdmJ5SzRtalNpYUlaY0NEeG1HYnNPeVhkYUNjNy1tSE1Xb3dQSGxnQTRGbkw5cHJIQ2I3Sk53NlVvOXlsR00?oc=5",
-   "published": "2026-07-27",
-   "source": "TradingView"
-  },
-  {
-   "title": "LMAX Weighs $5 Billion IPO at Nearly 50 Times Its Last Reported EBITDA - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmFId0l1dm5SMFVRcEJScmU5NDkydjktbEYtemxUMkxmcHY4RFVoazZHSXVrNFUtTXdKRUUyN1BSQVZtWFBlVi1vdElna19rTVRJMDZQRU5XeF9MdnpZWE9qTGd2NEgwLWg0NG0tSllpY0Q4eXprNEd5RlNCWkN5NkFPVFJSdzJSNW03LUllTmlwWTk0cVd2MmpHbkVZUVhGbUxIOHZpdkhFN3MtWHB5UmtOR0pMRFJ2ZmE1YzVoLWpjOTJzcWVVbTB0eG1CZWp1?oc=5",
+   "title": "Blank Check Company Karman Line Acquisition Corp To Offer 20,000,000 Units For $200 Million - SEC Filing - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXEzbVlPRzN2MXJkaVFnLVY5TGg4blA1TFowNUNVOGJYT0ZMLWl4SVo3ejRicjhjRXZyNVJ2elNLVFQ0SG8xZC0xeVZOcHNDRHFHR3NpXzFJZThCSUQxQXVqc3lqQnB1alRXMHdlczI2Tll5QjFTbnpmRzdPOVkzY1hNMzZ0ZGVsM1NXUHQtU2dHYVdBRDgtMHhnejFpY3NQY1NiZVhIazNrN0xRdlpyVU5DbmpHTFdjWjg1UnFQSERkSTEzeDRackhNRk5tajgwYUs3X2pmTWFFUlFFRlNiMHUzRzM2VHpuNFBNcmlsMVpPMG56U1hKSU1VX2xsZ3Bh?oc=5",
    "published": "2026-07-27",
    "source": "TradingView"
   }
