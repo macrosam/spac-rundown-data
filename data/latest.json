@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T19:13:39Z",
+ "generated_at": "2026-07-29T12:27:30Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -84,6 +84,14 @@
  ],
  "pricings": [
   {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2104391",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2104391/0001213900-26-081980.txt",
+   "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "RF Acquisition Corp II",
    "form": "424B3",
    "cik": "2012807",
@@ -106,14 +114,6 @@
    "filed": "2026-07-24",
    "path": "edgar/data/2122392/0001829126-26-007833.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: target businesses within the technology industry globally (auto-extracted)"
-  },
-  {
-   "company": "Southern Cross Acquisition I Corp.",
-   "form": "424B4",
-   "cik": "2116230",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2116230/0001929980-26-000373.txt",
-   "blurb": "offering $5,000,001; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
@@ -174,6 +174,14 @@
  ],
  "amends": [
   {
+   "company": "Dune Acquisition Corp III",
+   "form": "S-1/A",
+   "cik": "2095476",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2095476/0001213900-26-081909.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "BOA Acquisition Corp. II",
    "form": "S-1/A",
    "cik": "2080216",
@@ -196,30 +204,6 @@
    "filed": "2026-07-22",
    "path": "edgar/data/2133136/0001213900-26-080237.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition II",
-   "form": "S-1/A",
-   "cik": "2094710",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2094710/0001493152-26-034055.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "S-1/A",
-   "cik": "2080216",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2080216/0001193125-26-309670.txt",
-   "blurb": "offering $125,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Pine Tree Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2076561",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2076561/0001477932-26-004429.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: technology, media and telecommunications ( TMT ), healthcare, and climate tech sectors (auto-extracted)"
   },
   {
    "company": "Mercator Acquisition Corp.",
@@ -278,6 +262,51 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2085659/0001213900-26-082376.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2085659/0001213900-26-082379.txt"
+  },
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-07-28",
+   "path": "edgar/data/1926599/0001193125-26-320984.txt"
+  },
+  {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "2057030",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2057030/0001213900-26-082395.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Keen Vision Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1889983",
+   "filed": "2026-07-28",
+   "path": "edgar/data/1889983/0001213900-26-081921.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Market Technology Acquisition Corp",
+   "form": "8-K",
+   "cik": "2133136",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2133136/0001213900-26-082377.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Archimedes Tech SPAC Partners II Co.",
    "form": "425",
@@ -398,69 +427,6 @@
    "filed": "2026-07-22",
    "path": "edgar/data/2102713/0001193125-26-311388.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Axiom Intelligence Acquisition Corp 1",
-   "form": "425",
-   "cik": "2057030",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2057030/0001213900-26-079739.txt",
-   "blurb": "business combination with Axiom Intelligence Acquisition Corp 1 (auto-extracted)"
-  },
-  {
-   "company": "D. Boral ARC Acquisition I Corp.",
-   "form": "425",
-   "cik": "2065779",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2065779/0001829126-26-007707.txt",
-   "blurb": "business combination with D. Boral ARC Acquisition I Corp. (auto-extracted)"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2110119",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2110119/0001213900-26-080043.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Aeon Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "2082526",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2082526/0001493152-26-034070.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "FACT II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2028935",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2028935/0001213900-26-080046.txt",
-   "note": "8-K: termination of material agreement"
-  },
-  {
-   "company": "Horizon Space Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "1946021",
-   "filed": "2026-07-21",
-   "path": "edgar/data/1946021/0001929980-26-000372.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Velos Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "2016072",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2016072/0001213900-26-080019.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Wintergreen Acquisition Corp.",
-   "form": "S-4/A",
-   "cik": "2053927",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2053927/0001829126-26-007691.txt"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -837,76 +803,33 @@
    "filed": "2026-06-24",
    "path": "edgar/data/2096755/0001213900-26-071553.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Archimedes Tech SPAC Partners II Co.",
-   "form": "425",
-   "cik": "2028516",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2028516/0001104659-26-076805.txt",
-   "blurb": "business combination with Forge Nano (auto-extracted)"
-  },
-  {
-   "company": "Cayson Acquisition Corp",
-   "form": "425",
-   "cik": "2024203",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2024203/0001493152-26-029808.txt"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "425",
-   "cik": "2000410",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2000410/0001213900-26-070826.txt"
-  },
-  {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "425",
-   "cik": "2085659",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2085659/0001213900-26-071191.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2074850/0001104659-26-076693.txt",
-   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "425",
-   "cik": "1926599",
-   "filed": "2026-06-23",
-   "path": "edgar/data/1926599/0001104659-26-076686.txt"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "425",
-   "cik": "1926599",
-   "filed": "2026-06-23",
-   "path": "edgar/data/1926599/0001193125-26-278623.txt"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000410",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2000410/0001213900-26-070821.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2085659",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2085659/0001213900-26-071185.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "Keen Vision Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1889983",
+   "filed": "2026-07-28",
+   "path": "edgar/data/1889983/0001213900-26-081921.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Market Technology Acquisition Corp",
+   "form": "8-K",
+   "cik": "2133136",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2133136/0001213900-26-082377.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2010653",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2010653/0001829126-26-007896.txt",
+   "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Future Vision II Acquisition Corp.",
    "form": "8-K",
@@ -938,38 +861,6 @@
    "filed": "2026-07-22",
    "path": "edgar/data/1853047/0001096906-26-001106.txt",
    "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2110119",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2110119/0001213900-26-080043.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Velos Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "2016072",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2016072/0001213900-26-080019.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Embrace Change Acquisition Corp.",
-   "form": "DEF 14A",
-   "cik": "1869601",
-   "filed": "2026-07-21",
-   "path": "edgar/data/1869601/0001493152-26-034110.txt",
-   "blurb": "meeting August 11, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "PRE 14A",
-   "cik": "2012807",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2012807/0001829126-26-007713.txt",
-   "blurb": "meeting August 15, 2026; extension on the agenda (auto-extracted)"
   },
   {
    "company": "Ares Acquisition Corp III",
@@ -1114,25 +1005,17 @@
    "filed": "2026-06-24",
    "path": "edgar/data/2049248/0001929980-26-000294.txt",
    "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "DEFA14A",
-   "cik": "1926599",
-   "filed": "2026-06-23",
-   "path": "edgar/data/1926599/0001104659-26-076687.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "COLLECTIVE ACQUISITION CORP.",
-   "form": "PRE 14A",
-   "cik": "2041047",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2041047/0001213900-26-070790.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Market Technology Acquisition Corp",
+   "form": "8-K",
+   "cik": "2133136",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2133136/0001213900-26-082377.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Translational Development Acquisition Corp.",
    "form": "8-K",
@@ -1155,22 +1038,6 @@
    "cik": "2102713",
    "filed": "2026-07-22",
    "path": "edgar/data/2102713/0001193125-26-311388.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2110119",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2110119/0001213900-26-080043.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Horizon Space Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "1946021",
-   "filed": "2026-07-21",
-   "path": "edgar/data/1946021/0001929980-26-000372.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
@@ -1216,6 +1083,22 @@
  ],
  "sponsors": [
   {
+   "company": "Charlton Aria Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024459",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2024459/0001213900-26-082335.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Market Technology Acquisition Corp",
+   "form": "8-K",
+   "cik": "2133136",
+   "filed": "2026-07-28",
+   "path": "edgar/data/2133136/0001213900-26-082377.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Renatus Tactical Acquisition Corp I",
    "form": "8-K",
    "cik": "2035173",
@@ -1229,22 +1112,6 @@
    "cik": "2116230",
    "filed": "2026-07-23",
    "path": "edgar/data/2116230/0001929980-26-000375.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2110119",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2110119/0001213900-26-080043.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2128045",
-   "filed": "2026-07-21",
-   "path": "edgar/data/2128045/0001213900-26-079812.txt",
    "note": "8-K: officer/director change"
   },
   {
@@ -1301,14 +1168,6 @@
    "cik": "2097376",
    "filed": "2026-06-24",
    "path": "edgar/data/2097376/0001213900-26-071599.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Pioneer Acquisition I Corp",
-   "form": "8-K",
-   "cik": "2040381",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2040381/0001829126-26-006778.txt",
    "note": "8-K: officer/director change"
   }
  ],
@@ -1375,16 +1234,15 @@
    "cik": "2116105",
    "filed": "2026-06-24",
    "path": "edgar/data/2116105/0001829126-26-006825.txt"
-  },
-  {
-   "company": "Quantum Leap Acquisition Corp",
-   "form": "25-NSE",
-   "cik": "2102155",
-   "filed": "2026-06-23",
-   "path": "edgar/data/2102155/0000876661-26-000550.txt"
   }
  ],
  "media": [
+  {
+   "title": "Westin Acquisition to Merge With First Choice Healthcare in SPAC Deal Valuing Target Up to $650 Million - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMThObUhzenZuYzJWZHdmZGFCMEhSTjQySzUyUWhuLUtGQkNRTFVsblk5NEY4aEtSaDI0aVpEczg3S2NlTDJFQTlyenAtZGlwUmxZaVlsdTRfTXkzSWdkS0hhamNYSUR3Q0ZXLUM0VmFCdnJWQUFBYnI5Z2FSTmpDbGJ3OGVEVHZ6QjhfdU9tdTVWQ0RhSGQ3NzJoalJ4RTdwMVlrbXpXNEwtMG5uM28yLVhETUZfQldYQVZrZ3JxaG5Ba2dlaVplRzQzcURyZS1WMlFqcUNlTUlWVU9pLURqTjZPYk5lTFBqOXgxcmhabFZBVEpYS1hz?oc=5",
+   "published": "2026-07-29",
+   "source": "TradingView"
+  },
   {
    "title": "Slovakian battery and BESS manufacturer InoBat eyes SPAC merger for Nasdaq listing - Energy-Storage.News",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDA0ZXNkTWJOSW9kTl92bjRIZmJIdi1lVTczbi1mQ09NdzBqWWwzUmNjSEFBSnZDbTVrMWYzUWRJWERWNEgydTVsWUZqejlqSDJ2Q3U0Q0NOaTRMZGFzUDQyTlhTUXRJVkxFQVVtSGUzclBJVnZaZ1J6U0ctSC1HWF8xNUNkLUFtTmpZWVJ0MFJWN0hHUjJ5TGtYRkp5Z2Z2MUlyRVRWMkhSLVdGelpBQ2hVUnZZdw?oc=5",
@@ -1392,8 +1250,8 @@
    "source": "Energy-Storage.News"
   },
   {
-   "title": "BIG3 SPAC deal with Graf Global Corp. (GRAF) targets $290M valuation - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaW4tbTBwSXpLUktkTHBORlc0aWZsLTY5YlhPZzI0UGw0LWFoQXAyRDBGWGxsaTFHSHFzOWNWOWZrM2RPV1BsTjdBaFgxdkQ5MnlhWXQ5OFpOZmQtbEtCMUQ4Y0VZaTFXTlk0dzdUVDJPTEI3U09zbGpwbmxsblFTMWdyQzFfSUgwTnhWZzE1YkpZT1BmMld2ZGxUbmJDRUYyYVRmMTZfMXlfblhPdHZZZlgtcnpxVlVk?oc=5",
+   "title": "EigenQ Inc. (Nasdaq: SVAQU) strengthens leadership team before SPAC deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUNHaU1ISllHb0I1VHpXV1dheU9NWElBTzZ4ekNvd213RTd3ZHpxSTJacUdaM0NuYk4yanRqbl82cG9tMS1DUnZUTmREMDFUMHNBSDJ2MU1vT2VVM2g0SnpGakF3SzdtNFlPTjNGbW56Q0JmVFZOQlpmM2hLRVduMXRqc3VWUEJvS01IZEVXdDFWV2hLT0dFU0tXQU1HaEFabkdua1Z4S1JnV0k0RlhoTVJWZVBia2pTWEZIZXdsSEREU1Vod3RkaVZNWDg?oc=5",
    "published": "2026-07-28",
    "source": "Stock Titan"
   },
@@ -1404,22 +1262,16 @@
    "source": "insights.citeline.com"
   },
   {
-   "title": "Oak Hill takes SPAC track to Nasdaq with Roche asset in tow - BioSpace",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNW4xekFMMnJuVzdqUmxTYk92LWRkdl9XT3l6bGtXc3RwZm5BaEtJbXZraUhoR0wwYkhObXpLeGJYVHhZR19IT3FTaDh4UzZvSTdBZHpkdzlPdENsUWRqMlVqd2NkUXAzUVNJd0U1eDNWV3IxbUNTS2MzQmdSaFpHaE9rMXdvZHF1OUwxM0ViaWE1R1I2Vi1hTg?oc=5",
-   "published": "2026-07-28",
-   "source": "BioSpace"
+   "title": "Cambridge biotech to go public via RA Capital-backed SPAC - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hdWltOUM2eElocmZDaGwyUHlSa0JEbEJqOWtLejdVeExfaXFoRXJUVWF2UTd0UVc2ZlRTLWhMcV83OWRkUnZJSGd5TmZNTkVxNWY3MmE5LWVmTHh6QlpDVGdEZHJCOS1YRDRxZUgxQmJSdTFMT3ljUnVubTE5QQ?oc=5",
+   "published": "2026-07-27",
+   "source": "The Business Journals"
   },
   {
    "title": "Oak Hill Bio merges with RA Capital SPAC; InnoCare\u2019s TYK2 drug hits in Phase 3 - Endpoints News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWlGYWNmVGxnWm5rbmw3bzd2aUpuTkZ2TGV3cHc5cUtvaW5fZjkyRDdSV2loN3M5TlBkNlNvMi1CWnhhbmI3NXFjLXY1ZmluWFRuYXR2N2gwLThQTXR6WmRyNFdwU3JRU2ljZmdTQzMwem9LN0hScFJYU25vYUE4ZW5CeHNhNmk4dzNHT1hRMVVBS05MYlFyWF9RdTFDbTRDaHc?oc=5",
    "published": "2026-07-28",
    "source": "Endpoints News"
-  },
-  {
-   "title": "Oak Hill to get $175M cash infusion in merger with RA Capital-backed SPAC - FirstWord Pharma",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TREVPNlV5STF1TEEzNkFjOGVWQ29YZERxMllzbWtUTGVqOUt0cmkzUElVLUtQOUExTzUwQTJZekstODVnQkRCVERqNGgxQmJfX1pv?oc=5",
-   "published": "2026-07-28",
-   "source": "FirstWord Pharma"
   }
  ],
  "regs": []
