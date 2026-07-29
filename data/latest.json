@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T12:27:30Z",
+ "generated_at": "2026-07-29T19:13:04Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1236,43 +1236,6 @@
    "path": "edgar/data/2116105/0001829126-26-006825.txt"
   }
  ],
- "media": [
-  {
-   "title": "Westin Acquisition to Merge With First Choice Healthcare in SPAC Deal Valuing Target Up to $650 Million - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMThObUhzenZuYzJWZHdmZGFCMEhSTjQySzUyUWhuLUtGQkNRTFVsblk5NEY4aEtSaDI0aVpEczg3S2NlTDJFQTlyenAtZGlwUmxZaVlsdTRfTXkzSWdkS0hhamNYSUR3Q0ZXLUM0VmFCdnJWQUFBYnI5Z2FSTmpDbGJ3OGVEVHZ6QjhfdU9tdTVWQ0RhSGQ3NzJoalJ4RTdwMVlrbXpXNEwtMG5uM28yLVhETUZfQldYQVZrZ3JxaG5Ba2dlaVplRzQzcURyZS1WMlFqcUNlTUlWVU9pLURqTjZPYk5lTFBqOXgxcmhabFZBVEpYS1hz?oc=5",
-   "published": "2026-07-29",
-   "source": "TradingView"
-  },
-  {
-   "title": "Slovakian battery and BESS manufacturer InoBat eyes SPAC merger for Nasdaq listing - Energy-Storage.News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDA0ZXNkTWJOSW9kTl92bjRIZmJIdi1lVTczbi1mQ09NdzBqWWwzUmNjSEFBSnZDbTVrMWYzUWRJWERWNEgydTVsWUZqejlqSDJ2Q3U0Q0NOaTRMZGFzUDQyTlhTUXRJVkxFQVVtSGUzclBJVnZaZ1J6U0ctSC1HWF8xNUNkLUFtTmpZWVJ0MFJWN0hHUjJ5TGtYRkp5Z2Z2MUlyRVRWMkhSLVdGelpBQ2hVUnZZdw?oc=5",
-   "published": "2026-07-28",
-   "source": "Energy-Storage.News"
-  },
-  {
-   "title": "EigenQ Inc. (Nasdaq: SVAQU) strengthens leadership team before SPAC deal - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUNHaU1ISllHb0I1VHpXV1dheU9NWElBTzZ4ekNvd213RTd3ZHpxSTJacUdaM0NuYk4yanRqbl82cG9tMS1DUnZUTmREMDFUMHNBSDJ2MU1vT2VVM2g0SnpGakF3SzdtNFlPTjNGbW56Q0JmVFZOQlpmM2hLRVduMXRqc3VWUEJvS01IZEVXdDFWV2hLT0dFU0tXQU1HaEFabkdua1Z4S1JnV0k0RlhoTVJWZVBia2pTWEZIZXdsSEREU1Vod3RkaVZNWDg?oc=5",
-   "published": "2026-07-28",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Finance Watch: Scribe Launches IPO, Oak Hill Going Public Via SPAC Merger - insights.citeline.com",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTEtQOXVUMTRJcnBhSzBOOFZBQVVjcWFzbV9Ea2tWSlJ0dEIteUFxZDEwV1d3Q3Bsa21NUXlFWWtMNFhtR3pSYjNSdUpNQUx5eVRIcGlva19QWmFkZk0yUlBpZXlkNzJyZzA5WlViQS1wamI4M0EyLTRUcjdTcm5UeEdTR1phMWJncm96N1EzMEUtSkx2blZPVkVpZXdkYWtkb0R6STQwSUozRV9XN2VrX2JfNnNNV2FpWENRRHZoWU5hOXNuQ1Ztc3BsSkF5SFJtWVdLU3VVcXB2Smk0d2RaUGZ5OXNJZDBBbjBSUC14Qm93RURjSE5wbTBXd3k?oc=5",
-   "published": "2026-07-27",
-   "source": "insights.citeline.com"
-  },
-  {
-   "title": "Cambridge biotech to go public via RA Capital-backed SPAC - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hdWltOUM2eElocmZDaGwyUHlSa0JEbEJqOWtLejdVeExfaXFoRXJUVWF2UTd0UVc2ZlRTLWhMcV83OWRkUnZJSGd5TmZNTkVxNWY3MmE5LWVmTHh6QlpDVGdEZHJCOS1YRDRxZUgxQmJSdTFMT3ljUnVubTE5QQ?oc=5",
-   "published": "2026-07-27",
-   "source": "The Business Journals"
-  },
-  {
-   "title": "Oak Hill Bio merges with RA Capital SPAC; InnoCare\u2019s TYK2 drug hits in Phase 3 - Endpoints News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWlGYWNmVGxnWm5rbmw3bzd2aUpuTkZ2TGV3cHc5cUtvaW5fZjkyRDdSV2loN3M5TlBkNlNvMi1CWnhhbmI3NXFjLXY1ZmluWFRuYXR2N2gwLThQTXR6WmRyNFdwU3JRU2ljZmdTQzMwem9LN0hScFJYU25vYUE4ZW5CeHNhNmk4dzNHT1hRMVVBS05MYlFyWF9RdTFDbTRDaHc?oc=5",
-   "published": "2026-07-28",
-   "source": "Endpoints News"
-  }
- ],
+ "media": [],
  "regs": []
 }
