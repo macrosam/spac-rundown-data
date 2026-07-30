@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T19:13:04Z",
+ "generated_at": "2026-07-30T12:16:47Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -26,21 +26,6 @@
    "filed": "2026-07-24",
    "path": "edgar/data/2145384/0001213900-26-081485.txt",
    "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "S-1",
-   "cik": "2133719",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2133719/0001213900-26-080207.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "S-1",
-   "cik": "2123955",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2123955/0001213900-26-080433.txt"
   },
   {
    "company": "Gold Mountain Acquisition Corp.",
@@ -73,13 +58,6 @@
    "filed": "2026-06-26",
    "path": "edgar/data/2110119/0001213900-26-072712.txt",
    "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: target businesses in the mineral resources sector, we may pursue an acquisition opportunity in any business, industry, sector or geographica (auto-extracted)"
-  },
-  {
-   "company": "Hoya Acquisition Corp. I",
-   "form": "S-1",
-   "cik": "2140700",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2140700/0001213900-26-071220.txt"
   }
  ],
  "pricings": [
@@ -174,6 +152,14 @@
  ],
  "amends": [
   {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "S-1/A",
+   "cik": "2094712",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2094712/0001493152-26-035157.txt",
+   "blurb": "offering $700,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Dune Acquisition Corp III",
    "form": "S-1/A",
    "cik": "2095476",
@@ -196,14 +182,6 @@
    "filed": "2026-07-27",
    "path": "edgar/data/2115659/0001829126-26-007852.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Market Technology Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2133136",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2133136/0001213900-26-080237.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Mercator Acquisition Corp.",
@@ -251,17 +229,70 @@
    "filed": "2026-06-29",
    "path": "edgar/data/2136530/0001104659-26-078781.txt",
    "blurb": "offering $175,000,000; 17,500,000 units; $10.00/unit; focus: Industry 4 (auto-extracted)"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "S-1/A",
-   "cik": "2139246",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2139246/0001213900-26-071585.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2028516/0001104659-26-088149.txt"
+  },
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "425",
+   "cik": "2065779",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2065779/0001829126-26-008044.txt",
+   "blurb": "business combination with Exascale (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. III",
+   "form": "425",
+   "cik": "2012318",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2012318/0001213900-26-082500.txt"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2051985/0001213900-26-082449.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Westin Acquisition Corp",
+   "form": "425",
+   "cik": "2076192",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2076192/0001213900-26-082414.txt"
+  },
+  {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2104391",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2104391/0001213900-26-082795.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Rising Dragon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2018145",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2018145/0001213900-26-082432.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Westin Acquisition Corp",
+   "form": "8-K",
+   "cik": "2076192",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2076192/0001213900-26-082408.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Silicon Valley Acquisition Corp.",
    "form": "425",
@@ -412,21 +443,6 @@
    "cik": "2088295",
    "filed": "2026-07-23",
    "path": "edgar/data/2088295/0001213900-26-080591.txt"
-  },
-  {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102713",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2102713/0001193125-26-311391.txt"
-  },
-  {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "8-K",
-   "cik": "2102713",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2102713/0001193125-26-311388.txt",
-   "note": "8-K: entry into material definitive agreement"
   },
   {
    "company": "Spark I Acquisition Corp",
@@ -764,48 +780,41 @@
    "cik": "2088295",
    "filed": "2026-06-25",
    "path": "edgar/data/2088295/0001213900-26-071788.txt"
-  },
-  {
-   "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
-   "form": "425",
-   "cik": "2068454",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2068454/0001829126-26-006826.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2074850/0001104659-26-077133.txt",
-   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2074850/0001104659-26-077355.txt",
-   "blurb": "business combination with General Fusion (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2074850",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2074850/0001104659-26-077363.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Texas Ventures Acquisition IV Corp",
-   "form": "8-K",
-   "cik": "2096755",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2096755/0001213900-26-071553.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2104391",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2104391/0001213900-26-082795.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2065779",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2065779/0001829126-26-008043.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "DEF 14A",
+   "cik": "1901336",
+   "filed": "2026-07-29",
+   "path": "edgar/data/1901336/0001104659-26-088127.txt",
+   "blurb": "meeting September 1, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Technology & Telecommunication Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1900679",
+   "filed": "2026-07-29",
+   "path": "edgar/data/1900679/0001493152-26-035091.txt",
+   "blurb": "meeting August 20, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Keen Vision Acquisition Corp.",
    "form": "8-K",
@@ -852,14 +861,6 @@
    "cik": "2116230",
    "filed": "2026-07-23",
    "path": "edgar/data/2116230/0001929980-26-000375.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Hudson Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "1853047",
-   "filed": "2026-07-22",
-   "path": "edgar/data/1853047/0001096906-26-001106.txt",
    "note": "8-K: charter amendment (possible extension)"
   },
   {
@@ -973,41 +974,17 @@
    "filed": "2026-06-25",
    "path": "edgar/data/2015502/0001213900-26-072111.txt",
    "blurb": "meeting July 7, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Alpha Star Acquisition Corp",
-   "form": "8-K",
-   "cik": "1865111",
-   "filed": "2026-06-24",
-   "path": "edgar/data/1865111/0001493152-26-029938.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Quartzsea Acquisition Corp",
-   "form": "8-K",
-   "cik": "2047455",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2047455/0001829126-26-006786.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Texas Ventures Acquisition IV Corp",
-   "form": "8-K",
-   "cik": "2096755",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2096755/0001213900-26-071553.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Lakeshore Acquisition III Corp.",
-   "form": "PRE 14A",
-   "cik": "2049248",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2049248/0001929980-26-000294.txt",
-   "blurb": "meeting August 1, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2104391",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2104391/0001213900-26-082795.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Market Technology Acquisition Corp",
    "form": "8-K",
@@ -1030,14 +1007,6 @@
    "cik": "2116230",
    "filed": "2026-07-23",
    "path": "edgar/data/2116230/0001929980-26-000375.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "8-K",
-   "cik": "2102713",
-   "filed": "2026-07-22",
-   "path": "edgar/data/2102713/0001193125-26-311388.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
@@ -1071,17 +1040,17 @@
    "filed": "2026-06-29",
    "path": "edgar/data/2112446/0001193125-26-286926.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Texas Ventures Acquisition IV Corp",
-   "form": "8-K",
-   "cik": "2096755",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2096755/0001213900-26-071553.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2104391",
+   "filed": "2026-07-29",
+   "path": "edgar/data/2104391/0001213900-26-082795.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Charlton Aria Acquisition Corp",
    "form": "8-K",
@@ -1153,22 +1122,6 @@
    "filed": "2026-06-26",
    "path": "edgar/data/2083946/0001213900-26-072611.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Texas Ventures Acquisition IV Corp",
-   "form": "8-K",
-   "cik": "2096755",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2096755/0001213900-26-071553.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "MOZAYYX Acquisition Corp.",
-   "form": "8-K/A",
-   "cik": "2097376",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2097376/0001213900-26-071599.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
@@ -1220,22 +1173,45 @@
    "cik": "2128115",
    "filed": "2026-06-29",
    "path": "edgar/data/2128115/0001104659-26-078412.txt"
-  },
-  {
-   "company": "Alpex Acquisition Corp",
-   "form": "8-A12B",
-   "cik": "2125551",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2125551/0001213900-26-071425.txt"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "8-A12B",
-   "cik": "2116105",
-   "filed": "2026-06-24",
-   "path": "edgar/data/2116105/0001829126-26-006825.txt"
   }
  ],
- "media": [],
+ "media": [
+  {
+   "title": "Catalyst Acquisition closes $200 million SPAC IPO on Nasdaq - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhkTUdqdUM5VWtwSnRBYzMwemI0cVJ0eG1pd3ZxWmkwZkZwQzhhMDBzaEFOckp1MnRtYVJVTmRtbmhGd0N6eWwtNWVWUnVyRWtCNVhqT044MUtiZ0NjenJ6VXdNbWdwSGltMzNDdWQ3Nmk0Qm5BWHZGU0FZOFg3QlE2a3hycVp5Z2ZpUVdaVGJ4a2ZZWXl4aVU2U1lFZ0hnVmtKYUttX0Y4RkFhZ0dITWdWZ0lnUQ?oc=5",
+   "published": "2026-07-29",
+   "source": "Investing.com"
+  },
+  {
+   "title": "Exascale Labs Wins Shareholder Approval for SPAC Merger With D. Boral ARC - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW9wTEdvd1h1d1IySkxpaUwxZmhTcVc5cWIxRmhVdm1GTTBETC1wLTg1YkJ6aWpfTjNEcGRtXzdCRlVydi1VOTFMZExTdFBJSHE1RjVlOXRBY0NEU3ZLUHM4ZzQ4WHh2VXlBeklTbWtReS1JMmhnX3NMZ3JZdWppSGIzYVFmYTRJeTRWcHNyTE1LTEVFZDVNUVdlckc1Q0ZlT2FTQ3RmVTdYY1NQZGVVVg?oc=5",
+   "published": "2026-07-29",
+   "source": "citybiz"
+  },
+  {
+   "title": "Slovak InoBat seeks Nasdaq listing through SPAC merger - intellinews.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHFXY1pQUmhSOG10MG5sT0JVTkJhSy1paTNaX1JtQ3YzSTI4SHl4RnZNWW9oU2IzSVRnUExXQ3JqNzBGN2thRTBkcU5WY2VtbzZ6VTNqeEQ3ZWlCSmg2ZzYtTDAwbnhrMnVzTHhWTjBYTWxwNV9KRVFKMzVUOTg1NDgzMFZYMkJwNG1sUFlxVjlmdVZQ?oc=5",
+   "published": "2026-07-29",
+   "source": "intellinews.com"
+  },
+  {
+   "title": "Westin Acquisition to Merge With First Choice Healthcare in SPAC Deal Valuing Target Up to $650 Million - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMThObUhzenZuYzJWZHdmZGFCMEhSTjQySzUyUWhuLUtGQkNRTFVsblk5NEY4aEtSaDI0aVpEczg3S2NlTDJFQTlyenAtZGlwUmxZaVlsdTRfTXkzSWdkS0hhamNYSUR3Q0ZXLUM0VmFCdnJWQUFBYnI5Z2FSTmpDbGJ3OGVEVHZ6QjhfdU9tdTVWQ0RhSGQ3NzJoalJ4RTdwMVlrbXpXNEwtMG5uM28yLVhETUZfQldYQVZrZ3JxaG5Ba2dlaVplRzQzcURyZS1WMlFqcUNlTUlWVU9pLURqTjZPYk5lTFBqOXgxcmhabFZBVEpYS1hz?oc=5",
+   "published": "2026-07-29",
+   "source": "TradingView"
+  },
+  {
+   "title": "EigenQ Inc. (Nasdaq: SVAQU) strengthens leadership team before SPAC deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUNHaU1ISllHb0I1VHpXV1dheU9NWElBTzZ4ekNvd213RTd3ZHpxSTJacUdaM0NuYk4yanRqbl82cG9tMS1DUnZUTmREMDFUMHNBSDJ2MU1vT2VVM2g0SnpGakF3SzdtNFlPTjNGbW56Q0JmVFZOQlpmM2hLRVduMXRqc3VWUEJvS01IZEVXdDFWV2hLT0dFU0tXQU1HaEFabkdua1Z4S1JnV0k0RlhoTVJWZVBia2pTWEZIZXdsSEREU1Vod3RkaVZNWDg?oc=5",
+   "published": "2026-07-28",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "InoBat Announces $1.265 Billion SPAC Merger for Nasdaq Listing - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUJvblZqb3lPN2Y1OFJSRW1RUWpTRzNVWEdZTF9YX0FpaThSV0w5ZkZ5cy1yQTBxRDBlQ1UtVjY0eGstQUhGSE13X3FQZVFNeTNZVXlXN2pfUWNmbExEWlRyZEtCM0NqVVVUZThwSTBqYVRTZ0VGZmc1ZTYwNHdSQmZBTHhXbzFTMHN5UVNBbHNMWThLZ19GaHFCTjhNVTdYUHdlYkRjSjFsWnM?oc=5",
+   "published": "2026-07-28",
+   "source": "IndexBox"
+  }
+ ],
  "regs": []
 }
