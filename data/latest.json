@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T12:26:59Z",
+ "generated_at": "2026-07-31T19:13:39Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1026,34 +1026,34 @@
    "source": "Reuters"
   },
   {
+   "title": "Space-Eyes to Go Public Through $638 Million SPAC Merger With McKinley Acquisition - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFBJSjFtT1dDYkR0OUpDd21NRXJiVGUzMUxrc0FiLXZuYUR0aWdFZjhJY0RTNnIyS3FSQ3JtejRlSGUxMXowUTI2QVgwSEZSTEhkekZkZm9pVjdxWGxsUXRZdDFkMGFWcU5raERtRWp3ZkFDd3dKQ2ZXWFVXN3Z6cXQ4Qm5vTlJtYlFzc2RGc0Vla25LUzV4YkJuT09GN21zempEcmltTF84dG9WVk9mQjR1Z2F1NXBDLUpuLQ?oc=5",
+   "published": "2026-07-31",
+   "source": "citybiz"
+  },
+  {
+   "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQk16bVpCbk5SZlNCSkVhMjJSYzRoNzFvNUhqM0xMbDdIb2ozWEtDZHZSdk04THBGZHJGZXlfZ0llMUlWSWlyM05KREJ3Tmk0M3FheWkyUkwwT1JBSmYxcnpJMk1xRnN3aDRkb25LNmFUWXlmbFB3bVI0YlItNTJ3d3JHbkkzVUl0VUdWYy1HTmJZTXktOV9GUU5nMW01Q2g0?oc=5",
+   "published": "2026-07-31",
+   "source": "Yahoo Finance"
+  },
+  {
    "title": "Space-Eyes will go public after SPAC merger with McKinley Acquisition - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbUMwVE1KRnV4RTRWdnFfWU9hM3pNQmgwSXVIVl83WjZOVUNhUThRTXZ0SHA1eXhxQk9HSHdrbmdhOVJiVFcxUHQ1UTh1dFFJcV9fS3BYSE8zWTMtWjh6YW1aNndESjQ?oc=5",
    "published": "2026-07-31",
    "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
   },
   {
-   "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdWJ5QVNwVTNCekdqQWNpZDhBSFRUajg2YlNFTkxwV3UzcUp4bjZsVzVXUDFabHBFQURMMkE3VmFGbWdtMG9xdnFzNDZieHdfaEZxbnFVWEdlZEhXZzM2OUFQaS1vWnIycUZINDJpWXM2SERFWGJSOWpsRWswRU9RM1NJZGdrdWlvSC10SHlXUUVpbDJ4Rld0YUcxNWhLQlhVUTZ4SU5nOFpaa3VfcXgtejVjcG5ZSVdsVVN6YmJRREdERjh2UXZXcnh4Q09kUWNOMHBRZ1dQSGtjeU5VVXo3MjJib0ZjXy05NjV2RU5lczVxYVEzUmlfaDg1SXdMTklncm9iLWpB?oc=5",
+   "title": "Eric Trump-backed Space-Eyes to go public in $638 million SPAC deal - The News International",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVBnNnNTNkNTakc4dTJpdlpteFBzMUZVVWhRSE9Mcks0NW5Nc0tGVU5valVhWEV0MmlKeTcwaGxRQnpMdWR0OWZUSE92eEwxcEZFb0dGVlM1NS01Z3pDVW9XOXJBMEJnalRGc2dycXlSTmc5U2lab3NmSG1EcVM3NlNVQ0FzaUdTMjl1M2NzNXowYTJ4SWF5dGtCUzN5aVRZTVFib0xadlhQOEVq?oc=5",
    "published": "2026-07-31",
-   "source": "TradingView"
+   "source": "The News International"
   },
   {
-   "title": "Exclusive-Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say - CNA",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWUlpWGJwWDZTbEtPWFVCc1JxTHV3VklxUWdaMkhZdHdIV0JsWUpiQWpSSklPaGQ2WEt1MEJVOTFHWXNyZDhDQ3NiTTB2WGJublN5VlNkVkFLZmhfLTRtVEVNYkNRdkZtN1pOaHVUMTY4LVktN1NZZzdueVRfTElVT0JMMDVfN1RDTFJEd2htb2RYQmtNb25SVm9VRW9mdFh1OS16MlFnc3FVRUdCcUgwYy1BdzRaTW5lOGlmVW5tbW5vV2tjUHBhYzJfUDlDVUUxeHlLSnBuV25aQldNZGhmRUJINmxubGxKeE15SFB5amRZTDg?oc=5",
+   "title": "Eric Trump-backed tech developer Space-Eyes to go public in $638 million SPAC deal - The Independent",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFk2RHFJZ2VFYmFiSkltOWlwZVFSOWI0Wkh1dE1Bc00xOEtYNHN4bWJFelI1RlhHVVNfeHJPaF9JelNLWVkyVHkxVVhXcWdZVGJZbGgwZGQ2VWdta1VkNnFFY2NsNlVpZmVQdjJkUWZOc280emxETG9RX3V6UFFjQnJBRElmVVFwM1ZjWmxqOFBBb0VXaGlMWkZiaTllaTFJUzAzY2ItckVYWFlBVFJXbThELXhQeW55WEpkag?oc=5",
    "published": "2026-07-31",
-   "source": "CNA"
-  },
-  {
-   "title": "Catalyst Acquisition closes $200 million SPAC IPO on Nasdaq - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhkTUdqdUM5VWtwSnRBYzMwemI0cVJ0eG1pd3ZxWmkwZkZwQzhhMDBzaEFOckp1MnRtYVJVTmRtbmhGd0N6eWwtNWVWUnVyRWtCNVhqT044MUtiZ0NjenJ6VXdNbWdwSGltMzNDdWQ3Nmk0Qm5BWHZGU0FZOFg3QlE2a3hycVp5Z2ZpUVdaVGJ4a2ZZWXl4aVU2U1lFZ0hnVmtKYUttX0Y4RkFhZ0dITWdWZ0lnUQ?oc=5",
-   "published": "2026-07-29",
-   "source": "Investing.com"
-  },
-  {
-   "title": "Exascale Labs Wins Shareholder Approval for SPAC Merger With D. Boral ARC - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW9wTEdvd1h1d1IySkxpaUwxZmhTcVc5cWIxRmhVdm1GTTBETC1wLTg1YkJ6aWpfTjNEcGRtXzdCRlVydi1VOTFMZExTdFBJSHE1RjVlOXRBY0NEU3ZLUHM4ZzQ4WHh2VXlBeklTbWtReS1JMmhnX3NMZ3JZdWppSGIzYVFmYTRJeTRWcHNyTE1LTEVFZDVNUVdlckc1Q0ZlT2FTQ3RmVTdYY1NQZGVVVg?oc=5",
-   "published": "2026-07-29",
-   "source": "citybiz"
+   "source": "The Independent"
   }
  ],
  "regs": []
