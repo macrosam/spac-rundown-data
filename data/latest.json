@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T19:13:39Z",
+ "generated_at": "2026-08-03T12:46:41Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -10,22 +10,6 @@
    "filed": "2026-07-27",
    "path": "edgar/data/2134856/0001829126-26-007847.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
-  },
-  {
-   "company": "Bluerock Acquisition Corp. II",
-   "form": "S-1",
-   "cik": "2098410",
-   "filed": "2026-07-24",
-   "path": "edgar/data/2098410/0001104659-26-086682.txt",
-   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "K2 Capital Acquisition II Corp.",
-   "form": "S-1",
-   "cik": "2145384",
-   "filed": "2026-07-24",
-   "path": "edgar/data/2145384/0001213900-26-081485.txt",
-   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Gold Mountain Acquisition Corp.",
@@ -50,14 +34,6 @@
    "filed": "2026-07-01",
    "path": "edgar/data/2128462/0001193125-26-290930.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "AMR Resources Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2110119",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2110119/0001213900-26-072712.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: target businesses in the mineral resources sector, we may pursue an acquisition opportunity in any business, industry, sector or geographica (auto-extracted)"
   }
  ],
  "pricings": [
@@ -84,14 +60,6 @@
    "filed": "2026-07-27",
    "path": "edgar/data/2133136/0001213900-26-081597.txt",
    "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Pelican Acquisition II Corp",
-   "form": "424B4",
-   "cik": "2122392",
-   "filed": "2026-07-24",
-   "path": "edgar/data/2122392/0001829126-26-007833.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: target businesses within the technology industry globally (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
@@ -132,17 +100,25 @@
    "filed": "2026-06-29",
    "path": "edgar/data/2010653/0001829126-26-006996.txt",
    "blurb": "offering $90,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "424B4",
-   "cik": "2116105",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2116105/0001829126-26-006890.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit; focus: potential acquisition targets that exhibit compelling long-term growth potential and highly defensible market positions (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "AfterNext Acquisition I Corp.",
+   "form": "S-1/A",
+   "cik": "2087035",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2087035/0001493152-26-035587.txt",
+   "blurb": "offering $200,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2137965",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2137965/0001193125-26-328576.txt",
+   "blurb": "offering $300,000 (auto-extracted)"
+  },
   {
    "company": "Gold Mountain Acquisition Corp.",
    "form": "S-1/A",
@@ -240,6 +216,94 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2059654/0001185185-26-003213.txt"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "425",
+   "cik": "2026767",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2026767/0001493152-26-035689.txt"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "425",
+   "cik": "2028201",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2028201/0001213900-26-083654.txt"
+  },
+  {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052162",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2052162/0001213900-26-083581.txt"
+  },
+  {
+   "company": "Plum Acquisition Corp. III",
+   "form": "425",
+   "cik": "1845550",
+   "filed": "2026-07-31",
+   "path": "edgar/data/1845550/0001213900-26-084123.txt"
+  },
+  {
+   "company": "Armada Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2044009",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2044009/0001193125-26-328607.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2059654/0001185185-26-003212.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Pelican Acquisition II Corp",
+   "form": "8-K",
+   "cik": "2122392",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2122392/0001829126-26-008146.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K/A",
+   "cik": "2028201",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2028201/0001213900-26-083652.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "F-4/A",
+   "cik": "2088295",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2088295/0001213900-26-084072.txt"
+  },
+  {
+   "company": "Cayson Acquisition Corp",
+   "form": "F-4/A",
+   "cik": "2024203",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2024203/0001493152-26-035630.txt"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "F-4/A",
+   "cik": "2080023",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2080023/0001213900-26-083941.txt"
+  },
   {
    "company": "Constellation Acquisition Corp I",
    "form": "425",
@@ -424,14 +488,6 @@
    "path": "edgar/data/1998781/0001493152-26-034626.txt"
   },
   {
-   "company": "Axiom Intelligence Acquisition Corp 1",
-   "form": "425",
-   "cik": "2057030",
-   "filed": "2026-07-24",
-   "path": "edgar/data/2057030/0001213900-26-081484.txt",
-   "blurb": "business combination with Axiom Intelligence Acquisition Corp 1 (auto-extracted)"
-  },
-  {
    "company": "Spark I Acquisition Corp",
    "form": "425",
    "cik": "1884046",
@@ -610,53 +666,25 @@
    "cik": "2052162",
    "filed": "2026-06-29",
    "path": "edgar/data/2052162/0001493152-26-031117.txt"
-  },
-  {
-   "company": "Axiom Intelligence Acquisition Corp 1",
-   "form": "425",
-   "cik": "2057030",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2057030/0001213900-26-072173.txt"
-  },
-  {
-   "company": "Axiom Intelligence Acquisition Corp 1",
-   "form": "425",
-   "cik": "2057030",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2057030/0001213900-26-072174.txt"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "425",
-   "cik": "2023676",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2023676/0001213900-26-072364.txt"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2074850/0001104659-26-078259.txt",
-   "blurb": "business combination with Spring Valley Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2009183/0001829126-26-006941.txt",
-   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "D. Boral ARC Acquisition I Corp.",
-   "form": "S-4/A",
-   "cik": "2065779",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2065779/0001829126-26-006917.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Pelican Acquisition II Corp",
+   "form": "8-K",
+   "cik": "2122392",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2122392/0001829126-26-008146.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "RF Acquisition Corp II",
+   "form": "DEF 14A",
+   "cik": "2012807",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2012807/0001829126-26-008243.txt",
+   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Lakeshore Acquisition III Corp.",
    "form": "8-K",
@@ -836,6 +864,22 @@
  ],
  "pipes": [
   {
+   "company": "Pelican Acquisition II Corp",
+   "form": "8-K",
+   "cik": "2122392",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2122392/0001829126-26-008146.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K/A",
+   "cik": "2028201",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2028201/0001213900-26-083652.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Catalyst Acquisition Corp.",
    "form": "8-K",
    "cik": "2104391",
@@ -894,6 +938,22 @@
  ],
  "sponsors": [
   {
+   "company": "ALPHATIME ACQUISITION CORP",
+   "form": "8-K",
+   "cik": "1889106",
+   "filed": "2026-07-31",
+   "path": "edgar/data/1889106/0001493152-26-035639.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Pelican Acquisition II Corp",
+   "form": "8-K",
+   "cik": "2122392",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2122392/0001829126-26-008146.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Catalyst Acquisition Corp.",
    "form": "8-K",
    "cik": "2104391",
@@ -915,14 +975,6 @@
    "cik": "2133136",
    "filed": "2026-07-28",
    "path": "edgar/data/2133136/0001213900-26-082377.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Renatus Tactical Acquisition Corp I",
-   "form": "8-K",
-   "cik": "2035173",
-   "filed": "2026-07-24",
-   "path": "edgar/data/2035173/0001213900-26-081384.txt",
    "note": "8-K: officer/director change"
   },
   {
@@ -948,25 +1000,17 @@
    "filed": "2026-06-29",
    "path": "edgar/data/2125551/0001213900-26-073110.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Hall Chadwick Acquisition Corp",
-   "form": "8-K",
-   "cik": "2079013",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2079013/0001829126-26-006943.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Willow Lane Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2083946",
-   "filed": "2026-06-26",
-   "path": "edgar/data/2083946/0001213900-26-072611.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-07-31",
+   "path": "edgar/data/2028201/0001213900-26-083647.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Keen Vision Acquisition Corp.",
    "form": "8-K",
@@ -1020,40 +1064,40 @@
  ],
  "media": [
   {
-   "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5",
-   "published": "2026-07-31",
-   "source": "Reuters"
+   "title": "Space-Eyes to Go Public in SPAC Merger Valuing Company at $638M - GovCon Wire",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZE01LW01SThiSHpkbVdEQmp5SGMwaDRHQk13RnNwdmhnNEpGQ3RxSFRfRXRiM29CTGZZVDVIbmVIQkpuc1pORG1pbnF3MktuUGZJYWU3bHBjV0lJUDV6QVdXMThkQjRsay1TTjctTzQwdjJHQ2l0ME94elRNekEyNmtneWF3QQ?oc=5",
+   "published": "2026-08-03",
+   "source": "GovCon Wire"
   },
   {
-   "title": "Space-Eyes to Go Public Through $638 Million SPAC Merger With McKinley Acquisition - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFBJSjFtT1dDYkR0OUpDd21NRXJiVGUzMUxrc0FiLXZuYUR0aWdFZjhJY0RTNnIyS3FSQ3JtejRlSGUxMXowUTI2QVgwSEZSTEhkekZkZm9pVjdxWGxsUXRZdDFkMGFWcU5raERtRWp3ZkFDd3dKQ2ZXWFVXN3Z6cXQ4Qm5vTlJtYlFzc2RGc0Vla25LUzV4YkJuT09GN21zempEcmltTF84dG9WVk9mQjR1Z2F1NXBDLUpuLQ?oc=5",
-   "published": "2026-07-31",
-   "source": "citybiz"
+   "title": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger - SiliconANGLE",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWZ3QWlLM0o4c3FzQ0FseG4tRWtmd2g0dUZ3Nms3c1VsQ0ZtSm1EQjNpM1dPSkNPcUR4ZXhMcnhLaTM5Q1k4UjlOWHhDYXRaZzM4WWY4a2lISmhEdU1EYlFqeWN2Wk42MkYxaWlzQVpsQUY4a1FYOFkzYnpWbEdGV3ZrMzl0WkduMlR2YWVWZ3NTazU3Q0w3c2xtY3M?oc=5",
+   "published": "2026-08-02",
+   "source": "SiliconANGLE"
   },
   {
-   "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQk16bVpCbk5SZlNCSkVhMjJSYzRoNzFvNUhqM0xMbDdIb2ozWEtDZHZSdk04THBGZHJGZXlfZ0llMUlWSWlyM05KREJ3Tmk0M3FheWkyUkwwT1JBSmYxcnpJMk1xRnN3aDRkb25LNmFUWXlmbFB3bVI0YlItNTJ3d3JHbkkzVUl0VUdWYy1HTmJZTXktOV9GUU5nMW01Q2g0?oc=5",
-   "published": "2026-07-31",
-   "source": "Yahoo Finance"
+   "title": "Yellow.ai to go public via SPAC merger with Bluerock By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkg1SG84UXVod1Q3ZVV1YVBGQkZVeGtndUVNNDFaSjZpaTkxeEFTRHpNdEZpWDlfclZidHpYaG1pLWpiSF9sR2JvT0N6SjlET3E1T2Z1VWpZWG43TEVvWFhLX2VNQmRwVC1fNTJERGZ6SG5WQ0ZsRGZPV3E1N3VxY0RCZXlwZUE2VHZDM1FFb0FjMVpNY21XQjRxRzA0b2UzUkRrVVg3SE5DOW5Uc1dOMTl3?oc=5",
+   "published": "2026-08-03",
+   "source": "Investing.com Canada"
   },
   {
-   "title": "Space-Eyes will go public after SPAC merger with McKinley Acquisition - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbUMwVE1KRnV4RTRWdnFfWU9hM3pNQmgwSXVIVl83WjZOVUNhUThRTXZ0SHA1eXhxQk9HSHdrbmdhOVJiVFcxUHQ1UTh1dFFJcV9fS3BYSE8zWTMtWjh6YW1aNndESjQ?oc=5",
-   "published": "2026-07-31",
-   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+   "title": "Eric Trumpbacked defence technology company SpaceEyes to go public in $638m SPAC deal - today.thefinancialexpress.com.bd",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMFkyY1BuMFh1dVJ5cW82bjBOazhxZnJzcmN1R0UyNUJvcGZybnJCQWRreVZvVjdYRE1Ka1hGUFQ4aUM0ZUx1VjlwbExhTmlra0ZTOW5aU2h4emppR003SmdSOV92SGV1d0h3UFVkOWJzOXhySnAwT3dlY2lWQnBwb1FHcVZJZkJIYmd2cUJwUG1vaktxckxTNEJhR1l6NnI4dmRKU21iN09GSFJsdzJVRERvOXlQRlJqTHpTYnBZOW5jUXVILU5CbWlmdC1fZHFqVkdCeFIzczRqbl9SbEhfWFBJMDYzeDNlZXU2S0wwVVRlRVJiMlHSAfYBQVVfeXFMUDBZMmNQbjBYdXVSeXFvNm4wTms4cWZyc3JjdUdFMjVCb3Bmcm5yQkFka3lWb1Y3WERNSmtYRlBUOGlDNGVMdVY5cGxMYU5pa2tGUzluWlNoeHpqaUdNN0pnUjlfdkhldXdId1BVZDliczl4ckpwME93ZWNpVkJwcG9RR3FWSWZCSGJndnFCcFBtb2pLcXJMUzRCYUdZejZyOHZkSlNtYjdPRkhSbHcyVUREbzl5UEZSakx6U2JwWTluY1F1SC1OQm1pZnQtX2RxalZHQnhSM3M0am5fUmxIX1hQSTA2M3gzZWV1NktMMFVUZUVSYjJR?oc=5",
+   "published": "2026-08-02",
+   "source": "today.thefinancialexpress.com.bd"
   },
   {
-   "title": "Eric Trump-backed Space-Eyes to go public in $638 million SPAC deal - The News International",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVBnNnNTNkNTakc4dTJpdlpteFBzMUZVVWhRSE9Mcks0NW5Nc0tGVU5valVhWEV0MmlKeTcwaGxRQnpMdWR0OWZUSE92eEwxcEZFb0dGVlM1NS01Z3pDVW9XOXJBMEJnalRGc2dycXlSTmc5U2lab3NmSG1EcVM3NlNVQ0FzaUdTMjl1M2NzNXowYTJ4SWF5dGtCUzN5aVRZTVFib0xadlhQOEVq?oc=5",
-   "published": "2026-07-31",
-   "source": "The News International"
+   "title": "OCLTU Financial Statements \u2013 NASDAQ:OCLTU - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTjFrbm5aTWh5REd6WHk0SUhsc29JTTRWdElpdnJsYTc2YklnbHpVVS1GSV9mUEZHaWJwYWVGWVpaT3F4WmZ5WU9KZW9QaWZMbGtvd0RqWWhQYzVDVUs4STVXb3B3NkM5b1dJMlNqa0xaakZzNTJBZA?oc=5",
+   "published": "2026-08-02",
+   "source": "TradingView"
   },
   {
-   "title": "Eric Trump-backed tech developer Space-Eyes to go public in $638 million SPAC deal - The Independent",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFk2RHFJZ2VFYmFiSkltOWlwZVFSOWI0Wkh1dE1Bc00xOEtYNHN4bWJFelI1RlhHVVNfeHJPaF9JelNLWVkyVHkxVVhXcWdZVGJZbGgwZGQ2VWdta1VkNnFFY2NsNlVpZmVQdjJkUWZOc280emxETG9RX3V6UFFjQnJBRElmVVFwM1ZjWmxqOFBBb0VXaGlMWkZiaTllaTFJUzAzY2ItckVYWFlBVFJXbThELXhQeW55WEpkag?oc=5",
-   "published": "2026-07-31",
-   "source": "The Independent"
+   "title": "COLUMBUS CIRCLE CAP CORP III Financial Statements \u2013 NASDAQ:CCCT - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUJtTWJ1YjNSbnoyMy1qRlQtQmVFQThnanI4VHJJZlBKMC1FX1hhaFVNSWxyTF9IaTZKTmhCTEtUeEZlQ2xaajU2M0hQWFlOWTY2S0p4YlE2ZFppQWFFSTRFajhVSTJCT1pRNU5ZNUhMNnRobnZqS3RyUHduQlJDZFdteXNtWGNpTXROYUY3N3N0bHM?oc=5",
+   "published": "2026-08-02",
+   "source": "TradingView"
   }
  ],
  "regs": []
