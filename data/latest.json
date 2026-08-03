@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T12:46:41Z",
+ "generated_at": "2026-08-03T19:15:05Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1076,27 +1076,27 @@
    "source": "SiliconANGLE"
   },
   {
-   "title": "Yellow.ai to go public via SPAC merger with Bluerock By Investing.com - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkg1SG84UXVod1Q3ZVV1YVBGQkZVeGtndUVNNDFaSjZpaTkxeEFTRHpNdEZpWDlfclZidHpYaG1pLWpiSF9sR2JvT0N6SjlET3E1T2Z1VWpZWG43TEVvWFhLX2VNQmRwVC1fNTJERGZ6SG5WQ0ZsRGZPV3E1N3VxY0RCZXlwZUE2VHZDM1FFb0FjMVpNY21XQjRxRzA0b2UzUkRrVVg3SE5DOW5Uc1dOMTl3?oc=5",
+   "title": "Space-Eyes confirms $638m SPAC merger with McKinley - Army Technology",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wWnI2V0wyc1dwS3c3TlpsdWs3bHE3eFRndy1WUTRqTlhUa09GVHVoc2JxdndyaGo4eXA2QzJNR2FLWVBfN250SHlkWkFRQm1ta1VCakhyeVNrMUF3bjRPbzRQR1g2c2wyMDI3YnhYQS1sQQ?oc=5",
    "published": "2026-08-03",
-   "source": "Investing.com Canada"
+   "source": "Army Technology"
   },
   {
-   "title": "Eric Trumpbacked defence technology company SpaceEyes to go public in $638m SPAC deal - today.thefinancialexpress.com.bd",
+   "title": "Yellow.ai to go public via SPAC merger with Bluerock - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1ptVUpUR2lEcmhVWDhocnZQdGFGcUNqeFRBZDlGc2doTXlTUl9Vczg5cHRsNjlUTThYNFBBNDZjN1Rad2Z6TElqeEJ5ZkJFaEJsNkVrRXVZZDBpU3FIRTY3YXJySUJOODdBVGJ4N0JvQ1BRT1E4MXpUck95S1FyU1k2STZ6VUF3N0YzV2dpVWpTbzJxNGR6SGlKZWxmaDZPRnl3bmJMSHBTZDFu?oc=5",
+   "published": "2026-08-03",
+   "source": "Investing.com"
+  },
+  {
+   "title": "Eric Trumpbacked defence technology company SpaceEyes to go public in $638m SPAC deal - The Financial Express",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMFkyY1BuMFh1dVJ5cW82bjBOazhxZnJzcmN1R0UyNUJvcGZybnJCQWRreVZvVjdYRE1Ka1hGUFQ4aUM0ZUx1VjlwbExhTmlra0ZTOW5aU2h4emppR003SmdSOV92SGV1d0h3UFVkOWJzOXhySnAwT3dlY2lWQnBwb1FHcVZJZkJIYmd2cUJwUG1vaktxckxTNEJhR1l6NnI4dmRKU21iN09GSFJsdzJVRERvOXlQRlJqTHpTYnBZOW5jUXVILU5CbWlmdC1fZHFqVkdCeFIzczRqbl9SbEhfWFBJMDYzeDNlZXU2S0wwVVRlRVJiMlHSAfYBQVVfeXFMUDBZMmNQbjBYdXVSeXFvNm4wTms4cWZyc3JjdUdFMjVCb3Bmcm5yQkFka3lWb1Y3WERNSmtYRlBUOGlDNGVMdVY5cGxMYU5pa2tGUzluWlNoeHpqaUdNN0pnUjlfdkhldXdId1BVZDliczl4ckpwME93ZWNpVkJwcG9RR3FWSWZCSGJndnFCcFBtb2pLcXJMUzRCYUdZejZyOHZkSlNtYjdPRkhSbHcyVUREbzl5UEZSakx6U2JwWTluY1F1SC1OQm1pZnQtX2RxalZHQnhSM3M0am5fUmxIX1hQSTA2M3gzZWV1NktMMFVUZUVSYjJR?oc=5",
    "published": "2026-08-02",
-   "source": "today.thefinancialexpress.com.bd"
+   "source": "The Financial Express"
   },
   {
-   "title": "OCLTU Financial Statements \u2013 NASDAQ:OCLTU - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTjFrbm5aTWh5REd6WHk0SUhsc29JTTRWdElpdnJsYTc2YklnbHpVVS1GSV9mUEZHaWJwYWVGWVpaT3F4WmZ5WU9KZW9QaWZMbGtvd0RqWWhQYzVDVUs4STVXb3B3NkM5b1dJMlNqa0xaakZzNTJBZA?oc=5",
-   "published": "2026-08-02",
-   "source": "TradingView"
-  },
-  {
-   "title": "COLUMBUS CIRCLE CAP CORP III Financial Statements \u2013 NASDAQ:CCCT - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUJtTWJ1YjNSbnoyMy1qRlQtQmVFQThnanI4VHJJZlBKMC1FX1hhaFVNSWxyTF9IaTZKTmhCTEtUeEZlQ2xaajU2M0hQWFlOWTY2S0p4YlE2ZFppQWFFSTRFajhVSTJCT1pRNU5ZNUhMNnRobnZqS3RyUHduQlJDZFdteXNtWGNpTXROYUY3N3N0bHM?oc=5",
-   "published": "2026-08-02",
+   "title": "Why Shopify (SHOP) Shares Are Sliding Today - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhGZ0U5ZUE3MmpnSTRZcklFUUx3SUtkbEdUN2ZTTkNLMUpjb3RVa2oyN1RZLW5sUThOYkZheS1EYWxhUUViQTF4WkxCcXdHSVRXSlhNclZWT1RlaklzLWd5NDRLZHAta0ZuMkRBZmJmZlhxbWoyTEY2cVJHWWpNc2diMWJvR0Nzb296bU15b3lUcmNsZ1E1a25rV1JMRGJpQ2diag?oc=5",
+   "published": "2026-08-03",
    "source": "TradingView"
   }
  ],
