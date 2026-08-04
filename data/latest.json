@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T12:26:12Z",
+ "generated_at": "2026-08-04T19:15:19Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -935,10 +935,10 @@
    "source": "Law360"
   },
   {
-   "title": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger - SiliconANGLE",
+   "title": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger - siliconangle.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWZ3QWlLM0o4c3FzQ0FseG4tRWtmd2g0dUZ3Nms3c1VsQ0ZtSm1EQjNpM1dPSkNPcUR4ZXhMcnhLaTM5Q1k4UjlOWHhDYXRaZzM4WWY4a2lISmhEdU1EYlFqeWN2Wk42MkYxaWlzQVpsQUY4a1FYOFkzYnpWbEdGV3ZrMzl0WkduMlR2YWVWZ3NTazU3Q0w3c2xtY3M?oc=5",
    "published": "2026-08-02",
-   "source": "SiliconANGLE"
+   "source": "siliconangle.com"
   },
   {
    "title": "Space-Eyes to Go Public in SPAC Merger Valuing Company at $638M - GovCon Wire",
@@ -959,10 +959,10 @@
    "source": "Investing.com"
   },
   {
-   "title": "Eric Trumpbacked defence technology company SpaceEyes to go public in $638m SPAC deal - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMFkyY1BuMFh1dVJ5cW82bjBOazhxZnJzcmN1R0UyNUJvcGZybnJCQWRreVZvVjdYRE1Ka1hGUFQ4aUM0ZUx1VjlwbExhTmlra0ZTOW5aU2h4emppR003SmdSOV92SGV1d0h3UFVkOWJzOXhySnAwT3dlY2lWQnBwb1FHcVZJZkJIYmd2cUJwUG1vaktxckxTNEJhR1l6NnI4dmRKU21iN09GSFJsdzJVRERvOXlQRlJqTHpTYnBZOW5jUXVILU5CbWlmdC1fZHFqVkdCeFIzczRqbl9SbEhfWFBJMDYzeDNlZXU2S0wwVVRlRVJiMlHSAfYBQVVfeXFMUDBZMmNQbjBYdXVSeXFvNm4wTms4cWZyc3JjdUdFMjVCb3Bmcm5yQkFka3lWb1Y3WERNSmtYRlBUOGlDNGVMdVY5cGxMYU5pa2tGUzluWlNoeHpqaUdNN0pnUjlfdkhldXdId1BVZDliczl4ckpwME93ZWNpVkJwcG9RR3FWSWZCSGJndnFCcFBtb2pLcXJMUzRCYUdZejZyOHZkSlNtYjdPRkhSbHcyVUREbzl5UEZSakx6U2JwWTluY1F1SC1OQm1pZnQtX2RxalZHQnhSM3M0am5fUmxIX1hQSTA2M3gzZWV1NktMMFVUZUVSYjJR?oc=5",
-   "published": "2026-08-02",
-   "source": "The Financial Express"
+   "title": "Yellow.ai's IPO Aim: a $550M SPAC Deal to Turn BPOs Into AI-Native Operations - CMSWire",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RxR2llTi14blJpRlIxNC02OGMtWHhVRzRYNlZhODJFcUxlQi1za2pWWUJOOVBHSmM2eDR5N1NOUzczUnBuWnYtNm85M25LOEFsblBqMWluTnpLUzNBUXBFd1Bvcll5bGpYV2k5Q2xYZ2VuY2dMUk96S0hZbnBFRlM4WDRTdmZ0MXEwVTJuR25BRDVCYkdrUlJpd0kxQVE4TU1RenN2MnY5NVN3Sm5abFEySVJVdnNNZlA4b056Z3Z4RTA?oc=5",
+   "published": "2026-08-04",
+   "source": "CMSWire"
   }
  ],
  "regs": []
