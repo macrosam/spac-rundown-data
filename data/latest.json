@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T12:25:10Z",
+ "generated_at": "2026-08-05T20:17:34Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -823,34 +823,34 @@
    "source": "Law360"
   },
   {
+   "title": "Space-Eyes, Inc. (MKLY) plans SPAC merger and $75M note financing - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJ5d3BpNmFxdnVUVzlFeDZaWHVZSEdIUW1ZTVNvb3VvMFkzRkxHUTF4dU1QMUVMSlQtU2JqaW80SER4R1BZX1FZLWhGS3RYN1YtTVJfS1NVamVIcjdjbHhjM05mUThQa21PY2xqb1ZQVExXVXV2X0p2Ykg2MjU3LUxxS3BPMXQ0a3JlRWx5Nk1TNGo0LVlsUDRiUGkwMk5IVjVkU2FnU2U4R3RGSi1MbzdHbnUzb3g5VGp1SHZlZS1HTHUzVnc?oc=5",
+   "published": "2026-08-04",
+   "source": "stocktitan.net"
+  },
+  {
+   "title": "Ken Harris Joins MBP Global as Partner and SPAC Practice Leader - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2xoLVFqQTFrOVd4UGZsOHdIN0h3U0libk10ekFyWHVHYjNzeGdzVzVhY1ZTZ1BFLTE5ZFFfb01SY3dwWmx1WlJXbU4tWlZOZFJoeWFjTG11Y2F0NUpMZDBhZ0F3ZUMzMVp0bmhSMmllMDlzczhjRVVQZjJhVHlsYU5CZU9rR2xqUnB1VmQ0RHBFdUsyN3NuM3Y4Ul9aQ3ZpSE5YRE0wajlITEZ2ZXEyUjFWcE54bnE4MExETk41U1l2X2RlU0RMbnlCLVNycnltSHBtbUNmbVHSAdgBQVVfeXFMT3NsaC1RakExazlXeFBmbDh3SDdId1NJYm5NdHpBclh1R2Izc3hnc1c1YWNWU2dQRS0xOWRRX29NUmN3cFpsdVpSV21OLVpWTmRSaHlhY0xtdWNhdDVKTGQwYWdBd2VDMzFadG5oUjJpZTA5c3M4Y0VVUGYyYVR5bGFOQmVPa0dsalJwdVZkNERwRXVLMjdzbjN2OFJfWkN2aUhOWERNMGo5SExGdmVxMlIxVnBOeG5xODBMRE5ONVNZdl9kZVNETG55Qi1TcnJ5bUhwbW1DZm1R?oc=5",
+   "published": "2026-08-05",
+   "source": "The Manila Times"
+  },
+  {
+   "title": "Yellow.ai to go public via SPAC merger with Bluerock By Investing.com - Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHNsb0h5cGdCZmM5ZDhJcGlOU3RFS1ctX2lHZC1VZGI4U0ZkWGVfRlFObXFGZzhKX2FYWXVHMWFkdnNmaXVHVDNyMG5mcGlRRk9aOXhyOHUtV2kzaDZlYlNRcG9CUjYxQURWZFZtYWk4M2xWQ2R0bnkzY1RESGM2QVh0bEx1V05hZGdpaU9WbGIxSjBwS2Z2M3NLRlV0eG5sdVI4RG1ObTVhQmxnTVFDdVZOemVwdlNBYUlvMGVKaXRvZw?oc=5",
+   "published": "2026-08-03",
+   "source": "Investing.com UK"
+  },
+  {
    "title": "Yellow.ai's IPO Aim: a $550M SPAC Deal to Turn BPOs Into AI-Native Operations - CMSWire",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RxR2llTi14blJpRlIxNC02OGMtWHhVRzRYNlZhODJFcUxlQi1za2pWWUJOOVBHSmM2eDR5N1NOUzczUnBuWnYtNm85M25LOEFsblBqMWluTnpLUzNBUXBFd1Bvcll5bGpYV2k5Q2xYZ2VuY2dMUk96S0hZbnBFRlM4WDRTdmZ0MXEwVTJuR25BRDVCYkdrUlJpd0kxQVE4TU1RenN2MnY5NVN3Sm5abFEySVJVdnNNZlA4b056Z3Z4RTA?oc=5",
    "published": "2026-08-04",
    "source": "CMSWire"
   },
   {
-   "title": "Space-Eyes confirms $638m SPAC merger with McKinley - Army Technology",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wWnI2V0wyc1dwS3c3TlpsdWs3bHE3eFRndy1WUTRqTlhUa09GVHVoc2JxdndyaGo4eXA2QzJNR2FLWVBfN250SHlkWkFRQm1ta1VCakhyeVNrMUF3bjRPbzRQR1g2c2wyMDI3YnhYQS1sQQ?oc=5",
-   "published": "2026-08-03",
-   "source": "Army Technology"
-  },
-  {
-   "title": "Yellow.ai to go public via SPAC merger with Bluerock - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1ptVUpUR2lEcmhVWDhocnZQdGFGcUNqeFRBZDlGc2doTXlTUl9Vczg5cHRsNjlUTThYNFBBNDZjN1Rad2Z6TElqeEJ5ZkJFaEJsNkVrRXVZZDBpU3FIRTY3YXJySUJOODdBVGJ4N0JvQ1BRT1E4MXpUck95S1FyU1k2STZ6VUF3N0YzV2dpVWpTbzJxNGR6SGlKZWxmaDZPRnl3bmJMSHBTZDFu?oc=5",
-   "published": "2026-08-03",
-   "source": "Investing.com"
-  },
-  {
-   "title": "OpenPayd and Titan Acquisition Corp (TACH) plan $1B-plus Nasdaq-listed fintech deal - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzh6Z1dSSDF6MUZKTVFoRm9mRXR5NE5Vd3lPeDJMT2tsdFVaTkwzcnBiSXZJem5DZFZzLVJhbkRLOXNOZjVFbGRudm02bkRnb25Mb2c2NFZlQnJ3UzB5MXVaVEJzQUwwV2daSkRIZFh5cy1TWGlBXzA2d2swSU1MMEE2QzdKbFRFMFNFalNVem1Qay05dlZnZ29NSjd2WDU1Q2dqa0lSQ2Z0S2pYWWVpWlZFNTVzRDRyQ1ZyU2NvV1A?oc=5",
-   "published": "2026-08-03",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Salesforce, HubSpot, Okta, Workday, and Datadog Shares Skyrocket, What You Need To Know - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2plYmJWUjQxZWROck84RTdPV1Mtd1c4c3dMOEQ3Rm1NaWo5LWktb09sOTVnUWpEN2EyMkM0NTdiZTlseGVXcHRkNHhvWDYyMlFtbDNxTHNsVEF1MjBHSjR5bmUwNGc0Q2czczFsYWxjMUZHdFM2R1pNSDNiRnVnYzlLMHBuMUJFTjg4aGtuZVJDYUM4ZXh6dnl4VlVrNGhkbmJZRXowdnh4dzZJc0NSNXRtRmtHenpvWHlJS3dJQW5PNDdnVlpQQ1piTmRmblBGNFBsMzNhTzRrLWs?oc=5",
-   "published": "2026-08-03",
-   "source": "TradingView"
+   "title": "AI Investing Insights - Official Homepage - Intellectia AI\u2122 - Intellectia AI",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbTQ2QXE0dmI0UzhYdlV5dVl1Y1EyVEo0RGhGUnVZOHVTMUxwd05CZVdWaV9PTWpmbmw2TklOMjY3NUZscVZkLUdHQUtxZVRVTHc?oc=5",
+   "published": "2026-08-04",
+   "source": "Intellectia AI"
   }
  ],
  "regs": []
