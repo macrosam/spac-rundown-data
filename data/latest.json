@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T19:15:19Z",
+ "generated_at": "2026-08-05T12:25:10Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -45,20 +45,20 @@
  ],
  "pricings": [
   {
+   "company": "BOA Acquisition Corp. II",
+   "form": "424B4",
+   "cik": "2080216",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2080216/0001193125-26-333135.txt",
+   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit; focus: investing in our company (auto-extracted)"
+  },
+  {
    "company": "East West Ave Acquisition Corp.",
    "form": "424B4",
    "cik": "2100704",
    "filed": "2026-08-03",
    "path": "edgar/data/2100704/0001493152-26-035717.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Catalyst Acquisition Corp.",
-   "form": "424B4",
-   "cik": "2104391",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2104391/0001213900-26-081980.txt",
-   "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
   },
   {
    "company": "Meridian3 Industrials Acquisition Corp",
@@ -75,25 +75,24 @@
    "filed": "2026-07-02",
    "path": "edgar/data/2113481/0001213900-26-074446.txt",
    "blurb": "offering $261,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "424B3",
-   "cik": "2010653",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2010653/0001829126-26-007011.txt",
-   "blurb": "offering $90,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Ares Acquisition Corp III",
-   "form": "424B4",
-   "cik": "2128115",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2128115/0001104659-26-079331.txt",
-   "blurb": "offering $345,000,000; 34,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "Crestone Strategic Capital Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2136449",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2136449/0001493152-26-036009.txt"
+  },
+  {
+   "company": "Hall Chadwick Acquisition Corp II",
+   "form": "S-1/A",
+   "cik": "2130219",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2130219/0001829126-26-008335.txt",
+   "blurb": "offering $265,000,000; 26,500,000 units; $10.00/unit; focus: investing in our company and assisting in identifying a target for our potential business combination (auto-extracted)"
+  },
   {
    "company": "Albatross Acquisition Corp",
    "form": "S-1/A",
@@ -143,14 +142,6 @@
    "blurb": "offering $700,000; $10.00/unit (auto-extracted)"
   },
   {
-   "company": "Dune Acquisition Corp III",
-   "form": "S-1/A",
-   "cik": "2095476",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2095476/0001213900-26-081909.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
    "company": "Mercator Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2106436",
@@ -165,24 +156,99 @@
    "filed": "2026-07-01",
    "path": "edgar/data/2129659/0001213900-26-074033.txt",
    "blurb": "offering $275,000,000; 27,500,000 units; $10.00/unit; focus: target businesses in the mining and critical minerals industry, we may pursue an acquisition opportunity in any business, industry, sector o (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "S-1/A",
-   "cik": "2094712",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2094712/0001493152-26-031152.txt"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "S-1/A",
-   "cik": "2139246",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2139246/0001213900-26-073322.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "425",
+   "cik": "2026767",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2026767/0001493152-26-036007.txt"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "425",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085079.txt"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "425",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085086.txt"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2051985/0001213900-26-084916.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2023676/0001213900-26-085263.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  {
+   "company": "McKinley Acquisition Corp",
+   "form": "425",
+   "cik": "2067592",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2067592/0001213900-26-085222.txt",
+   "blurb": "business combination with McKinley (auto-extracted)"
+  },
+  {
+   "company": "New Providence Acquisition Corp. III/Cayman",
+   "form": "425",
+   "cik": "2048948",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2048948/0001213900-26-084807.txt"
+  },
+  {
+   "company": "New Providence Acquisition Corp. III/Cayman",
+   "form": "425",
+   "cik": "2048948",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2048948/0001213900-26-084823.txt"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "8-K",
+   "cik": "2026767",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2026767/0001493152-26-036006.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085077.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085084.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2053927/0001829126-26-008307.txt"
+  },
   {
    "company": "Bluerock Acquisition Corp.",
    "form": "425",
@@ -431,51 +497,6 @@
    "note": "8-K: entry into material definitive agreement"
   },
   {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "425",
-   "cik": "2085659",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2085659/0001213900-26-082376.txt"
-  },
-  {
-   "company": "Silicon Valley Acquisition Corp.",
-   "form": "425",
-   "cik": "2085659",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2085659/0001213900-26-082379.txt"
-  },
-  {
-   "company": "Translational Development Acquisition Corp.",
-   "form": "425",
-   "cik": "1926599",
-   "filed": "2026-07-28",
-   "path": "edgar/data/1926599/0001193125-26-320984.txt"
-  },
-  {
-   "company": "Axiom Intelligence Acquisition Corp 1",
-   "form": "8-K",
-   "cik": "2057030",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2057030/0001213900-26-082395.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1889983",
-   "filed": "2026-07-28",
-   "path": "edgar/data/1889983/0001213900-26-081921.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Market Technology Acquisition Corp",
-   "form": "8-K",
-   "cik": "2133136",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2133136/0001213900-26-082377.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
    "company": "Spark I Acquisition Corp",
    "form": "425",
    "cik": "1884046",
@@ -533,68 +554,6 @@
    "cik": "2095161",
    "filed": "2026-07-01",
    "path": "edgar/data/2095161/0001829126-26-007124.txt"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2088295/0001213900-26-073692.txt",
-   "blurb": "business combination with Bleichroeder (auto-extracted)"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "425",
-   "cik": "2059654",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2059654/0001185185-26-002725.txt"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "425",
-   "cik": "2023676",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2023676/0001213900-26-073598.txt",
-   "blurb": "business combination with LatAm Logistic Properties S.A. (auto-extracted)"
-  },
-  {
-   "company": "Spring Valley Acquisition Corp. III",
-   "form": "425",
-   "cik": "2074850",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2074850/0001104659-26-078976.txt"
-  },
-  {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2009183/0001829126-26-007002.txt",
-   "blurb": "business combination with OpenPayd (auto-extracted)"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "8-K",
-   "cik": "2059654",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2059654/0001185185-26-002723.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "8-K",
-   "cik": "2116105",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2116105/0001829126-26-007072.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2023676",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2023676/0001213900-26-073592.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
@@ -671,30 +630,6 @@
    "blurb": "meeting August 20, 2026; extension on the agenda (auto-extracted)"
   },
   {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1889983",
-   "filed": "2026-07-28",
-   "path": "edgar/data/1889983/0001213900-26-081921.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Market Technology Acquisition Corp",
-   "form": "8-K",
-   "cik": "2133136",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2133136/0001213900-26-082377.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "PRE 14A",
-   "cik": "2010653",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2010653/0001829126-26-007896.txt",
-   "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
    "company": "Ares Acquisition Corp III",
    "form": "8-K",
    "cik": "2128115",
@@ -733,25 +668,33 @@
    "filed": "2026-07-01",
    "path": "edgar/data/2030482/0001213900-26-073911.txt",
    "blurb": "meeting July 10, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "8-K",
-   "cik": "2116105",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2116105/0001829126-26-007072.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Plum Acquisition Corp, IV",
-   "form": "DEFA14A",
-   "cik": "2030482",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2030482/0001213900-26-073269.txt",
-   "blurb": "meeting July 2, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "8-K",
+   "cik": "2026767",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2026767/0001493152-26-036006.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085077.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2028201/0001213900-26-085084.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Bluerock Acquisition Corp.",
    "form": "8-K",
@@ -785,27 +728,11 @@
    "note": "8-K: unregistered equity sale (PIPE signal)"
   },
   {
-   "company": "Market Technology Acquisition Corp",
-   "form": "8-K",
-   "cik": "2133136",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2133136/0001213900-26-082377.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
    "company": "Ares Acquisition Corp III",
    "form": "8-K",
    "cik": "2128115",
    "filed": "2026-07-02",
    "path": "edgar/data/2128115/0001104659-26-080008.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "8-K",
-   "cik": "2116105",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2116105/0001829126-26-007072.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
@@ -833,41 +760,16 @@
    "filed": "2026-07-29",
    "path": "edgar/data/2104391/0001213900-26-082795.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2024459/0001213900-26-082335.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Market Technology Acquisition Corp",
-   "form": "8-K",
-   "cik": "2133136",
-   "filed": "2026-07-28",
-   "path": "edgar/data/2133136/0001213900-26-082377.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Futurewave Acquisition Corp",
-   "form": "8-K",
-   "cik": "2116105",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2116105/0001829126-26-007072.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2023676",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2023676/0001213900-26-073592.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2137965",
+   "filed": "2026-08-04",
+   "path": "edgar/data/2137965/0001193125-26-332291.txt"
+  },
   {
    "company": "ARC Group Securities Acquisition I",
    "form": "8-A12B",
@@ -911,20 +813,6 @@
    "cik": "2136530",
    "filed": "2026-07-01",
    "path": "edgar/data/2136530/0001104659-26-079769.txt"
-  },
-  {
-   "company": "Osprey Acquisition Corp. III",
-   "form": "8-A12B",
-   "cik": "2113481",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2113481/0001213900-26-073572.txt"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "8-A12B",
-   "cik": "2139246",
-   "filed": "2026-06-30",
-   "path": "edgar/data/2139246/0001213900-26-073649.txt"
   }
  ],
  "media": [
@@ -935,16 +823,10 @@
    "source": "Law360"
   },
   {
-   "title": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger - siliconangle.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWZ3QWlLM0o4c3FzQ0FseG4tRWtmd2g0dUZ3Nms3c1VsQ0ZtSm1EQjNpM1dPSkNPcUR4ZXhMcnhLaTM5Q1k4UjlOWHhDYXRaZzM4WWY4a2lISmhEdU1EYlFqeWN2Wk42MkYxaWlzQVpsQUY4a1FYOFkzYnpWbEdGV3ZrMzl0WkduMlR2YWVWZ3NTazU3Q0w3c2xtY3M?oc=5",
-   "published": "2026-08-02",
-   "source": "siliconangle.com"
-  },
-  {
-   "title": "Space-Eyes to Go Public in SPAC Merger Valuing Company at $638M - GovCon Wire",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZE01LW01SThiSHpkbVdEQmp5SGMwaDRHQk13RnNwdmhnNEpGQ3RxSFRfRXRiM29CTGZZVDVIbmVIQkpuc1pORG1pbnF3MktuUGZJYWU3bHBjV0lJUDV6QVdXMThkQjRsay1TTjctTzQwdjJHQ2l0ME94elRNekEyNmtneWF3QQ?oc=5",
-   "published": "2026-08-03",
-   "source": "GovCon Wire"
+   "title": "Yellow.ai's IPO Aim: a $550M SPAC Deal to Turn BPOs Into AI-Native Operations - CMSWire",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RxR2llTi14blJpRlIxNC02OGMtWHhVRzRYNlZhODJFcUxlQi1za2pWWUJOOVBHSmM2eDR5N1NOUzczUnBuWnYtNm85M25LOEFsblBqMWluTnpLUzNBUXBFd1Bvcll5bGpYV2k5Q2xYZ2VuY2dMUk96S0hZbnBFRlM4WDRTdmZ0MXEwVTJuR25BRDVCYkdrUlJpd0kxQVE4TU1RenN2MnY5NVN3Sm5abFEySVJVdnNNZlA4b056Z3Z4RTA?oc=5",
+   "published": "2026-08-04",
+   "source": "CMSWire"
   },
   {
    "title": "Space-Eyes confirms $638m SPAC merger with McKinley - Army Technology",
@@ -959,10 +841,16 @@
    "source": "Investing.com"
   },
   {
-   "title": "Yellow.ai's IPO Aim: a $550M SPAC Deal to Turn BPOs Into AI-Native Operations - CMSWire",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RxR2llTi14blJpRlIxNC02OGMtWHhVRzRYNlZhODJFcUxlQi1za2pWWUJOOVBHSmM2eDR5N1NOUzczUnBuWnYtNm85M25LOEFsblBqMWluTnpLUzNBUXBFd1Bvcll5bGpYV2k5Q2xYZ2VuY2dMUk96S0hZbnBFRlM4WDRTdmZ0MXEwVTJuR25BRDVCYkdrUlJpd0kxQVE4TU1RenN2MnY5NVN3Sm5abFEySVJVdnNNZlA4b056Z3Z4RTA?oc=5",
-   "published": "2026-08-04",
-   "source": "CMSWire"
+   "title": "OpenPayd and Titan Acquisition Corp (TACH) plan $1B-plus Nasdaq-listed fintech deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzh6Z1dSSDF6MUZKTVFoRm9mRXR5NE5Vd3lPeDJMT2tsdFVaTkwzcnBiSXZJem5DZFZzLVJhbkRLOXNOZjVFbGRudm02bkRnb25Mb2c2NFZlQnJ3UzB5MXVaVEJzQUwwV2daSkRIZFh5cy1TWGlBXzA2d2swSU1MMEE2QzdKbFRFMFNFalNVem1Qay05dlZnZ29NSjd2WDU1Q2dqa0lSQ2Z0S2pYWWVpWlZFNTVzRDRyQ1ZyU2NvV1A?oc=5",
+   "published": "2026-08-03",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "Salesforce, HubSpot, Okta, Workday, and Datadog Shares Skyrocket, What You Need To Know - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2plYmJWUjQxZWROck84RTdPV1Mtd1c4c3dMOEQ3Rm1NaWo5LWktb09sOTVnUWpEN2EyMkM0NTdiZTlseGVXcHRkNHhvWDYyMlFtbDNxTHNsVEF1MjBHSjR5bmUwNGc0Q2czczFsYWxjMUZHdFM2R1pNSDNiRnVnYzlLMHBuMUJFTjg4aGtuZVJDYUM4ZXh6dnl4VlVrNGhkbmJZRXowdnh4dzZJc0NSNXRtRmtHenpvWHlJS3dJQW5PNDdnVlpQQ1piTmRmblBGNFBsMzNhTzRrLWs?oc=5",
+   "published": "2026-08-03",
+   "source": "TradingView"
   }
  ],
  "regs": []
