@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T13:21:48Z",
+ "generated_at": "2026-08-07T00:32:54Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -25,22 +25,6 @@
    "filed": "2026-08-03",
    "path": "edgar/data/2145409/0001185185-26-003214.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Gold Mountain Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2105318",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2105318/0001493152-26-031978.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Laris Growth Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2140589",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2140589/0001213900-26-075107.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: identifying and acquiring a high-growth deep-tech business where we believe the private-to-public valuation arbitrage is most compelling and (auto-extracted)"
   }
  ],
  "pricings": [
@@ -75,22 +59,6 @@
    "filed": "2026-08-03",
    "path": "edgar/data/2100704/0001493152-26-035717.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "424B4",
-   "cik": "2136530",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2136530/0001104659-26-080405.txt",
-   "blurb": "offering $175,000,000; 17,500,000 units; $10.00/unit; focus: Industry 4 (auto-extracted)"
-  },
-  {
-   "company": "Osprey Acquisition Corp. III",
-   "form": "424B4",
-   "cik": "2113481",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2113481/0001213900-26-074446.txt",
-   "blurb": "offering $261,000,000; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
@@ -147,30 +115,6 @@
    "filed": "2026-07-31",
    "path": "edgar/data/2137965/0001193125-26-328576.txt",
    "blurb": "offering $300,000 (auto-extracted)"
-  },
-  {
-   "company": "Gold Mountain Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2105318",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2105318/0001493152-26-035448.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Hall Chadwick Acquisition Corp II",
-   "form": "S-1/A",
-   "cik": "2130219",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2130219/0001829126-26-008117.txt",
-   "blurb": "offering $265,000,000; 26,500,000 units; $10.00/unit; focus: investing in our company and assisting in identifying a target for our potential business combination (auto-extracted)"
-  },
-  {
-   "company": "Mercator Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2106436",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2106436/0001213900-26-074947.txt",
-   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
@@ -470,76 +414,6 @@
    "cik": "2080023",
    "filed": "2026-07-31",
    "path": "edgar/data/2080023/0001213900-26-083941.txt"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-07-30",
-   "path": "edgar/data/1834032/0001213900-26-082961.txt",
-   "blurb": "business combination with HiTech Minerals Inc. (auto-extracted)"
-  },
-  {
-   "company": "Iron Horse Acquisition II Corp.",
-   "form": "425",
-   "cik": "2051985",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2051985/0001213900-26-083393.txt",
-   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "425",
-   "cik": "2023676",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2023676/0001213900-26-083122.txt",
-   "blurb": "business combination with Launch Two Acquisition Corp. (auto-extracted)"
-  },
-  {
-   "company": "Soulpower Acquisition Corp.",
-   "form": "425",
-   "cik": "2025608",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2025608/0001493152-26-035496.txt",
-   "blurb": "business combination with Soulpower (auto-extracted)"
-  },
-  {
-   "company": "Lakeshore Acquisition III Corp.",
-   "form": "8-K",
-   "cik": "2049248",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2049248/0001929980-26-000405.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "425",
-   "cik": "1884046",
-   "filed": "2026-07-02",
-   "path": "edgar/data/1884046/0001104659-26-080442.txt",
-   "blurb": "business combination with ZincFive (auto-extracted)"
-  },
-  {
-   "company": "Ares Acquisition Corp III",
-   "form": "8-K",
-   "cik": "2128115",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2128115/0001104659-26-080008.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2026767",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2026767/0001493152-26-031763.txt"
-  },
-  {
-   "company": "Wintergreen Acquisition Corp.",
-   "form": "S-4/A",
-   "cik": "2053927",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2053927/0001829126-26-007196.txt"
   }
  ],
  "votes": [
@@ -582,54 +456,6 @@
    "filed": "2026-07-31",
    "path": "edgar/data/2012807/0001829126-26-008243.txt",
    "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Lakeshore Acquisition III Corp.",
-   "form": "8-K",
-   "cik": "2049248",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2049248/0001929980-26-000405.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Andretti Acquisition Corp. II",
-   "form": "DEF 14A",
-   "cik": "2025341",
-   "filed": "2026-07-30",
-   "path": "edgar/data/2025341/0001213900-26-083331.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "DEFA14A",
-   "cik": "1889983",
-   "filed": "2026-07-30",
-   "path": "edgar/data/1889983/0001213900-26-083407.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Ares Acquisition Corp III",
-   "form": "8-K",
-   "cik": "2128115",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2128115/0001104659-26-080008.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "DEF 14A",
-   "cik": "1889983",
-   "filed": "2026-07-02",
-   "path": "edgar/data/1889983/0001213900-26-075073.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "byNordic Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1801417",
-   "filed": "2026-07-02",
-   "path": "edgar/data/1801417/0001213900-26-075009.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
@@ -712,14 +538,6 @@
    "filed": "2026-07-31",
    "path": "edgar/data/2028201/0001213900-26-083652.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Ares Acquisition Corp III",
-   "form": "8-K",
-   "cik": "2128115",
-   "filed": "2026-07-02",
-   "path": "edgar/data/2128115/0001104659-26-080008.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
@@ -793,28 +611,20 @@
    "filed": "2026-07-31",
    "path": "edgar/data/2028201/0001213900-26-083647.txt",
    "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "Keen Vision Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1889983",
-   "filed": "2026-07-30",
-   "path": "edgar/data/1889983/0001213900-26-083400.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "Space-Eyes, Inc. (MKLY) plans SPAC merger and $75M note financing - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJ5d3BpNmFxdnVUVzlFeDZaWHVZSEdIUW1ZTVNvb3VvMFkzRkxHUTF4dU1QMUVMSlQtU2JqaW80SER4R1BZX1FZLWhGS3RYN1YtTVJfS1NVamVIcjdjbHhjM05mUThQa21PY2xqb1ZQVExXVXV2X0p2Ykg2MjU3LUxxS3BPMXQ0a3JlRWx5Nk1TNGo0LVlsUDRiUGkwMk5IVjVkU2FnU2U4R3RGSi1MbzdHbnUzb3g5VGp1SHZlZS1HTHUzVnc?oc=5",
-   "published": "2026-08-04",
-   "source": "Stock Titan"
+   "title": "BlackStar Orbital Takes SPAC Deal - Via Satellite",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVNqRy1wblBXYUZIWWpTX1d5MWpnWlhnejBkZ0o0TU1HSDQxYXBhUkgyWldFUmNYQTQ0RVg0RFVKRlpYVzhzdGxUN1FGR05zTzZySTJyczJUUlM4eTN3c3pKMjZhZ1pfOXZqblJzdEw1T0JYYjYwWGVCTkZRVjlRaEZ5TVNHQ2FvcGZELQ?oc=5",
+   "published": "2026-08-06",
+   "source": "Via Satellite"
   },
   {
-   "title": "Yellow.ai's IPO Aim: a $550M SPAC Deal to Turn BPOs Into AI-Native Operations - CMSWire",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RxR2llTi14blJpRlIxNC02OGMtWHhVRzRYNlZhODJFcUxlQi1za2pWWUJOOVBHSmM2eDR5N1NOUzczUnBuWnYtNm85M25LOEFsblBqMWluTnpLUzNBUXBFd1Bvcll5bGpYV2k5Q2xYZ2VuY2dMUk96S0hZbnBFRlM4WDRTdmZ0MXEwVTJuR25BRDVCYkdrUlJpd0kxQVE4TU1RenN2MnY5NVN3Sm5abFEySVJVdnNNZlA4b056Z3Z4RTA?oc=5",
-   "published": "2026-08-04",
-   "source": "CMSWire"
+   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjhFLWprUUQyOUtTZnNDYVlVYWw2NmpfTWl0bnhZZ0doRDlFTENST2RPRFlvZXhNNTFxMUxMTUplRUJxZVZLQzdHOW11VXVwQkFXYmQ4Z0liSzJxbExDUkM2R3JvVmthVHNWeDdVVVNLSEwtZFU4S3ZPeWVHNTBCVXRCNjlnMW54T3pmTFhZenJvTzNtN1E3bndPeHhGc01w?oc=5",
+   "published": "2026-08-06",
+   "source": "Investing.com Canada"
   },
   {
    "title": "Ken Harris Joins MBP Global as Partner and SPAC Practice Leader - GlobeNewswire",
@@ -823,10 +633,10 @@
    "source": "GlobeNewswire"
   },
   {
-   "title": "Europe SPAC Summit 2026 to Convene Leading SPAC Sponsors, Investors, and European Growth Companies in Zurich on December 10 - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQkVLTGt3QW4ybGhXbXk2WXQxZVEwQXI5WDd3dWpFTzNnR0F5ZW5EM3dDeWNiR1hKVEktdjc5Y0xTX0Z3MU5KU3N4ZnVIY0pOVWlVQmtyenBpWHN5LUVZNHU0T2I0YldWVE1Dc1QxWXVMN0xrZDJYOUtYOFNVTTV6eWhzcmNRUndNTVVRcV9VQlJZdUtmMnZfdThrUUVyVmEzNGxDY1dORl9MSlJfU3NGdTBLRTQxTTFENFA2NHNva1lONlJlcnRHSmJ6c1dic1h5WGNMYjVEQ3lKZ0VIMU1wVzlFR0RYdk1xbmhSVlNtUDFzeHhISDhGS3dVb3VqMnhZblhMT2xxazZHbHRPUjN4cFA2aC1YTzZVZElCUkpXM3fSAaYCQVVfeXFMUEp6X29iZDgya2dMLVdlSlNicGR4dWRkZlhIRnZLdk5rWXByQWZSanVBYUNBUWN5eDA0U1dkNWo2Z3FUYjdtdGJzR1BKb1hGRDdFNzk3eTdKNU1LZGVIMFhvWFgwekJvWE1SUWhGTWl1bHNWMGFWV1V2TVJTU1Z6RG1HSGpwRUljemVUNHVRbjEwUnZLUXdJb0pqdlVGRmpvWVRGWFZNS3VRNHhZcXRLMDFEVzhZaEFZakJvZEQxNXpTUWVVUEl1M2I0MVZlWndHNDRqazkwSGplNGRZZnhpMVlXR1dWTkJCVUJiZllrVGQ3d2lXaUNyWjl4LXR2ZjJrSzFPN3dFVzljNDNtVmtZV1RYUW5WbnV4Z0xGQjcwU3NNMHdqWUlR?oc=5",
-   "published": "2026-08-04",
-   "source": "The Manila Times"
+   "title": "East West Ave Acquisition Corp (EWAVU) closes $100M SPAC IPO - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3VRN1BIeGMzQ2YwMmtOSmlBSDNZNElTb3N2cWVUZXdQamYzWTVEcFB3ZG1MdE9ZZllTY1RLMi0yLWM5dTNGVVlSUlFpUzFiX1RhTjNaVndqRzNJd2FETHhsUC16MzhiNDJXMjV3S21zNmRkQk1RU2hWR0hsMURmLXRHNXluTi16VlNUc0pOLTBNckhVSkdwQ3NoYU0ydXM3LUpqeG1nLVUxWUhaZFlpUU9UYnhiXzItNDV3YUNibHZyUQ?oc=5",
+   "published": "2026-08-05",
+   "source": "Stock Titan"
   },
   {
    "title": "Catalyst Sponsor LLC Discloses Investment at Catalyst Acquisition Corp. with 22.2% Stake - TradingView",
@@ -835,10 +645,10 @@
    "source": "TradingView"
   },
   {
-   "title": "East West Ave Acquisition Corp (EWAVU) closes $100M SPAC IPO - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3VRN1BIeGMzQ2YwMmtOSmlBSDNZNElTb3N2cWVUZXdQamYzWTVEcFB3ZG1MdE9ZZllTY1RLMi0yLWM5dTNGVVlSUlFpUzFiX1RhTjNaVndqRzNJd2FETHhsUC16MzhiNDJXMjV3S21zNmRkQk1RU2hWR0hsMURmLXRHNXluTi16VlNUc0pOLTBNckhVSkdwQ3NoYU0ydXM3LUpqeG1nLVUxWUhaZFlpUU9UYnhiXzItNDV3YUNibHZyUQ?oc=5",
-   "published": "2026-08-05",
-   "source": "Stock Titan"
+   "title": "Shareholders Approve SPAC Merger with Air Water Ventures - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEo0STJLVUNmNmZxeXN0V3ljRDJaejNmTldXTzJmY0YwY0NLcjlHdWh1OWh1SDlTQkVhakdrMlpMTUN2TGdvTTRVakNnUHhic3RlVDFZUVo5QTViRlNMQk5HRmJVcmhaVFloZHE2Ml9rMmh4VFVBQml2R2Q1NDdRd3BLLU1FMktNMmJyWUZSZkdFZk1yMDdZMU5HLXdmOFF4ekJoR0JsSnNUb3Bj?oc=5",
+   "published": "2026-08-06",
+   "source": "TipRanks"
   }
  ],
  "regs": []
