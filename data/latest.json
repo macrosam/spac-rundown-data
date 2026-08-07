@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T12:29:36Z",
+ "generated_at": "2026-08-07T19:40:14Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -756,40 +756,40 @@
  ],
  "media": [
   {
-   "title": "BlackStar Orbital Takes SPAC Deal - Via Satellite",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVNqRy1wblBXYUZIWWpTX1d5MWpnWlhnejBkZ0o0TU1HSDQxYXBhUkgyWldFUmNYQTQ0RVg0RFVKRlpYVzhzdGxUN1FGR05zTzZySTJyczJUUlM4eTN3c3pKMjZhZ1pfOXZqblJzdEw1T0JYYjYwWGVCTkZRVjlRaEZ5TVNHQ2FvcGZELQ?oc=5",
-   "published": "2026-08-06",
-   "source": "Via Satellite"
-  },
-  {
    "title": "3 Firms Guide Reusable Spacecraft Maker's $380M SPAC Deal - Law360",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TQ190V1ZmUXB4bTZ2aTVJY0NOak5Sd08zR0ZMR04yZ2g0V25OVUpBeUp6X2VWOXlTOXU5R2hzZ21KTTQ3RzVGTUhkNktoWVBjWXpqZmdB0gFWQVVfeXFMTlNDX3RXVmZRcHhtNnZpNUljQ05qTlJ3TzNHRkxHTjJnaDRXbk5VSkF5SnpfZVY5eVM5dTlHaHNnbUpNNDdHNUZNSGQ2S2hZUGNZempmZ0E?oc=5",
    "published": "2026-08-07",
    "source": "Law360"
   },
   {
-   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq By Investing.com - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjhFLWprUUQyOUtTZnNDYVlVYWw2NmpfTWl0bnhZZ0doRDlFTENST2RPRFlvZXhNNTFxMUxMTUplRUJxZVZLQzdHOW11VXVwQkFXYmQ4Z0liSzJxbExDUkM2R3JvVmthVHNWeDdVVVNLSEwtZFU4S3ZPeWVHNTBCVXRCNjlnMW54T3pmTFhZenJvTzNtN1E3bndPeHhGc01w?oc=5",
+   "title": "Silicon Valley Acquisition Updates EigenQ Merger and Sponsor Support to Advance De-SPAC - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUc0RWFhVDJVcjNfaEp2eVk3ckl1Y09jY3pHZkhkaU82b1ZiRVhJNHhWTTMxVHNvLUpPLWhBSWN2VWtya1kzRFFEUFBlWUJwTEdWZ0ZGM0FBM1BvbXZKeHhZSkt5OTRNZFVNWGJ0NHRYWkRrT0R5c01OeXlMeU5wTlFQbnhPSW5tczVrdjVDbDNJaEpKRjVCcGNGLXRCNFp5Wi1qZjl1c2F3dUVvMDVjMS1UdHpDd3NpZVNwbmd4a01pS1hPbEI1LWxJOW5FUlRhVFctOHprcXlOd0xOSEdBSE9wWQ?oc=5",
+   "published": "2026-08-07",
+   "source": "TradingView"
+  },
+  {
+   "title": "BlackStar Orbital Takes SPAC Deal - Via Satellite",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVNqRy1wblBXYUZIWWpTX1d5MWpnWlhnejBkZ0o0TU1HSDQxYXBhUkgyWldFUmNYQTQ0RVg0RFVKRlpYVzhzdGxUN1FGR05zTzZySTJyczJUUlM4eTN3c3pKMjZhZ1pfOXZqblJzdEw1T0JYYjYwWGVCTkZRVjlRaEZ5TVNHQ2FvcGZELQ?oc=5",
    "published": "2026-08-06",
-   "source": "Investing.com Canada"
+   "source": "Via Satellite"
   },
   {
-   "title": "Ken Harris Joins MBP Global as Partner and SPAC Practice Leader - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2xoLVFqQTFrOVd4UGZsOHdIN0h3U0libk10ekFyWHVHYjNzeGdzVzVhY1ZTZ1BFLTE5ZFFfb01SY3dwWmx1WlJXbU4tWlZOZFJoeWFjTG11Y2F0NUpMZDBhZ0F3ZUMzMVp0bmhSMmllMDlzczhjRVVQZjJhVHlsYU5CZU9rR2xqUnB1VmQ0RHBFdUsyN3NuM3Y4Ul9aQ3ZpSE5YRE0wajlITEZ2ZXEyUjFWcE54bnE4MExETk41U1l2X2RlU0RMbnlCLVNycnltSHBtbUNmbVHSAdgBQVVfeXFMT3NsaC1RakExazlXeFBmbDh3SDdId1NJYm5NdHpBclh1R2Izc3hnc1c1YWNWU2dQRS0xOWRRX29NUmN3cFpsdVpSV21OLVpWTmRSaHlhY0xtdWNhdDVKTGQwYWdBd2VDMzFadG5oUjJpZTA5c3M4Y0VVUGYyYVR5bGFOQmVPa0dsalJwdVZkNERwRXVLMjdzbjN2OFJfWkN2aUhOWERNMGo5SExGdmVxMlIxVnBOeG5xODBMRE5ONVNZdl9kZVNETG55Qi1TcnJ5bUhwbW1DZm1R?oc=5",
-   "published": "2026-08-05",
-   "source": "The Manila Times"
+   "title": "Factorial completes SPAC merger, to trade on Nasdaq as FAC - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2dzR0NfXzlaVGN3STl5YktPQWtQcVM2MXU3OF9XblVuNm5BTGtGdDdVaHlLejJaUFJUQXZiejliS2FBa09QbDR1dTJncTNZbFZVcjZHNzNmLWUtTEdkWlFuZ00xWEZjcEljYk44YnI2djY2OXNXQVBqYTdJNDVHNk5FQWdzb0R0b0ZmMmVwRjNlU3JlelBXOXlBNFdrQUxEelpVaWVCdXo1Ny1HR01zQVlaWl8?oc=5",
+   "published": "2026-08-07",
+   "source": "Investing.com"
   },
   {
-   "title": "East West Ave Acquisition Corp (EWAVU) closes $100M SPAC IPO - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3VRN1BIeGMzQ2YwMmtOSmlBSDNZNElTb3N2cWVUZXdQamYzWTVEcFB3ZG1MdE9ZZllTY1RLMi0yLWM5dTNGVVlSUlFpUzFiX1RhTjNaVndqRzNJd2FETHhsUC16MzhiNDJXMjV3S21zNmRkQk1RU2hWR0hsMURmLXRHNXluTi16VlNUc0pOLTBNckhVSkdwQ3NoYU0ydXM3LUpqeG1nLVUxWUhaZFlpUU9UYnhiXzItNDV3YUNibHZyUQ?oc=5",
-   "published": "2026-08-05",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Shareholders Approve SPAC Merger with Air Water Ventures - TipRanks",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEo0STJLVUNmNmZxeXN0V3ljRDJaejNmTldXTzJmY0YwY0NLcjlHdWh1OWh1SDlTQkVhakdrMlpMTUN2TGdvTTRVakNnUHhic3RlVDFZUVo5QTViRlNMQk5HRmJVcmhaVFloZHE2Ml9rMmh4VFVBQml2R2Q1NDdRd3BLLU1FMktNMmJyWUZSZkdFZk1yMDdZMU5HLXdmOFF4ekJoR0JsSnNUb3Bj?oc=5",
+   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFUzbHEwUVM3c0M0cEFrQldYczRTUVhJOGxJaDVVVzM2ZWpUZXRhUm1sc1ZQTDgtb0F4TzJ4QTloTUVWMmFtM0o5UVVNdE0xT2Q0VFQxR080aDU3QnpXTkFZa1JJOTgyMGVCckFlbzBWb1hIVWtLTlBaLVlmZk1zR1NjQkFQVHV2eWYwcUZwMHV2R0s5cklDUDl3dw?oc=5",
    "published": "2026-08-06",
-   "source": "TipRanks"
+   "source": "Investing.com"
+  },
+  {
+   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq By Investing.com - Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVhkdEk0OXRVazRTUlAzMFk1STB6ZmhkRlFIOTBFV0NOamFzQ0J1amJiS0N0NVU0SlJvYUUtXzFSNUlmVFZvLUpXX0Vpd09WV2ZFbF9sU2lTSFBaTWpwUDhERmhrcXRqanNLMTdydFdlVklhMEpQSzVyU0Z3cS1XY3hmWUxMaUozOU5UdllDM3NzaXlIZUxXSndOa0YxN2hN?oc=5",
+   "published": "2026-08-06",
+   "source": "Investing.com South Africa"
   }
  ],
  "regs": []
