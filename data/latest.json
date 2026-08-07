@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-08-07T00:32:54Z",
+ "generated_at": "2026-08-07T12:29:36Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "S-1",
+   "cik": "2147219",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2147219/0001104659-26-092088.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Gravity Acquisition Corp.",
    "form": "S-1",
@@ -28,6 +36,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2137965",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137965/0001193125-26-336098.txt",
+   "blurb": "offering $75,000,000; $10.00./unit; focus: industries that complement our management team s background, and to capitalize on the ability of our management team to identify and acquire (auto-extracted)"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "424B3",
@@ -62,6 +78,14 @@
   }
  ],
  "amends": [
+  {
+   "company": "AfterNext Acquisition I Corp.",
+   "form": "S-1/A",
+   "cik": "2087035",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2087035/0001493152-26-036233.txt",
+   "blurb": "offering $200,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Leader's Advantage Acquisition Corp.",
    "form": "S-1/A",
@@ -118,6 +142,53 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2088295/0001213900-26-085938.txt",
+   "blurb": "business combination with Pasqal (auto-extracted)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "425",
+   "cik": "2028201",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2028201/0001213900-26-086249.txt"
+  },
+  {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "8-K",
+   "cik": "2094712",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2094712/0001493152-26-036421.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2028201/0001213900-26-086245.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2137965",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137965/0001193125-26-338268.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "DEFM14A",
+   "cik": "2088295",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2088295/0001213900-26-085816.txt",
+   "blurb": "meeting August 25, 2026; business-combination vote (auto-extracted)"
+  },
   {
    "company": "Bluerock Acquisition Corp.",
    "form": "425",
@@ -418,6 +489,22 @@
  ],
  "votes": [
   {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "8-K",
+   "cik": "2094712",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2094712/0001493152-26-036421.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2137965",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137965/0001193125-26-338268.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
    "company": "BOA Acquisition Corp. II",
    "form": "8-K",
    "cik": "2080216",
@@ -459,6 +546,22 @@
   }
  ],
  "pipes": [
+  {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "8-K",
+   "cik": "2094712",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2094712/0001493152-26-036421.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2137965",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137965/0001193125-26-338268.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "BOA Acquisition Corp. II",
    "form": "8-K",
@@ -542,6 +645,30 @@
  ],
  "sponsors": [
   {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "8-K",
+   "cik": "2094712",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2094712/0001493152-26-036421.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Berto Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2081515",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2081515/0001829126-26-008442.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "TCGX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2137965",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137965/0001193125-26-338268.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "BOA Acquisition Corp. II",
    "form": "8-K",
    "cik": "2080216",
@@ -584,6 +711,20 @@
  ],
  "exchanges": [
   {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2137679",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2137679/0001829126-26-008440.txt"
+  },
+  {
+   "company": "Pinnacle Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2123955",
+   "filed": "2026-08-06",
+   "path": "edgar/data/2123955/0001213900-26-086070.txt"
+  },
+  {
    "company": "TCGX Acquisition Corp.",
    "form": "8-A12B",
    "cik": "2137965",
@@ -621,28 +762,28 @@
    "source": "Via Satellite"
   },
   {
+   "title": "3 Firms Guide Reusable Spacecraft Maker's $380M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TQ190V1ZmUXB4bTZ2aTVJY0NOak5Sd08zR0ZMR04yZ2g0V25OVUpBeUp6X2VWOXlTOXU5R2hzZ21KTTQ3RzVGTUhkNktoWVBjWXpqZmdB0gFWQVVfeXFMTlNDX3RXVmZRcHhtNnZpNUljQ05qTlJ3TzNHRkxHTjJnaDRXbk5VSkF5SnpfZVY5eVM5dTlHaHNnbUpNNDdHNUZNSGQ2S2hZUGNZempmZ0E?oc=5",
+   "published": "2026-08-07",
+   "source": "Law360"
+  },
+  {
    "title": "TCGX completes $86.3m SPAC IPO on Nasdaq By Investing.com - Investing.com Canada",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjhFLWprUUQyOUtTZnNDYVlVYWw2NmpfTWl0bnhZZ0doRDlFTENST2RPRFlvZXhNNTFxMUxMTUplRUJxZVZLQzdHOW11VXVwQkFXYmQ4Z0liSzJxbExDUkM2R3JvVmthVHNWeDdVVVNLSEwtZFU4S3ZPeWVHNTBCVXRCNjlnMW54T3pmTFhZenJvTzNtN1E3bndPeHhGc01w?oc=5",
    "published": "2026-08-06",
    "source": "Investing.com Canada"
   },
   {
-   "title": "Ken Harris Joins MBP Global as Partner and SPAC Practice Leader - GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblQxNFVLUjhrUjk2V2lUWERVbG9hYlJtMWxRWmdFSFlObXo2S2NKeHlDaEQ2OTNkWEw2MloxRE1VMlllWjJxU3ZIS1pCS1plWGR2aFExelU3T2xRSklNSUtlUlZPVmdzYWFoZFprQU5WTVRPT25DcUluckMwbDhDTU0xcHB0ZHhxN3BuLVo2ZWlzLVpfWFlJaGxHMjVVRFRSblYxS0lSQmtMeHR1UUNXbS1kUm9LeGJZS3FlQnBwTzB2QTM1bW1Ba1VtSDE2UTlF?oc=5",
+   "title": "Ken Harris Joins MBP Global as Partner and SPAC Practice Leader - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2xoLVFqQTFrOVd4UGZsOHdIN0h3U0libk10ekFyWHVHYjNzeGdzVzVhY1ZTZ1BFLTE5ZFFfb01SY3dwWmx1WlJXbU4tWlZOZFJoeWFjTG11Y2F0NUpMZDBhZ0F3ZUMzMVp0bmhSMmllMDlzczhjRVVQZjJhVHlsYU5CZU9rR2xqUnB1VmQ0RHBFdUsyN3NuM3Y4Ul9aQ3ZpSE5YRE0wajlITEZ2ZXEyUjFWcE54bnE4MExETk41U1l2X2RlU0RMbnlCLVNycnltSHBtbUNmbVHSAdgBQVVfeXFMT3NsaC1RakExazlXeFBmbDh3SDdId1NJYm5NdHpBclh1R2Izc3hnc1c1YWNWU2dQRS0xOWRRX29NUmN3cFpsdVpSV21OLVpWTmRSaHlhY0xtdWNhdDVKTGQwYWdBd2VDMzFadG5oUjJpZTA5c3M4Y0VVUGYyYVR5bGFOQmVPa0dsalJwdVZkNERwRXVLMjdzbjN2OFJfWkN2aUhOWERNMGo5SExGdmVxMlIxVnBOeG5xODBMRE5ONVNZdl9kZVNETG55Qi1TcnJ5bUhwbW1DZm1R?oc=5",
    "published": "2026-08-05",
-   "source": "GlobeNewswire"
+   "source": "The Manila Times"
   },
   {
    "title": "East West Ave Acquisition Corp (EWAVU) closes $100M SPAC IPO - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3VRN1BIeGMzQ2YwMmtOSmlBSDNZNElTb3N2cWVUZXdQamYzWTVEcFB3ZG1MdE9ZZllTY1RLMi0yLWM5dTNGVVlSUlFpUzFiX1RhTjNaVndqRzNJd2FETHhsUC16MzhiNDJXMjV3S21zNmRkQk1RU2hWR0hsMURmLXRHNXluTi16VlNUc0pOLTBNckhVSkdwQ3NoYU0ydXM3LUpqeG1nLVUxWUhaZFlpUU9UYnhiXzItNDV3YUNibHZyUQ?oc=5",
    "published": "2026-08-05",
    "source": "Stock Titan"
-  },
-  {
-   "title": "Catalyst Sponsor LLC Discloses Investment at Catalyst Acquisition Corp. with 22.2% Stake - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTlhTYjVIdmljX1IxdXNXOVlkM3ZvTlYzcV8xYURKY04tUDVDSUNvRUs2MzRmNHh0UDNHazBraktqcy1HUWg2MWFqX3gxTXFhN2RaY0hLR1EyanhsUkJRTkVvN2RGRkNpWkJyMmEwZk1Ed25IQ0ppWkxGQjJrT083S1c0cFExUERwaTJRUW42QlZia2JQdU8wRkNBeEl1RjNQMC0xamhFclZPVkhTUEg3MHYzaW5qb0JTRllvT2Y0OGF5bkhtM1JhU3gxbi1xWXJqN3dTNGZDcjJEV0RLQTAwMWFn?oc=5",
-   "published": "2026-08-05",
-   "source": "TradingView"
   },
   {
    "title": "Shareholders Approve SPAC Merger with Air Water Ventures - TipRanks",
