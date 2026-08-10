@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T12:33:29Z",
+ "generated_at": "2026-08-10T19:44:11Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -696,12 +696,6 @@
  ],
  "media": [
   {
-   "title": "Abra Targets Nasdaq Listing in $750M SPAC Deal - CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3hkWjN0SEFyNnVDaHFDSGp3Z0N2a1E2SWVVWEVURUFTMi1pajZuenRWZjZQdVVuVEdIcmJTbVJYXzAyUFNwcENWVGRuc1ZRTEdzV1NrWXlsWmFycVJ3a2dJYXdESUpyQnNhNkFYMzZwTmc5MkJaeGk2Q0wxQ09lMUlCdzJoWWs5d1lfMXVsU2xvbGN2aXFTNQ?oc=5",
-   "published": "2026-08-08",
-   "source": "CoinMarketCap"
-  },
-  {
    "title": "Invest Green Acquisition Corp 2Q 2026: Net income $1.3M, EPS $0.05\u2014 10-Q Summary - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczg0cGpzSXRkTFBqZ2VWdElTcTk2UlpIdGU0NDE2MkJxSlJ5dU9VOGVSQkpGckt1SHZjLTVhWkx3Rnpmcm9pRm1tZGY3em8wVmZ5aWhrcWRCdDNLOWZnbVhuUWo4Vk1XcU9iV2l6NkhDbXBaek84cVpBY0xfZkQzZk9oai1wUUVuOGs3dW42R0RNRFhmMlFSMVdXUk9oZzNVMXJ6c3YtRHBFNkhZNmxlWndFYXg5N1c2SjlVSjB6cXVXMGRldzBlcVdkSGtSYVRpOWxZ?oc=5",
    "published": "2026-08-10",
@@ -714,10 +708,22 @@
    "source": "CryptoSlate"
   },
   {
-   "title": "Berto Acquisition Corp. Financial Statements \u2013 NASDAQ:TACO - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9STGItV09tT2JYQlVmakYzazlHSUMyRFZyaWtTcFFnS2s5QzhRNEFTS21sdk1xNVk0ekUteTYyTFEtZnVBQUxCWW1CMWtkSjIyNExqZzFzbG9BelVtcU5GTHBIbFAyOTY1WGkyQ3F3?oc=5",
-   "published": "2026-08-08",
-   "source": "TradingView"
+   "title": "The Details Of Bill Ackman's Deal With Universal Music Big Brother (Ri7yuyuvLE) - Mshale",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQTBCYUR3WHZKYUJOWlRTajZlcFdrcllBSTh5bHlRcmVTRmVwNFY0eDlQcG1TZktRbmYxQXBHRTRXX0l0NHkwYXQ2SkJxZjROQ0d3YVhxMUNuQms?oc=5",
+   "published": "2026-08-09",
+   "source": "Mshale"
+  },
+  {
+   "title": "SPAC Ashington To Buy Metal Recyling Biz For \u00a3160M - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9INm92cmJmaENtZlN5WTY0NGk0RmFGYzZ6Z1A4aWtTZGJKTDI0TFAyYlFTT3N2bTVPTDdtQWgtMzRyaVg3bC1kclZ0YlItMTFURFpreHB30gFWQVVfeXFMT0g2b3ZyYmZoQ21mU3lZNjQ0aTRGYUZjNnpnUDhpa1NkYkpMMjRMUDJiUVNPc3ZtNU9MN21BaC0zNHJpWDdsLWRyVnRiUi0xMVREWmt4cHc?oc=5",
+   "published": "2026-08-10",
+   "source": "Law360"
+  },
+  {
+   "title": "SPAC Inflection Point Acquisition VIII files for a $250 million IPO, targeting technology-enabled businesses - renaissancecapital.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVVaSHV1aUEzek5CSWotRl9lZ1NiZkVTVmNockx6YzF5a0N5N2ctSEtzQlNMYk1Ob3ZBRmRHakxQOFhnT05qT25jenJTSWFxRkQ3bGVwU2MwQ1R6OEw1aDRyTjJsdTIyYkZTcmo4TjZaUXdxLVBmRHBoU1RFMVNkUXpRT3RWMmlHeHdmRXY2d2psSW5Cakt1U2xHeTBrclhPeU1mc0MyVV8tWjVNUlpQa21tb0ZVUWhJT2xkWlRMVVlfenZNaHhfckllQktCUQ?oc=5",
+   "published": "2026-08-10",
+   "source": "renaissancecapital.com"
   }
  ],
  "regs": []
