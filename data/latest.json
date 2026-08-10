@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-08-07T19:40:14Z",
+ "generated_at": "2026-08-10T12:33:29Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Danneskjold & Galt Acquisition Co",
+   "form": "S-1",
+   "cik": "2088286",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2088286/0001185185-26-003333.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Lucens Capital Acquisition Corp I",
+   "form": "S-1",
+   "cik": "2143156",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2143156/0001213900-26-086320.txt"
+  },
+  {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2148436",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2148436/0001185185-26-003326.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Rainier Acquisition Corp",
    "form": "S-1",
@@ -36,6 +59,22 @@
   }
  ],
  "pricings": [
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "424B4",
+   "cik": "2137679",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2137679/0001829126-26-008478.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: potential acquisition targets that exhibit compelling long-term growth potential and highly defensible market positions (auto-extracted)"
+  },
+  {
+   "company": "Pinnacle Acquisition Corp",
+   "form": "424B4",
+   "cik": "2123955",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2123955/0001213900-26-086694.txt",
+   "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "TCGX Acquisition Corp.",
    "form": "424B4",
@@ -78,6 +117,13 @@
   }
  ],
  "amends": [
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "S-1/A",
+   "cik": "2133239",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2133239/0001929980-26-000423.txt"
+  },
   {
    "company": "AfterNext Acquisition I Corp.",
    "form": "S-1/A",
@@ -123,25 +169,39 @@
    "filed": "2026-08-03",
    "path": "edgar/data/2135163/0001829126-26-008252.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "AfterNext Acquisition I Corp.",
-   "form": "S-1/A",
-   "cik": "2087035",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2087035/0001493152-26-035587.txt",
-   "blurb": "offering $200,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2137965",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2137965/0001193125-26-328576.txt",
-   "blurb": "offering $300,000 (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102713",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2102713/0001193125-26-340533.txt",
+   "blurb": "business combination with Nth Cycle (auto-extracted)"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2085659/0001213900-26-086431.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2085659/0001213900-26-086432.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2085659/0001213900-26-086426.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -397,97 +457,25 @@
    "cik": "2000775",
    "filed": "2026-08-03",
    "path": "edgar/data/2000775/0001829126-26-008251.txt"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "425",
-   "cik": "2059654",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2059654/0001185185-26-003213.txt"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "425",
-   "cik": "2026767",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2026767/0001493152-26-035689.txt"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "425",
-   "cik": "2028201",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2028201/0001213900-26-083654.txt"
-  },
-  {
-   "company": "Digital Asset Acquisition Corp.",
-   "form": "425",
-   "cik": "2052162",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2052162/0001213900-26-083581.txt"
-  },
-  {
-   "company": "Plum Acquisition Corp. III",
-   "form": "425",
-   "cik": "1845550",
-   "filed": "2026-07-31",
-   "path": "edgar/data/1845550/0001213900-26-084123.txt"
-  },
-  {
-   "company": "Armada Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2044009",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2044009/0001193125-26-328607.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Blue Acquisition Corp/Cayman",
-   "form": "8-K",
-   "cik": "2059654",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2059654/0001185185-26-003212.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Pelican Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2122392",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2122392/0001829126-26-008146.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K/A",
-   "cik": "2028201",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2028201/0001213900-26-083652.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "F-4/A",
-   "cik": "2088295",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2088295/0001213900-26-084072.txt"
-  },
-  {
-   "company": "Cayson Acquisition Corp",
-   "form": "F-4/A",
-   "cik": "2024203",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2024203/0001493152-26-035630.txt"
-  },
-  {
-   "company": "Viking Acquisition Corp I",
-   "form": "F-4/A",
-   "cik": "2080023",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2080023/0001213900-26-083941.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2010653",
+   "filed": "2026-08-07",
+   "path": "edgar/data/2010653/0001829126-26-008464.txt",
+   "blurb": "meeting August 21, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "BPGC Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1841610",
+   "filed": "2026-08-07",
+   "path": "edgar/data/1841610/0001185185-26-003331.txt",
+   "blurb": "meeting September 16, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "ARC Group Securities Acquisition I",
    "form": "8-K",
@@ -527,22 +515,6 @@
    "filed": "2026-08-05",
    "path": "edgar/data/2012318/0001213900-26-085796.txt",
    "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Pelican Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2122392",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2122392/0001829126-26-008146.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "DEF 14A",
-   "cik": "2012807",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2012807/0001829126-26-008243.txt",
-   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
@@ -625,25 +597,17 @@
    "filed": "2026-08-03",
    "path": "edgar/data/2081532/0001213900-26-084282.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Pelican Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2122392",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2122392/0001829126-26-008146.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K/A",
-   "cik": "2028201",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2028201/0001213900-26-083652.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "8-K",
+   "cik": "1834032",
+   "filed": "2026-08-07",
+   "path": "edgar/data/1834032/0001213900-26-086727.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "ARC Group Securities Acquisition I",
    "form": "8-K",
@@ -691,22 +655,6 @@
    "filed": "2026-08-05",
    "path": "edgar/data/2074878/0001493152-26-036181.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "ALPHATIME ACQUISITION CORP",
-   "form": "8-K",
-   "cik": "1889106",
-   "filed": "2026-07-31",
-   "path": "edgar/data/1889106/0001493152-26-035639.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Pelican Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2122392",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2122392/0001829126-26-008146.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
@@ -744,52 +692,32 @@
    "cik": "2080216",
    "filed": "2026-08-03",
    "path": "edgar/data/2080216/0001193125-26-330762.txt"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-07-31",
-   "path": "edgar/data/2028201/0001213900-26-083647.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "3 Firms Guide Reusable Spacecraft Maker's $380M SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TQ190V1ZmUXB4bTZ2aTVJY0NOak5Sd08zR0ZMR04yZ2g0V25OVUpBeUp6X2VWOXlTOXU5R2hzZ21KTTQ3RzVGTUhkNktoWVBjWXpqZmdB0gFWQVVfeXFMTlNDX3RXVmZRcHhtNnZpNUljQ05qTlJ3TzNHRkxHTjJnaDRXbk5VSkF5SnpfZVY5eVM5dTlHaHNnbUpNNDdHNUZNSGQ2S2hZUGNZempmZ0E?oc=5",
-   "published": "2026-08-07",
-   "source": "Law360"
+   "title": "Abra Targets Nasdaq Listing in $750M SPAC Deal - CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3hkWjN0SEFyNnVDaHFDSGp3Z0N2a1E2SWVVWEVURUFTMi1pajZuenRWZjZQdVVuVEdIcmJTbVJYXzAyUFNwcENWVGRuc1ZRTEdzV1NrWXlsWmFycVJ3a2dJYXdESUpyQnNhNkFYMzZwTmc5MkJaeGk2Q0wxQ09lMUlCdzJoWWs5d1lfMXVsU2xvbGN2aXFTNQ?oc=5",
+   "published": "2026-08-08",
+   "source": "CoinMarketCap"
   },
   {
-   "title": "Silicon Valley Acquisition Updates EigenQ Merger and Sponsor Support to Advance De-SPAC - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUc0RWFhVDJVcjNfaEp2eVk3ckl1Y09jY3pHZkhkaU82b1ZiRVhJNHhWTTMxVHNvLUpPLWhBSWN2VWtya1kzRFFEUFBlWUJwTEdWZ0ZGM0FBM1BvbXZKeHhZSkt5OTRNZFVNWGJ0NHRYWkRrT0R5c01OeXlMeU5wTlFQbnhPSW5tczVrdjVDbDNJaEpKRjVCcGNGLXRCNFp5Wi1qZjl1c2F3dUVvMDVjMS1UdHpDd3NpZVNwbmd4a01pS1hPbEI1LWxJOW5FUlRhVFctOHprcXlOd0xOSEdBSE9wWQ?oc=5",
-   "published": "2026-08-07",
+   "title": "Invest Green Acquisition Corp 2Q 2026: Net income $1.3M, EPS $0.05\u2014 10-Q Summary - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczg0cGpzSXRkTFBqZ2VWdElTcTk2UlpIdGU0NDE2MkJxSlJ5dU9VOGVSQkpGckt1SHZjLTVhWkx3Rnpmcm9pRm1tZGY3em8wVmZ5aWhrcWRCdDNLOWZnbVhuUWo4Vk1XcU9iV2l6NkhDbXBaek84cVpBY0xfZkQzZk9oai1wUUVuOGs3dW42R0RNRFhmMlFSMVdXUk9oZzNVMXJ6c3YtRHBFNkhZNmxlWndFYXg5N1c2SjlVSjB6cXVXMGRldzBlcVdkSGtSYVRpOWxZ?oc=5",
+   "published": "2026-08-10",
    "source": "TradingView"
   },
   {
-   "title": "BlackStar Orbital Takes SPAC Deal - Via Satellite",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVNqRy1wblBXYUZIWWpTX1d5MWpnWlhnejBkZ0o0TU1HSDQxYXBhUkgyWldFUmNYQTQ0RVg0RFVKRlpYVzhzdGxUN1FGR05zTzZySTJyczJUUlM4eTN3c3pKMjZhZ1pfOXZqblJzdEw1T0JYYjYwWGVCTkZRVjlRaEZ5TVNHQ2FvcGZELQ?oc=5",
-   "published": "2026-08-06",
-   "source": "Via Satellite"
+   "title": "Investors are about to drain a $217 million trust fund while voting to keep its Bitcoin SPAC alive - CryptoSlate",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlBHTUlaN3RMU1BYaWFpc0xsWHluMDVWaUs0Sk51ZE1iU2dpT0NkRmU2VWRKcEx2VmRUWE9SVXJJOFNyQTdGM21pRnB5M1V1aFE3VjY0Q21YdzdpeTJaT2h0X0R6eUNmd2pZSDQ0ZHpYeUVMT2pCMThrQWlUSk93MU1kVm1nR3ZSamNuekxtN1NmZnFERjF1dzNrR0kyWkFSUzhWTE9VY295NjNsVzBncXJLZGxiZDAtaGpFdw?oc=5",
+   "published": "2026-08-10",
+   "source": "CryptoSlate"
   },
   {
-   "title": "Factorial completes SPAC merger, to trade on Nasdaq as FAC - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2dzR0NfXzlaVGN3STl5YktPQWtQcVM2MXU3OF9XblVuNm5BTGtGdDdVaHlLejJaUFJUQXZiejliS2FBa09QbDR1dTJncTNZbFZVcjZHNzNmLWUtTEdkWlFuZ00xWEZjcEljYk44YnI2djY2OXNXQVBqYTdJNDVHNk5FQWdzb0R0b0ZmMmVwRjNlU3JlelBXOXlBNFdrQUxEelpVaWVCdXo1Ny1HR01zQVlaWl8?oc=5",
-   "published": "2026-08-07",
-   "source": "Investing.com"
-  },
-  {
-   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFUzbHEwUVM3c0M0cEFrQldYczRTUVhJOGxJaDVVVzM2ZWpUZXRhUm1sc1ZQTDgtb0F4TzJ4QTloTUVWMmFtM0o5UVVNdE0xT2Q0VFQxR080aDU3QnpXTkFZa1JJOTgyMGVCckFlbzBWb1hIVWtLTlBaLVlmZk1zR1NjQkFQVHV2eWYwcUZwMHV2R0s5cklDUDl3dw?oc=5",
-   "published": "2026-08-06",
-   "source": "Investing.com"
-  },
-  {
-   "title": "TCGX completes $86.3m SPAC IPO on Nasdaq By Investing.com - Investing.com South Africa",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVhkdEk0OXRVazRTUlAzMFk1STB6ZmhkRlFIOTBFV0NOamFzQ0J1amJiS0N0NVU0SlJvYUUtXzFSNUlmVFZvLUpXX0Vpd09WV2ZFbF9sU2lTSFBaTWpwUDhERmhrcXRqanNLMTdydFdlVklhMEpQSzVyU0Z3cS1XY3hmWUxMaUozOU5UdllDM3NzaXlIZUxXSndOa0YxN2hN?oc=5",
-   "published": "2026-08-06",
-   "source": "Investing.com South Africa"
+   "title": "Berto Acquisition Corp. Financial Statements \u2013 NASDAQ:TACO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9STGItV09tT2JYQlVmakYzazlHSUMyRFZyaWtTcFFnS2s5QzhRNEFTS21sdk1xNVk0ekUteTYyTFEtZnVBQUxCWW1CMWtkSjIyNExqZzFzbG9BelVtcU5GTHBIbFAyOTY1WGkyQ3F3?oc=5",
+   "published": "2026-08-08",
+   "source": "TradingView"
   }
  ],
  "regs": []
