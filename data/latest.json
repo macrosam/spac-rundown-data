@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T19:48:51Z",
+ "generated_at": "2026-08-12T12:33:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -113,17 +113,25 @@
    "filed": "2026-08-05",
    "path": "edgar/data/2094712/0001493152-26-036100.txt",
    "blurb": "offering $105,000,000; 10,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "424B4",
-   "cik": "2080216",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2080216/0001193125-26-333135.txt",
-   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit; focus: investing in our company (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2134856",
+   "filed": "2026-08-11",
+   "path": "edgar/data/2134856/0001829126-26-008622.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
+  },
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "S-1/A",
+   "cik": "2133719",
+   "filed": "2026-08-11",
+   "path": "edgar/data/2133719/0001213900-26-087889.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "AfterNext Acquisition I Corp.",
    "form": "S-1/A",
@@ -160,24 +168,16 @@
    "cik": "2123955",
    "filed": "2026-08-05",
    "path": "edgar/data/2123955/0001213900-26-085313.txt"
-  },
-  {
-   "company": "Crestone Strategic Capital Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2136449",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2136449/0001493152-26-036009.txt"
-  },
-  {
-   "company": "Hall Chadwick Acquisition Corp II",
-   "form": "S-1/A",
-   "cik": "2130219",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2130219/0001829126-26-008335.txt",
-   "blurb": "offering $265,000,000; 26,500,000 units; $10.00/unit; focus: investing in our company and assisting in identifying a target for our potential business combination (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "S-4/A",
+   "cik": "1882198",
+   "filed": "2026-08-11",
+   "path": "edgar/data/1882198/0001213900-26-087854.txt"
+  },
   {
    "company": "Pinnacle Acquisition Corp",
    "form": "8-K",
@@ -345,96 +345,6 @@
    "filed": "2026-08-05",
    "path": "edgar/data/2067592/0001213900-26-085663.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "425",
-   "cik": "2026767",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2026767/0001493152-26-036007.txt"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "425",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085079.txt"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "425",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085086.txt"
-  },
-  {
-   "company": "Iron Horse Acquisition II Corp.",
-   "form": "425",
-   "cik": "2051985",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2051985/0001213900-26-084916.txt",
-   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "425",
-   "cik": "2023676",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2023676/0001213900-26-085263.txt",
-   "blurb": "business combination with NuCube (auto-extracted)"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "425",
-   "cik": "2067592",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2067592/0001213900-26-085222.txt",
-   "blurb": "business combination with McKinley (auto-extracted)"
-  },
-  {
-   "company": "New Providence Acquisition Corp. III/Cayman",
-   "form": "425",
-   "cik": "2048948",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2048948/0001213900-26-084807.txt"
-  },
-  {
-   "company": "New Providence Acquisition Corp. III/Cayman",
-   "form": "425",
-   "cik": "2048948",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2048948/0001213900-26-084823.txt"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "8-K",
-   "cik": "2026767",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2026767/0001493152-26-036006.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085077.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085084.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Wintergreen Acquisition Corp.",
-   "form": "S-4/A",
-   "cik": "2053927",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2053927/0001829126-26-008307.txt"
   }
  ],
  "votes": [
@@ -575,30 +485,6 @@
    "filed": "2026-08-05",
    "path": "edgar/data/2067592/0001213900-26-085663.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "8-K",
-   "cik": "2026767",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2026767/0001493152-26-036006.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085077.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2028201/0001213900-26-085084.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
@@ -677,6 +563,13 @@
  ],
  "exchanges": [
   {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-A12B",
+   "cik": "2133239",
+   "filed": "2026-08-11",
+   "path": "edgar/data/2133239/0001929980-26-000442.txt"
+  },
+  {
    "company": "Leader's Advantage Acquisition Corp.",
    "form": "8-A12B",
    "cik": "2109823",
@@ -696,39 +589,20 @@
    "cik": "2123955",
    "filed": "2026-08-06",
    "path": "edgar/data/2123955/0001213900-26-086070.txt"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "8-A12B",
-   "cik": "2137965",
-   "filed": "2026-08-04",
-   "path": "edgar/data/2137965/0001193125-26-332291.txt"
   }
  ],
  "media": [
+  {
+   "title": "BOA Acquisition Corp. II (THEOU) prices SPAC IPO, raises $143.8M and faces going-concern risk - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0NTU3hXbzVwbjRGNVlHUngydFl0WXNnbVJYeHJMcU9BY29JOXBuaFQ2UFVmcFlTTXBIZzRUT2U4NlFDTnZYaldsaFpaQ3lnZ3QzbVA3RzJWOFFWNzctckhoR3RZUC1xYl9GT3cxSktFajFNVVNVSmhVNzRRa3BUek15RnVIZWxEOERHbzUyVE9JeUZ6andWclVDNVRGOHRyMjF3ZUpJWHdhWGVlb2x0SURpcw?oc=5",
+   "published": "2026-08-12",
+   "source": "Stock Titan"
+  },
   {
    "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - TalkOfTitusville.com",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG13RXdNT0hLWjhWeWdYR0FGS3k5MkhISlJjNnVwSTBhMVN6THRIYlR2Q0JTQWwzMUlkc3QyZHJpczhzY3dhVHhGRVBtbXYzRVhPSFdaXzVBMmxMdmVpeG5FWWhBQnlwMjcweEpwUlFrbnNlNENjVk1tb2dPRzBlQ2xMMHNJN0Q2N29ZZTZFVGhsaU92UkdDNnJTdjFFb0trb1UzakFxTTUxeFQ3WjczYmlWZ3dKU2JWcGxuc2UwOU0?oc=5",
    "published": "2026-08-11",
    "source": "TalkOfTitusville.com"
-  },
-  {
-   "title": "Catalyst Acquisition Corp. (CATLU) completes $200M SPAC IPO and funds trust - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUljcGhiYTFpNUdsSjBEUEpGaGR1QUNaaUJ1bnVIelhIUVYzMFNmSEV3Mk1QdHlTWUhxU25pZFFYeFZ6UVBud0EzT1Q2MVd0NXNRaGxra3FxM2pZMl9DYmdrNS1WQkJvM3FLZ2FhMmZjbmR2d3JkbVFwc2hlSXNqSWZFTExGQmFrclhrNThZc25CWXRVX29jS1ZkM2RwLWtzd1NtdXhJdVF1TTZFV1cwQW0xN045dw?oc=5",
-   "published": "2026-08-11",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "How are WestBridge, Titan Capital placed as AI firm inks SPAC deal for Nasdaq listing? - VCCircle",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlE1TGc1b3pCaFZpTXJURzdmaTBRQlVwUHpwWVA2MlptVThXQ1dYQTd2TEdmTUZjWkNUVnBaQlZBLTN0ZUdHSGYzbjhSSUJ1UFlSYnNTMDRxVDZNWTkzdmNCLS1qbm9GZHdqeG84LUNjRkFrR1RJZ0lKZ2p6SXZnbFBLQkVFcUVGMGx1WHhid1lXYWFKNS00VjQyb0R4TzFVa2RBVEtJdEgxMFk?oc=5",
-   "published": "2026-08-11",
-   "source": "VCCircle"
-  },
-  {
-   "title": "Blank Check Company Gigcapital10 Corp Files $220 Million IPO For 22,000,000 Units - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYlAwSm04NFNTdkFYVk9qM0pTa2xsR0VKWk5tM0lBcGFFQTM4azFhNlZMU3haeHZTVzF4X2FmTXFKaW1TTWtKU0hCNFREa2JQLWZXQ1FxeFRaQzUzYXlLQ1JHZnJlOGx1U3k4MXVKdXJ5VUZMWG9GUnVKa2FCSjJuZk93dlBHQ2tqSDgxWEwycXZmU3BZakVic0Z3VlpKVDdNeWFYMGlpcTIyNlI2WF9fWjJubnlLaXZXbUFUS1liVUFUMTB4Wjh5VEpLTUtzb0Q3RmJTYWxuUHRSa29JZ3ZBdzhaUjQ?oc=5",
-   "published": "2026-08-10",
-   "source": "TradingView"
   },
   {
    "title": "Elroy Air files draft registration for SPAC merger - Investing.com",
@@ -737,8 +611,20 @@
    "source": "Investing.com"
   },
   {
-   "title": "newcleo Ltd. (NASDAQ: NHIC) SPAC deal targets up to $429M for advanced reactors - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVFxZnVNOFdja0RPRkwwb3FNR3JNODlLbDBuVHhNRlFuVHJqWmI2MWJTaTFSRE5ldUhpNExmRXFoU3JtMmFfQmY5SnZKZ1RmY1ViLWdyNUhxQzRxMVJybEx2cjhYcGtYUW9ObDhVWjBrVDJnajZPSm1CUy1pQ19sSjBuZ0stVjczUDZ0LVIzWWZzY05aTWFsTlFEWFFORFdJQndnT25SdW1URFc4SXV3QTlsMjB1S2ZvRThOd1FOUlhMR0tBa0hQbA?oc=5",
+   "title": "Blank Check Company Gigcapital10 Corp Files $220 Million IPO For 22,000,000 Units - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYlAwSm04NFNTdkFYVk9qM0pTa2xsR0VKWk5tM0lBcGFFQTM4azFhNlZMU3haeHZTVzF4X2FmTXFKaW1TTWtKU0hCNFREa2JQLWZXQ1FxeFRaQzUzYXlLQ1JHZnJlOGx1U3k4MXVKdXJ5VUZMWG9GUnVKa2FCSjJuZk93dlBHQ2tqSDgxWEwycXZmU3BZakVic0Z3VlpKVDdNeWFYMGlpcTIyNlI2WF9fWjJubnlLaXZXbUFUS1liVUFUMTB4Wjh5VEpLTUtzb0Q3RmJTYWxuUHRSa29JZ3ZBdzhaUjQ?oc=5",
+   "published": "2026-08-10",
+   "source": "TradingView"
+  },
+  {
+   "title": "How are WestBridge, Titan Capital placed as AI firm inks SPAC deal for Nasdaq listing? - VCCircle",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlE1TGc1b3pCaFZpTXJURzdmaTBRQlVwUHpwWVA2MlptVThXQ1dYQTd2TEdmTUZjWkNUVnBaQlZBLTN0ZUdHSGYzbjhSSUJ1UFlSYnNTMDRxVDZNWTkzdmNCLS1qbm9GZHdqeG84LUNjRkFrR1RJZ0lKZ2p6SXZnbFBLQkVFcUVGMGx1WHhid1lXYWFKNS00VjQyb0R4TzFVa2RBVEtJdEgxMFk?oc=5",
+   "published": "2026-08-11",
+   "source": "VCCircle"
+  },
+  {
+   "title": "Catalyst Acquisition Corp. (CATLU) completes $200M SPAC IPO and funds trust - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUljcGhiYTFpNUdsSjBEUEpGaGR1QUNaaUJ1bnVIelhIUVYzMFNmSEV3Mk1QdHlTWUhxU25pZFFYeFZ6UVBud0EzT1Q2MVd0NXNRaGxra3FxM2pZMl9DYmdrNS1WQkJvM3FLZ2FhMmZjbmR2d3JkbVFwc2hlSXNqSWZFTExGQmFrclhrNThZc25CWXRVX29jS1ZkM2RwLWtzd1NtdXhJdVF1TTZFV1cwQW0xN045dw?oc=5",
    "published": "2026-08-11",
    "source": "Stock Titan"
   }
