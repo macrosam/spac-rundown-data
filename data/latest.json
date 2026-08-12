@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T12:33:06Z",
+ "generated_at": "2026-08-12T19:50:58Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -599,10 +599,10 @@
    "source": "Stock Titan"
   },
   {
-   "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - TalkOfTitusville.com",
+   "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - talkoftitusville.com",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG13RXdNT0hLWjhWeWdYR0FGS3k5MkhISlJjNnVwSTBhMVN6THRIYlR2Q0JTQWwzMUlkc3QyZHJpczhzY3dhVHhGRVBtbXYzRVhPSFdaXzVBMmxMdmVpeG5FWWhBQnlwMjcweEpwUlFrbnNlNENjVk1tb2dPRzBlQ2xMMHNJN0Q2N29ZZTZFVGhsaU92UkdDNnJTdjFFb0trb1UzakFxTTUxeFQ3WjczYmlWZ3dKU2JWcGxuc2UwOU0?oc=5",
    "published": "2026-08-11",
-   "source": "TalkOfTitusville.com"
+   "source": "talkoftitusville.com"
   },
   {
    "title": "Elroy Air files draft registration for SPAC merger - Investing.com",
