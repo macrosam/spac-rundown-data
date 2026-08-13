@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T12:34:15Z",
+ "generated_at": "2026-08-13T19:46:23Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -561,10 +561,22 @@
  ],
  "media": [
   {
-   "title": "Tactical Resources completes SPAC merger, to list on Nasdaq - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pWNmMtejdHYjc0d3NLMF80Unh6TzRGaE1oQkJIc2d6ak5mLU9KczlqbHNqQzRKakhxaTU4cEVNc3NUMVl0cGVGSmlRQ0F6OUZaM0dfSDlIZUg4S1d0eXAwc2IwMHNicXNvY2swckpZbVFOZjlPaVpoRlYwdzVNTUxTWXA1akltd3FqTzhIMWNTMk5WZW1zN1RkYjlfZ1JaVVVDRjVFaFplQXQxeWQxTlBkRnpNZw?oc=5",
+   "title": "Eric Trump-Advised Space-Eyes Revenue Slumps Ahead of SPAC Deal - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVlaMzN5MGYxc3ZTQUduVW9URnp6T0dnTlBKZUhZY1Z2NzZSZktuaExwNlBGdG52ZmNkSHBIUWxBOTZIVS1LWl9OOUJnRFIzelNsVnE3Y24yX2lndHJGcTViclBINjgtUUNJM3NUS3ltUWxYTnpOQWlVNnN4azlPTUJBZzZxeWlXZTYtN3hCQm1Pb08wTjBKR1hCY3BPdVU1YXhwTUFrUHJTTndYX3QzeGJXNDN4emNpNmg1bHRVRXZPMHNkbGk4UnE1OFJrYVVTMFZNaVN0UQ?oc=5",
+   "published": "2026-08-13",
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "ZincFive files draft registration for SPAC merger with Spark I - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUl6N0R5Sjl2bFJRUTc5N0N3Z2duXy0wcG11MEhaVlY0NmlzTEFidFJiQ25TOHUxSlpIRzduTmE1dDN2djNvTl9faTRsblFBUG9RdDEtWVZmQkpDQ3JNMGxiUzRYak1ZU24wMmFxSlpoUHBJblpyc1VhZlBVb3dtTWo1akdvcUEydWtwYlBOcXloUEM4OFR3UnQ3djhMMkhmaHhabTlUbnBJWHAwVEVLTDdfOUh0ZlA5MnpR?oc=5",
    "published": "2026-08-13",
    "source": "Investing.com"
+  },
+  {
+   "title": "EvernorthXRP ties SPAC merger share issuance to XRP price, aiming Nasdaq listing under XRPN ticker. - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxVzhSa2NsUXZQM0pLUWdIZmtVOEM3RzhLanRuR3VTdzJDYjFTTV9fUEFfYXZxSzh2Rzh4cFIzMjR2blZLMm1wYnlXTXZHeFJWZUxCSlo0czY3b2lOVjZaYk1fSFp5UUpOTHFNazBPMUk3UFpHYm5tSg?oc=5",
+   "published": "2026-08-13",
+   "source": "Pluang"
   },
   {
    "title": "Viking Acquisition Corp. I (VACI) details Q2 2026 results and NorthStar SPAC deal terms - Stock Titan",
@@ -573,28 +585,16 @@
    "source": "Stock Titan"
   },
   {
+   "title": "Tactical Resources completes SPAC merger, to list on Nasdaq - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pWNmMtejdHYjc0d3NLMF80Unh6TzRGaE1oQkJIc2d6ak5mLU9KczlqbHNqQzRKakhxaTU4cEVNc3NUMVl0cGVGSmlRQ0F6OUZaM0dfSDlIZUg4S1d0eXAwc2IwMHNicXNvY2swckpZbVFOZjlPaVpoRlYwdzVNTUxTWXA1akltd3FqTzhIMWNTMk5WZW1zN1RkYjlfZ1JaVVVDRjVFaFplQXQxeWQxTlBkRnpNZw?oc=5",
+   "published": "2026-08-13",
+   "source": "Investing.com"
+  },
+  {
    "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
    "published": "2026-08-12",
    "source": "CoinMarketCap"
-  },
-  {
-   "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - TalkOfTitusville.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG13RXdNT0hLWjhWeWdYR0FGS3k5MkhISlJjNnVwSTBhMVN6THRIYlR2Q0JTQWwzMUlkc3QyZHJpczhzY3dhVHhGRVBtbXYzRVhPSFdaXzVBMmxMdmVpeG5FWWhBQnlwMjcweEpwUlFrbnNlNENjVk1tb2dPRzBlQ2xMMHNJN0Q2N29ZZTZFVGhsaU92UkdDNnJTdjFFb0trb1UzakFxTTUxeFQ3WjczYmlWZ3dKU2JWcGxuc2UwOU0?oc=5",
-   "published": "2026-08-11",
-   "source": "TalkOfTitusville.com"
-  },
-  {
-   "title": "ZincFive files draft registration for SPAC merger with Spark I - Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3hEM09CMDBXUUhyakItaGcwNkZrNXplT1hOd0xiYld1RGhheWcybFNpb1QyMzBwS1VFNFVVZHpIMnhBOFhZRXFQeHZoOW9RRnJraXNXcjFBVmpoT3FDZWM2ak5VRWtzSmdwbGhsVmN2YkwwRnpQTHh6MDY4WDZFN0N6SzVaa2c1VWFoRWZ6QXlsYTZpM0xRVVhqVHhiLTdYazViZU5weVgzUXlNREtkRDV5RGtSVG9LUmQ4X3dkT2Y?oc=5",
-   "published": "2026-08-13",
-   "source": "Investing.com India"
-  },
-  {
-   "title": "BOA Acquisition Corp. II (THEOU) prices SPAC IPO, raises $143.8M and faces going-concern risk - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0NTU3hXbzVwbjRGNVlHUngydFl0WXNnbVJYeHJMcU9BY29JOXBuaFQ2UFVmcFlTTXBIZzRUT2U4NlFDTnZYaldsaFpaQ3lnZ3QzbVA3RzJWOFFWNzctckhoR3RZUC1xYl9GT3cxSktFajFNVVNVSmhVNzRRa3BUek15RnVIZWxEOERHbzUyVE9JeUZ6andWclVDNVRGOHRyMjF3ZUpJWHdhWGVlb2x0SURpcw?oc=5",
-   "published": "2026-08-12",
-   "source": "Stock Titan"
   }
  ],
  "regs": []
