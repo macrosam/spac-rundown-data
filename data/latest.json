@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T19:50:58Z",
+ "generated_at": "2026-08-13T12:34:15Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -56,17 +56,25 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2147219/0001104659-26-092088.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Gravity Acquisition Corp.",
-   "form": "S-1",
-   "cik": "2123380",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2123380/0001185185-26-003277.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
   }
  ],
  "pricings": [
+  {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "424B3",
+   "cik": "1882198",
+   "filed": "2026-08-12",
+   "path": "edgar/data/1882198/0001213900-26-088486.txt",
+   "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "424B3",
+   "cik": "2080023",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2080023/0001213900-26-088471.txt",
+   "blurb": "offering $50,000,000 (auto-extracted)"
+  },
   {
    "company": "TBD Acquisition II, LLC",
    "form": "424B5",
@@ -97,25 +105,17 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2137965/0001193125-26-336098.txt",
    "blurb": "offering $75,000,000; $10.00./unit; focus: industries that complement our management team s background, and to capitalize on the ability of our management team to identify and acquire (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "424B3",
-   "cik": "2088295",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2088295/0001213900-26-085694.txt",
-   "blurb": "offering $7,750,000 (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "424B4",
-   "cik": "2094712",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2094712/0001493152-26-036100.txt",
-   "blurb": "offering $105,000,000; 10,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "GX Acquisition Corp. III/Cayman",
+   "form": "S-1/A",
+   "cik": "2145409",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2145409/0001185185-26-003452.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Karman Line Acquisition Corp.",
    "form": "S-1/A",
@@ -153,24 +153,70 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2087035/0001493152-26-036233.txt",
    "blurb": "offering $200,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Leader's Advantage Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2109823",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2109823/0001213900-26-085297.txt",
-   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2123955",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2123955/0001213900-26-085313.txt"
   }
  ],
  "mergers": [
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2028355/0001213900-26-087935.txt",
+   "blurb": "business combination with SPAC (auto-extracted)"
+  },
+  {
+   "company": "Blue Water Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2050501",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2050501/0001104659-26-094858.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Embrace Change Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1869601",
+   "filed": "2026-08-12",
+   "path": "edgar/data/1869601/0001493152-26-037260.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2137679/0001829126-26-008704.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "DEFM14A",
+   "cik": "2028355",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2028355/0001213900-26-087896.txt",
+   "blurb": "business-combination vote (auto-extracted)"
+  },
+  {
+   "company": "McKinley Acquisition Corp",
+   "form": "S-4",
+   "cik": "2067592",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2067592/0001213900-26-088352.txt"
+  },
+  {
+   "company": "SPACSphere Acquisition Corp.",
+   "form": "S-4",
+   "cik": "2081300",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2081300/0001193125-26-347101.txt"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2053927/0001829126-26-008666.txt"
+  },
   {
    "company": "Athena Technology Acquisition Corp. II",
    "form": "S-4/A",
@@ -284,70 +330,41 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2088295/0001213900-26-085816.txt",
    "blurb": "meeting August 25, 2026; business-combination vote (auto-extracted)"
-  },
-  {
-   "company": "Bluerock Acquisition Corp.",
-   "form": "425",
-   "cik": "2081532",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2081532/0001213900-26-085814.txt"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. III",
-   "form": "425",
-   "cik": "2012318",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2012318/0001213900-26-085802.txt"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "425",
-   "cik": "2067592",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2067592/0001213900-26-085668.txt"
-  },
-  {
-   "company": "AmperCap Acquisition Co",
-   "form": "8-K",
-   "cik": "2101393",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2101393/0001185185-26-003284.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2080216",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2080216/0001193125-26-335120.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2024459/0001213900-26-085406.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "East West Ave Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2100704",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2100704/0001493152-26-036082.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "8-K",
-   "cik": "2067592",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2067592/0001213900-26-085663.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "Embrace Change Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1869601",
+   "filed": "2026-08-12",
+   "path": "edgar/data/1869601/0001493152-26-037260.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2137679/0001829126-26-008704.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "byNordic Acquisition Corp",
+   "form": "8-K",
+   "cik": "1801417",
+   "filed": "2026-08-12",
+   "path": "edgar/data/1801417/0001213900-26-088446.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "DEFA14A",
+   "cik": "2028355",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2028355/0001213900-26-087937.txt",
+   "blurb": "meeting September 3, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "COLLECTIVE ACQUISITION CORP.",
    "form": "8-K",
@@ -403,33 +420,25 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2137965/0001193125-26-338268.txt",
    "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2080216",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2080216/0001193125-26-335120.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "East West Ave Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2100704",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2100704/0001493152-26-036082.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2012318",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2012318/0001213900-26-085796.txt",
-   "note": "8-K: shareholder vote results"
   }
  ],
  "pipes": [
+  {
+   "company": "Blue Water Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2050501",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2050501/0001104659-26-094858.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2137679/0001829126-26-008704.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Pinnacle Acquisition Corp",
    "form": "8-K",
@@ -453,41 +462,17 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2137965/0001193125-26-338268.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2080216",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2080216/0001193125-26-335120.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2024459/0001213900-26-085406.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "East West Ave Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2100704",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2100704/0001493152-26-036082.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "8-K",
-   "cik": "2067592",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2067592/0001213900-26-085663.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-08-12",
+   "path": "edgar/data/2137679/0001829126-26-008704.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Pinnacle Acquisition Corp",
    "form": "8-K",
@@ -535,33 +520,16 @@
    "filed": "2026-08-06",
    "path": "edgar/data/2137965/0001193125-26-338268.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "BOA Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2080216",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2080216/0001193125-26-335120.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "East West Ave Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2100704",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2100704/0001493152-26-036082.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "New America Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "2074878",
-   "filed": "2026-08-05",
-   "path": "edgar/data/2074878/0001493152-26-036181.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Agriculture & Natural Solutions Acquisition Corp",
+   "form": "25-NSE",
+   "cik": "1854149",
+   "filed": "2026-08-12",
+   "path": "edgar/data/1854149/0001354457-26-000782.txt"
+  },
   {
    "company": "Southern Cross Acquisition II Corp.",
    "form": "8-A12B",
@@ -593,39 +561,39 @@
  ],
  "media": [
   {
-   "title": "BOA Acquisition Corp. II (THEOU) prices SPAC IPO, raises $143.8M and faces going-concern risk - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0NTU3hXbzVwbjRGNVlHUngydFl0WXNnbVJYeHJMcU9BY29JOXBuaFQ2UFVmcFlTTXBIZzRUT2U4NlFDTnZYaldsaFpaQ3lnZ3QzbVA3RzJWOFFWNzctckhoR3RZUC1xYl9GT3cxSktFajFNVVNVSmhVNzRRa3BUek15RnVIZWxEOERHbzUyVE9JeUZ6andWclVDNVRGOHRyMjF3ZUpJWHdhWGVlb2x0SURpcw?oc=5",
+   "title": "Tactical Resources completes SPAC merger, to list on Nasdaq - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pWNmMtejdHYjc0d3NLMF80Unh6TzRGaE1oQkJIc2d6ak5mLU9KczlqbHNqQzRKakhxaTU4cEVNc3NUMVl0cGVGSmlRQ0F6OUZaM0dfSDlIZUg4S1d0eXAwc2IwMHNicXNvY2swckpZbVFOZjlPaVpoRlYwdzVNTUxTWXA1akltd3FqTzhIMWNTMk5WZW1zN1RkYjlfZ1JaVVVDRjVFaFplQXQxeWQxTlBkRnpNZw?oc=5",
+   "published": "2026-08-13",
+   "source": "Investing.com"
+  },
+  {
+   "title": "Viking Acquisition Corp. I (VACI) details Q2 2026 results and NorthStar SPAC deal terms - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzgzOHdfeFhkWVNkRjhwaFg1aGo4N0UzbVBkV1FOV3ktbktTQ1R1T3Q1Z1JqZll3MFNSaEVVRW80S1F2Q1p3d2U3WkRRTnAtTC1XaXF6aGhwODNjRE5ueGdTdllUUlpxQ3dJVXFWY1M2NGJaMC1OdV91UmZtcEM5Z1hEUnpzOFBfM2luYWotVlFldHlCQUw1MlNqNHl0SHR2MUhqR2NaVUhqZjBLNWtHOE5BQVdySXpTVVE?oc=5",
    "published": "2026-08-12",
    "source": "Stock Titan"
   },
   {
-   "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - talkoftitusville.com",
+   "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
+   "published": "2026-08-12",
+   "source": "CoinMarketCap"
+  },
+  {
+   "title": "Titusville-Based Blackstar Orbital Technologies Sets $380M SPAC Merger to Go Public - TalkOfTitusville.com",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG13RXdNT0hLWjhWeWdYR0FGS3k5MkhISlJjNnVwSTBhMVN6THRIYlR2Q0JTQWwzMUlkc3QyZHJpczhzY3dhVHhGRVBtbXYzRVhPSFdaXzVBMmxMdmVpeG5FWWhBQnlwMjcweEpwUlFrbnNlNENjVk1tb2dPRzBlQ2xMMHNJN0Q2N29ZZTZFVGhsaU92UkdDNnJTdjFFb0trb1UzakFxTTUxeFQ3WjczYmlWZ3dKU2JWcGxuc2UwOU0?oc=5",
    "published": "2026-08-11",
-   "source": "talkoftitusville.com"
+   "source": "TalkOfTitusville.com"
   },
   {
-   "title": "Elroy Air files draft registration for SPAC merger - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29ZX0lUVHR5NVdEUWExSTlzMVR4a0Z6a1RYZGtwRWx0QnlvWjBzM2ViVEI5UllkX05CV3cweFpYTUtoRFhMel9kSS1RNzVYVzUtRlczcGRDcUVNRE0xYlBQbmZWTi1WQjY2Mi1UNTZxZmRxeW1Vc2dBa0RVYlp4aU9CbkJFS05tRGRnWGpwa3dPbi15ZTV6NnhORVpXalMzWEZUTVY5U0I5eTA?oc=5",
-   "published": "2026-08-10",
-   "source": "Investing.com"
+   "title": "ZincFive files draft registration for SPAC merger with Spark I - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3hEM09CMDBXUUhyakItaGcwNkZrNXplT1hOd0xiYld1RGhheWcybFNpb1QyMzBwS1VFNFVVZHpIMnhBOFhZRXFQeHZoOW9RRnJraXNXcjFBVmpoT3FDZWM2ak5VRWtzSmdwbGhsVmN2YkwwRnpQTHh6MDY4WDZFN0N6SzVaa2c1VWFoRWZ6QXlsYTZpM0xRVVhqVHhiLTdYazViZU5weVgzUXlNREtkRDV5RGtSVG9LUmQ4X3dkT2Y?oc=5",
+   "published": "2026-08-13",
+   "source": "Investing.com India"
   },
   {
-   "title": "Blank Check Company Gigcapital10 Corp Files $220 Million IPO For 22,000,000 Units - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYlAwSm04NFNTdkFYVk9qM0pTa2xsR0VKWk5tM0lBcGFFQTM4azFhNlZMU3haeHZTVzF4X2FmTXFKaW1TTWtKU0hCNFREa2JQLWZXQ1FxeFRaQzUzYXlLQ1JHZnJlOGx1U3k4MXVKdXJ5VUZMWG9GUnVKa2FCSjJuZk93dlBHQ2tqSDgxWEwycXZmU3BZakVic0Z3VlpKVDdNeWFYMGlpcTIyNlI2WF9fWjJubnlLaXZXbUFUS1liVUFUMTB4Wjh5VEpLTUtzb0Q3RmJTYWxuUHRSa29JZ3ZBdzhaUjQ?oc=5",
-   "published": "2026-08-10",
-   "source": "TradingView"
-  },
-  {
-   "title": "How are WestBridge, Titan Capital placed as AI firm inks SPAC deal for Nasdaq listing? - VCCircle",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlE1TGc1b3pCaFZpTXJURzdmaTBRQlVwUHpwWVA2MlptVThXQ1dYQTd2TEdmTUZjWkNUVnBaQlZBLTN0ZUdHSGYzbjhSSUJ1UFlSYnNTMDRxVDZNWTkzdmNCLS1qbm9GZHdqeG84LUNjRkFrR1RJZ0lKZ2p6SXZnbFBLQkVFcUVGMGx1WHhid1lXYWFKNS00VjQyb0R4TzFVa2RBVEtJdEgxMFk?oc=5",
-   "published": "2026-08-11",
-   "source": "VCCircle"
-  },
-  {
-   "title": "Catalyst Acquisition Corp. (CATLU) completes $200M SPAC IPO and funds trust - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUljcGhiYTFpNUdsSjBEUEpGaGR1QUNaaUJ1bnVIelhIUVYzMFNmSEV3Mk1QdHlTWUhxU25pZFFYeFZ6UVBud0EzT1Q2MVd0NXNRaGxra3FxM2pZMl9DYmdrNS1WQkJvM3FLZ2FhMmZjbmR2d3JkbVFwc2hlSXNqSWZFTExGQmFrclhrNThZc25CWXRVX29jS1ZkM2RwLWtzd1NtdXhJdVF1TTZFV1cwQW0xN045dw?oc=5",
-   "published": "2026-08-11",
+   "title": "BOA Acquisition Corp. II (THEOU) prices SPAC IPO, raises $143.8M and faces going-concern risk - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0NTU3hXbzVwbjRGNVlHUngydFl0WXNnbVJYeHJMcU9BY29JOXBuaFQ2UFVmcFlTTXBIZzRUT2U4NlFDTnZYaldsaFpaQ3lnZ3QzbVA3RzJWOFFWNzctckhoR3RZUC1xYl9GT3cxSktFajFNVVNVSmhVNzRRa3BUek15RnVIZWxEOERHbzUyVE9JeUZ6andWclVDNVRGOHRyMjF3ZUpJWHdhWGVlb2x0SURpcw?oc=5",
+   "published": "2026-08-12",
    "source": "Stock Titan"
   }
  ],
