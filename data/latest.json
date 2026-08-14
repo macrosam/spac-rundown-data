@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T12:29:23Z",
+ "generated_at": "2026-08-14T19:39:28Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -525,16 +525,16 @@
  ],
  "media": [
   {
-   "title": "Securitize Corp. (SECZ) completes SPAC merger, raises $197.8M PIPE - stocktitan.net",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmF1NmJNM3NNV2htOUNJUjRuVVNBTjliUGpKLURrT2dtRXgtNmlQUlpwUG1JVThrT0NIQ2tFWmszY1FQRER3VFJHUm9OOHQ0ZnE2UGdpZkh4M0xiNGdtblFYNXRzM0tPWVdlMnc4cURLYUNERU5VcmZVLUk1TWhVeGNsbWFHVVFUdVdWOTZUSThvUFY2MVdzRnVVZXdGTnRVYVdhS0dvdWZVVFJp?oc=5",
-   "published": "2026-08-13",
-   "source": "stocktitan.net"
-  },
-  {
-   "title": "Eric Trump-Advised Space-Eyes Revenue Slumps Ahead of SPAC Deal - Bloomberg",
+   "title": "Eric Trump-Advised Space-Eyes Revenue Slumps Ahead of SPAC Deal - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVlaMzN5MGYxc3ZTQUduVW9URnp6T0dnTlBKZUhZY1Z2NzZSZktuaExwNlBGdG52ZmNkSHBIUWxBOTZIVS1LWl9OOUJnRFIzelNsVnE3Y24yX2lndHJGcTViclBINjgtUUNJM3NUS3ltUWxYTnpOQWlVNnN4azlPTUJBZzZxeWlXZTYtN3hCQm1Pb08wTjBKR1hCY3BPdVU1YXhwTUFrUHJTTndYX3QzeGJXNDN4emNpNmg1bHRVRXZPMHNkbGk4UnE1OFJrYVVTMFZNaVN0UQ?oc=5",
    "published": "2026-08-13",
-   "source": "Bloomberg"
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "Securitize Corp. (SECZ) completes SPAC merger, raises $197.8M PIPE - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmF1NmJNM3NNV2htOUNJUjRuVVNBTjliUGpKLURrT2dtRXgtNmlQUlpwUG1JVThrT0NIQ2tFWmszY1FQRER3VFJHUm9OOHQ0ZnE2UGdpZkh4M0xiNGdtblFYNXRzM0tPWVdlMnc4cURLYUNERU5VcmZVLUk1TWhVeGNsbWFHVVFUdVdWOTZUSThvUFY2MVdzRnVVZXdGTnRVYVdhS0dvdWZVVFJp?oc=5",
+   "published": "2026-08-13",
+   "source": "Stock Titan"
   },
   {
    "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
@@ -543,16 +543,16 @@
    "source": "Stocktwits"
   },
   {
-   "title": "byNordic Acquisition Corp. Extends SPAC Deal Deadline - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhVQmNmeU00WVVRSFU5RV9lSmZSTnJUWGJlU3JzR090aHZWM1VCMU1GQmp4SV8tVUtSYS1mOEV5eTRwLWVVVmlDYTIzSWdYN0Y2Mm5tc05rWl8wUzV2eVdfQzV1WHJkZUdJN2xMTWVOdkE3WENRS3FRNHJGWU1VWmNNNzNQUXBvSndXaXZXb296enIwemRRMzFuQTJhUS1STzRjOHB4am9oWTlBeUdKQnVxNlNKWkh0SVNETENzS2l2TmJXeG5nREdIa3lHM1RldVVJ?oc=5",
-   "published": "2026-08-13",
-   "source": "The Globe and Mail"
-  },
-  {
    "title": "ZincFive files draft registration for SPAC merger with Spark I - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUl6N0R5Sjl2bFJRUTc5N0N3Z2duXy0wcG11MEhaVlY0NmlzTEFidFJiQ25TOHUxSlpIRzduTmE1dDN2djNvTl9faTRsblFBUG9RdDEtWVZmQkpDQ3JNMGxiUzRYak1ZU24wMmFxSlpoUHBJblpyc1VhZlBVb3dtTWo1akdvcUEydWtwYlBOcXloUEM4OFR3UnQ3djhMMkhmaHhabTlUbnBJWHAwVEVLTDdfOUh0ZlA5MnpR?oc=5",
    "published": "2026-08-13",
    "source": "Investing.com"
+  },
+  {
+   "title": "byNordic Acquisition Corp. Extends SPAC Deal Deadline - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhVQmNmeU00WVVRSFU5RV9lSmZSTnJUWGJlU3JzR090aHZWM1VCMU1GQmp4SV8tVUtSYS1mOEV5eTRwLWVVVmlDYTIzSWdYN0Y2Mm5tc05rWl8wUzV2eVdfQzV1WHJkZUdJN2xMTWVOdkE3WENRS3FRNHJGWU1VWmNNNzNQUXBvSndXaXZXb296enIwemRRMzFuQTJhUS1STzRjOHB4am9oWTlBeUdKQnVxNlNKWkh0SVNETENzS2l2TmJXeG5nREdIa3lHM1RldVVJ?oc=5",
+   "published": "2026-08-13",
+   "source": "The Globe and Mail"
   },
   {
    "title": "EvernorthXRP ties SPAC merger share issuance to XRP price, aiming Nasdaq listing under XRPN ticker. - Pluang",
