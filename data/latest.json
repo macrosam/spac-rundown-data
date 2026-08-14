@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T19:46:23Z",
+ "generated_at": "2026-08-14T12:29:23Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -48,17 +48,16 @@
    "filed": "2026-08-07",
    "path": "edgar/data/2148436/0001185185-26-003326.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Rainier Acquisition Corp",
-   "form": "S-1",
-   "cik": "2147219",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2147219/0001104659-26-092088.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "pricings": [
+  {
+   "company": "TBD Acquisition II, LLC",
+   "form": "424B5",
+   "cik": "1952380",
+   "filed": "2026-08-13",
+   "path": "edgar/data/1952380/0001193125-26-348053.txt"
+  },
   {
    "company": "Athena Technology Acquisition Corp. II",
    "form": "424B3",
@@ -97,17 +96,17 @@
    "filed": "2026-08-07",
    "path": "edgar/data/2123955/0001213900-26-086694.txt",
    "blurb": "offering $200,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "424B4",
-   "cik": "2137965",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137965/0001193125-26-336098.txt",
-   "blurb": "offering $75,000,000; $10.00./unit; focus: industries that complement our management team s background, and to capitalize on the ability of our management team to identify and acquire (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "ARC Group Securities Acquisition II",
+   "form": "S-1/A",
+   "cik": "2094710",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2094710/0001493152-26-037855.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "GX Acquisition Corp. III/Cayman",
    "form": "S-1/A",
@@ -145,17 +144,75 @@
    "cik": "2133239",
    "filed": "2026-08-07",
    "path": "edgar/data/2133239/0001929980-26-000423.txt"
-  },
-  {
-   "company": "AfterNext Acquisition I Corp.",
-   "form": "S-1/A",
-   "cik": "2087035",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2087035/0001493152-26-036233.txt",
-   "blurb": "offering $200,000; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Armada Acquisition Corp. II",
+   "form": "425",
+   "cik": "2044009",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2044009/0001193125-26-349549.txt"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-08-13",
+   "path": "edgar/data/1834032/0001213900-26-089145.txt"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-08-13",
+   "path": "edgar/data/1834032/0001213900-26-089146.txt"
+  },
+  {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "425",
+   "cik": "2052162",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2052162/0001213900-26-089223.txt"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "425",
+   "cik": "2000410",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2000410/0001213900-26-089209.txt"
+  },
+  {
+   "company": "SPACSphere Acquisition Corp.",
+   "form": "425",
+   "cik": "2081300",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2081300/0001193125-26-347541.txt"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-08-13",
+   "path": "edgar/data/1884046/0001104659-26-095619.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
+  },
+  {
+   "company": "Digital Asset Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052162",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2052162/0001213900-26-089219.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2000410/0001213900-26-089205.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Inflection Point Acquisition Corp. V",
    "form": "425",
@@ -283,56 +340,25 @@
    "filed": "2026-08-07",
    "path": "edgar/data/2085659/0001213900-26-086426.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2088295/0001213900-26-085938.txt",
-   "blurb": "business combination with Pasqal (auto-extracted)"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "425",
-   "cik": "2028201",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2028201/0001213900-26-086249.txt"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "8-K",
-   "cik": "2094712",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2094712/0001493152-26-036421.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Columbus Acquisition Corp/Cayman Islands",
-   "form": "8-K",
-   "cik": "2028201",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2028201/0001213900-26-086245.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2137965",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137965/0001193125-26-338268.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "DEFM14A",
-   "cik": "2088295",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2088295/0001213900-26-085816.txt",
-   "blurb": "meeting August 25, 2026; business-combination vote (auto-extracted)"
   }
  ],
  "votes": [
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2028355/0001213900-26-089160.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "YHN Acquisition I Ltd",
+   "form": "PRE 14A",
+   "cik": "2020987",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2020987/0001683168-26-006297.txt",
+   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Embrace Change Acquisition Corp.",
    "form": "8-K",
@@ -404,25 +430,17 @@
    "filed": "2026-08-07",
    "path": "edgar/data/1841610/0001185185-26-003331.txt",
    "blurb": "meeting September 16, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "8-K",
-   "cik": "2094712",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2094712/0001493152-26-036421.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2137965",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137965/0001193125-26-338268.txt",
-   "note": "8-K: charter amendment (possible extension)"
   }
  ],
  "pipes": [
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-08-13",
+   "path": "edgar/data/2000410/0001213900-26-089205.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Blue Water Acquisition Corp. III",
    "form": "8-K",
@@ -445,22 +463,6 @@
    "cik": "2123955",
    "filed": "2026-08-10",
    "path": "edgar/data/2123955/0001213900-26-087287.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "8-K",
-   "cik": "2094712",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2094712/0001493152-26-036421.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2137965",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137965/0001193125-26-338268.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
@@ -496,30 +498,6 @@
    "filed": "2026-08-07",
    "path": "edgar/data/1834032/0001213900-26-086727.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "ARC Group Securities Acquisition I",
-   "form": "8-K",
-   "cik": "2094712",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2094712/0001493152-26-036421.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Berto Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2081515",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2081515/0001829126-26-008442.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "TCGX Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2137965",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137965/0001193125-26-338268.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
@@ -543,28 +521,32 @@
    "cik": "2109823",
    "filed": "2026-08-10",
    "path": "edgar/data/2109823/0001213900-26-087143.txt"
-  },
-  {
-   "company": "OceanLight Acquisition Corp",
-   "form": "8-A12B",
-   "cik": "2137679",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2137679/0001829126-26-008440.txt"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-A12B",
-   "cik": "2123955",
-   "filed": "2026-08-06",
-   "path": "edgar/data/2123955/0001213900-26-086070.txt"
   }
  ],
  "media": [
   {
-   "title": "Eric Trump-Advised Space-Eyes Revenue Slumps Ahead of SPAC Deal - Bloomberg.com",
+   "title": "Securitize Corp. (SECZ) completes SPAC merger, raises $197.8M PIPE - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmF1NmJNM3NNV2htOUNJUjRuVVNBTjliUGpKLURrT2dtRXgtNmlQUlpwUG1JVThrT0NIQ2tFWmszY1FQRER3VFJHUm9OOHQ0ZnE2UGdpZkh4M0xiNGdtblFYNXRzM0tPWVdlMnc4cURLYUNERU5VcmZVLUk1TWhVeGNsbWFHVVFUdVdWOTZUSThvUFY2MVdzRnVVZXdGTnRVYVdhS0dvdWZVVFJp?oc=5",
+   "published": "2026-08-13",
+   "source": "stocktitan.net"
+  },
+  {
+   "title": "Eric Trump-Advised Space-Eyes Revenue Slumps Ahead of SPAC Deal - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVlaMzN5MGYxc3ZTQUduVW9URnp6T0dnTlBKZUhZY1Z2NzZSZktuaExwNlBGdG52ZmNkSHBIUWxBOTZIVS1LWl9OOUJnRFIzelNsVnE3Y24yX2lndHJGcTViclBINjgtUUNJM3NUS3ltUWxYTnpOQWlVNnN4azlPTUJBZzZxeWlXZTYtN3hCQm1Pb08wTjBKR1hCY3BPdVU1YXhwTUFrUHJTTndYX3QzeGJXNDN4emNpNmg1bHRVRXZPMHNkbGk4UnE1OFJrYVVTMFZNaVN0UQ?oc=5",
    "published": "2026-08-13",
-   "source": "Bloomberg.com"
+   "source": "Bloomberg"
+  },
+  {
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-08-14",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "byNordic Acquisition Corp. Extends SPAC Deal Deadline - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhVQmNmeU00WVVRSFU5RV9lSmZSTnJUWGJlU3JzR090aHZWM1VCMU1GQmp4SV8tVUtSYS1mOEV5eTRwLWVVVmlDYTIzSWdYN0Y2Mm5tc05rWl8wUzV2eVdfQzV1WHJkZUdJN2xMTWVOdkE3WENRS3FRNHJGWU1VWmNNNzNQUXBvSndXaXZXb296enIwemRRMzFuQTJhUS1STzRjOHB4am9oWTlBeUdKQnVxNlNKWkh0SVNETENzS2l2TmJXeG5nREdIa3lHM1RldVVJ?oc=5",
+   "published": "2026-08-13",
+   "source": "The Globe and Mail"
   },
   {
    "title": "ZincFive files draft registration for SPAC merger with Spark I - Investing.com",
@@ -577,24 +559,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxVzhSa2NsUXZQM0pLUWdIZmtVOEM3RzhLanRuR3VTdzJDYjFTTV9fUEFfYXZxSzh2Rzh4cFIzMjR2blZLMm1wYnlXTXZHeFJWZUxCSlo0czY3b2lOVjZaYk1fSFp5UUpOTHFNazBPMUk3UFpHYm5tSg?oc=5",
    "published": "2026-08-13",
    "source": "Pluang"
-  },
-  {
-   "title": "Viking Acquisition Corp. I (VACI) details Q2 2026 results and NorthStar SPAC deal terms - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzgzOHdfeFhkWVNkRjhwaFg1aGo4N0UzbVBkV1FOV3ktbktTQ1R1T3Q1Z1JqZll3MFNSaEVVRW80S1F2Q1p3d2U3WkRRTnAtTC1XaXF6aGhwODNjRE5ueGdTdllUUlpxQ3dJVXFWY1M2NGJaMC1OdV91UmZtcEM5Z1hEUnpzOFBfM2luYWotVlFldHlCQUw1MlNqNHl0SHR2MUhqR2NaVUhqZjBLNWtHOE5BQVdySXpTVVE?oc=5",
-   "published": "2026-08-12",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Tactical Resources completes SPAC merger, to list on Nasdaq - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1pWNmMtejdHYjc0d3NLMF80Unh6TzRGaE1oQkJIc2d6ak5mLU9KczlqbHNqQzRKakhxaTU4cEVNc3NUMVl0cGVGSmlRQ0F6OUZaM0dfSDlIZUg4S1d0eXAwc2IwMHNicXNvY2swckpZbVFOZjlPaVpoRlYwdzVNTUxTWXA1akltd3FqTzhIMWNTMk5WZW1zN1RkYjlfZ1JaVVVDRjVFaFplQXQxeWQxTlBkRnpNZw?oc=5",
-   "published": "2026-08-13",
-   "source": "Investing.com"
-  },
-  {
-   "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
-   "published": "2026-08-12",
-   "source": "CoinMarketCap"
   }
  ],
  "regs": []
