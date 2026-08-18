@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T12:02:01Z",
+ "generated_at": "2026-08-18T19:17:40Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [],
@@ -491,40 +491,40 @@
  ],
  "media": [
   {
-   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - bloomberg.com",
+   "title": "Nth Cycle to Go Public via $585M SPAC Merger with Kensington Capital - connectmoney.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamMwT0V6bm9XaTZBM1JQcjJubmlncGk1XzUzQXJlajQ5RkJyUGUxZ18yd1UwWGs5YzY1djNjM21pcW5LOGhGaGFtckNuYVg3THNSWG1NMVQxZzJzYlBPUGs4WlVEOW02RGp0Ql9ldWJkem1nYUlBUnA0a0xWa1p3WHQxbDFRSVFHSnpiOENFUEdNMTBncW5mWG8zZ1ZMOS1MUTZDRzRxeWs?oc=5",
+   "published": "2026-08-18",
+   "source": "connectmoney.com"
+  },
+  {
+   "title": "FORT Robotics to take safety stack public via SPAC merger - The Robot Report",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGdxZndNQkxrLUFDRmJ4OXJVRW11d3ZMZkRNQmdSWDlRYmJQd1NQR0xxSVBPbkZTTDJxdHZoVjFFTUtJaURyQ3J4XzlPanpmbk5VSlJmOXNxbnM1bF9saE5Cb1JvQmJyazVPS2RQNjRoRnBZRURZRjRnT3BlalZSQjdiQzM0UGRubkNhRnZuZk4?oc=5",
+   "published": "2026-08-18",
+   "source": "The Robot Report"
+  },
+  {
+   "title": "Robot safety startup FORT Robotics sets sights on going public in $556M deal - Technical.ly",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEdNdkljVHhwS1hKV3BKWjZGR21XYlJfbFhOb0pzT05abFNDZHJBUlNqaFA0YzQ3enZHazZ1bkNyeFdrNWgwTHBGX1VDeEtMWXJHRjMyQ293OXZ1NndMOWM2Z3M3eHNCdUg2Rm1wNlZCVS1wcTNITUl3UTZjVHdxNF9SM2YyS2t4anZJ?oc=5",
+   "published": "2026-08-18",
+   "source": "Technical.ly"
+  },
+  {
+   "title": "AI Biz Fort Robotics To Go Public Via $556.6M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajhFMmpUODBxdlZ5SU9uNDR6YmJiZ201cjBsTHpuek9yRVVGYUJtcExLSlotUnJPVHBwcVRFcGhJT1lMbnRRN3YyOG9mSXI5bFdWMEtKOTlBVEtMSDJtcWlRYkxTYjFjaThfMGloR2lwdTJiWnJ5b1FRd3dDbUtCUW5NQnR0dEhESVowY0V4NEYyeWpQNDYxWHB30gFWQVVfeXFMTmI5WmVwZGJtMVlldmQ3SDhEekdzUGhCYTlEY2RmSlFlYWVhTk52VWo3Zy13aV94bEFQTG9wZVY5VVRyR1p0bHdLSUE4Z05CMVlyT0Z1SFE?oc=5",
+   "published": "2026-08-18",
+   "source": "Law360"
+  },
+  {
+   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5",
    "published": "2026-08-18",
-   "source": "bloomberg.com"
+   "source": "Bloomberg"
   },
   {
-   "title": "General Fusion (Nasdaq: GFUZ) flags unreliable pre-merger financials - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmpBNmpfdGRlRmVKc2tZT3d6eUNtcnktU1VKSTQ3VlR6aXZ3bGl6VkVhZS0tYTJUX3ZmanlLbEd3Z1VkSVB0YTZvVEljQUN6SC1nVW55VG5KLUt6N3JteWEtYjgtbVoyNW51anYxN2thQXdEZzRtbnpjZ2d0M2dvcklPQmtNbVBqY1o4eWV4RlZteUJqRlhET1FxZHg5VkNpZ1lhUC13dGtLWlBlWDZ0V200TmJ5dHlGQTNUNA?oc=5",
+   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5",
    "published": "2026-08-18",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Velos Acquisition I (VLOSU) Stock Analysis Report | Financials & Insights - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nYktLVGFGUzVXMF83dHBXRlUtSFY4Q2hIT3NXVFgwQXZ2WEZwUUFqcFNGeGtfa216MEpwT2lfVEJqTGRzejhMNWFUaVVzUHM?oc=5",
-   "published": "2026-08-18",
-   "source": "Benzinga"
-  },
-  {
-   "title": "Velos Acquisition I (VLOSW) Stock Analysis Report | Financials & Insights - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14SVV1M0RXWkhFYzgxc1h6N3R4cmF2TlBVdk5nMUxzaVA2Ym9sR2g4SWNVcFAzdk56WWxQVmprYzBUakJnUVBLSmc0UldfMGdPcVlWWnFB?oc=5",
-   "published": "2026-08-18",
-   "source": "Benzinga"
-  },
-  {
-   "title": "Ocean Capital Acquisition (OCAC) Stock Analysis Report | Financials & Insights - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5R1dpZmpiNnBvb1lZUzNPQmlQTnp2S25SOFFyTWo1NlJiWFRFYlJYeW9KaGM2RWNFQUlwanlaVUtidi1vMFRLR2lYSFFERVd1a2c5dw?oc=5",
-   "published": "2026-08-16",
-   "source": "Benzinga"
-  },
-  {
-   "title": "Cal Redwood Acquisition Corp. Q2 2026: Net income $1.73M, EPS $0.06\u2014 10-Q Summary - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGtoM2tVQzBfVHdubXphZC0zMzBoS0lhTjJBTC1KLU9Uam1fZFR5bWJZMWFwSmJHMXFWVHNkUDNBOVE0UlNWdk9IT0NyTzRQZ1g2Q1o5QkFfT1FWaC1MUUdSWG1BTEpUOVRxeC1nSDNmb1N2RUJVaGVYcXhBd1RFaVlodndWVXJlVF9EdF9HTkFkQ2xSWUlhR2doWkVySGJHVlFmWkEyZjFVeHcweU9ONGpxM3RXRFpYdlFSWDE4UFVGRC01U0FrcUZMQ0ZyU3luMndj?oc=5",
-   "published": "2026-08-17",
-   "source": "TradingView"
+   "source": "Yahoo Finance"
   }
  ],
  "regs": []
