@@ -1,32 +1,8 @@
 {
- "generated_at": "2026-08-17T19:16:51Z",
+ "generated_at": "2026-08-18T12:02:01Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
- "pipeline": [
-  {
-   "company": "Eaglesky Acquisition Corp",
-   "form": "S-1",
-   "cik": "2143067",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2143067/0001185185-26-003340.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: United States of America (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. VIII",
-   "form": "S-1",
-   "cik": "2146310",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2146310/0001213900-26-086901.txt"
-  },
-  {
-   "company": "JATT III Acquisition Corp",
-   "form": "S-1",
-   "cik": "2145659",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2145659/0001213900-26-086864.txt",
-   "blurb": "offering $60,000,000; $10.00./unit (auto-extracted)"
-  }
- ],
+ "pipeline": [],
  "pricings": [
   {
    "company": "Bleichroeder Acquisition Corp. II",
@@ -57,16 +33,17 @@
    "filed": "2026-08-12",
    "path": "edgar/data/2080023/0001213900-26-088471.txt",
    "blurb": "offering $50,000,000 (auto-extracted)"
-  },
-  {
-   "company": "TBD Acquisition II, LLC",
-   "form": "424B5",
-   "cik": "1952380",
-   "filed": "2026-08-10",
-   "path": "edgar/data/1952380/0001193125-26-341420.txt"
   }
  ],
  "amends": [
+  {
+   "company": "Gravity Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2123380",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2123380/0001185185-26-003563.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
+  },
   {
    "company": "ARC Group Securities Acquisition II",
    "form": "S-1/A",
@@ -98,16 +75,38 @@
    "filed": "2026-08-11",
    "path": "edgar/data/2133719/0001213900-26-087889.txt",
    "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "AfterNext Acquisition I Corp.",
-   "form": "S-1/A",
-   "cik": "2087035",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2087035/0001493152-26-036726.txt"
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2088295/0001213900-26-090407.txt"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2010653/0001829126-26-008936.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2026767/0001493152-26-038568.txt"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000410",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2000410/0001213900-26-090328.txt"
+  },
   {
    "company": "Kensington Capital Acquisition Corp. VI",
    "form": "425",
@@ -286,39 +285,33 @@
    "cik": "1882198",
    "filed": "2026-08-11",
    "path": "edgar/data/1882198/0001213900-26-087854.txt"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2123955/0001213900-26-087287.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Yorkville Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2064658",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2064658/0001104659-26-093049.txt",
-   "note": "8-K: termination of material agreement"
-  },
-  {
-   "company": "Viking Acquisition Corp I",
-   "form": "F-4/A",
-   "cik": "2080023",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2080023/0001213900-26-087100.txt"
-  },
-  {
-   "company": "Athena Technology Acquisition Corp. II",
-   "form": "S-4/A",
-   "cik": "1882198",
-   "filed": "2026-08-10",
-   "path": "edgar/data/1882198/0001213900-26-086831.txt"
   }
  ],
  "votes": [
+  {
+   "company": "FutureTech II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1889450",
+   "filed": "2026-08-17",
+   "path": "edgar/data/1889450/0001493152-26-038635.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "BPGC Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1841610",
+   "filed": "2026-08-17",
+   "path": "edgar/data/1841610/0001185185-26-003577.txt",
+   "blurb": "meeting September 16, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2088295",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2088295/0001213900-26-090410.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
   {
    "company": "RF Acquisition Corp II",
    "form": "8-K",
@@ -390,33 +383,17 @@
    "filed": "2026-08-12",
    "path": "edgar/data/2028355/0001213900-26-087937.txt",
    "blurb": "meeting September 3, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "COLLECTIVE ACQUISITION CORP.",
-   "form": "8-K",
-   "cik": "2041047",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2041047/0001213900-26-087341.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2123955/0001213900-26-087287.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Technology & Telecommunication Acquisition Corp",
-   "form": "DEF 14A",
-   "cik": "1900679",
-   "filed": "2026-08-10",
-   "path": "edgar/data/1900679/0001493152-26-036903.txt",
-   "blurb": "meeting August 20, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2010653/0001829126-26-008936.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Eureka Acquisition Corp",
    "form": "8-K",
@@ -440,14 +417,6 @@
    "filed": "2026-08-12",
    "path": "edgar/data/2137679/0001829126-26-008704.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2123955/0001213900-26-087287.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
@@ -466,25 +435,38 @@
    "filed": "2026-08-12",
    "path": "edgar/data/2137679/0001829126-26-008704.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2123955/0001213900-26-087287.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "UY Scuti Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2036973",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2036973/0001185185-26-003361.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Hall Chadwick Acquisition Corp II",
+   "form": "8-A12B",
+   "cik": "2130219",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2130219/0001829126-26-008967.txt"
+  },
+  {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2134856",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2134856/0001829126-26-008949.txt"
+  },
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-A12B",
+   "cik": "2133719",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2133719/0001213900-26-090637.txt"
+  },
+  {
+   "company": "Helix Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2099656",
+   "filed": "2026-08-17",
+   "path": "edgar/data/2099656/0001213900-26-090826.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Inflection Point Acquisition Corp. III",
    "form": "25-NSE",
@@ -505,21 +487,32 @@
    "cik": "2133239",
    "filed": "2026-08-11",
    "path": "edgar/data/2133239/0001929980-26-000442.txt"
-  },
-  {
-   "company": "Leader's Advantage Acquisition Corp.",
-   "form": "8-A12B",
-   "cik": "2109823",
-   "filed": "2026-08-10",
-   "path": "edgar/data/2109823/0001213900-26-087143.txt"
   }
  ],
  "media": [
   {
-   "title": "EAST WEST AVE ACQUISITION CORP COM USD0.0001 (S/R 14/07/2031) Financial Statements \u2013 NASDAQ:EWAVR - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUFheGNJdm12c3o0cWpxeTdMc2VHOWdDekJ1M3pOMlRZRDhHRTQ1Nmd3STFZeUlGZHZ6V29hVUs2QlhrWG5ISFpOSVFwLVZjZFBpeEwyNWhfUlNJUk41cUYxMmRlekplQlprZy1QUFltZ3l3Z0c4b25yRHVGTHhZQm1lZVE0UnZta0VUdGsyOFZWM3hl?oc=5",
-   "published": "2026-08-17",
-   "source": "TradingView"
+   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5",
+   "published": "2026-08-18",
+   "source": "bloomberg.com"
+  },
+  {
+   "title": "General Fusion (Nasdaq: GFUZ) flags unreliable pre-merger financials - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmpBNmpfdGRlRmVKc2tZT3d6eUNtcnktU1VKSTQ3VlR6aXZ3bGl6VkVhZS0tYTJUX3ZmanlLbEd3Z1VkSVB0YTZvVEljQUN6SC1nVW55VG5KLUt6N3JteWEtYjgtbVoyNW51anYxN2thQXdEZzRtbnpjZ2d0M2dvcklPQmtNbVBqY1o4eWV4RlZteUJqRlhET1FxZHg5VkNpZ1lhUC13dGtLWlBlWDZ0V200TmJ5dHlGQTNUNA?oc=5",
+   "published": "2026-08-18",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "Velos Acquisition I (VLOSU) Stock Analysis Report | Financials & Insights - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nYktLVGFGUzVXMF83dHBXRlUtSFY4Q2hIT3NXVFgwQXZ2WEZwUUFqcFNGeGtfa216MEpwT2lfVEJqTGRzejhMNWFUaVVzUHM?oc=5",
+   "published": "2026-08-18",
+   "source": "Benzinga"
+  },
+  {
+   "title": "Velos Acquisition I (VLOSW) Stock Analysis Report | Financials & Insights - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14SVV1M0RXWkhFYzgxc1h6N3R4cmF2TlBVdk5nMUxzaVA2Ym9sR2g4SWNVcFAzdk56WWxQVmprYzBUakJnUVBLSmc0UldfMGdPcVlWWnFB?oc=5",
+   "published": "2026-08-18",
+   "source": "Benzinga"
   },
   {
    "title": "Ocean Capital Acquisition (OCAC) Stock Analysis Report | Financials & Insights - Benzinga",
@@ -528,27 +521,9 @@
    "source": "Benzinga"
   },
   {
-   "title": "Archimedes Tech SPAC Partners II (ATII) Holds Near $10.64 as Investors Weigh De-SPAC Prospects - RTH Profile - dars.gov.et",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRjNpSGUtUXBTZ3VqMHRTdGJmVDJDWmk0bnV4MVQxdjVKVFJnMVhTNHdYUUwwclZXenF3d0FYczFIMzJiQl9nZWEyaGZwTzRUbnQwMjZzWl9oOV9BbFh5YTZKMUt1Tk5MQjRUWEZDbGM4TVVVOC1XaDFWbUVNTW85amNDeElfZGZIeFUwb1R2ZGRwNF9ORmNNOFR2VFdyU0NwZ3VYNGx5ZklTSzFjbHZnODRwOTd2N2ozSWdmalM4VFVIUmdVaDVjVThuYkFYR1k?oc=5",
-   "published": "2026-08-16",
-   "source": "dars.gov.et"
-  },
-  {
-   "title": "Vishal Garg, the CEO of Better Home & Finance who fired 900 people on Zoom just before Christmas wants his job back - ABC7 Chicago",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3BTck1lTTEyVTVEWlNFd0E5SjZ4dWxScTc0NXVrSXpvaVVZb3NEdnRESDZjRE1TemRUaVAtc0hUREFaUHhXNDlqY3FsM0JXdEl1V3VEUVlJa01WTTc4Zm55aE9ESW5QUXFFbXpuZW5rbVJXdk90SFhMWDRCVFlBbmtzMUJoRW5EWnBIdjJqM1lXb1U4SGRWZWtNdEl3WDEyY0JZZlFhYjQzdndMLXNrN2lZcHE0TkhrN0xJR2ZZYkVORkdlbDB0eA?oc=5",
-   "published": "2026-08-16",
-   "source": "ABC7 Chicago"
-  },
-  {
-   "title": "Gores Holdings XII Inc. Financial Statements \u2013 NASDAQ:GDOZU - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjh1eGR0OE9BckJlTmxoR2dRb1MwMERmaXF0bUtUcEd5eVlSYXNaRWRjZUl4NGZXdkt4VGs5bjBuaXBFNVNzaG1LOVU0SWFWQlNOcjhKR1VpTC1EVHpuUm9nYi0wN3ZveDd3OWkxQUZaMXdvTS1wMDdRVWJaZHp5cVZFTUdkQ2dJM1N2djlFN2hnZmVu?oc=5",
-   "published": "2026-08-16",
-   "source": "TradingView"
-  },
-  {
-   "title": "Thunder Bridge Capital Partners V, Ltd. Financial Statements \u2013 NASDAQ:TBCVU - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05SnptcEVQVFAxam9qZzV2N1ZacEFDaXNRbzdnRWxlZVhuSzN1b05rV0trVlBzVWFoTDVoNFE0d2ZNdXdubkV2WHlpaHNoLTJpRWRFSExIQTh2NXpUMVF4ZHZKRHpEclZMN2hKTHhJWGdIYWpEeVNKUg?oc=5",
-   "published": "2026-08-15",
+   "title": "Cal Redwood Acquisition Corp. Q2 2026: Net income $1.73M, EPS $0.06\u2014 10-Q Summary - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGtoM2tVQzBfVHdubXphZC0zMzBoS0lhTjJBTC1KLU9Uam1fZFR5bWJZMWFwSmJHMXFWVHNkUDNBOVE0UlNWdk9IT0NyTzRQZ1g2Q1o5QkFfT1FWaC1MUUdSWG1BTEpUOVRxeC1nSDNmb1N2RUJVaGVYcXhBd1RFaVlodndWVXJlVF9EdF9HTkFkQ2xSWUlhR2doWkVySGJHVlFmWkEyZjFVeHcweU9ONGpxM3RXRFpYdlFSWDE4UFVGRC01U0FrcUZMQ0ZyU3luMndj?oc=5",
+   "published": "2026-08-17",
    "source": "TradingView"
   }
  ],
