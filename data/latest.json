@@ -1,9 +1,17 @@
 {
- "generated_at": "2026-08-18T19:17:40Z",
+ "generated_at": "2026-08-19T12:01:36Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [],
  "pricings": [
+  {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2134856",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2134856/0001829126-26-009017.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "424B3",
@@ -59,25 +67,87 @@
    "filed": "2026-08-12",
    "path": "edgar/data/2145409/0001185185-26-003452.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2134856",
-   "filed": "2026-08-11",
-   "path": "edgar/data/2134856/0001829126-26-008622.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
-  },
-  {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "S-1/A",
-   "cik": "2133719",
-   "filed": "2026-08-11",
-   "path": "edgar/data/2133719/0001213900-26-087889.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2051985/0001213900-26-090988.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2023676/0001213900-26-091312.txt"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-090997.txt"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091191.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091192.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091193.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091319.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091320.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-091322.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "8-K",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-090994.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -278,16 +348,17 @@
    "cik": "2053927",
    "filed": "2026-08-12",
    "path": "edgar/data/2053927/0001829126-26-008666.txt"
-  },
-  {
-   "company": "Athena Technology Acquisition Corp. II",
-   "form": "S-4/A",
-   "cik": "1882198",
-   "filed": "2026-08-11",
-   "path": "edgar/data/1882198/0001213900-26-087854.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "2010653",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2010653/0001829126-26-008993.txt",
+   "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "FutureTech II Acquisition Corp.",
    "form": "8-K",
@@ -387,6 +458,14 @@
  ],
  "pipes": [
   {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "8-K",
+   "cik": "2028027",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2028027/0001213900-26-090994.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Future Vision II Acquisition Corp.",
    "form": "8-K",
    "cik": "2010653",
@@ -421,6 +500,22 @@
  ],
  "sponsors": [
   {
+   "company": "Blue Water Acquisition Corp. IV",
+   "form": "8-K",
+   "cik": "2082847",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2082847/0001493152-26-039024.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K",
+   "cik": "2033991",
+   "filed": "2026-08-18",
+   "path": "edgar/data/2033991/0001104659-26-098333.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Integrated Wellness Acquisition Corp",
    "form": "8-K",
    "cik": "1877557",
@@ -438,6 +533,14 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Agriculture & Natural Solutions Acquisition Corp",
+   "form": "8-K",
+   "cik": "1854149",
+   "filed": "2026-08-18",
+   "path": "edgar/data/1854149/0001193125-26-355695.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Hall Chadwick Acquisition Corp II",
    "form": "8-A12B",
@@ -480,16 +583,15 @@
    "cik": "1854149",
    "filed": "2026-08-12",
    "path": "edgar/data/1854149/0001354457-26-000782.txt"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-A12B",
-   "cik": "2133239",
-   "filed": "2026-08-11",
-   "path": "edgar/data/2133239/0001929980-26-000442.txt"
   }
  ],
  "media": [
+  {
+   "title": "Robotics Safety Stack Company Fort Robotics to Go Public Through SPAC Merger - AI Insider",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0Jrc29NbmFtcVdfZzEycW5WT1lNT0xISlY3X211Nm83Q1FLd2tOdUU0Vkl4TlctTGY2WHhmbjJQZl9xSUpZeWZ5Q3dqdmJIaWVqUXZFb2haTzdnbms4TE5uVEliMGk5SHk4bUFSWFJJZVdRdEFQdWc5WUVsMU5ZSW5odVJfdDFFcWxSWGFpQ1pYRTZmRlZNUHQ5Vmh3cXJrR0hDUS0xVXdDdk1NZlNVZUxqeGs?oc=5",
+   "published": "2026-08-19",
+   "source": "AI Insider"
+  },
   {
    "title": "Nth Cycle to Go Public via $585M SPAC Merger with Kensington Capital - connectmoney.com",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamMwT0V6bm9XaTZBM1JQcjJubmlncGk1XzUzQXJlajQ5RkJyUGUxZ18yd1UwWGs5YzY1djNjM21pcW5LOGhGaGFtckNuYVg3THNSWG1NMVQxZzJzYlBPUGs4WlVEOW02RGp0Ql9ldWJkem1nYUlBUnA0a0xWa1p3WHQxbDFRSVFHSnpiOENFUEdNMTBncW5mWG8zZ1ZMOS1MUTZDRzRxeWs?oc=5",
@@ -503,28 +605,22 @@
    "source": "The Robot Report"
   },
   {
+   "title": "AI Biz Fort Robotics To Go Public Via $556.6M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iOVplcGRibTFZZXZkN0g4RHpHc1BoQmE5RGNkZkpRZWFlYU5OdlVqN2ctd2lfeGxBUExvcGVWOVVUckdadGx3S0lBOGdOQjFZck9GdUhR0gFWQVVfeXFMTmI5WmVwZGJtMVlldmQ3SDhEekdzUGhCYTlEY2RmSlFlYWVhTk52VWo3Zy13aV94bEFQTG9wZVY5VVRyR1p0bHdLSUE4Z05CMVlyT0Z1SFE?oc=5",
+   "published": "2026-08-18",
+   "source": "Law360"
+  },
+  {
    "title": "Robot safety startup FORT Robotics sets sights on going public in $556M deal - Technical.ly",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEdNdkljVHhwS1hKV3BKWjZGR21XYlJfbFhOb0pzT05abFNDZHJBUlNqaFA0YzQ3enZHazZ1bkNyeFdrNWgwTHBGX1VDeEtMWXJHRjMyQ293OXZ1NndMOWM2Z3M3eHNCdUg2Rm1wNlZCVS1wcTNITUl3UTZjVHdxNF9SM2YyS2t4anZJ?oc=5",
    "published": "2026-08-18",
    "source": "Technical.ly"
   },
   {
-   "title": "AI Biz Fort Robotics To Go Public Via $556.6M SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajhFMmpUODBxdlZ5SU9uNDR6YmJiZ201cjBsTHpuek9yRVVGYUJtcExLSlotUnJPVHBwcVRFcGhJT1lMbnRRN3YyOG9mSXI5bFdWMEtKOTlBVEtMSDJtcWlRYkxTYjFjaThfMGloR2lwdTJiWnJ5b1FRd3dDbUtCUW5NQnR0dEhESVowY0V4NEYyeWpQNDYxWHB30gFWQVVfeXFMTmI5WmVwZGJtMVlldmQ3SDhEekdzUGhCYTlEY2RmSlFlYWVhTk52VWo3Zy13aV94bEFQTG9wZVY5VVRyR1p0bHdLSUE4Z05CMVlyT0Z1SFE?oc=5",
+   "title": "Yellow.ai to go public via $550M SPAC merger with Bluerock - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlhaNTdUTDc0bzlqeDE0dkxuQl9NT0Etdmpkc0xHcjY1UlcyeS1Pc1JrNkRCRmoxV0c3d0pGNUtIbUdsUldXQ2J6NU9WdmQ1cDk0SXJtYUZ0ZmttR0U4UzVDamZWUTdFb0pnVmxHaUYySkNERzhGOHRFZFkxalZwdWtJOHFMb21WMGJCTEtMOFNkVlpKdXc?oc=5",
    "published": "2026-08-18",
-   "source": "Law360"
-  },
-  {
-   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVYeUF4SkxXWmhQNmxha2VsaWFDNVU4anNVX1lZNEZYQkh6VDFMSnJHNlRid2ZoUVRCWjJ1ZVc4Y29rd3RjMjEwUlBBZjZlRWlKMW1FSkUtSXBzMk5vcGdoSndQbEYtT1U0RkhmSmZ6NnNGUVNoOHBDazI5NzhQVndUZkFqTXZLeE1Iam4xZFU2LUNGWDU5NkxtM2RqdDIwT0N5bHhmNE81YXExcFd4aHN6elJrNjg?oc=5",
-   "published": "2026-08-18",
-   "source": "Bloomberg"
-  },
-  {
-   "title": "Mark Cuban-Backed \u2018Physical AI\u2019 Startup Nears $500 Million SPAC Deal - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5",
-   "published": "2026-08-18",
-   "source": "Yahoo Finance"
+   "source": "Dealroom"
   }
  ],
  "regs": []
