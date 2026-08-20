@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T12:03:21Z",
+ "generated_at": "2026-08-20T19:20:07Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [],
@@ -575,10 +575,16 @@
    "source": "HPCwire"
   },
   {
-   "title": "FORT Robotics to take safety stack public via SPAC merger - The Robot Report",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGdxZndNQkxrLUFDRmJ4OXJVRW11d3ZMZkRNQmdSWDlRYmJQd1NQR0xxSVBPbkZTTDJxdHZoVjFFTUtJaURyQ3J4XzlPanpmbk5VSlJmOXNxbnM1bF9saE5Cb1JvQmJyazVPS2RQNjRoRnBZRURZRjRnT3BlalZSQjdiQzM0UGRubkNhRnZuZk4?oc=5",
+   "title": "Watch CEO of Cuban-Backed Fort Robotics on $500M SPAC Deal - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEhURXR6Yk9ZNE9oRzJNRkRBWlUtbnRGRE4yeTZITlJNY0xkZ0ZOM1lMeTFEbElldnpEWlNkTDBqeldvc0xsdmd3R3lMUjBaZWRTMGdnVXJ0dk9yQVRQQ1FjOVFMMzFxWVItQkxrMlBRTmtmaVQwZEJzVGk2bFFsTFUwaHNjQ0huUENadThTdzRPb3FOQ0FZZ1Z4Tm9WbDBxVUN3WFRPVU9hUQ?oc=5",
    "published": "2026-08-18",
-   "source": "The Robot Report"
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "EigenQ, Silicon Valley Acquisition Advance SPAC Deal With SEC Filing - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3hZalVvRlNxU0pqMG9yVUExR1paR2toQmFvSzFFU3d4d25GSDRTZDBpTHRIcUE3RUgtODFDWVlwWlJEMWw2M3I5eEJSLTdSZlNRTWVxQVFxdTNabU5JQkNDcnN2RkFYRDg2amVPWnU4Uk9ITmlxZl9QZmljTk1PQS1pYUU0X1NyN0x1a1RyVDM0SkozWERVRFlBS3lQOXFYb3J1TVdQM0NjUQ?oc=5",
+   "published": "2026-08-19",
+   "source": "citybiz"
   },
   {
    "title": "Silicon Valley Acquisition advances EigenQ SPAC deal with S-4 draft submitted to SEC - TradingView",
@@ -587,16 +593,10 @@
    "source": "TradingView"
   },
   {
-   "title": "Nth Cycle to Go Public via $585M SPAC Merger with Kensington Capital - connectmoney.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamMwT0V6bm9XaTZBM1JQcjJubmlncGk1XzUzQXJlajQ5RkJyUGUxZ18yd1UwWGs5YzY1djNjM21pcW5LOGhGaGFtckNuYVg3THNSWG1NMVQxZzJzYlBPUGs4WlVEOW02RGp0Ql9ldWJkem1nYUlBUnA0a0xWa1p3WHQxbDFRSVFHSnpiOENFUEdNMTBncW5mWG8zZ1ZMOS1MUTZDRzRxeWs?oc=5",
-   "published": "2026-08-18",
-   "source": "connectmoney.com"
-  },
-  {
-   "title": "Research Alliance Corp IV (RACD) starts 24\u2011month clock to deploy $75M SPAC cash - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUVHZ3ZNRDNlcEJzWlZmc0JHbjdWcHNNSXFRZ1V4UjVuVHdscmJra3Exd3p6UV9RZU1YOEk4Y09lZDEyRGZxdVRZNjFHMm9SNGtvb3hTazZJZ0xTRHVGclNMYmg0cUhfMFN4ZFcyQnpUYlpXd05HX2JTVzhmRFFfZUdfVGRnZ1Y2bHJUWWlVUm1VcXBmTHRGaVBOTm0wbjFpN29uYXFpcTJiZTVWSmFDR3VEVExsUHA5WGc?oc=5",
+   "title": "Robotics Safety Stack Company Fort Robotics to Go Public Through SPAC Merger - AI Insider",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0Jrc29NbmFtcVdfZzEycW5WT1lNT0xISlY3X211Nm83Q1FLd2tOdUU0Vkl4TlctTGY2WHhmbjJQZl9xSUpZeWZ5Q3dqdmJIaWVqUXZFb2haTzdnbms4TE5uVEliMGk5SHk4bUFSWFJJZVdRdEFQdWc5WUVsMU5ZSW5odVJfdDFFcWxSWGFpQ1pYRTZmRlZNUHQ5Vmh3cXJrR0hDUS0xVXdDdk1NZlNVZUxqeGs?oc=5",
    "published": "2026-08-19",
-   "source": "Stock Titan"
+   "source": "AI Insider"
   }
  ],
  "regs": []
