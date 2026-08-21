@@ -1,8 +1,17 @@
 {
- "generated_at": "2026-08-20T19:20:07Z",
+ "generated_at": "2026-08-21T12:03:25Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
- "pipeline": [],
+ "pipeline": [
+  {
+   "company": "ARC Group Acquisition II Corp.",
+   "form": "S-1",
+   "cik": "2073516",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2073516/0001493152-26-039519.txt",
+   "blurb": "offering $105,000,000; 10,500,000 units; $10.00/unit (auto-extracted)"
+  }
+ ],
  "pricings": [
   {
    "company": "NorthStrive Acquisition Corp I.",
@@ -26,13 +35,6 @@
    "cik": "2088295",
    "filed": "2026-08-14",
    "path": "edgar/data/2088295/0001213900-26-090313.txt"
-  },
-  {
-   "company": "TBD Acquisition II, LLC",
-   "form": "424B5",
-   "cik": "1952380",
-   "filed": "2026-08-13",
-   "path": "edgar/data/1952380/0001193125-26-348053.txt"
   }
  ],
  "amends": [
@@ -51,17 +53,62 @@
    "filed": "2026-08-17",
    "path": "edgar/data/2123380/0001185185-26-003563.txt",
    "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Securities Acquisition II",
-   "form": "S-1/A",
-   "cik": "2094710",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2094710/0001493152-26-037855.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2088295/0001213900-26-091899.txt",
+   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
+  },
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102713",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2102713/0001193125-26-359211.txt"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2028027/0001213900-26-091818.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2028027/0001213900-26-092091.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Plum Acquisition Corp, IV",
+   "form": "425",
+   "cik": "2030482",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2030482/0001213900-26-091868.txt"
+  },
+  {
+   "company": "RF Acquisition Corp II",
+   "form": "425",
+   "cik": "2012807",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2012807/0001829126-26-009169.txt"
+  },
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2133719/0001213900-26-092206.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Kensington Capital Acquisition Corp. VI",
    "form": "425",
@@ -258,75 +305,33 @@
    "filed": "2026-08-14",
    "path": "edgar/data/2043630/0001437749-26-027948.txt",
    "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Armada Acquisition Corp. II",
-   "form": "425",
-   "cik": "2044009",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2044009/0001193125-26-349549.txt"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-08-13",
-   "path": "edgar/data/1834032/0001213900-26-089145.txt"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-08-13",
-   "path": "edgar/data/1834032/0001213900-26-089146.txt"
-  },
-  {
-   "company": "Digital Asset Acquisition Corp.",
-   "form": "425",
-   "cik": "2052162",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2052162/0001213900-26-089223.txt"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "425",
-   "cik": "2000410",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2000410/0001213900-26-089209.txt"
-  },
-  {
-   "company": "SPACSphere Acquisition Corp.",
-   "form": "425",
-   "cik": "2081300",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2081300/0001193125-26-347541.txt"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "425",
-   "cik": "1884046",
-   "filed": "2026-08-13",
-   "path": "edgar/data/1884046/0001104659-26-095619.txt",
-   "blurb": "business combination with ZincFive (auto-extracted)"
-  },
-  {
-   "company": "Digital Asset Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2052162",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2052162/0001213900-26-089219.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000410",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2000410/0001213900-26-089205.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2133719/0001213900-26-092206.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "RF Acquisition Corp II",
+   "form": "8-K",
+   "cik": "2012807",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2012807/0001829126-26-009168.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1884046",
+   "filed": "2026-08-20",
+   "path": "edgar/data/1884046/0001104659-26-099248.txt",
+   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Karman Line Acquisition Corp.",
    "form": "8-K",
@@ -390,25 +395,17 @@
    "filed": "2026-08-14",
    "path": "edgar/data/1854463/0001493152-26-038280.txt",
    "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. V",
-   "form": "8-K",
-   "cik": "2028355",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2028355/0001213900-26-089160.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "YHN Acquisition I Ltd",
-   "form": "PRE 14A",
-   "cik": "2020987",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2020987/0001683168-26-006297.txt",
-   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2133719/0001213900-26-092206.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "COLLECTIVE ACQUISITION CORP.",
    "form": "8-K",
@@ -448,17 +445,17 @@
    "filed": "2026-08-17",
    "path": "edgar/data/2010653/0001829126-26-008936.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000410",
-   "filed": "2026-08-13",
-   "path": "edgar/data/2000410/0001213900-26-089205.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2133719/0001213900-26-092206.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Karman Line Acquisition Corp.",
    "form": "8-K",
@@ -509,6 +506,14 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Rising Dragon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2018145",
+   "filed": "2026-08-20",
+   "path": "edgar/data/2018145/0001213900-26-091870.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "AfterNext Acquisition I Corp.",
    "form": "8-A12B",
@@ -563,6 +568,12 @@
  ],
  "media": [
   {
+   "title": "Jones Ventures (JONEU) shifts IPO cash into deal hunt trust - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2lUa1M4REdBSnc2SjJGUGhYTVd3WWhMaUdRVVFKNFc5bzdVWEExTU5OeWFiMzlZLUFMZFNHWHczcUVBZV8xYWh1MHplejEya09zcXNkcVVhM1BUZG4yZUo1ZXAyYnpVWWJrX2VzVTc4a1hlRjdjbG1XWFh3eTlmZ3gzaEpMbjFZQVphd3puVVpZTjRtb1NMOElTMjQxOWx1WFFIdlRUdXJXZ3hOSExxSFhfT0lFVlh0TzdlRjducFRzTEtid1pjbWZadw?oc=5",
+   "published": "2026-08-20",
+   "source": "Stock Titan"
+  },
+  {
    "title": "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission - Quantum Computing Report",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWl6UkVfNmJfX0JQSnlwMVBKaC13UWduaTJPUHZEUFNzbmlTajExR2E3NzZlaF9fSHlEZ2NBRUtLUjhDRTZ6Vjc4dFU2a1ZwVWd5c3I2Zi0xdHNOLVkyMTJZQ3k3TUktb3pvWGlRY3hZRmdLbkNucmNkMTY5YXJIWkxyUGFFMEt3ZmhzMi1EZndqZjZNX0dMeUJwaWxNazQ4MUw0X1duY0tCX1FQODV5eTJhMWlWMU5kNEljeUV6WTRlUGM3cFRUYtIByAFBVV95cUxPSWl6UkVfNmJfX0JQSnlwMVBKaC13UWduaTJPUHZEUFNzbmlTajExR2E3NzZlaF9fSHlEZ2NBRUtLUjhDRTZ6Vjc4dFU2a1ZwVWd5c3I2Zi0xdHNOLVkyMTJZQ3k3TUktb3pvWGlRY3hZRmdLbkNucmNkMTY5YXJIWkxyUGFFMEt3ZmhzMi1EZndqZjZNX0dMeUJwaWxNazQ4MUw0X1duY0tCX1FQODV5eTJhMWlWMU5kNEljeUV6WTRlUGM3cFRUYg?oc=5",
    "published": "2026-08-19",
@@ -573,12 +584,6 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEtsWHVxQ25QejhuNmc2Y0w1VG1xdzlwUHdNVTRPVVlhUXVIX0g0QXpHWFdMbTlEdDNXZUx3QzlYR29fcHJRUUJWZDdBeXNnSkhoaGxvSEhIaUJoSmRyTmFUV1phakhnWEU5eGt5ZjFObDBFd0tUREtyc0VpUkFOZXA1NFhUZEx0YWlRbHludUkyTTYyN1I2ekZKcjE0SUdaM19aMw?oc=5",
    "published": "2026-08-19",
    "source": "HPCwire"
-  },
-  {
-   "title": "Watch CEO of Cuban-Backed Fort Robotics on $500M SPAC Deal - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEhURXR6Yk9ZNE9oRzJNRkRBWlUtbnRGRE4yeTZITlJNY0xkZ0ZOM1lMeTFEbElldnpEWlNkTDBqeldvc0xsdmd3R3lMUjBaZWRTMGdnVXJ0dk9yQVRQQ1FjOVFMMzFxWVItQkxrMlBRTmtmaVQwZEJzVGk2bFFsTFUwaHNjQ0huUENadThTdzRPb3FOQ0FZZ1Z4Tm9WbDBxVUN3WFRPVU9hUQ?oc=5",
-   "published": "2026-08-18",
-   "source": "Bloomberg.com"
   },
   {
    "title": "EigenQ, Silicon Valley Acquisition Advance SPAC Deal With SEC Filing - citybiz",
@@ -593,10 +598,10 @@
    "source": "TradingView"
   },
   {
-   "title": "Robotics Safety Stack Company Fort Robotics to Go Public Through SPAC Merger - AI Insider",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0Jrc29NbmFtcVdfZzEycW5WT1lNT0xISlY3X211Nm83Q1FLd2tOdUU0Vkl4TlctTGY2WHhmbjJQZl9xSUpZeWZ5Q3dqdmJIaWVqUXZFb2haTzdnbms4TE5uVEliMGk5SHk4bUFSWFJJZVdRdEFQdWc5WUVsMU5ZSW5odVJfdDFFcWxSWGFpQ1pYRTZmRlZNUHQ5Vmh3cXJrR0hDUS0xVXdDdk1NZlNVZUxqeGs?oc=5",
+   "title": "SEALSQ Commits $10 Million to WISeSat.Space De-SPAC, Extends Deal Timeline - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWNncUI1TDRjRXNiM2l6TkpJNXlyclhUb290SG4yTnNaQ1c0REtLQ3lfYjY4eHJ3TmZ6Y1VpeGZSbjhBOURmN01mb05zbENlaDItR3J0T01ETFhWdHpTX3JEUUpjVTIzZ0c1NzdsTmVwX2o5ZHREdzM5RndXVVRvQ2VDYi1hLW55aHg4VU5GUTZHV0lOLWRZXzQtMHFObzJVeVlROU1nTHktd1NMeEs4a2RJNmZxMVZtN0tneUJqLVdOSDFwT25kVXY2QmQ5VTZ3eEVFRmh1elJyV3paeDhYT1JURUZUQTBDTURLaQ?oc=5",
    "published": "2026-08-19",
-   "source": "AI Insider"
+   "source": "The Globe and Mail"
   }
  ],
  "regs": []
