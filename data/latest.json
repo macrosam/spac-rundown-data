@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T12:03:25Z",
+ "generated_at": "2026-08-21T19:15:31Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -568,40 +568,40 @@
  ],
  "media": [
   {
-   "title": "Jones Ventures (JONEU) shifts IPO cash into deal hunt trust - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2lUa1M4REdBSnc2SjJGUGhYTVd3WWhMaUdRVVFKNFc5bzdVWEExTU5OeWFiMzlZLUFMZFNHWHczcUVBZV8xYWh1MHplejEya09zcXNkcVVhM1BUZG4yZUo1ZXAyYnpVWWJrX2VzVTc4a1hlRjdjbG1XWFh3eTlmZ3gzaEpMbjFZQVphd3puVVpZTjRtb1NMOElTMjQxOWx1WFFIdlRUdXJXZ3hOSExxSFhfT0lFVlh0TzdlRjducFRzTEtid1pjbWZadw?oc=5",
-   "published": "2026-08-20",
+   "title": "BSTR and Cantor Equity Partners Terminate SPAC Merger Amid Bitcoin Market Volatility - FF News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWNsRHZ0elg4ZzN0WjQ2VXV6VzV6TDNjOV94LVk2eXdhOE5NYzhBaXdpczQtMU1sX2dtaTJhYmVRaDJLZmtWaE1RYWdBVlRmbjBOUWQ5ME5fSFMtMWNlMVZfenZtdGhDNlBlVG9zMjNueEkxTmhaQm53RzlSbURtcXQyeVFDLVE0WXBodUpscmM3bVlPM0d0Uk5nb05xNEo5d2xBR284TG54SDJ6?oc=5",
+   "published": "2026-08-21",
+   "source": "FF News"
+  },
+  {
+   "title": "Space-Eyes Plans Board Expansion Ahead of $638 Million SPAC Merger - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qc2xJdnczdU1PTHAycFpPZGplLTRNa2FPVElkb05uVExzSTRfbWdTVEt0LXNES1VYRl96NDFOY29wVjNrNE5pWUpqR1A5Q0lvbXBNSkZTd0tMRzJDYVlXVnk1X0trNWxMRnlBRQ?oc=5",
+   "published": "2026-08-21",
+   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+  },
+  {
+   "title": "Titan SPAC investors get cash-out choice in OpenPayd (OP) merger - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPancxZU9JcHA0OHdsa01KYXlnTDRNbGNhR3NJZlNUSVlSekhQZmItM1JhalUxeDNnSHRuNUJySjFJN3JvMkk3d0pGQVgyRThKemh4TmFnMXdMeGNLbGs2QkJBQTZhM0tia0F2OU92UWZqWExJWDZVMGlmZFlfWE5TYXVjc1dVR3ZEa0huUl9WTHFZRDFhQkRVVDBxZjNjbEVjT19nNG1PeVhrTGYzUjJ0LUJtWFlPaXFsdWZ1WTZWSWh4UzhkMGRQZg?oc=5",
+   "published": "2026-08-21",
    "source": "Stock Titan"
   },
   {
-   "title": "EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission - Quantum Computing Report",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWl6UkVfNmJfX0JQSnlwMVBKaC13UWduaTJPUHZEUFNzbmlTajExR2E3NzZlaF9fSHlEZ2NBRUtLUjhDRTZ6Vjc4dFU2a1ZwVWd5c3I2Zi0xdHNOLVkyMTJZQ3k3TUktb3pvWGlRY3hZRmdLbkNucmNkMTY5YXJIWkxyUGFFMEt3ZmhzMi1EZndqZjZNX0dMeUJwaWxNazQ4MUw0X1duY0tCX1FQODV5eTJhMWlWMU5kNEljeUV6WTRlUGM3cFRUYtIByAFBVV95cUxPSWl6UkVfNmJfX0JQSnlwMVBKaC13UWduaTJPUHZEUFNzbmlTajExR2E3NzZlaF9fSHlEZ2NBRUtLUjhDRTZ6Vjc4dFU2a1ZwVWd5c3I2Zi0xdHNOLVkyMTJZQ3k3TUktb3pvWGlRY3hZRmdLbkNucmNkMTY5YXJIWkxyUGFFMEt3ZmhzMi1EZndqZjZNX0dMeUJwaWxNazQ4MUw0X1duY0tCX1FQODV5eTJhMWlWMU5kNEljeUV6WTRlUGM3cFRUYg?oc=5",
-   "published": "2026-08-19",
-   "source": "Quantum Computing Report"
+   "title": "BSTR Scraps US Listing Plan via SPAC Merger, Citing Market Weakness - bloomingbit",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qb0ZpY2hKWnpUd0FrUDZhRE5mVndNaG94d05CN1pRSkhSX0xwWTNHVllxanQ5bU1raHpTWF9DOGFqQ0pmM1hWQ0ctZTdHT1FRNEdocQ?oc=5",
+   "published": "2026-08-21",
+   "source": "bloomingbit"
   },
   {
-   "title": "EigenQ Advances SPAC Merger to Take Quantum Tech Business Public - HPCwire",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEtsWHVxQ25QejhuNmc2Y0w1VG1xdzlwUHdNVTRPVVlhUXVIX0g0QXpHWFdMbTlEdDNXZUx3QzlYR29fcHJRUUJWZDdBeXNnSkhoaGxvSEhIaUJoSmRyTmFUV1phakhnWEU5eGt5ZjFObDBFd0tUREtyc0VpUkFOZXA1NFhUZEx0YWlRbHludUkyTTYyN1I2ekZKcjE0SUdaM19aMw?oc=5",
-   "published": "2026-08-19",
-   "source": "HPCwire"
+   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
+   "published": "2026-08-21",
+   "source": "Stocktwits"
   },
   {
-   "title": "EigenQ, Silicon Valley Acquisition Advance SPAC Deal With SEC Filing - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3hZalVvRlNxU0pqMG9yVUExR1paR2toQmFvSzFFU3d4d25GSDRTZDBpTHRIcUE3RUgtODFDWVlwWlJEMWw2M3I5eEJSLTdSZlNRTWVxQVFxdTNabU5JQkNDcnN2RkFYRDg2amVPWnU4Uk9ITmlxZl9QZmljTk1PQS1pYUU0X1NyN0x1a1RyVDM0SkozWERVRFlBS3lQOXFYb3J1TVdQM0NjUQ?oc=5",
-   "published": "2026-08-19",
-   "source": "citybiz"
-  },
-  {
-   "title": "Silicon Valley Acquisition advances EigenQ SPAC deal with S-4 draft submitted to SEC - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVk9DckxpazFYcTB2UnlWVUlCY1FmMXp6SGlfbHplczR0VVVPXzBtbXkzRXlXdzNOa1ZtcFVVd0N6elVWa3hMWVp2c0gzNl9SeU45SFJaUGw4VjVMcVRVdmh2dlVxUnlHWDJLTHI0alNmT0otYlNBSzNtck9Gd3B3aWlwcXk3cFlzOXMtaFprZ2E0dlU3VlZZWWhyWlduWVlMNXZOeDFKc0pxY2V2R253NHVMd1ZUSnRXbTAyWFdyNTVhcFItdmpQZndOZ1hOaDRUdXpHdlJnQ2NjNmZrZ1R3?oc=5",
-   "published": "2026-08-19",
-   "source": "TradingView"
-  },
-  {
-   "title": "SEALSQ Commits $10 Million to WISeSat.Space De-SPAC, Extends Deal Timeline - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYWNncUI1TDRjRXNiM2l6TkpJNXlyclhUb290SG4yTnNaQ1c0REtLQ3lfYjY4eHJ3TmZ6Y1VpeGZSbjhBOURmN01mb05zbENlaDItR3J0T01ETFhWdHpTX3JEUUpjVTIzZ0c1NzdsTmVwX2o5ZHREdzM5RndXVVRvQ2VDYi1hLW55aHg4VU5GUTZHV0lOLWRZXzQtMHFObzJVeVlROU1nTHktd1NMeEs4a2RJNmZxMVZtN0tneUJqLVdOSDFwT25kVXY2QmQ5VTZ3eEVFRmh1elJyV3paeDhYT1JURUZUQTBDTURLaQ?oc=5",
-   "published": "2026-08-19",
-   "source": "The Globe and Mail"
+   "title": "Space-Eyes adds four directors ahead of McKinley SPAC merger By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFoyQ3RoOUNLdFpsOEV5Mk1pTndxaTlLWXFwWUVmRmFOYVBwS1ZMYXZUMjdrOTR5bTBJRW1PSGZsTnJneS1pbkxOU3R3MXF6Qko3T2paOFdUaG95X1htdTU2ME1pY1RUck5aYWhKclRxZEhzTzBKQmh6QUlUcWJFa0R2aGxsMHBZTWtkX2ZSTGJLeGJIcEtSX1JWUWJqZ1hOSXEyYV9ZZ3gyN2ZNTmo3VzlsNGFqOWFPbGI2VA?oc=5",
+   "published": "2026-08-21",
+   "source": "Investing.com India"
   }
  ],
  "regs": []
