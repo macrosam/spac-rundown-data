@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:15:31Z",
+ "generated_at": "2026-08-24T12:03:19Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -39,6 +39,30 @@
  ],
  "amends": [
   {
+   "company": "Albatross Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2135163",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2135163/0001829126-26-009225.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Dune Acquisition Corp III",
+   "form": "S-1/A",
+   "cik": "2095476",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2095476/0001213900-26-092718.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2128462",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2128462/0001193125-26-361172.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Southern Cross Acquisition II Corp.",
    "form": "S-1/A",
    "cik": "2133239",
@@ -56,6 +80,21 @@
   }
  ],
  "mergers": [
+  {
+   "company": "McKinley Acquisition Corp",
+   "form": "425",
+   "cik": "2067592",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2067592/0001213900-26-092344.txt",
+   "blurb": "business combination with McKinley Acquisition Corp. (auto-extracted)"
+  },
+  {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "S-4",
+   "cik": "2016221",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2016221/0001213900-26-092711.txt"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -102,14 +141,6 @@
    "path": "edgar/data/2012807/0001829126-26-009169.txt"
   },
   {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-K",
-   "cik": "2133719",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2133719/0001213900-26-092206.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
    "company": "Kensington Capital Acquisition Corp. VI",
    "form": "425",
    "cik": "2102713",
@@ -129,22 +160,6 @@
    "cik": "2085659",
    "filed": "2026-08-19",
    "path": "edgar/data/2085659/0001213900-26-091671.txt"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2134856",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2134856/0001829126-26-009070.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2139246",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2139246/0001185185-26-003629.txt",
-   "note": "8-K: entry into material definitive agreement"
   },
   {
    "company": "Columbus Acquisition Corp/Cayman Islands",
@@ -225,27 +240,11 @@
    "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
   },
   {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "8-K",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-090994.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
    "cik": "2088295",
    "filed": "2026-08-17",
    "path": "edgar/data/2088295/0001213900-26-090407.txt"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2010653",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2010653/0001829126-26-008936.txt",
-   "note": "8-K: entry into material definitive agreement"
   },
   {
    "company": "Calisa Acquisition Corp",
@@ -281,49 +280,9 @@
    "cik": "2012807",
    "filed": "2026-08-14",
    "path": "edgar/data/2012807/0001829126-26-008823.txt"
-  },
-  {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2123955/0001213900-26-090210.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "8-K",
-   "cik": "2012807",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012807/0001829126-26-008821.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "StoneBridge Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2043630",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2043630/0001437749-26-027948.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
-  {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-K",
-   "cik": "2133719",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2133719/0001213900-26-092206.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "8-K",
-   "cik": "2012807",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2012807/0001829126-26-009168.txt",
-   "note": "8-K: shareholder vote results"
-  },
   {
    "company": "Spark I Acquisition Corp",
    "form": "PRE 14A",
@@ -333,28 +292,12 @@
    "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
   },
   {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2134856",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2134856/0001829126-26-009070.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
    "company": "Future Vision II Acquisition Corp.",
    "form": "DEFA14A",
    "cik": "2010653",
    "filed": "2026-08-18",
    "path": "edgar/data/2010653/0001829126-26-008993.txt",
    "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "FutureTech II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1889450",
-   "filed": "2026-08-17",
-   "path": "edgar/data/1889450/0001493152-26-038635.txt",
-   "note": "8-K: charter amendment (possible extension)"
   },
   {
    "company": "BPGC Acquisition Corp.",
@@ -373,14 +316,6 @@
    "blurb": "extension on the agenda (auto-extracted)"
   },
   {
-   "company": "RF Acquisition Corp II",
-   "form": "8-K",
-   "cik": "2012807",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012807/0001829126-26-008821.txt",
-   "note": "8-K: charter amendment (possible extension)"
-  },
-  {
    "company": "Integrated Wellness Acquisition Corp",
    "form": "PRE 14A",
    "cik": "1877557",
@@ -397,121 +332,32 @@
    "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
- "pipes": [
-  {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-K",
-   "cik": "2133719",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2133719/0001213900-26-092206.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "COLLECTIVE ACQUISITION CORP.",
-   "form": "8-K",
-   "cik": "2041047",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2041047/0001213900-26-091360.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2134856",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2134856/0001829126-26-009070.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Viking Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2139246",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2139246/0001185185-26-003629.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "8-K",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-090994.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2010653",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2010653/0001829126-26-008936.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  }
- ],
+ "pipes": [],
  "sponsors": [
   {
-   "company": "NorthStrive Acquisition Corp I.",
+   "company": "Bleichroeder Acquisition Corp. II",
    "form": "8-K",
-   "cik": "2133719",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2133719/0001213900-26-092206.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2134856",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2134856/0001829126-26-009070.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Ocean Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "1926314",
-   "filed": "2026-08-19",
-   "path": "edgar/data/1926314/0001493152-26-039125.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Oceanhawk Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2090787",
-   "filed": "2026-08-19",
-   "path": "edgar/data/2090787/0001213900-26-091647.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Blue Water Acquisition Corp. IV",
-   "form": "8-K",
-   "cik": "2082847",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2082847/0001493152-26-039024.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Texas Ventures Acquisition III Corp",
-   "form": "8-K",
-   "cik": "2033991",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2033991/0001104659-26-098333.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "8-K",
-   "cik": "1877557",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1877557/0001104659-26-097185.txt",
+   "cik": "2088295",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2088295/0001213900-26-092600.txt",
    "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
   {
-   "company": "Rising Dragon Acquisition Corp.",
+   "company": "Breeze Acquisition Corp. II",
    "form": "8-K",
-   "cik": "2018145",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2018145/0001213900-26-091870.txt",
+   "cik": "2095443",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2095443/0001213900-26-092598.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
+  {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "8-K",
+   "cik": "2029976",
+   "filed": "2026-08-21",
+   "path": "edgar/data/2029976/0001213900-26-092693.txt",
    "note": "8-K: delisting / listing-deficiency notice"
   },
   {
@@ -520,14 +366,6 @@
    "cik": "2087035",
    "filed": "2026-08-19",
    "path": "edgar/data/2087035/0001493152-26-039093.txt"
-  },
-  {
-   "company": "Agriculture & Natural Solutions Acquisition Corp",
-   "form": "8-K",
-   "cik": "1854149",
-   "filed": "2026-08-18",
-   "path": "edgar/data/1854149/0001193125-26-355695.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   },
   {
    "company": "Hall Chadwick Acquisition Corp II",
@@ -551,14 +389,6 @@
    "path": "edgar/data/2133719/0001213900-26-090637.txt"
   },
   {
-   "company": "Helix Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2099656",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2099656/0001213900-26-090826.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
    "company": "Inflection Point Acquisition Corp. III",
    "form": "25-NSE",
    "cik": "2012318",
@@ -568,40 +398,40 @@
  ],
  "media": [
   {
-   "title": "BSTR and Cantor Equity Partners Terminate SPAC Merger Amid Bitcoin Market Volatility - FF News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWNsRHZ0elg4ZzN0WjQ2VXV6VzV6TDNjOV94LVk2eXdhOE5NYzhBaXdpczQtMU1sX2dtaTJhYmVRaDJLZmtWaE1RYWdBVlRmbjBOUWQ5ME5fSFMtMWNlMVZfenZtdGhDNlBlVG9zMjNueEkxTmhaQm53RzlSbURtcXQyeVFDLVE0WXBodUpscmM3bVlPM0d0Uk5nb05xNEo5d2xBR284TG54SDJ6?oc=5",
-   "published": "2026-08-21",
-   "source": "FF News"
+   "title": "IPO Databook: Albatross Acquisition (US) - Aug 2026 - Smartkarma",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3JOMm92eE1XdkU2dWlscG9xZmR0dVNvTmRJMFRYY1AwcGFkNE11YUt1ZVdmb2Q3SmZUSUZrTE5CRl9hejZJZ3NrVnY1ZTk0UWdWQVVBclVPdGtvNFBxaF83SmdtZTl4V1hTaExsZlI5SXFrOGR3QmQ5dUZWRFRLRWhmZkVjbERxUFE?oc=5",
+   "published": "2026-08-24",
+   "source": "Smartkarma"
   },
   {
-   "title": "Space-Eyes Plans Board Expansion Ahead of $638 Million SPAC Merger - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qc2xJdnczdU1PTHAycFpPZGplLTRNa2FPVElkb05uVExzSTRfbWdTVEt0LXNES1VYRl96NDFOY29wVjNrNE5pWUpqR1A5Q0lvbXBNSkZTd0tMRzJDYVlXVnk1X0trNWxMRnlBRQ?oc=5",
-   "published": "2026-08-21",
-   "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+   "title": "Viking Acquisition Corp. II Financial Statements \u2013 BOATS:VII.U - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tUVRlZEdkQzFLTF9KRmtqVEZBX3JuMm9oVEl6OTd1M2RmRThlaEZfQzQ5TmFyY29JektKa2huakx0ZjRWb2VQNTY1SkFOUGRBaTJTRWRpYzFKTll0Q0FKZllUYWd1NFlUSjV4UVRwNndjaldKZno4?oc=5",
+   "published": "2026-08-23",
+   "source": "TradingView"
   },
   {
-   "title": "Titan SPAC investors get cash-out choice in OpenPayd (OP) merger - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPancxZU9JcHA0OHdsa01KYXlnTDRNbGNhR3NJZlNUSVlSekhQZmItM1JhalUxeDNnSHRuNUJySjFJN3JvMkk3d0pGQVgyRThKemh4TmFnMXdMeGNLbGs2QkJBQTZhM0tia0F2OU92UWZqWExJWDZVMGlmZFlfWE5TYXVjc1dVR3ZEa0huUl9WTHFZRDFhQkRVVDBxZjNjbEVjT19nNG1PeVhrTGYzUjJ0LUJtWFlPaXFsdWZ1WTZWSWh4UzhkMGRQZg?oc=5",
-   "published": "2026-08-21",
-   "source": "Stock Titan"
+   "title": "Enhanced Games: $61.9 million financial black hole - Inside The Games",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGlPZkU0SXZVU2Jxck5NUjdib2s4SDZET2R3b0tvLWdzazlJczY4OHFfdC1HN0NReVB5VEM3aEFNOEZmYjlwSVdpeVlHSHlGcl80N0lnQ1dkaUFMbURQUTg0dkVtZmFVeWFYWThRZVE2cGR6bWx1MF9zbzA3QU93eVl3b1hEWmhxRHkzWG5NLUZMelU?oc=5",
+   "published": "2026-08-22",
+   "source": "Inside The Games"
   },
   {
-   "title": "BSTR Scraps US Listing Plan via SPAC Merger, Citing Market Weakness - bloomingbit",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qb0ZpY2hKWnpUd0FrUDZhRE5mVndNaG94d05CN1pRSkhSX0xwWTNHVllxanQ5bU1raHpTWF9DOGFqQ0pmM1hWQ0ctZTdHT1FRNEdocQ?oc=5",
-   "published": "2026-08-21",
-   "source": "bloomingbit"
+   "title": "OSPREY ACQUISITION CORPORATION III Financial Statements \u2013 NASDAQ:OSPR - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rU09IMXdUUElLWFQtWVp4b3JMMlRqVWlQWVFhV1RrLXZuV3hiakk4Nm9YeWUzMWFNXzBMeVJyOVRFTUZnMG01TnVaak9xWXYxQmlUbHl3SlRqNlZfX3E0Q094STFrUWl3NHVBLUEzQ0d5TnRDbzVN?oc=5",
+   "published": "2026-08-22",
+   "source": "TradingView"
   },
   {
-   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
-   "published": "2026-08-21",
-   "source": "Stocktwits"
+   "title": "IPO Databook: Three Lions Acquisition (TLACU US) - Aug 2026 - Smartkarma",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEVtM1pMcVFPVjQxdnM2dFRwb2E0TnpCMDVpUzM4ZmpCZ2lFVi1qQjdkdmNSajc5NkxfR0VZZllteVlTMG5MaTBNU2FybFJOclQ4Y2RSVlBNUjBLTF95bXhJWWpsRk1MNFR1V3dVRGRqeHZkXzdyVGV1dWE4VW9BVnI3RWRZN19HQnl4TTZqSWhzQjho?oc=5",
+   "published": "2026-08-24",
+   "source": "Smartkarma"
   },
   {
-   "title": "Space-Eyes adds four directors ahead of McKinley SPAC merger By Investing.com - Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFoyQ3RoOUNLdFpsOEV5Mk1pTndxaTlLWXFwWUVmRmFOYVBwS1ZMYXZUMjdrOTR5bTBJRW1PSGZsTnJneS1pbkxOU3R3MXF6Qko3T2paOFdUaG95X1htdTU2ME1pY1RUck5aYWhKclRxZEhzTzBKQmh6QUlUcWJFa0R2aGxsMHBZTWtkX2ZSTGJLeGJIcEtSX1JWUWJqZ1hOSXEyYV9ZZ3gyN2ZNTmo3VzlsNGFqOWFPbGI2VA?oc=5",
-   "published": "2026-08-21",
-   "source": "Investing.com India"
+   "title": "IPO Databook: Dune Acquisition Corporation Iii (CPPGU US) - Aug 2026 - Smartkarma",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3ZrZ2RYbG91WXNEeVIydUw4YVJlaXlqR1ZrSHFJaXByQmFoVE5GbTRGVjV4amV5dHYtMk9rSnJuWDJaNWM1OGJxQ0R3QXgwOEZETkNUVDM3YVN6bjI4ckpUOXV5N0JNV0lkWHZ2NVQ3UmZSd3ZNUTd4Um5oa0JZTWc0VEh1RnZxNkhBNkt3aXdja2FGR0FKTWo4TWVGX2pE?oc=5",
+   "published": "2026-08-24",
+   "source": "Smartkarma"
   }
  ],
  "regs": []
