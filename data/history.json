@@ -743,6 +743,127 @@
    "items": [
     "Other Events"
    ]
+  },
+  "edgar/data/1834032/0001213900-26-093084.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1834032/0001213900-26-093084.txt",
+   "blurb": "business combination with HiTech Minerals (auto-extracted)"
+  },
+  "edgar/data/2028027/0001213900-26-093099.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093099.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2028027/0001213900-26-093104.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093104.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2028027/0001213900-26-093105.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093105.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/1877557/0001104659-26-100326.txt": {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "8-K",
+   "cik": "1877557",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1877557/0001104659-26-100326.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/1846235/0001213900-26-093065.txt": {
+   "company": "International Media Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1846235",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1846235/0001213900-26-093065.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030829/0001213900-26-093072.txt": {
+   "company": "PANTAGES CAPITAL ACQUISITION Corp",
+   "form": "8-K",
+   "cik": "2030829",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2030829/0001213900-26-093072.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2032528/0001104659-26-099769.txt": {
+   "company": "Roman DBDR Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2032528",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2032528/0001104659-26-099769.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/1877557/0001104659-26-100374.txt": {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1877557",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1877557/0001104659-26-100374.txt",
+   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2020987/0001683168-26-006677.txt": {
+   "company": "YHN Acquisition I Ltd",
+   "form": "DEF 14A",
+   "cik": "2020987",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2020987/0001683168-26-006677.txt",
+   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2143060/0001185185-26-003690.txt": {
+   "company": "Essential Minerals Acquisition Corp",
+   "form": "S-1",
+   "cik": "2143060",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2143060/0001185185-26-003690.txt",
+   "blurb": "offering $5,125,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
+  },
+  "edgar/data/2115191/0001213900-26-093129.txt": {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "S-1",
+   "cik": "2115191",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2115191/0001213900-26-093129.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2146310/0001213900-26-093109.txt": {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "S-1/A",
+   "cik": "2146310",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2146310/0001213900-26-093109.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2147219/0001104659-26-099825.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2147219",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2147219/0001104659-26-099825.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   }
  }
 }

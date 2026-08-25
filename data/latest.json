@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-08-24T19:18:48Z",
+ "generated_at": "2026-08-25T12:04:25Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Essential Minerals Acquisition Corp",
+   "form": "S-1",
+   "cik": "2143060",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2143060/0001185185-26-003690.txt",
+   "blurb": "offering $5,125,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
+  },
+  {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "S-1",
+   "cik": "2115191",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2115191/0001213900-26-093129.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "ARC Group Acquisition II Corp.",
    "form": "S-1",
@@ -38,6 +54,22 @@
   }
  ],
  "amends": [
+  {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "S-1/A",
+   "cik": "2146310",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2146310/0001213900-26-093109.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2147219",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2147219/0001104659-26-099825.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Albatross Acquisition Corp",
    "form": "S-1/A",
@@ -80,6 +112,38 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1834032/0001213900-26-093084.txt",
+   "blurb": "business combination with HiTech Minerals (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093099.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093104.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2028027/0001213900-26-093105.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
   {
    "company": "McKinley Acquisition Corp",
    "form": "425",
@@ -284,6 +348,22 @@
  ],
  "votes": [
   {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1877557",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1877557/0001104659-26-100374.txt",
+   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "YHN Acquisition I Ltd",
+   "form": "DEF 14A",
+   "cik": "2020987",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2020987/0001683168-26-006677.txt",
+   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Spark I Acquisition Corp",
    "form": "PRE 14A",
    "cik": "1884046",
@@ -335,6 +415,14 @@
  "pipes": [],
  "sponsors": [
   {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "8-K",
+   "cik": "1877557",
+   "filed": "2026-08-24",
+   "path": "edgar/data/1877557/0001104659-26-100326.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "8-K",
    "cik": "2088295",
@@ -344,6 +432,22 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "PANTAGES CAPITAL ACQUISITION Corp",
+   "form": "8-K",
+   "cik": "2030829",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2030829/0001213900-26-093072.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
+  {
+   "company": "Roman DBDR Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2032528",
+   "filed": "2026-08-24",
+   "path": "edgar/data/2032528/0001104659-26-099769.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Breeze Acquisition Corp. II",
    "form": "8-K",
@@ -398,40 +502,40 @@
  ],
  "media": [
   {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-08-24",
-   "source": "Stocktwits"
+   "title": "Ursa Major to go public in $2.3 billion SPAC deal - SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQXlKQ2VQT1pBOWFxVmhXWGZNY250Y1dPYmFXbGFTMU9xVUZvVzYxVGRERXo1R0lCejM0LXc3eWFrMnRZcDcwQndfcU9BSE03VUE5SkNvLS1XX1pMbGF0NzhNM1NDckdicHc1Z1BpMmV4d1dZNU9LdHk0UQ?oc=5",
+   "published": "2026-08-25",
+   "source": "SpaceNews"
   },
   {
-   "title": "NCTY: Record net income and rapid The9bit growth position the company for strong future expansion - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOSGhOSVRQYlpwSWFjckJMNTQ3YUc3SWZRcEhOenlaR1gyMWI2OXUybWVJN2pvNGR1S0pPQ0hTbmo2RGRCYjROQ1FoN3lBTExQdW5VdGZpaG5ROWNReTduMy1nQmRVMjkxQ3pfR2pGcHVXMEl2TFNyN1NjSFdMeVF4dlJhT1lJdnBGWjNyc2VSNW0xQl90a3BpMHpZNElXQ3BKelBtQTF2N25WSlFwVDBINGRIRWtaZjBVQnozOXdNNnNCRU9waUlpb3pwUk1oMzVTdVlRd2p3d3NBbjVKal9wajkxd096ZHRTTmg5QTBXdEJ2N3VZaVBZNDljYXhDVnhqSG9lMldIXzdFSzF6QUZObw?oc=5",
-   "published": "2026-08-24",
+   "title": "Ursa Major strikes deal to go public via SPAC - Axios",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTC1zZ1d3REZWQnNYcDhHTjREdnhBT0trU2E4YkdNNEx1SWdIQXlnZVltNlpOUXNTS1ZEVDJYY015ckpuMHVUQmVsejA2RmpHOER6RTdrZmxva3F2cDJ0R1lMMVRDTWtEc29xT21BLW9ZZXc?oc=5",
+   "published": "2026-08-25",
+   "source": "Axios"
+  },
+  {
+   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnRkWjhaOFJIT0I1bVA0bGcxN2RRTzRhVjlnN19OSGp3X2VjbXpqNzNWYXd1eDJXbmtLZUdsMWJBT2I3M2FOb2ZaTU9MWmMyY0NpODBiQ1hGd1VEeGtFX051Rm02eUZDYTRqcHBTRWtITmcyaGVmUS1DeFl1UUFLMk9yS0ZDUk1vdTdQYVQxVHAwdy1va29ZY2JsOE56LVVNZS1qa1pTSEMtTzhpdnhRc1k2dGE2RURTczhxNzJWSVB2ck1pZHhrUGpwV2dVU1o1NlE?oc=5",
+   "published": "2026-08-25",
    "source": "TradingView"
   },
   {
-   "title": "IPO Databook: Albatross Acquisition (US) - Aug 2026 - Smartkarma",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3JOMm92eE1XdkU2dWlscG9xZmR0dVNvTmRJMFRYY1AwcGFkNE11YUt1ZVdmb2Q3SmZUSUZrTE5CRl9hejZJZ3NrVnY1ZTk0UWdWQVVBclVPdGtvNFBxaF83SmdtZTl4V1hTaExsZlI5SXFrOGR3QmQ5dUZWRFRLRWhmZkVjbERxUFE?oc=5",
+   "title": "Defence firm Ursa Major to go public through US$2.3 billion SPAC deal - BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDJsT05mSDZVWTVnNl9UUzllYi1ueVdmdXJVRk5RQkpJZHExRHFkcFhSM2xoNkV5SE5Xbzh5RFh6REhJREFTVk51WEg3Z1JNaVBsNWM0cDQyQ3NWSFVCSzlBRG91a3hVS3BUNFVZZUtsNW1GOUE0emlOWW5pQ0ZwcTdyc2lUUlhTMmJlcmFzQ3BreTRndGo1XzdmMlFkR1NlUDRGUjBBbXYybUJ3VEk0TjR1Q24tOEl3cUtwb0htTDVmSk9hRlJlZA?oc=5",
+   "published": "2026-08-25",
+   "source": "BNN Bloomberg"
+  },
+  {
+   "title": "Ursa Major Lines Up A SPAC Merger At $1.6 Billion - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYW91ejJRUGRwY2NPbzZkbHhXcWpTRTVCU0dJSEZKeVN6UUF5NmZqaC1DTXU0eEZOQWpabWlNd1QxeksxS3U1dFBWNFlwVEpienRnZVJTal8zdGN5N3NRcTdPX0FyVlR1N0pScFlLN3dKb2hzVEloV2o0TGEzTnIxdHJn?oc=5",
+   "published": "2026-08-25",
+   "source": "Finimize"
+  },
+  {
+   "title": "Samos Energy raises $230M in oversubscribed SPAC IPO to hunt energy deals - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmh5b0gtZ3hzZXJpamZPNW14TWtVVTNuUEE2SXNNWHo0c2trQjd0bUllUWsxd2VZUWZSOEpTZjJZYkloVjRxLWhhNFpfVVlHN2lLVEJKQXlJYUpOcHFZMVNXVXBaRzNvaDAzSmphMlNzNmxIeFN4bVhqZ0R4ekRCcDZQUjJWaS0zd1BEZXBpZ2JYV0o2YXhXa2ZXbFlSRGVhV0FWQ2RQYTh0UQ?oc=5",
    "published": "2026-08-24",
-   "source": "Smartkarma"
-  },
-  {
-   "title": "Viking Acquisition Corp. II Financial Statements \u2013 BOATS:VII.U - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tUVRlZEdkQzFLTF9KRmtqVEZBX3JuMm9oVEl6OTd1M2RmRThlaEZfQzQ5TmFyY29JektKa2huakx0ZjRWb2VQNTY1SkFOUGRBaTJTRWRpYzFKTll0Q0FKZllUYWd1NFlUSjV4UVRwNndjaldKZno4?oc=5",
-   "published": "2026-08-23",
-   "source": "TradingView"
-  },
-  {
-   "title": "IPO Databook: Three Lions Acquisition (TLACU US) - Aug 2026 - Smartkarma",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEVtM1pMcVFPVjQxdnM2dFRwb2E0TnpCMDVpUzM4ZmpCZ2lFVi1qQjdkdmNSajc5NkxfR0VZZllteVlTMG5MaTBNU2FybFJOclQ4Y2RSVlBNUjBLTF95bXhJWWpsRk1MNFR1V3dVRGRqeHZkXzdyVGV1dWE4VW9BVnI3RWRZN19HQnl4TTZqSWhzQjho?oc=5",
-   "published": "2026-08-24",
-   "source": "Smartkarma"
-  },
-  {
-   "title": "OSPREY ACQUISITION CORPORATION III Financial Statements \u2013 NASDAQ:OSPR - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rU09IMXdUUElLWFQtWVp4b3JMMlRqVWlQWVFhV1RrLXZuV3hiakk4Nm9YeWUzMWFNXzBMeVJyOVRFTUZnMG01TnVaak9xWXYxQmlUbHl3SlRqNlZfX3E0Q094STFrUWl3NHVBLUEzQ0d5TnRDbzVN?oc=5",
-   "published": "2026-08-22",
-   "source": "TradingView"
+   "source": "Dealroom"
   }
  ],
  "regs": []
