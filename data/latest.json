@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T12:04:25Z",
+ "generated_at": "2026-08-25T19:18:53Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -502,10 +502,28 @@
  ],
  "media": [
   {
+   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2Y1XzlyT1lIRTJsY1lpTGRhNUtEdUNBYVJkNFdSYWZwWG9lQ1Y4b05wZVBhZHUwci1Tdl82VmpWZkZIaHZZOGpJeXAwSktyczlPNUs2SnEzN2wtMGFZNW55QnpITTlEM2lNbmlua1BuZ0RKTFNESTJ3SHRDeXlVNUdUZkNHYk12bjNYckRhMGJRcmh2azBKSFQ1WUtEcERXYUhuV1NuM2xlMVJ1aWlxenBHSmhKR1lnaWc?oc=5",
+   "published": "2026-08-25",
+   "source": "Reuters"
+  },
+  {
    "title": "Ursa Major to go public in $2.3 billion SPAC deal - SpaceNews",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQXlKQ2VQT1pBOWFxVmhXWGZNY250Y1dPYmFXbGFTMU9xVUZvVzYxVGRERXo1R0lCejM0LXc3eWFrMnRZcDcwQndfcU9BSE03VUE5SkNvLS1XX1pMbGF0NzhNM1NDckdicHc1Z1BpMmV4d1dZNU9LdHk0UQ?oc=5",
    "published": "2026-08-25",
    "source": "SpaceNews"
+  },
+  {
+   "title": "4 Firms Build Ursa Major's $2.3B SPAC Merger - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUxpZFZZWFpma0h0YnB5NmxnVUxhM2xDcVVCRGhaNmNjMm9obExGbFpnX243bEZUVXpVVXZTODhFR1lFVUpCV2dSd2tSSWVOUHFtQTVpZU1OdHMxUWVkdUl4NlV3NGhPWFRBaENVN1Z6b0YtMGdZcm9FeDFNemo0TzZna2k3YUJyODhv0gFWQVVfeXFMTVFPc3dDc1c5VXF6MUdoS1VEa0ZoaElxR0ZRcWFpcXVxNU44eVNLNlpDY1NGM08teHhiTk1wcWdaVHFNRG1WYWE4VHQxS3NYdE4zMTZBMmc?oc=5",
+   "published": "2026-08-25",
+   "source": "Law360"
+  },
+  {
+   "title": "Ursa Major to Go Public via $2.3B SPAC Deal - Tectonic Defense",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVRvTTFZZnJtU0htQlpJdHpIUm5TekVkZE95QkRhb0tmdGN2N0tNU0RJY2hyLUdJSlA4ZlFUNEJvYmh0RXNpa2E4MU1EUlVxakxEMi15d29ZT3BvakMyQmJIejRqdjFSOG5fVldNR0dZc1Z4Z1RFMTNZc3A4b2ZUTg?oc=5",
+   "published": "2026-08-25",
+   "source": "Tectonic Defense"
   },
   {
    "title": "Ursa Major strikes deal to go public via SPAC - Axios",
@@ -514,28 +532,10 @@
    "source": "Axios"
   },
   {
-   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnRkWjhaOFJIT0I1bVA0bGcxN2RRTzRhVjlnN19OSGp3X2VjbXpqNzNWYXd1eDJXbmtLZUdsMWJBT2I3M2FOb2ZaTU9MWmMyY0NpODBiQ1hGd1VEeGtFX051Rm02eUZDYTRqcHBTRWtITmcyaGVmUS1DeFl1UUFLMk9yS0ZDUk1vdTdQYVQxVHAwdy1va29ZY2JsOE56LVVNZS1qa1pTSEMtTzhpdnhRc1k2dGE2RURTczhxNzJWSVB2ck1pZHhrUGpwV2dVU1o1NlE?oc=5",
+   "title": "Ursa Major to go public in $2.3 billion SPAC deal - TCT Magazine",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFcweUdSZFN5WHV1SmJScEZZNjJBNlhsQktDSWw5NlZUcE1zNWNqT0ROYlBVdDY0ZkR1SzQ5QzdVNFBpSEZ4V1FRVC1KSkZYNWY5TWZQbi1TVU1hZEhuekdXZFI4OWxOMG1GVW1peDRzWVNPaUY5RHdadEdmZTk4cWRTZw?oc=5",
    "published": "2026-08-25",
-   "source": "TradingView"
-  },
-  {
-   "title": "Defence firm Ursa Major to go public through US$2.3 billion SPAC deal - BNN Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDJsT05mSDZVWTVnNl9UUzllYi1ueVdmdXJVRk5RQkpJZHExRHFkcFhSM2xoNkV5SE5Xbzh5RFh6REhJREFTVk51WEg3Z1JNaVBsNWM0cDQyQ3NWSFVCSzlBRG91a3hVS3BUNFVZZUtsNW1GOUE0emlOWW5pQ0ZwcTdyc2lUUlhTMmJlcmFzQ3BreTRndGo1XzdmMlFkR1NlUDRGUjBBbXYybUJ3VEk0TjR1Q24tOEl3cUtwb0htTDVmSk9hRlJlZA?oc=5",
-   "published": "2026-08-25",
-   "source": "BNN Bloomberg"
-  },
-  {
-   "title": "Ursa Major Lines Up A SPAC Merger At $1.6 Billion - Finimize",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYW91ejJRUGRwY2NPbzZkbHhXcWpTRTVCU0dJSEZKeVN6UUF5NmZqaC1DTXU0eEZOQWpabWlNd1QxeksxS3U1dFBWNFlwVEpienRnZVJTal8zdGN5N3NRcTdPX0FyVlR1N0pScFlLN3dKb2hzVEloV2o0TGEzTnIxdHJn?oc=5",
-   "published": "2026-08-25",
-   "source": "Finimize"
-  },
-  {
-   "title": "Samos Energy raises $230M in oversubscribed SPAC IPO to hunt energy deals - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmh5b0gtZ3hzZXJpamZPNW14TWtVVTNuUEE2SXNNWHo0c2trQjd0bUllUWsxd2VZUWZSOEpTZjJZYkloVjRxLWhhNFpfVVlHN2lLVEJKQXlJYUpOcHFZMVNXVXBaRzNvaDAzSmphMlNzNmxIeFN4bVhqZ0R4ekRCcDZQUjJWaS0zd1BEZXBpZ2JYV0o2YXhXa2ZXbFlSRGVhV0FWQ2RQYTh0UQ?oc=5",
-   "published": "2026-08-24",
-   "source": "Dealroom"
+   "source": "TCT Magazine"
   }
  ],
  "regs": []
