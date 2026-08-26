@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-08-25T19:18:53Z",
+ "generated_at": "2026-08-26T12:04:51Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1",
+   "cik": "2111838",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2111838/0001193125-26-363922.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Essential Minerals Acquisition Corp",
    "form": "S-1",
@@ -112,6 +120,54 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093231.txt",
+   "blurb": "business combination with Air Water Ventures Holdings Limited on August 25 (auto-extracted)"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2051985/0001213900-26-093252.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2023676/0001213900-26-093511.txt",
+   "blurb": "business combination with Launch Two Acquisition Corp. (auto-extracted)"
+  },
+  {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "425",
+   "cik": "2030663",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2030663/0001213900-26-093154.txt",
+   "blurb": "business combination with Sizzle Acquisition Corp. II Lugano (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093229.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "DEFM14A",
+   "cik": "1853047",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1853047/0001096906-26-001289.txt",
+   "blurb": "meeting September 14, 2026; business-combination vote (auto-extracted)"
+  },
   {
    "company": "Constellation Acquisition Corp I",
    "form": "425",
@@ -348,6 +404,30 @@
  ],
  "votes": [
   {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2010653/0001829126-26-009303.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "WinVest Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1854463",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1854463/0001493152-26-040081.txt",
+   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "IB Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1998781",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1998781/0001493152-26-039924.txt",
+   "blurb": "meeting September 24, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Integrated Wellness Acquisition Corp",
    "form": "DEF 14A",
    "cik": "1877557",
@@ -412,8 +492,25 @@
    "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
- "pipes": [],
+ "pipes": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093229.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  }
+ ],
  "sponsors": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093229.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Integrated Wellness Acquisition Corp",
    "form": "8-K",
@@ -432,6 +529,36 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2145659",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2145659/0001213900-26-093319.txt"
+  },
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2147219",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2147219/0001104659-26-100788.txt"
+  },
+  {
+   "company": "BEST SPAC I Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2051587",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2051587/0001213900-26-093238.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
+  {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2047455/0001829126-26-009312.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "PANTAGES CAPITAL ACQUISITION Corp",
    "form": "8-K",
@@ -508,34 +635,34 @@
    "source": "Reuters"
   },
   {
-   "title": "Ursa Major to go public in $2.3 billion SPAC deal - SpaceNews",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQXlKQ2VQT1pBOWFxVmhXWGZNY250Y1dPYmFXbGFTMU9xVUZvVzYxVGRERXo1R0lCejM0LXc3eWFrMnRZcDcwQndfcU9BSE03VUE5SkNvLS1XX1pMbGF0NzhNM1NDckdicHc1Z1BpMmV4d1dZNU9LdHk0UQ?oc=5",
+   "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal - BizWest",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXRGRG01YlNDSjVmX3A1Z0xlLXVLcFpKTFdwWkk2bm40dmtieVNWX1UzdFp2RXB1OGJvMDI0T3FiTXNkNXJfb3RmNGo2clVuY01oT3JfdDVfX2w4ZkJLaF8xTGNmM2hVNzk4OVEzZHpVNWZMMko3cGQzbTJWcGpuMUEwTW1IdXA3ZTQ0?oc=5",
    "published": "2026-08-25",
-   "source": "SpaceNews"
+   "source": "BizWest"
+  },
+  {
+   "title": "Ursa Major to go public through $2.3 billion SPAC deal with Inflection Point - VoxelMatters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLU11dFNKX291VjhxVHkxa1dud3lfWE1CWmw0VEtOLUxibDhNc0Y2eUdhN2ViTl9LMWxxR3VKMTRMSHJZUWZsQklCWHBQS18wdTROd0c1MXNCemE5dEJSdW56VXhTT2ZuRkdHUEhxekJiV3VFVFdfZGNMcFIzMUU3UnN6X0xJNklINVMwUlpqRldhbHNubUlYMXVSWnU0cWdydjk1czYzVTLSAa4BQVVfeXFMT1h2OE45aG8zSTZjTWxQcUt2ZzI4MzRPZXlRTmxPTXFWOXBWUTU5MEgycFJJNDgxM1ZTMmE2bTl6amZfWklwalduMmdfUzdjUEQyYm5fblhqdl9WRUZGbWdmWFFaaklkUGt0VHphTWVYT2ZZZnBtNTJULUZRWnZNSzNjOWNDM3hSMVh5c1luUnZ0WmdYVkd6cDJKMHpjUjdrR3BkQkNWNHZYX1ZsbDRn?oc=5",
+   "published": "2026-08-26",
+   "source": "VoxelMatters"
   },
   {
    "title": "4 Firms Build Ursa Major's $2.3B SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUxpZFZZWFpma0h0YnB5NmxnVUxhM2xDcVVCRGhaNmNjMm9obExGbFpnX243bEZUVXpVVXZTODhFR1lFVUpCV2dSd2tSSWVOUHFtQTVpZU1OdHMxUWVkdUl4NlV3NGhPWFRBaENVN1Z6b0YtMGdZcm9FeDFNemo0TzZna2k3YUJyODhv0gFWQVVfeXFMTVFPc3dDc1c5VXF6MUdoS1VEa0ZoaElxR0ZRcWFpcXVxNU44eVNLNlpDY1NGM08teHhiTk1wcWdaVHFNRG1WYWE4VHQxS3NYdE4zMTZBMmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RT3N3Q3NXOVVxejFHaEtVRGtGaGhJcUdGUXFhaXF1cTVOOHlTSzZaQ2NTRjNPLXh4Yk5NcHFnWlRxTURtVmFhOFR0MUtzWHROMzE2QTJn0gFWQVVfeXFMTVFPc3dDc1c5VXF6MUdoS1VEa0ZoaElxR0ZRcWFpcXVxNU44eVNLNlpDY1NGM08teHhiTk1wcWdaVHFNRG1WYWE4VHQxS3NYdE4zMTZBMmc?oc=5",
    "published": "2026-08-25",
    "source": "Law360"
   },
   {
-   "title": "Ursa Major to Go Public via $2.3B SPAC Deal - Tectonic Defense",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVRvTTFZZnJtU0htQlpJdHpIUm5TekVkZE95QkRhb0tmdGN2N0tNU0RJY2hyLUdJSlA4ZlFUNEJvYmh0RXNpa2E4MU1EUlVxakxEMi15d29ZT3BvakMyQmJIejRqdjFSOG5fVldNR0dZc1Z4Z1RFMTNZc3A4b2ZUTg?oc=5",
+   "title": "Aerospace company valued at $2.3B after agreeing to SPAC acquisition - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXJjQ0xwVzFMVmNndC1DdU4tQnZXWm5Xa3ZiMVNfbW9rdXdJbmw0X3V5QVBKMEptaTVLa3B5WFVYZUJGRno1b2hDM2lrX0RRa2VGYzFWY0g3eDJEMlh6WTZ0a202NnNTLTBFQlZxaEZSS0lVbklaMl9DLVRUVXdjc0dLc3k1VlRITUFaMTBFYzgybDJEclVPNVVrUldYcy03RmF4X0lCUQ?oc=5",
    "published": "2026-08-25",
-   "source": "Tectonic Defense"
+   "source": "The Business Journals"
   },
   {
-   "title": "Ursa Major strikes deal to go public via SPAC - Axios",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTC1zZ1d3REZWQnNYcDhHTjREdnhBT0trU2E4YkdNNEx1SWdIQXlnZVltNlpOUXNTS1ZEVDJYY015ckpuMHVUQmVsejA2RmpHOER6RTdrZmxva3F2cDJ0R1lMMVRDTWtEc29xT21BLW9ZZXc?oc=5",
+   "title": "SuperiorMed To Go Public Through Starry Sea SPAC Merger As Dubai Platform Targets Longevity And Health Tourism - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzVzQkV6ZGJjaFBnMkhzNkd1TjdtaEFfS1J4V0szODZIU0h3WXVyZGY0YjZTMmljeDN3WG5TSU9sTzBXRjBTY1M2dmNka2liNWNfQk1PM0tDaFN2TERaNkRud2p5a3pLakYtVnhzTURTaGdfNFB5cHFjejdmcW5ZWWRwMWo5SWZjSk5UbXVpbk5iOXFhSnBQQXFXbmdCeU5IRDBfUnJITWdiZjM4Vms3MTVtaFdUczRtLVprdjRZWTRlWkdvSjdTb2x30gHPAUFVX3lxTE15NFVYa29CS3kwTlVEM0g3NTdxc3gtb3V4TXphOU5NdVJ6SmNuQ2VHVTZCcmxhU0NUc3FRaFpCYlY2THY4OFFObXBFRXVtRzdkOXE0VUt3czZuTFpwbHQ0MUM5Z3F6dTNndVlSYTVWaEt3dWhnckR1enp5dEk5VGtjcXZYd25IQUxmbEEzb2RsXzhhY2h6c2ZQSXUxWEVVLXp6QnRVblBkTXVfaDNqSDN2cm9LUktmcldPQWhpdjdlZkNiRV9LQkVJNWZoZkR4QQ?oc=5",
    "published": "2026-08-25",
-   "source": "Axios"
-  },
-  {
-   "title": "Ursa Major to go public in $2.3 billion SPAC deal - TCT Magazine",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFcweUdSZFN5WHV1SmJScEZZNjJBNlhsQktDSWw5NlZUcE1zNWNqT0ROYlBVdDY0ZkR1SzQ5QzdVNFBpSEZ4V1FRVC1KSkZYNWY5TWZQbi1TVU1hZEhuekdXZFI4OWxOMG1GVW1peDRzWVNPaUY5RHdadEdmZTk4cWRTZw?oc=5",
-   "published": "2026-08-25",
-   "source": "TCT Magazine"
+   "source": "Pulse 2.0"
   }
  ],
  "regs": []

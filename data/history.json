@@ -864,6 +864,184 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2147219/0001104659-26-099825.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-093231.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093231.txt",
+   "blurb": "business combination with Air Water Ventures Holdings Limited on August 25 (auto-extracted)"
+  },
+  "edgar/data/2051985/0001213900-26-093252.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2051985/0001213900-26-093252.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-093511.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2023676/0001213900-26-093511.txt",
+   "blurb": "business combination with Launch Two Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2030663/0001213900-26-093154.txt": {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "425",
+   "cik": "2030663",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2030663/0001213900-26-093154.txt",
+   "blurb": "business combination with Sizzle Acquisition Corp. II Lugano (auto-extracted)"
+  },
+  "edgar/data/2145659/0001213900-26-093319.txt": {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2145659",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2145659/0001213900-26-093319.txt"
+  },
+  "edgar/data/2147219/0001104659-26-100788.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-A12B",
+   "cik": "2147219",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2147219/0001104659-26-100788.txt"
+  },
+  "edgar/data/2051587/0001213900-26-093238.txt": {
+   "company": "BEST SPAC I Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2051587",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2051587/0001213900-26-093238.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2000775/0001829126-26-009270.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2000775/0001829126-26-009270.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2128045/0001213900-26-093229.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "8-K",
+   "cik": "2128045",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2128045/0001213900-26-093229.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Regulation FD Disclosure",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2017950/0001493152-26-040073.txt": {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "8-K",
+   "cik": "2017950",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2017950/0001493152-26-040073.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2010653/0001829126-26-009303.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2010653/0001829126-26-009303.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2051985/0001213900-26-093249.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2051985",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2051985/0001213900-26-093249.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2134856/0001829126-26-009310.txt": {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2134856",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2134856/0001829126-26-009310.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-009312.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2047455/0001829126-26-009312.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2035644/0001193125-26-365208.txt": {
+   "company": "Range Capital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035644",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2035644/0001193125-26-365208.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1854463/0001493152-26-040081.txt": {
+   "company": "WinVest Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1854463",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1854463/0001493152-26-040081.txt",
+   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1853047/0001096906-26-001289.txt": {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "DEFM14A",
+   "cik": "1853047",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1853047/0001096906-26-001289.txt",
+   "blurb": "meeting September 14, 2026; business-combination vote (auto-extracted)"
+  },
+  "edgar/data/1998781/0001493152-26-039924.txt": {
+   "company": "IB Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1998781",
+   "filed": "2026-08-25",
+   "path": "edgar/data/1998781/0001493152-26-039924.txt",
+   "blurb": "meeting September 24, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2111838/0001193125-26-363922.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1",
+   "cik": "2111838",
+   "filed": "2026-08-25",
+   "path": "edgar/data/2111838/0001193125-26-363922.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
   }
  }
 }
