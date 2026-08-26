@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T12:04:51Z",
+ "generated_at": "2026-08-26T21:15:39Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -629,16 +629,22 @@
  ],
  "media": [
   {
-   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2Y1XzlyT1lIRTJsY1lpTGRhNUtEdUNBYVJkNFdSYWZwWG9lQ1Y4b05wZVBhZHUwci1Tdl82VmpWZkZIaHZZOGpJeXAwSktyczlPNUs2SnEzN2wtMGFZNW55QnpITTlEM2lNbmlua1BuZ0RKTFNESTJ3SHRDeXlVNUdUZkNHYk12bjNYckRhMGJRcmh2azBKSFQ1WUtEcERXYUhuV1NuM2xlMVJ1aWlxenBHSmhKR1lnaWc?oc=5",
-   "published": "2026-08-25",
-   "source": "Reuters"
+   "title": "Viking's $230M SPAC IPO lists on NYSE with Harneys as Cayman counsel - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQzdTYjFjdlRoSzJYZ3V5V2JNSlFxSTMycXdORUVXbHh6c1RrR0Jqc05DUXNWaHMxMjZQZ2o0QWZQdGRTXzRIUHZaNkhqQ280YlZqUVp4Z3Y3cUpKNUQ4ZnlSMG02bDRGN21jVlg1T3lxOHp0NEtNN1J2Wm5tOHA2LURfbUkzbENzY1k3VHZOZURGdlZKWW1wTmJlT01qMnQ4R1Rz?oc=5",
+   "published": "2026-08-26",
+   "source": "Dealroom"
   },
   {
-   "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal - BizWest",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXRGRG01YlNDSjVmX3A1Z0xlLXVLcFpKTFdwWkk2bm40dmtieVNWX1UzdFp2RXB1OGJvMDI0T3FiTXNkNXJfb3RmNGo2clVuY01oT3JfdDVfX2w4ZkJLaF8xTGNmM2hVNzk4OVEzZHpVNWZMMko3cGQzbTJWcGpuMUEwTW1IdXA3ZTQ0?oc=5",
+   "title": "Ursa Major targets public listing through $2.3bn SPAC deal - Army Technology",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiSFdZMXZXdnltOGprZkRQRWRhODdibThhREczMWl2dHlyVUJKVzR0S1k3SEozcklmdGVWbE16UXVwMWlMQVRXdWwzY292WW9vc2JYM1ZLOU1HVUdUcnpybDZBU21xSU5DUWNn?oc=5",
+   "published": "2026-08-26",
+   "source": "Army Technology"
+  },
+  {
+   "title": "Ursa Major to go public in $2.3 billion SPAC deal - SpaceNews",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQXlKQ2VQT1pBOWFxVmhXWGZNY250Y1dPYmFXbGFTMU9xVUZvVzYxVGRERXo1R0lCejM0LXc3eWFrMnRZcDcwQndfcU9BSE03VUE5SkNvLS1XX1pMbGF0NzhNM1NDckdicHc1Z1BpMmV4d1dZNU9LdHk0UQ?oc=5",
    "published": "2026-08-25",
-   "source": "BizWest"
+   "source": "SpaceNews"
   },
   {
    "title": "Ursa Major to go public through $2.3 billion SPAC deal with Inflection Point - VoxelMatters",
@@ -647,22 +653,16 @@
    "source": "VoxelMatters"
   },
   {
-   "title": "4 Firms Build Ursa Major's $2.3B SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RT3N3Q3NXOVVxejFHaEtVRGtGaGhJcUdGUXFhaXF1cTVOOHlTSzZaQ2NTRjNPLXh4Yk5NcHFnWlRxTURtVmFhOFR0MUtzWHROMzE2QTJn0gFWQVVfeXFMTVFPc3dDc1c5VXF6MUdoS1VEa0ZoaElxR0ZRcWFpcXVxNU44eVNLNlpDY1NGM08teHhiTk1wcWdaVHFNRG1WYWE4VHQxS3NYdE4zMTZBMmc?oc=5",
+   "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal - BizWest",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXRGRG01YlNDSjVmX3A1Z0xlLXVLcFpKTFdwWkk2bm40dmtieVNWX1UzdFp2RXB1OGJvMDI0T3FiTXNkNXJfb3RmNGo2clVuY01oT3JfdDVfX2w4ZkJLaF8xTGNmM2hVNzk4OVEzZHpVNWZMMko3cGQzbTJWcGpuMUEwTW1IdXA3ZTQ0?oc=5",
    "published": "2026-08-25",
-   "source": "Law360"
+   "source": "BizWest"
   },
   {
-   "title": "Aerospace company valued at $2.3B after agreeing to SPAC acquisition - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXJjQ0xwVzFMVmNndC1DdU4tQnZXWm5Xa3ZiMVNfbW9rdXdJbmw0X3V5QVBKMEptaTVLa3B5WFVYZUJGRno1b2hDM2lrX0RRa2VGYzFWY0g3eDJEMlh6WTZ0a202NnNTLTBFQlZxaEZSS0lVbklaMl9DLVRUVXdjc0dLc3k1VlRITUFaMTBFYzgybDJEclVPNVVrUldYcy03RmF4X0lCUQ?oc=5",
+   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2Y1XzlyT1lIRTJsY1lpTGRhNUtEdUNBYVJkNFdSYWZwWG9lQ1Y4b05wZVBhZHUwci1Tdl82VmpWZkZIaHZZOGpJeXAwSktyczlPNUs2SnEzN2wtMGFZNW55QnpITTlEM2lNbmlua1BuZ0RKTFNESTJ3SHRDeXlVNUdUZkNHYk12bjNYckRhMGJRcmh2azBKSFQ1WUtEcERXYUhuV1NuM2xlMVJ1aWlxenBHSmhKR1lnaWc?oc=5",
    "published": "2026-08-25",
-   "source": "The Business Journals"
-  },
-  {
-   "title": "SuperiorMed To Go Public Through Starry Sea SPAC Merger As Dubai Platform Targets Longevity And Health Tourism - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzVzQkV6ZGJjaFBnMkhzNkd1TjdtaEFfS1J4V0szODZIU0h3WXVyZGY0YjZTMmljeDN3WG5TSU9sTzBXRjBTY1M2dmNka2liNWNfQk1PM0tDaFN2TERaNkRud2p5a3pLakYtVnhzTURTaGdfNFB5cHFjejdmcW5ZWWRwMWo5SWZjSk5UbXVpbk5iOXFhSnBQQXFXbmdCeU5IRDBfUnJITWdiZjM4Vms3MTVtaFdUczRtLVprdjRZWTRlWkdvSjdTb2x30gHPAUFVX3lxTE15NFVYa29CS3kwTlVEM0g3NTdxc3gtb3V4TXphOU5NdVJ6SmNuQ2VHVTZCcmxhU0NUc3FRaFpCYlY2THY4OFFObXBFRXVtRzdkOXE0VUt3czZuTFpwbHQ0MUM5Z3F6dTNndVlSYTVWaEt3dWhnckR1enp5dEk5VGtjcXZYd25IQUxmbEEzb2RsXzhhY2h6c2ZQSXUxWEVVLXp6QnRVblBkTXVfaDNqSDN2cm9LUktmcldPQWhpdjdlZkNiRV9LQkVJNWZoZkR4QQ?oc=5",
-   "published": "2026-08-25",
-   "source": "Pulse 2.0"
+   "source": "Reuters"
   }
  ],
  "regs": []
