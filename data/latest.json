@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-08-26T21:15:39Z",
+ "generated_at": "2026-08-27T21:19:26Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Velos Acquisition I Corp.",
+   "form": "S-1",
+   "cik": "2016072",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2016072/0001213900-26-094011.txt"
+  },
   {
    "company": "Haymaker Acquisition Corp V",
    "form": "S-1",
@@ -37,6 +44,22 @@
   }
  ],
  "pricings": [
+  {
+   "company": "JATT III Acquisition Corp",
+   "form": "424B4",
+   "cik": "2145659",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2145659/0001213900-26-093949.txt",
+   "blurb": "offering $60,000,000; $10.00./unit; focus: investing in us and directly or indirectly providing office space and administrative services to members of our management team (auto-extracted)"
+  },
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "424B4",
+   "cik": "2133239",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2133239/0001929980-26-000507.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "NorthStrive Acquisition Corp I.",
    "form": "424B4",
@@ -120,6 +143,108 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2088295/0001213900-26-094048.txt",
+   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093690.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093691.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093692.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093693.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "425",
+   "cik": "2070887",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2070887/0001213900-26-094005.txt"
+  },
+  {
+   "company": "McKinley Acquisition Corp",
+   "form": "425",
+   "cik": "2067592",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2067592/0001213900-26-093749.txt",
+   "blurb": "business combination with McKinley Acquisition Corporation (auto-extracted)"
+  },
+  {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "425",
+   "cik": "2059165",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2059165/0001829126-26-009352.txt"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-08-26",
+   "path": "edgar/data/1884046/0001104659-26-101062.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
+  },
+  {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2000775/0001829126-26-009347.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2070887",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2070887/0001213900-26-094001.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "8-K",
+   "cik": "2059165",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2059165/0001829126-26-009351.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Technology & Telecommunication Acquisition Corp",
+   "form": "8-K",
+   "cik": "1900679",
+   "filed": "2026-08-26",
+   "path": "edgar/data/1900679/0001493152-26-040261.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "425",
@@ -404,6 +529,22 @@
  ],
  "votes": [
   {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2088295/0001213900-26-094046.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Technology & Telecommunication Acquisition Corp",
+   "form": "8-K",
+   "cik": "1900679",
+   "filed": "2026-08-26",
+   "path": "edgar/data/1900679/0001493152-26-040261.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
    "company": "Future Vision II Acquisition Corp.",
    "form": "8-K",
    "cik": "2010653",
@@ -494,6 +635,14 @@
  ],
  "pipes": [
   {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2000775/0001829126-26-009347.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-K",
    "cik": "2128045",
@@ -503,6 +652,22 @@
   }
  ],
  "sponsors": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2088295/0001213900-26-094046.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "New America Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2074878",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2074878/0001493152-26-040253.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "8-K",
@@ -629,40 +794,40 @@
  ],
  "media": [
   {
-   "title": "Viking's $230M SPAC IPO lists on NYSE with Harneys as Cayman counsel - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQzdTYjFjdlRoSzJYZ3V5V2JNSlFxSTMycXdORUVXbHh6c1RrR0Jqc05DUXNWaHMxMjZQZ2o0QWZQdGRTXzRIUHZaNkhqQ280YlZqUVp4Z3Y3cUpKNUQ4ZnlSMG02bDRGN21jVlg1T3lxOHp0NEtNN1J2Wm5tOHA2LURfbUkzbENzY1k3VHZOZURGdlZKWW1wTmJlT01qMnQ4R1Rz?oc=5",
-   "published": "2026-08-26",
-   "source": "Dealroom"
+   "title": "Astrum Space Strikes SPAC Deal for D2D Service at $1B Valuation - Via Satellite",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3VHBOSnhnelFhb0J4ejJVLTBUbkZMNlV6U3BCemlSRm14Z1hPNm9fMGc0TmRsQ19keEhsMW9ZV1BmV2FQa25sLUhHZDBLR3hjOXhmYlo4aGNkRTVmdVNzeTNySEw0Y0ZDZThBSUpEQkZhaXF6bHEzN1lyeEpiak9TVkd2d0VFNzZIRXRzejk1SXhfRVg5U2xRWUdlbVZwUlB5UGpCT2w2X19DQTVyZDdxTQ?oc=5",
+   "published": "2026-08-27",
+   "source": "Via Satellite"
+  },
+  {
+   "title": "Satellite Comms Biz To Go Public Via $1B SPAC Merger - Law360",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGQxZkdRNTBLT3hZUGZEaTFCc2pKVy1hWFRQRU1OdXA2NzJueTlsVF9fajJlUFVmWTAzYkVPZXlGY1RkemNyeEJzY3pwTWxpVFZSRVlTQmozVWVsaUNVdEQ2cUpLMHh3M1pJR0ZPZ2VMYUtzU1pYcndpNFZ4RjZpY1Jfc2VYazVRMTYxc2xRcnFfSzhUTWfSAVZBVV95cUxPRFhWRWoxMjF5VjNpTTU3VXh6bXJab0pjYVV6d3VDRkhDbzNsOER0bkh4U1hCaUxOUG9laE9Ndzcyb1RMNWM3OHdJMjhSQ2hERFBDUTROQQ?oc=5",
+   "published": "2026-08-27",
+   "source": "Law360"
+  },
+  {
+   "title": "Astrum Space to Go Public in $1 Billion Black Spade SPAC Deal - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemd1aW94YkJoeWhwbmw1ZGZoX3ZGY3N6YTRrcFhPUmlDRGJoTWpoaTJCdS0xckYtR2gtUWlFVzl4bXM4aExEY0t5NldsVXdpakFHcmk3OVRiOWUxRHVYd1BaRnRjMVNWdGs0cXhCVFRnczVEMnl6YVVLY1JXXzl5eHY5clNrY2NTYVV2X29SSzhIYnBsTXQ2c19fOUVCOW9h?oc=5",
+   "published": "2026-08-27",
+   "source": "citybiz"
+  },
+  {
+   "title": "Satellite firm Astrum Space to go public in US$1 billion SPAC deal - BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzVxZGxNZzA1UFhwNXFUMXFyUXR3a1pUeXZoeW1JcVFWYmtwMGpjOHY5bVk4N1JKbFlreTJaUXNsT2FkdWx5ZDV3d3B6ckZTSG03MEVRQlpYWDlsQzhCSGJ6b2pOU3Q2OXAxdG8wbUFfaHdkNEc3b25JQWw5MnJaVi1oY0JrX3NMdVpYcWxjUTBrS2Fzd0hqRG5xVVczVlYxZGdfdWQtZjRaYm1IR19rSG5RNEVLMndYcm5kd3A2Y1lYUWVkU2c?oc=5",
+   "published": "2026-08-27",
+   "source": "BNN Bloomberg"
+  },
+  {
+   "title": "Satellite firm Astrum Space to go public in $1 billion SPAC deal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3dxUEpvQzBwQVNWLV9xb1N0b044aUtGeVpWcl9kODdmd0dMOVZHZmdHQlBzRVk1SDhvTHZVWWNMNjlpcVlvRkNWRko5ZWI4bVRsY29veGdqekVNMEVYNk5KVGxzb19uNmNNU0hDSnhjNmJSU044S200d2lKY3BaeGtFelNnUG5XYWhCN1VzLVQtVmtRaHJlY3I5cWVqNXJTMWVQWEpZRl9wMDNnX2hBS0tNV18yYXlHcE5wbDlPY2xQV0ZORXp1Wm13enZnQQ?oc=5",
+   "published": "2026-08-27",
+   "source": "TradingView"
   },
   {
    "title": "Ursa Major targets public listing through $2.3bn SPAC deal - Army Technology",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiSFdZMXZXdnltOGprZkRQRWRhODdibThhREczMWl2dHlyVUJKVzR0S1k3SEozcklmdGVWbE16UXVwMWlMQVRXdWwzY292WW9vc2JYM1ZLOU1HVUdUcnpybDZBU21xSU5DUWNn?oc=5",
-   "published": "2026-08-26",
+   "published": "2026-08-27",
    "source": "Army Technology"
-  },
-  {
-   "title": "Ursa Major to go public in $2.3 billion SPAC deal - SpaceNews",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQXlKQ2VQT1pBOWFxVmhXWGZNY250Y1dPYmFXbGFTMU9xVUZvVzYxVGRERXo1R0lCejM0LXc3eWFrMnRZcDcwQndfcU9BSE03VUE5SkNvLS1XX1pMbGF0NzhNM1NDckdicHc1Z1BpMmV4d1dZNU9LdHk0UQ?oc=5",
-   "published": "2026-08-25",
-   "source": "SpaceNews"
-  },
-  {
-   "title": "Ursa Major to go public through $2.3 billion SPAC deal with Inflection Point - VoxelMatters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLU11dFNKX291VjhxVHkxa1dud3lfWE1CWmw0VEtOLUxibDhNc0Y2eUdhN2ViTl9LMWxxR3VKMTRMSHJZUWZsQklCWHBQS18wdTROd0c1MXNCemE5dEJSdW56VXhTT2ZuRkdHUEhxekJiV3VFVFdfZGNMcFIzMUU3UnN6X0xJNklINVMwUlpqRldhbHNubUlYMXVSWnU0cWdydjk1czYzVTLSAa4BQVVfeXFMT1h2OE45aG8zSTZjTWxQcUt2ZzI4MzRPZXlRTmxPTXFWOXBWUTU5MEgycFJJNDgxM1ZTMmE2bTl6amZfWklwalduMmdfUzdjUEQyYm5fblhqdl9WRUZGbWdmWFFaaklkUGt0VHphTWVYT2ZZZnBtNTJULUZRWnZNSzNjOWNDM3hSMVh5c1luUnZ0WmdYVkd6cDJKMHpjUjdrR3BkQkNWNHZYX1ZsbDRn?oc=5",
-   "published": "2026-08-26",
-   "source": "VoxelMatters"
-  },
-  {
-   "title": "Berthoud\u2019s Ursa Major going public in $1.6B SPAC deal - BizWest",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXRGRG01YlNDSjVmX3A1Z0xlLXVLcFpKTFdwWkk2bm40dmtieVNWX1UzdFp2RXB1OGJvMDI0T3FiTXNkNXJfb3RmNGo2clVuY01oT3JfdDVfX2w4ZkJLaF8xTGNmM2hVNzk4OVEzZHpVNWZMMko3cGQzbTJWcGpuMUEwTW1IdXA3ZTQ0?oc=5",
-   "published": "2026-08-25",
-   "source": "BizWest"
-  },
-  {
-   "title": "Defense firm Ursa Major to go public through $2.3 billion SPAC deal - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2Y1XzlyT1lIRTJsY1lpTGRhNUtEdUNBYVJkNFdSYWZwWG9lQ1Y4b05wZVBhZHUwci1Tdl82VmpWZkZIaHZZOGpJeXAwSktyczlPNUs2SnEzN2wtMGFZNW55QnpITTlEM2lNbmlua1BuZ0RKTFNESTJ3SHRDeXlVNUdUZkNHYk12bjNYckRhMGJRcmh2azBKSFQ1WUtEcERXYUhuV1NuM2xlMVJ1aWlxenBHSmhKR1lnaWc?oc=5",
-   "published": "2026-08-25",
-   "source": "Reuters"
   }
  ],
  "regs": []

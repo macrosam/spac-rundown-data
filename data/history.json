@@ -1042,6 +1042,206 @@
    "filed": "2026-08-25",
    "path": "edgar/data/2111838/0001193125-26-363922.txt",
    "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2145659/0001213900-26-093949.txt": {
+   "company": "JATT III Acquisition Corp",
+   "form": "424B4",
+   "cik": "2145659",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2145659/0001213900-26-093949.txt",
+   "blurb": "offering $60,000,000; $10.00./unit; focus: investing in us and directly or indirectly providing office space and administrative services to members of our management team (auto-extracted)"
+  },
+  "edgar/data/2133239/0001929980-26-000507.txt": {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "424B4",
+   "cik": "2133239",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2133239/0001929980-26-000507.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2088295/0001213900-26-094048.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "425",
+   "cik": "2088295",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2088295/0001213900-26-094048.txt",
+   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-093690.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093690.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-093691.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093691.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-093692.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093692.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-093693.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2128045/0001213900-26-093693.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2070887/0001213900-26-094005.txt": {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "425",
+   "cik": "2070887",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2070887/0001213900-26-094005.txt",
+   "blurb": ""
+  },
+  "edgar/data/2067592/0001213900-26-093749.txt": {
+   "company": "McKinley Acquisition Corp",
+   "form": "425",
+   "cik": "2067592",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2067592/0001213900-26-093749.txt",
+   "blurb": "business combination with McKinley Acquisition Corporation (auto-extracted)"
+  },
+  "edgar/data/2059165/0001829126-26-009352.txt": {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "425",
+   "cik": "2059165",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2059165/0001829126-26-009352.txt",
+   "blurb": ""
+  },
+  "edgar/data/1884046/0001104659-26-101062.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-08-26",
+   "path": "edgar/data/1884046/0001104659-26-101062.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
+  },
+  "edgar/data/2000775/0001829126-26-009347.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2000775/0001829126-26-009347.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2088295/0001213900-26-094046.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2088295/0001213900-26-094046.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2024203/0001493152-26-040242.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024203",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2024203/0001493152-26-040242.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2070887/0001213900-26-094001.txt": {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2070887",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2070887/0001213900-26-094001.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028355/0001213900-26-093995.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2028355/0001213900-26-093995.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2134856/0001829126-26-009338.txt": {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2134856",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2134856/0001829126-26-009338.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2074878/0001493152-26-040253.txt": {
+   "company": "New America Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2074878",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2074878/0001493152-26-040253.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2059165/0001829126-26-009351.txt": {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "8-K",
+   "cik": "2059165",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2059165/0001829126-26-009351.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1900679/0001493152-26-040261.txt": {
+   "company": "Technology & Telecommunication Acquisition Corp",
+   "form": "8-K",
+   "cik": "1900679",
+   "filed": "2026-08-26",
+   "path": "edgar/data/1900679/0001493152-26-040261.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016072/0001213900-26-094011.txt": {
+   "company": "Velos Acquisition I Corp.",
+   "form": "S-1",
+   "cik": "2016072",
+   "filed": "2026-08-26",
+   "path": "edgar/data/2016072/0001213900-26-094011.txt",
+   "blurb": ""
   }
  }
 }
