@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T21:19:26Z",
+ "generated_at": "2026-08-28T02:21:27Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -44,6 +44,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "424B4",
+   "cik": "2147219",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2147219/0001104659-26-102498.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "JATT III Acquisition Corp",
    "form": "424B4",
@@ -143,6 +151,91 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Black Spade Acquisition III Co",
+   "form": "425",
+   "cik": "2087087",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2087087/0001104659-26-102032.txt"
+  },
+  {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2009183/0001829126-26-009425.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2009183/0001829126-26-009429.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2080023/0001213900-26-094382.txt"
+  },
+  {
+   "company": "Black Spade Acquisition III Co",
+   "form": "8-K",
+   "cik": "2087087",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2087087/0001104659-26-102023.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001213900-26-094397.txt",
+   "note": "8-K: termination of material agreement"
+  },
+  {
+   "company": "Charlton Aria Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024459",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2024459/0001213900-26-094383.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "K2 Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "2086524",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2086524/0001213900-26-094428.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2133239/0001929980-26-000510.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Armada Acquisition Corp. II",
+   "form": "DEFM14A",
+   "cik": "2044009",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2044009/0001193125-26-371516.txt",
+   "blurb": "meeting September 30, 2026; business-combination vote (auto-extracted)"
+  },
+  {
+   "company": "Miluna Acquisition Corp",
+   "form": "S-4",
+   "cik": "2077033",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2077033/0001493152-26-040431.txt"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -529,6 +622,14 @@
  ],
  "votes": [
   {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2133239/0001929980-26-000510.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "8-K",
    "cik": "2088295",
@@ -635,6 +736,22 @@
  ],
  "pipes": [
   {
+   "company": "Charlton Aria Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024459",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2024459/0001213900-26-094383.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2133239/0001929980-26-000510.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Black Hawk Acquisition Corp",
    "form": "8-K",
    "cik": "2000775",
@@ -652,6 +769,22 @@
   }
  ],
  "sponsors": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001213900-26-094397.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2133239/0001929980-26-000510.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "8-K",
@@ -694,6 +827,35 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "25-NSE",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001354457-26-000828.txt"
+  },
+  {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "25-NSE",
+   "cik": "2065779",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2065779/0001354457-26-000829.txt"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-A12B",
+   "cik": "2146310",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2146310/0001213900-26-094281.txt"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001213900-26-094397.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "JATT III Acquisition Corp",
    "form": "8-A12B",
@@ -801,9 +963,15 @@
   },
   {
    "title": "Satellite Comms Biz To Go Public Via $1B SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGQxZkdRNTBLT3hZUGZEaTFCc2pKVy1hWFRQRU1OdXA2NzJueTlsVF9fajJlUFVmWTAzYkVPZXlGY1RkemNyeEJzY3pwTWxpVFZSRVlTQmozVWVsaUNVdEQ2cUpLMHh3M1pJR0ZPZ2VMYUtzU1pYcndpNFZ4RjZpY1Jfc2VYazVRMTYxc2xRcnFfSzhUTWfSAVZBVV95cUxPRFhWRWoxMjF5VjNpTTU3VXh6bXJab0pjYVV6d3VDRkhDbzNsOER0bkh4U1hCaUxOUG9laE9Ndzcyb1RMNWM3OHdJMjhSQ2hERFBDUTROQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EWFZFajEyMXlWM2lNNTdVeHptclpvSmNhVXp3dUNGSENvM2w4RHRuSHhTWEJpTE5Qb2VoT013NzJvVEw1Yzc4d0kyOFJDaEREUENRNE5B0gFWQVVfeXFMT0RYVkVqMTIxeVYzaU01N1V4em1yWm9KY2FVend1Q0ZIQ28zbDhEdG5IeFNYQmlMTlBvZWhPTXc3Mm9UTDVjNzh3STI4UkNoRERQQ1E0TkE?oc=5",
    "published": "2026-08-27",
    "source": "Law360"
+  },
+  {
+   "title": "Pasqal goes public via SPAC merger with $360M in cash - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0V3bXYwQ1dHaXgyVmcwVnBTcDFtaU5aRVV1LW9QeEFHZk1MVlVoODdnMTlUNWs1WUQ0Uy1wVE01UmQtRTlxVGlNZVI1NUpwOThCNmdpeHM5NFgwNFdNM0xISmprV3hVck0xbld3YzJ6bENDNkR2SEhvcHBIaUFKTnE2Wm1pbkFIV1pWb2NoUQ?oc=5",
+   "published": "2026-08-27",
+   "source": "Dealroom"
   },
   {
    "title": "Astrum Space to Go Public in $1 Billion Black Spade SPAC Deal - citybiz",
@@ -822,12 +990,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3dxUEpvQzBwQVNWLV9xb1N0b044aUtGeVpWcl9kODdmd0dMOVZHZmdHQlBzRVk1SDhvTHZVWWNMNjlpcVlvRkNWRko5ZWI4bVRsY29veGdqekVNMEVYNk5KVGxzb19uNmNNU0hDSnhjNmJSU044S200d2lKY3BaeGtFelNnUG5XYWhCN1VzLVQtVmtRaHJlY3I5cWVqNXJTMWVQWEpZRl9wMDNnX2hBS0tNV18yYXlHcE5wbDlPY2xQV0ZORXp1Wm13enZnQQ?oc=5",
    "published": "2026-08-27",
    "source": "TradingView"
-  },
-  {
-   "title": "Ursa Major targets public listing through $2.3bn SPAC deal - Army Technology",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiSFdZMXZXdnltOGprZkRQRWRhODdibThhREczMWl2dHlyVUJKVzR0S1k3SEozcklmdGVWbE16UXVwMWlMQVRXdWwzY292WW9vc2JYM1ZLOU1HVUdUcnpybDZBU21xSU5DUWNn?oc=5",
-   "published": "2026-08-27",
-   "source": "Army Technology"
   }
  ],
  "regs": []

@@ -1242,6 +1242,172 @@
    "filed": "2026-08-26",
    "path": "edgar/data/2016072/0001213900-26-094011.txt",
    "blurb": ""
+  },
+  "edgar/data/2088295/0001354457-26-000828.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "25-NSE",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001354457-26-000828.txt"
+  },
+  "edgar/data/2065779/0001354457-26-000829.txt": {
+   "company": "D. Boral ARC Acquisition I Corp.",
+   "form": "25-NSE",
+   "cik": "2065779",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2065779/0001354457-26-000829.txt"
+  },
+  "edgar/data/2147219/0001104659-26-102498.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "424B4",
+   "cik": "2147219",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2147219/0001104659-26-102498.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2087087/0001104659-26-102032.txt": {
+   "company": "Black Spade Acquisition III Co",
+   "form": "425",
+   "cik": "2087087",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2087087/0001104659-26-102032.txt",
+   "blurb": ""
+  },
+  "edgar/data/2009183/0001829126-26-009425.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2009183/0001829126-26-009425.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2009183/0001829126-26-009429.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2009183/0001829126-26-009429.txt",
+   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2080023/0001213900-26-094382.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2080023/0001213900-26-094382.txt",
+   "blurb": ""
+  },
+  "edgar/data/2146310/0001213900-26-094281.txt": {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-A12B",
+   "cik": "2146310",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2146310/0001213900-26-094281.txt"
+  },
+  "edgar/data/2087087/0001104659-26-102023.txt": {
+   "company": "Black Spade Acquisition III Co",
+   "form": "8-K",
+   "cik": "2087087",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2087087/0001104659-26-102023.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2088295/0001213900-26-094397.txt": {
+   "company": "Bleichroeder Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2088295",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2088295/0001213900-26-094397.txt",
+   "items": [
+    "Termination of a Material Definitive Agreement",
+    "Completion of Acquisition or Disposition of Assets",
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+    "Material Modifications to Rights of Security Holders",
+    "Changes in Control of Registrant",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2024459/0001213900-26-094383.txt": {
+   "company": "Charlton Aria Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024459",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2024459/0001213900-26-094383.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2086524/0001213900-26-094428.txt": {
+   "company": "K2 Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "2086524",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2086524/0001213900-26-094428.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2137679/0001829126-26-009426.txt": {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2137679/0001829126-26-009426.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2133239/0001929980-26-000510.txt": {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2133239/0001929980-26-000510.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2009183/0001829126-26-009424.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2009183",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2009183/0001829126-26-009424.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2044009/0001193125-26-371516.txt": {
+   "company": "Armada Acquisition Corp. II",
+   "form": "DEFM14A",
+   "cik": "2044009",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2044009/0001193125-26-371516.txt",
+   "blurb": "meeting September 30, 2026; business-combination vote (auto-extracted)"
+  },
+  "edgar/data/2077033/0001493152-26-040431.txt": {
+   "company": "Miluna Acquisition Corp",
+   "form": "S-4",
+   "cik": "2077033",
+   "filed": "2026-08-27",
+   "path": "edgar/data/2077033/0001493152-26-040431.txt",
+   "blurb": ""
   }
  }
 }
