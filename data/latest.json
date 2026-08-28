@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T02:21:27Z",
+ "generated_at": "2026-08-28T21:32:03Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -956,40 +956,40 @@
  ],
  "media": [
   {
+   "title": "Pasqal Completes SPAC Merger With $360 Million in Cash - The Quantum Insider",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3RZVU1aUjZSUjFXM1JMWEZVQWVmTGYwT2NQNWhiV2VPa0luMWcyYW5VazFtdlkwajBKTjFsR05aaTJ2bXJnU2p6QXI3ckZFbDNITHoteFB5VXNOZTBiRzYzeDZWU29KSUhBVG55VVBfR2VFd1dDcXZQRXVJRFd4Q1h4Qi12dkJzbWk5cVRUTVZiblhjM25UcGJLOA?oc=5",
+   "published": "2026-08-28",
+   "source": "The Quantum Insider"
+  },
+  {
+   "title": "Quantum Computing Firm Pasqal Jumps 52% in Debut Via SPAC Merger - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnJ4Mnk2X0pCOHg3WjVESGtuZmVQckpXdDI5dl9VNHltbVVYaTA1OWVoeDlXeDBvV0lmeWR6YVNtanliQ2pVOTctMTVqQ3RKRDVPNHN0WFFwR0dPc2dmTXFLY3I0R1g5eXZic0x4U0kxenFZblp3YTY0VzFCWHFTUjBzdWZKQUZGY1QwRlFlQTUtYTJVUjM0ZVV5eWEwR3FJaS16M2xsUEEyS09zc05fdFFaYlU?oc=5",
+   "published": "2026-08-28",
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "Pasqal completes SPAC deal with $360m for quantum expansion ... - eeNews Europe",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcl9zWFVyakxaQlM3LUdvWTVDVnNmcUlkUTJYQ2ZCNmdNUzd3OW5UaWo1a1hBRGluaDJkSGRGT2YzS3ZfdEtORC1hejZnd21BVGlydHFEQkZ3N2lBRlh6UzRvUXBRRlhKSjFEMFhIN2UyY2lwbks3aHpxb3FLNFhvUjlSUmp0aEdoQlBkNXpSeXlhb3o2b2c?oc=5",
+   "published": "2026-08-28",
+   "source": "eeNews Europe"
+  },
+  {
    "title": "Astrum Space Strikes SPAC Deal for D2D Service at $1B Valuation - Via Satellite",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3VHBOSnhnelFhb0J4ejJVLTBUbkZMNlV6U3BCemlSRm14Z1hPNm9fMGc0TmRsQ19keEhsMW9ZV1BmV2FQa25sLUhHZDBLR3hjOXhmYlo4aGNkRTVmdVNzeTNySEw0Y0ZDZThBSUpEQkZhaXF6bHEzN1lyeEpiak9TVkd2d0VFNzZIRXRzejk1SXhfRVg5U2xRWUdlbVZwUlB5UGpCT2w2X19DQTVyZDdxTQ?oc=5",
    "published": "2026-08-27",
    "source": "Via Satellite"
   },
   {
+   "title": "Macau tycoon Lawrence Ho\u2019s family office targets space sector in de-SPAC deal - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2N1RDV0M29FdW9QNGFrTUpISEF2bktXQ2lOdktaTzROYTFyb19oeGlWNnExQ1Z4SnBGVldOMTNZclFmVmtRWWNEVTI5T25GaEpuZFBHZl9TQlRNRFByUmxoT3FrM3R2OFc1RS00U0xOWU5WcGJ1TVpUZDl2UDFOVTducVlfVGZFY0JzeGFRaXFpdlR1Q1JrU2l2aVFvNjBEVGtWSmkzVk0zcEVDZGxpbTFfRGRhMlAxako5d2V2NWFRa1lFNnRKN9IByAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiTw?oc=5",
+   "published": "2026-08-28",
+   "source": "South China Morning Post"
+  },
+  {
    "title": "Satellite Comms Biz To Go Public Via $1B SPAC Merger - Law360",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EWFZFajEyMXlWM2lNNTdVeHptclpvSmNhVXp3dUNGSENvM2w4RHRuSHhTWEJpTE5Qb2VoT013NzJvVEw1Yzc4d0kyOFJDaEREUENRNE5B0gFWQVVfeXFMT0RYVkVqMTIxeVYzaU01N1V4em1yWm9KY2FVend1Q0ZIQ28zbDhEdG5IeFNYQmlMTlBvZWhPTXc3Mm9UTDVjNzh3STI4UkNoRERQQ1E0TkE?oc=5",
    "published": "2026-08-27",
    "source": "Law360"
-  },
-  {
-   "title": "Pasqal goes public via SPAC merger with $360M in cash - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0V3bXYwQ1dHaXgyVmcwVnBTcDFtaU5aRVV1LW9QeEFHZk1MVlVoODdnMTlUNWs1WUQ0Uy1wVE01UmQtRTlxVGlNZVI1NUpwOThCNmdpeHM5NFgwNFdNM0xISmprV3hVck0xbld3YzJ6bENDNkR2SEhvcHBIaUFKTnE2Wm1pbkFIV1pWb2NoUQ?oc=5",
-   "published": "2026-08-27",
-   "source": "Dealroom"
-  },
-  {
-   "title": "Astrum Space to Go Public in $1 Billion Black Spade SPAC Deal - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemd1aW94YkJoeWhwbmw1ZGZoX3ZGY3N6YTRrcFhPUmlDRGJoTWpoaTJCdS0xckYtR2gtUWlFVzl4bXM4aExEY0t5NldsVXdpakFHcmk3OVRiOWUxRHVYd1BaRnRjMVNWdGs0cXhCVFRnczVEMnl6YVVLY1JXXzl5eHY5clNrY2NTYVV2X29SSzhIYnBsTXQ2c19fOUVCOW9h?oc=5",
-   "published": "2026-08-27",
-   "source": "citybiz"
-  },
-  {
-   "title": "Satellite firm Astrum Space to go public in US$1 billion SPAC deal - BNN Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzVxZGxNZzA1UFhwNXFUMXFyUXR3a1pUeXZoeW1JcVFWYmtwMGpjOHY5bVk4N1JKbFlreTJaUXNsT2FkdWx5ZDV3d3B6ckZTSG03MEVRQlpYWDlsQzhCSGJ6b2pOU3Q2OXAxdG8wbUFfaHdkNEc3b25JQWw5MnJaVi1oY0JrX3NMdVpYcWxjUTBrS2Fzd0hqRG5xVVczVlYxZGdfdWQtZjRaYm1IR19rSG5RNEVLMndYcm5kd3A2Y1lYUWVkU2c?oc=5",
-   "published": "2026-08-27",
-   "source": "BNN Bloomberg"
-  },
-  {
-   "title": "Satellite firm Astrum Space to go public in $1 billion SPAC deal - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3dxUEpvQzBwQVNWLV9xb1N0b044aUtGeVpWcl9kODdmd0dMOVZHZmdHQlBzRVk1SDhvTHZVWWNMNjlpcVlvRkNWRko5ZWI4bVRsY29veGdqekVNMEVYNk5KVGxzb19uNmNNU0hDSnhjNmJSU044S200d2lKY3BaeGtFelNnUG5XYWhCN1VzLVQtVmtRaHJlY3I5cWVqNXJTMWVQWEpZRl9wMDNnX2hBS0tNV18yYXlHcE5wbDlPY2xQV0ZORXp1Wm13enZnQQ?oc=5",
-   "published": "2026-08-27",
-   "source": "TradingView"
   }
  ],
  "regs": []
