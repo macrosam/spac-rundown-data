@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T18:09:49Z",
+ "generated_at": "2026-08-31T23:02:24Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1080,10 +1080,16 @@
  ],
  "media": [
   {
-   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkZqLUV0d3JLckNhaTFDbzNsM3FaX2xOcUw2YldVZS1YQ016SnBWV0c1T2JDV2JxTTdQbVZaWTdQQnBrSDFjcm5HUDhPZWpoYkVfX3FONThnRDNpWVluRmsxeHNSRjFjeGJYQ2xKc3ZicDI2cWtaRUZaVUwwMmE1cmdsM19rTDhPbTFOakRBVVJKa0JxNVZQZ0UweGhQbWlDZUotZGNJUzZRaUNyRXNfRzNoVmI1ZWtnZXNLcFBfVHpWbnM1ZmVBSw?oc=5",
+   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmJEa1BrZ0ljWHNCZ0RmU1FHdnYwbXQ0b1MtSFo3R2Y4YVA3Smx5YjFXVGpoOXd6b0xjMnhfOGV6M0pvdURsSFRhRHpUTzRXSXFmTEwzak52dmh0eGNWMURkQWZ5YjhLNk1BRFR0cVIyMFNpR3lIdExrcTBzcVdlTlNvc1BkeHJpd2JOLTRHbU1DNVItSUltQ3hCLUNScFJjVWRlNjY4azluMzNLQ3VFOTdudjFoQnpUMkliYUpHZmFIczAtanc?oc=5",
    "published": "2026-08-31",
-   "source": "Benzinga"
+   "source": "TradingView"
+  },
+  {
+   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
+   "published": "2026-08-31",
+   "source": "Stock Titan"
   },
   {
    "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - Dealroom",
@@ -1092,28 +1098,22 @@
    "source": "Dealroom"
   },
   {
-   "title": "Viking Acquisition Corp. II Financial Statements \u2013 NYSE:VII/W - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odHM4UUZfdkpEYVoxc1FtREpIWHdSRkxxeW8wTkgyRDI3X3U5Y19XVU13MDZMTXZiQnVVb3dmN0x2NkNDTGsydzZtaWtSckVUbmxjTkNNVU9FYklLaUJzQVU0bVpiUm1nVE9HdmQxbnZOTTFzQ0E?oc=5",
-   "published": "2026-08-31",
-   "source": "TradingView"
-  },
-  {
-   "title": "Jatt III Acquisition (JTTT) Stock Analysis Report | Financials & Insights - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VUmVzX3FyOTlQcWF2YzE2LUN1V3VmYVRrc3o5N2c5eXFjTmtva2RDOEZyakF2T2tRQ3BEWHFub0RzSEZMaS1nV05kRmhVRW9uekNqVw?oc=5",
+   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
    "published": "2026-08-31",
    "source": "Benzinga"
   },
   {
-   "title": "IPO Databook: Giant Oak Acquisition (GOSC US) - Aug 2026 - Smartkarma",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjRVMDRPNXd0SXZqdUdtWVdtN3B6ZUpsWXRHTXFMNEFYYzRJc21sVjljQ3Y3LThHcmx5MWloX1M1VTgtY2xUMGc0NnRnTmNNVm1BZWlobmRrSy1vaV8yTkVraGRMbXFxLXhJSVloQWsxRC1FbmRNRGxhdENBRFNJSnp5RGJPSlRUZGx5b0RqV2w?oc=5",
+   "title": "Veraxa Biotech (VRXA) director adds 50K shares in open-market buy - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmU3VXgzZkVrdS1RckZfU2N1clEtbjlBeHg4OTVyVHFFVU56WGxFazZuYlFNcEltNGpQUUlvNWRTUmtYTm44S1F6WjJOczBqUUYyTTBfeUcyMmJLaGpZdE9rMmxPVkxNVEJzT25UVW9pXy1pdXM0Q3B0cHBONmVKZFNCZVo4dGg5U1UtU3RWWkVtWWxZOENYU3FQMWxIT3A4WExFdzhISmhIc20wR1dZN3B0elZmNXMzUUZVREhmX1ZrZw?oc=5",
    "published": "2026-08-31",
-   "source": "Smartkarma"
+   "source": "Stock Titan"
   },
   {
-   "title": "Essential Minerals Acquisition Corp. Financial Statements \u2013 NASDAQ:EMACU - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Eczh0bE1OeVc5SWRIT1JHcllMY2F1YkJONlcyd3hYTU9KN3FxUkpmZV9RVmo2SUZJdTIzYU9lSzk0V2tEVkFvSnVhSGd1U2gxTThoMWxoUVY2MTFOaEpXY2tZcTh1RnNPalZFQTdmQ1phMDV1UjRtbg?oc=5",
-   "published": "2026-08-30",
-   "source": "TradingView"
+   "title": "NorthStrive Acquisition Corp I. Announces the Separate Trading of its Class A Ordinary Shares, Rights and Warrants, Commencing September 2, 2026 - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWmtxRnVUdnpZbi01YkU4b0NYZW8wdGlaeHRxSGVpNmlYem55MFpsNzUyYVpyZE1kOXRQOEpMemhtUnJJUFNKanA4OUdBZ3MweXd1V0kwZ2xRbm1zc0xYTUdyS1Z3S3RubGVRYWIwQVVJemxleHhjLTRiY3VRaU9sMjl3OGg1WE54VEpaem9fTXZLQTh0alVDMXBKdmFXWWg4d1NKZlJPcUdxc0JfWk5xQzFvMjBVRTc3SU1SN3dSYjZFclFtVExYUHZqc3llcW9hYmVKSTMtRXdUcGRKMmFWUjB0SjRFMG01T25ZM1dOMWpLZmttM1Rmc3hmUXJOX0s3NGpCenBjdVl0a2ZoOEZ4TlRLbFR4R0dYeTZXM1FORV95aXR1OVJUY3FsSWdqMG4zVXZWXzhZLWl3d9IBvwJBVV95cUxOQ0twU29sRGFGT3gzdEhxaXFSOUlEREg3Q0V2VjNKemtxTGlvZEk5by1fU2xkbm1yQ0stT2RlS0F1R21yVXZIOTBBS0ZUaFVwVU1KU1BEcjI1Ulp5NzFSbjA2eUpqZ0xWTU1jc0RTSWYyN3ZIMEhfdGwyUXNQbFNPeEpGb0JiWVhGMDNScUtwYktadl9yOWg5SUxXRmoyX0FfT1R2VjZ1eUVvazVWZk5aSkJpYWRnb1VoZTVJRDExTVZ6YnVoMlB5X2tqY01yNERwaDBTWDNJRDVnRmZ2ZGRKNFR0UFpJMEhaRk9UQ1ZobXVodFB0dEtQcmFhWWNydUwtWFNiV1NDY0ZCa2Rxa0ZudWJUZmdhd1VzWk1RQlRzUTVEc3hGZGhQVmFkVDRKbEE2N3pSa3FmdFcwRDNkSUFR?oc=5",
+   "published": "2026-08-31",
+   "source": "The Manila Times"
   }
  ],
  "regs": []
