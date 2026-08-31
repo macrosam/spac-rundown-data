@@ -1408,6 +1408,135 @@
    "filed": "2026-08-27",
    "path": "edgar/data/2077033/0001493152-26-040431.txt",
    "blurb": ""
+  },
+  "edgar/data/2128045/0001213900-26-094540.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2128045/0001213900-26-094540.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-094543.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2128045/0001213900-26-094543.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2088805/0001213900-26-094582.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2088805/0001213900-26-094582.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-094469.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2085659/0001213900-26-094469.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-094470.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2085659/0001213900-26-094470.txt",
+   "blurb": ""
+  },
+  "edgar/data/2025341/0001213900-26-095145.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2025341/0001213900-26-095145.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1834032/0001213900-26-095196.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "8-K",
+   "cik": "1834032",
+   "filed": "2026-08-28",
+   "path": "edgar/data/1834032/0001213900-26-095196.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant"
+   ]
+  },
+  "edgar/data/2133719/0001213900-26-094593.txt": {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2133719/0001213900-26-094593.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2147219/0001104659-26-103228.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2147219/0001104659-26-103228.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-095187.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2025341/0001213900-26-095187.txt",
+   "blurb": "meeting September 8, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2024203/0001493152-26-040575.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2024203",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2024203/0001493152-26-040575.txt",
+   "blurb": "meeting March 23, 2027; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1858939/0001104659-26-103090.txt": {
+   "company": "Giant Oak Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "1858939",
+   "filed": "2026-08-28",
+   "path": "edgar/data/1858939/0001104659-26-103090.txt",
+   "blurb": "offering $60,000,000; 6,000,000 units; $10.00/unit; focus: a target in an industry where we believe our management team and founder s expertise will provide us with a competitive advantage (auto-extracted)"
+  },
+  "edgar/data/2148436/0001185185-26-003758.txt": {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2148436/0001185185-26-003758.txt",
+   "blurb": "offering $800,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2053927/0001829126-26-009468.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2053927/0001829126-26-009468.txt",
+   "blurb": ""
   }
  }
 }

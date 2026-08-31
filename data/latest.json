@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T01:54:51Z",
+ "generated_at": "2026-08-31T18:09:49Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -94,6 +94,22 @@
  ],
  "amends": [
   {
+   "company": "Giant Oak Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "1858939",
+   "filed": "2026-08-28",
+   "path": "edgar/data/1858939/0001104659-26-103090.txt",
+   "blurb": "offering $60,000,000; 6,000,000 units; $10.00/unit; focus: a target in an industry where we believe our management team and founder s expertise will provide us with a competitive advantage (auto-extracted)"
+  },
+  {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2148436/0001185185-26-003758.txt",
+   "blurb": "offering $800,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Inflection Point Acquisition Corp. VIII",
    "form": "S-1/A",
    "cik": "2146310",
@@ -151,6 +167,66 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2128045/0001213900-26-094540.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2128045/0001213900-26-094543.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2088805/0001213900-26-094582.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2085659/0001213900-26-094469.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2085659/0001213900-26-094470.txt"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2025341/0001213900-26-095145.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2147219/0001104659-26-103228.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2053927/0001829126-26-009468.txt"
+  },
   {
    "company": "Black Spade Acquisition III Co",
    "form": "425",
@@ -622,6 +698,38 @@
  ],
  "votes": [
   {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2025341/0001213900-26-095145.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2147219/0001104659-26-103228.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2025341/0001213900-26-095187.txt",
+   "blurb": "meeting September 8, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Cayson Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2024203",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2024203/0001493152-26-040575.txt",
+   "blurb": "meeting March 23, 2027; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Southern Cross Acquisition II Corp.",
    "form": "8-K",
    "cik": "2133239",
@@ -736,6 +844,14 @@
  ],
  "pipes": [
   {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2147219/0001104659-26-103228.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Charlton Aria Acquisition Corp",
    "form": "8-K",
    "cik": "2024459",
@@ -769,6 +885,14 @@
   }
  ],
  "sponsors": [
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-08-28",
+   "path": "edgar/data/2147219/0001104659-26-103228.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "8-K",
@@ -956,40 +1080,40 @@
  ],
  "media": [
   {
-   "title": "Pasqal Completes SPAC Merger With $360 Million in Cash - The Quantum Insider",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3RZVU1aUjZSUjFXM1JMWEZVQWVmTGYwT2NQNWhiV2VPa0luMWcyYW5VazFtdlkwajBKTjFsR05aaTJ2bXJnU2p6QXI3ckZFbDNITHoteFB5VXNOZTBiRzYzeDZWU29KSUhBVG55VVBfR2VFd1dDcXZQRXVJRFd4Q1h4Qi12dkJzbWk5cVRUTVZiblhjM25UcGJLOA?oc=5",
-   "published": "2026-08-28",
-   "source": "The Quantum Insider"
+   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkZqLUV0d3JLckNhaTFDbzNsM3FaX2xOcUw2YldVZS1YQ016SnBWV0c1T2JDV2JxTTdQbVZaWTdQQnBrSDFjcm5HUDhPZWpoYkVfX3FONThnRDNpWVluRmsxeHNSRjFjeGJYQ2xKc3ZicDI2cWtaRUZaVUwwMmE1cmdsM19rTDhPbTFOakRBVVJKa0JxNVZQZ0UweGhQbWlDZUotZGNJUzZRaUNyRXNfRzNoVmI1ZWtnZXNLcFBfVHpWbnM1ZmVBSw?oc=5",
+   "published": "2026-08-31",
+   "source": "Benzinga"
   },
   {
-   "title": "Quantum Computing Firm Pasqal Jumps 52% in Debut Via SPAC Merger - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnJ4Mnk2X0pCOHg3WjVESGtuZmVQckpXdDI5dl9VNHltbVVYaTA1OWVoeDlXeDBvV0lmeWR6YVNtanliQ2pVOTctMTVqQ3RKRDVPNHN0WFFwR0dPc2dmTXFLY3I0R1g5eXZic0x4U0kxenFZblp3YTY0VzFCWHFTUjBzdWZKQUZGY1QwRlFlQTUtYTJVUjM0ZVV5eWEwR3FJaS16M2xsUEEyS09zc05fdFFaYlU?oc=5",
-   "published": "2026-08-28",
-   "source": "Bloomberg.com"
+   "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHhPSndvVlVOMERWaXBMeF94czhDNDFiTjNTeHZSN1ZORGN6a0FTMjhtSXBveGFpNXVvRm9kM3dQUHhpT0R6MWtDUXVuMlVUNUwtMldxRG8yUWR4d1hZME9JY05NY0xqUkpZcXZDZkRPaWNVSlZlYU8xQ2ZvMmRBTDNOQmQycllmZTJqa09GbkxKMms5c21IR3haOWtvYk0?oc=5",
+   "published": "2026-08-31",
+   "source": "Dealroom"
   },
   {
-   "title": "Pasqal completes SPAC deal with $360m for quantum expansion ... - eeNews Europe",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcl9zWFVyakxaQlM3LUdvWTVDVnNmcUlkUTJYQ2ZCNmdNUzd3OW5UaWo1a1hBRGluaDJkSGRGT2YzS3ZfdEtORC1hejZnd21BVGlydHFEQkZ3N2lBRlh6UzRvUXBRRlhKSjFEMFhIN2UyY2lwbks3aHpxb3FLNFhvUjlSUmp0aEdoQlBkNXpSeXlhb3o2b2c?oc=5",
-   "published": "2026-08-28",
-   "source": "eeNews Europe"
+   "title": "Viking Acquisition Corp. II Financial Statements \u2013 NYSE:VII/W - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odHM4UUZfdkpEYVoxc1FtREpIWHdSRkxxeW8wTkgyRDI3X3U5Y19XVU13MDZMTXZiQnVVb3dmN0x2NkNDTGsydzZtaWtSckVUbmxjTkNNVU9FYklLaUJzQVU0bVpiUm1nVE9HdmQxbnZOTTFzQ0E?oc=5",
+   "published": "2026-08-31",
+   "source": "TradingView"
   },
   {
-   "title": "Astrum Space Strikes SPAC Deal for D2D Service at $1B Valuation - Via Satellite",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3VHBOSnhnelFhb0J4ejJVLTBUbkZMNlV6U3BCemlSRm14Z1hPNm9fMGc0TmRsQ19keEhsMW9ZV1BmV2FQa25sLUhHZDBLR3hjOXhmYlo4aGNkRTVmdVNzeTNySEw0Y0ZDZThBSUpEQkZhaXF6bHEzN1lyeEpiak9TVkd2d0VFNzZIRXRzejk1SXhfRVg5U2xRWUdlbVZwUlB5UGpCT2w2X19DQTVyZDdxTQ?oc=5",
-   "published": "2026-08-27",
-   "source": "Via Satellite"
+   "title": "Jatt III Acquisition (JTTT) Stock Analysis Report | Financials & Insights - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VUmVzX3FyOTlQcWF2YzE2LUN1V3VmYVRrc3o5N2c5eXFjTmtva2RDOEZyakF2T2tRQ3BEWHFub0RzSEZMaS1nV05kRmhVRW9uekNqVw?oc=5",
+   "published": "2026-08-31",
+   "source": "Benzinga"
   },
   {
-   "title": "Macau tycoon Lawrence Ho\u2019s family office targets space sector in de-SPAC deal - South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2N1RDV0M29FdW9QNGFrTUpISEF2bktXQ2lOdktaTzROYTFyb19oeGlWNnExQ1Z4SnBGVldOMTNZclFmVmtRWWNEVTI5T25GaEpuZFBHZl9TQlRNRFByUmxoT3FrM3R2OFc1RS00U0xOWU5WcGJ1TVpUZDl2UDFOVTducVlfVGZFY0JzeGFRaXFpdlR1Q1JrU2l2aVFvNjBEVGtWSmkzVk0zcEVDZGxpbTFfRGRhMlAxako5d2V2NWFRa1lFNnRKN9IByAFBVV95cUxNZmZGR25ZSEFHVFpSVHMxZHhBX3NNZlJmOGRUQVpSa3VLYUI5RGN0ZENjM0xnbnN0UHI1enBWbjBLcWxBTnJUT3VYZVp6cEI1Q3EtR1ZhQ0RXN3RkcG5sWVllR1lHUDYycThxQzJCMUdUdVg3RkpseXZoelFCNFVyaXpMclZPVFczNm56ZjRFSm10Q1NLSUdPNU9fUUhuaU8zaFpQeTVWaDNhdUdwTERrMVlMOXhtQ044U2pyVUNGYjdjNEtKM3BiTw?oc=5",
-   "published": "2026-08-28",
-   "source": "South China Morning Post"
+   "title": "IPO Databook: Giant Oak Acquisition (GOSC US) - Aug 2026 - Smartkarma",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjRVMDRPNXd0SXZqdUdtWVdtN3B6ZUpsWXRHTXFMNEFYYzRJc21sVjljQ3Y3LThHcmx5MWloX1M1VTgtY2xUMGc0NnRnTmNNVm1BZWlobmRrSy1vaV8yTkVraGRMbXFxLXhJSVloQWsxRC1FbmRNRGxhdENBRFNJSnp5RGJPSlRUZGx5b0RqV2w?oc=5",
+   "published": "2026-08-31",
+   "source": "Smartkarma"
   },
   {
-   "title": "Satellite Comms Biz To Go Public Via $1B SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EWFZFajEyMXlWM2lNNTdVeHptclpvSmNhVXp3dUNGSENvM2w4RHRuSHhTWEJpTE5Qb2VoT013NzJvVEw1Yzc4d0kyOFJDaEREUENRNE5B0gFWQVVfeXFMT0RYVkVqMTIxeVYzaU01N1V4em1yWm9KY2FVend1Q0ZIQ28zbDhEdG5IeFNYQmlMTlBvZWhPTXc3Mm9UTDVjNzh3STI4UkNoRERQQ1E0TkE?oc=5",
-   "published": "2026-08-27",
-   "source": "Law360"
+   "title": "Essential Minerals Acquisition Corp. Financial Statements \u2013 NASDAQ:EMACU - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Eczh0bE1OeVc5SWRIT1JHcllMY2F1YkJONlcyd3hYTU9KN3FxUkpmZV9RVmo2SUZJdTIzYU9lSzk0V2tEVkFvSnVhSGd1U2gxTThoMWxoUVY2MTFOaEpXY2tZcTh1RnNPalZFQTdmQ1phMDV1UjRtbg?oc=5",
+   "published": "2026-08-30",
+   "source": "TradingView"
   }
  ],
  "regs": []
