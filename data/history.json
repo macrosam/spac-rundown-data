@@ -1537,6 +1537,221 @@
    "filed": "2026-08-28",
    "path": "edgar/data/2053927/0001829126-26-009468.txt",
    "blurb": ""
+  },
+  "edgar/data/2146310/0001213900-26-095396.txt": {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "424B4",
+   "cik": "2146310",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2146310/0001213900-26-095396.txt",
+   "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-095369.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095369.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-095371.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095371.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-095372.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095372.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-095373.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095373.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/1852019/0001104659-26-103877.txt": {
+   "company": "IX Acquisition Corp.",
+   "form": "425",
+   "cik": "1852019",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1852019/0001104659-26-103877.txt",
+   "blurb": ""
+  },
+  "edgar/data/2028355/0001213900-26-095420.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095420.txt",
+   "blurb": "business combination with IPEX (auto-extracted)"
+  },
+  "edgar/data/2028355/0001213900-26-095809.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095809.txt",
+   "blurb": "business combination with GOWell in October 2025 (auto-extracted)"
+  },
+  "edgar/data/2051985/0001213900-26-095805.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2051985/0001213900-26-095805.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  "edgar/data/2128462/0001193125-26-376512.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2128462",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128462/0001193125-26-376512.txt"
+  },
+  "edgar/data/2095443/0001213900-26-095265.txt": {
+   "company": "Breeze Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2095443",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2095443/0001213900-26-095265.txt",
+   "items": [
+    "Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review"
+   ]
+  },
+  "edgar/data/1850059/0001829126-26-009545.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1850059/0001829126-26-009545.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/1852019/0001104659-26-103875.txt": {
+   "company": "IX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1852019",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1852019/0001104659-26-103875.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028355/0001213900-26-095416.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095416.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2028355/0001213900-26-095807.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095807.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2051985/0001213900-26-095802.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2051985",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2051985/0001213900-26-095802.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2145659/0001213900-26-095299.txt": {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2145659/0001213900-26-095299.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2133719/0001213900-26-095697.txt": {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2133719/0001213900-26-095697.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926314/0001493152-26-040735.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1926314/0001493152-26-040735.txt",
+   "items": [
+    "Changes in Registrant's Certifying Accountant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2125567/0001213900-26-095583.txt": {
+   "company": "Samos Energy Acquisition Corp",
+   "form": "8-K",
+   "cik": "2125567",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2125567/0001213900-26-095583.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1884046/0001104659-26-103957.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1884046",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1884046/0001104659-26-103957.txt",
+   "blurb": "meeting August 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028355/0001213900-26-095811.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "DEFA14A",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095811.txt",
+   "blurb": "meeting September 3, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2026767/0001493152-26-040758.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2026767/0001493152-26-040758.txt",
+   "blurb": ""
   }
  }
 }

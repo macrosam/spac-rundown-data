@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T23:02:24Z",
+ "generated_at": "2026-09-01T15:33:56Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -44,6 +44,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "424B4",
+   "cik": "2146310",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2146310/0001213900-26-095396.txt",
+   "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Rainier Acquisition Corp",
    "form": "424B4",
@@ -167,6 +175,100 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095369.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095371.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095372.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128045/0001213900-26-095373.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "IX Acquisition Corp.",
+   "form": "425",
+   "cik": "1852019",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1852019/0001104659-26-103877.txt"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095420.txt",
+   "blurb": "business combination with IPEX (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095809.txt",
+   "blurb": "business combination with GOWell in October 2025 (auto-extracted)"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2051985/0001213900-26-095805.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "IX Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1852019",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1852019/0001104659-26-103875.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095807.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2145659/0001213900-26-095299.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2026767/0001493152-26-040758.txt"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "425",
@@ -698,6 +800,30 @@
  ],
  "votes": [
   {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2145659/0001213900-26-095299.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1884046",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1884046/0001104659-26-103957.txt",
+   "blurb": "meeting August 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "DEFA14A",
+   "cik": "2028355",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2028355/0001213900-26-095811.txt",
+   "blurb": "meeting September 3, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Andretti Acquisition Corp. II",
    "form": "8-K",
    "cik": "2025341",
@@ -844,6 +970,14 @@
  ],
  "pipes": [
   {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2145659/0001213900-26-095299.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "Rainier Acquisition Corp",
    "form": "8-K",
    "cik": "2147219",
@@ -885,6 +1019,14 @@
   }
  ],
  "sponsors": [
+  {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2145659/0001213900-26-095299.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Rainier Acquisition Corp",
    "form": "8-K",
@@ -951,6 +1093,21 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2128462",
+   "filed": "2026-08-31",
+   "path": "edgar/data/2128462/0001193125-26-376512.txt"
+  },
+  {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-08-31",
+   "path": "edgar/data/1850059/0001829126-26-009545.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "25-NSE",
@@ -1080,16 +1237,16 @@
  ],
  "media": [
   {
-   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmJEa1BrZ0ljWHNCZ0RmU1FHdnYwbXQ0b1MtSFo3R2Y4YVA3Smx5YjFXVGpoOXd6b0xjMnhfOGV6M0pvdURsSFRhRHpUTzRXSXFmTEwzak52dmh0eGNWMURkQWZ5YjhLNk1BRFR0cVIyMFNpR3lIdExrcTBzcVdlTlNvc1BkeHJpd2JOLTRHbU1DNVItSUltQ3hCLUNScFJjVWRlNjY4azluMzNLQ3VFOTdudjFoQnpUMkliYUpHZmFIczAtanc?oc=5",
-   "published": "2026-08-31",
-   "source": "TradingView"
+   "title": "French quantum computing firm Pasqal completes SPAC merger and goes public - BeBeez International",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFRnWGtZWHJMZ2hlLWRVX2dOY0hqMFdVX3VJX3Nscnp3R2JrbkM0VlhGVUJsbDNOZWc2NDJWbVBDTUxDZXJ3MDVvQmkwckpOeEtac0xhRjFXSlJBOE9IRnNIMEllTzQ2Z1Nmb293UUhKY3BSTUVGQ0hkcjZGdjZLZWFCZXBrVGxVdXJ1N0RJNjVXdUtCS1VBVW9xWVhYa1RhX3Ffd3pINA?oc=5",
+   "published": "2026-09-01",
+   "source": "BeBeez International"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
+   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - tradingview.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmJEa1BrZ0ljWHNCZ0RmU1FHdnYwbXQ0b1MtSFo3R2Y4YVA3Smx5YjFXVGpoOXd6b0xjMnhfOGV6M0pvdURsSFRhRHpUTzRXSXFmTEwzak52dmh0eGNWMURkQWZ5YjhLNk1BRFR0cVIyMFNpR3lIdExrcTBzcVdlTlNvc1BkeHJpd2JOLTRHbU1DNVItSUltQ3hCLUNScFJjVWRlNjY4azluMzNLQ3VFOTdudjFoQnpUMkliYUpHZmFIczAtanc?oc=5",
    "published": "2026-08-31",
-   "source": "Stock Titan"
+   "source": "tradingview.com"
   },
   {
    "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - Dealroom",
@@ -1098,22 +1255,22 @@
    "source": "Dealroom"
   },
   {
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-08-31",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
+   "published": "2026-08-31",
+   "source": "stocktitan.net"
+  },
+  {
    "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - Benzinga",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
    "published": "2026-08-31",
    "source": "Benzinga"
-  },
-  {
-   "title": "Veraxa Biotech (VRXA) director adds 50K shares in open-market buy - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmU3VXgzZkVrdS1RckZfU2N1clEtbjlBeHg4OTVyVHFFVU56WGxFazZuYlFNcEltNGpQUUlvNWRTUmtYTm44S1F6WjJOczBqUUYyTTBfeUcyMmJLaGpZdE9rMmxPVkxNVEJzT25UVW9pXy1pdXM0Q3B0cHBONmVKZFNCZVo4dGg5U1UtU3RWWkVtWWxZOENYU3FQMWxIT3A4WExFdzhISmhIc20wR1dZN3B0elZmNXMzUUZVREhmX1ZrZw?oc=5",
-   "published": "2026-08-31",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "NorthStrive Acquisition Corp I. Announces the Separate Trading of its Class A Ordinary Shares, Rights and Warrants, Commencing September 2, 2026 - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWmtxRnVUdnpZbi01YkU4b0NYZW8wdGlaeHRxSGVpNmlYem55MFpsNzUyYVpyZE1kOXRQOEpMemhtUnJJUFNKanA4OUdBZ3MweXd1V0kwZ2xRbm1zc0xYTUdyS1Z3S3RubGVRYWIwQVVJemxleHhjLTRiY3VRaU9sMjl3OGg1WE54VEpaem9fTXZLQTh0alVDMXBKdmFXWWg4d1NKZlJPcUdxc0JfWk5xQzFvMjBVRTc3SU1SN3dSYjZFclFtVExYUHZqc3llcW9hYmVKSTMtRXdUcGRKMmFWUjB0SjRFMG01T25ZM1dOMWpLZmttM1Rmc3hmUXJOX0s3NGpCenBjdVl0a2ZoOEZ4TlRLbFR4R0dYeTZXM1FORV95aXR1OVJUY3FsSWdqMG4zVXZWXzhZLWl3d9IBvwJBVV95cUxOQ0twU29sRGFGT3gzdEhxaXFSOUlEREg3Q0V2VjNKemtxTGlvZEk5by1fU2xkbm1yQ0stT2RlS0F1R21yVXZIOTBBS0ZUaFVwVU1KU1BEcjI1Ulp5NzFSbjA2eUpqZ0xWTU1jc0RTSWYyN3ZIMEhfdGwyUXNQbFNPeEpGb0JiWVhGMDNScUtwYktadl9yOWg5SUxXRmoyX0FfT1R2VjZ1eUVvazVWZk5aSkJpYWRnb1VoZTVJRDExTVZ6YnVoMlB5X2tqY01yNERwaDBTWDNJRDVnRmZ2ZGRKNFR0UFpJMEhaRk9UQ1ZobXVodFB0dEtQcmFhWWNydUwtWFNiV1NDY0ZCa2Rxa0ZudWJUZmdhd1VzWk1RQlRzUTVEc3hGZGhQVmFkVDRKbEE2N3pSa3FmdFcwRDNkSUFR?oc=5",
-   "published": "2026-08-31",
-   "source": "The Manila Times"
   }
  ],
  "regs": []
