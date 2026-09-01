@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:33:56Z",
+ "generated_at": "2026-09-01T18:50:36Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1243,16 +1243,16 @@
    "source": "BeBeez International"
   },
   {
-   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - tradingview.com",
+   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - TradingView",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmJEa1BrZ0ljWHNCZ0RmU1FHdnYwbXQ0b1MtSFo3R2Y4YVA3Smx5YjFXVGpoOXd6b0xjMnhfOGV6M0pvdURsSFRhRHpUTzRXSXFmTEwzak52dmh0eGNWMURkQWZ5YjhLNk1BRFR0cVIyMFNpR3lIdExrcTBzcVdlTlNvc1BkeHJpd2JOLTRHbU1DNVItSUltQ3hCLUNScFJjVWRlNjY4azluMzNLQ3VFOTdudjFoQnpUMkliYUpHZmFIczAtanc?oc=5",
    "published": "2026-08-31",
-   "source": "tradingview.com"
+   "source": "TradingView"
   },
   {
-   "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - Dealroom",
+   "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - app.dealroom.co",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHhPSndvVlVOMERWaXBMeF94czhDNDFiTjNTeHZSN1ZORGN6a0FTMjhtSXBveGFpNXVvRm9kM3dQUHhpT0R6MWtDUXVuMlVUNUwtMldxRG8yUWR4d1hZME9JY05NY0xqUkpZcXZDZkRPaWNVSlZlYU8xQ2ZvMmRBTDNOQmQycllmZTJqa09GbkxKMms5c21IR3haOWtvYk0?oc=5",
    "published": "2026-08-31",
-   "source": "Dealroom"
+   "source": "app.dealroom.co"
   },
   {
    "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
@@ -1261,16 +1261,16 @@
    "source": "Stocktwits"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - stocktitan.net",
+   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
    "published": "2026-08-31",
-   "source": "stocktitan.net"
+   "source": "Stock Titan"
   },
   {
-   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - Benzinga",
+   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - benzinga.com",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
    "published": "2026-08-31",
-   "source": "Benzinga"
+   "source": "benzinga.com"
   }
  ],
  "regs": []
