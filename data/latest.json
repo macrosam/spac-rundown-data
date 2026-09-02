@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T11:49:58Z",
+ "generated_at": "2026-09-02T18:50:13Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1301,33 +1301,33 @@
  ],
  "media": [
   {
-   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYU1WSTNTejJrTU9ORWZhN3kxNGYxeDRaSzJ6UlRPX3d0MTYzV0k0cmFVMmZWdTZhWkhsOGE0VGZmUUszcVo2WUlXQ2QxS0JtQzBiQ2FVZ19RdnJ3SnlVMUZrRnNDV0JhZ2xjRllqOThhVVltRXJQdExHc251TS1tcW1IUjVOU0VyLU1PMTN3T3lKYzEwME10MEluWURpbkRjbEln?oc=5",
-   "published": "2026-08-31",
-   "source": "Yahoo Finance"
-  },
-  {
-   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
+   "title": "Data443 to go public via SPAC merger with Four Leaf, eyes Nasdaq listing - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTVQM3p6OHVfRXFYY0htWUVFOWhhMVBWVFJIY3AzUzlmNmJOSmlsYWJxTlJlNDlYRTRiSnA1Z0xjQVBjd0M2SkNiLUJNM0dtdWdtUGZxaUUyZlg5MFd0QXplaHQ4NDQxQzFzaXRteFhMRExObF9vQWdnSlc3UExILUZqd24zTU9QU1c3cW9ROWtCS3NGSUhvTFQyX3RDN1FQNk9scG1zeGs?oc=5",
    "published": "2026-09-02",
-   "source": "Stocktwits"
+   "source": "Dealroom"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - stocktitan.net",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
-   "published": "2026-08-31",
-   "source": "stocktitan.net"
+   "title": "Rainier Acquisition plans $75M SPAC IPO - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW1PTWRVT3NMVDg3ZjlYaTA2WXZQZ3J4My1EcmlFVkdGZlVSNk1EekhwT0tDdUxFeTlkQmUwWTBRM2xYcVVXOTd6TTZlU28xTUZuSW02NWNEN1NiV0lxVExQMlFreXlzUW5rVjNTV3BVajJiWDl5d2pmaXRuQ19SY2x5Z1hrSlNSODFDaFVpdmdpNFBTUWRHRkhFbU1waFdHOU5UYjdqRWNrX2VuRmQxVGRnZkZXVC1Zc0VFYnBsMkw1SzFkcEE?oc=5",
+   "published": "2026-09-02",
+   "source": "Stock Titan"
   },
   {
-   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
-   "published": "2026-08-31",
-   "source": "Benzinga"
+   "title": "French quantum computing firm Pasqal completes SPAC merger and goes public - datacenterdynamics.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXpGazJOdzRMZ1lHVnV0YWVtVDhZOXdiN0NFWXlmX2d5UU0teklRdWphNXFlQlhvUFYzZW5WMm05bS01c1Z2aXhFRFg5N0U0SkRGYk1xWkQ4SXVIbzJIcVc5X2VfQWxHMEk2Snk1dlRrOVF6dWRKWC1ieXM4emJ2UUJ3ZFZpN0tiTTVoZGhFVTYtUGJYVUpuYlNpN2FqcHpseDc1YWdrMzRJZHlsYkMyQm1QM3VSTVoyWWc?oc=5",
+   "published": "2026-09-01",
+   "source": "datacenterdynamics.com"
   },
   {
-   "title": "Viking Acquisition Corp. II Financial Statements \u2013 NYSE:VII/W - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odHM4UUZfdkpEYVoxc1FtREpIWHdSRkxxeW8wTkgyRDI3X3U5Y19XVU13MDZMTXZiQnVVb3dmN0x2NkNDTGsydzZtaWtSckVUbmxjTkNNVU9FYklLaUJzQVU0bVpiUm1nVE9HdmQxbnZOTTFzQ0E?oc=5",
-   "published": "2026-08-31",
+   "title": "Blank-check firm Haymaker Acquisition Corp V (HYAC) lines up $250M IPO to hunt consumer and industrial deals - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWlaU19EejBydy1mMmhyd0JQVG52REJEdmVpc2dJeUVJUHMwQWJZQ3c5MTg3dXVlbGVDczhaSkVtYS1SZGt2dERtNjVOSGVrOWs2UEhnUGgyMTRyN01jcmx1TkFKSGNNSUFOVUh0RlB3ZjR5SnZlTlowOWdvaUJwYm4xU1UtQ0NzNDQyZFllUE12WFNGaWR4RlRWaUhuOXo1R2Y0TzVOd0pCWDRtREczUGxYWXZVTmdiNUc5RE9VdDcxdUtF?oc=5",
+   "published": "2026-09-02",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "JAB Acquisition Corp I Financial Statements \u2013 NASDAQ:ATLQ - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFZRWZIdDFTcnp3MlhlYVpTbDI5SmhodXFFSkNJX2ZDRjd3MkVQZVBIbU8tYUZGamg4OThwRTF6T096dmlOYXB6cHF0LUdEOEh6UVktRE91Z0NGUC1mYTNBM0pDSU91b0d2eUFHNExiVGhab0J6ZFJfUDFtbDZ1YlNuT2swNGRVN3VOTm1zS3BNNUU?oc=5",
+   "published": "2026-09-02",
    "source": "TradingView"
   },
   {
