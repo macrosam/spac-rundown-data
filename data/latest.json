@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-09-01T18:50:36Z",
+ "generated_at": "2026-09-02T11:49:58Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "RainRock Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2089787",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2089787/0001213900-26-095969.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Velos Acquisition I Corp.",
    "form": "S-1",
@@ -44,6 +52,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2128462",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2128462/0001193125-26-378248.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: sports, entertainment, and life sciences he co-founded in 2020 (auto-extracted)"
+  },
   {
    "company": "Inflection Point Acquisition Corp. VIII",
    "form": "424B4",
@@ -175,6 +191,46 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Black Spade Acquisition III Co",
+   "form": "425",
+   "cik": "2087087",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2087087/0001104659-26-104338.txt",
+   "blurb": "business combination with Black Spade Acquisition III Co (auto-extracted)"
+  },
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2128045/0001213900-26-095894.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-01",
+   "path": "edgar/data/1834032/0001213900-26-096304.txt",
+   "blurb": "business combination with Jindalee Lithium Limited (auto-extracted)"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2051985/0001213900-26-095972.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2025341/0001213900-26-095886.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "425",
@@ -800,6 +856,14 @@
  ],
  "votes": [
   {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2025341/0001213900-26-095891.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "JATT III Acquisition Corp",
    "form": "8-K",
    "cik": "2145659",
@@ -1237,40 +1301,40 @@
  ],
  "media": [
   {
-   "title": "French quantum computing firm Pasqal completes SPAC merger and goes public - BeBeez International",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFRnWGtZWHJMZ2hlLWRVX2dOY0hqMFdVX3VJX3Nscnp3R2JrbkM0VlhGVUJsbDNOZWc2NDJWbVBDTUxDZXJ3MDVvQmkwckpOeEtac0xhRjFXSlJBOE9IRnNIMEllTzQ2Z1Nmb293UUhKY3BSTUVGQ0hkcjZGdjZLZWFCZXBrVGxVdXJ1N0RJNjVXdUtCS1VBVW9xWVhYa1RhX3Ffd3pINA?oc=5",
-   "published": "2026-09-01",
-   "source": "BeBeez International"
+   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYU1WSTNTejJrTU9ORWZhN3kxNGYxeDRaSzJ6UlRPX3d0MTYzV0k0cmFVMmZWdTZhWkhsOGE0VGZmUUszcVo2WUlXQ2QxS0JtQzBiQ2FVZ19RdnJ3SnlVMUZrRnNDV0JhZ2xjRllqOThhVVltRXJQdExHc251TS1tcW1IUjVOU0VyLU1PMTN3T3lKYzEwME10MEluWURpbkRjbEln?oc=5",
+   "published": "2026-08-31",
+   "source": "Yahoo Finance"
   },
   {
-   "title": "Pasqal Enters Nasdaq Price Discovery After Completing De-SPAC Merger - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmJEa1BrZ0ljWHNCZ0RmU1FHdnYwbXQ0b1MtSFo3R2Y4YVA3Smx5YjFXVGpoOXd6b0xjMnhfOGV6M0pvdURsSFRhRHpUTzRXSXFmTEwzak52dmh0eGNWMURkQWZ5YjhLNk1BRFR0cVIyMFNpR3lIdExrcTBzcVdlTlNvc1BkeHJpd2JOLTRHbU1DNVItSUltQ3hCLUNScFJjVWRlNjY4azluMzNLQ3VFOTdudjFoQnpUMkliYUpHZmFIczAtanc?oc=5",
+   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
+   "published": "2026-09-02",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
+   "published": "2026-08-31",
+   "source": "stocktitan.net"
+  },
+  {
+   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
+   "published": "2026-08-31",
+   "source": "Benzinga"
+  },
+  {
+   "title": "Viking Acquisition Corp. II Financial Statements \u2013 NYSE:VII/W - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odHM4UUZfdkpEYVoxc1FtREpIWHdSRkxxeW8wTkgyRDI3X3U5Y19XVU13MDZMTXZiQnVVb3dmN0x2NkNDTGsydzZtaWtSckVUbmxjTkNNVU9FYklLaUJzQVU0bVpiUm1nVE9HdmQxbnZOTTFzQ0E?oc=5",
    "published": "2026-08-31",
    "source": "TradingView"
   },
   {
-   "title": "ITHAX raises $230M in SPAC IPO to hunt hospitality and AI targets - app.dealroom.co",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHhPSndvVlVOMERWaXBMeF94czhDNDFiTjNTeHZSN1ZORGN6a0FTMjhtSXBveGFpNXVvRm9kM3dQUHhpT0R6MWtDUXVuMlVUNUwtMldxRG8yUWR4d1hZME9JY05NY0xqUkpZcXZDZkRPaWNVSlZlYU8xQ2ZvMmRBTDNOQmQycllmZTJqa09GbkxKMms5c21IR3haOWtvYk0?oc=5",
+   "title": "NorthStrive Acquisition Corp I. Announces the Separate Trading of its Class A Ordinary Shares, Rights and Warrants, Commencing September 2, 2026 - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWmtxRnVUdnpZbi01YkU4b0NYZW8wdGlaeHRxSGVpNmlYem55MFpsNzUyYVpyZE1kOXRQOEpMemhtUnJJUFNKanA4OUdBZ3MweXd1V0kwZ2xRbm1zc0xYTUdyS1Z3S3RubGVRYWIwQVVJemxleHhjLTRiY3VRaU9sMjl3OGg1WE54VEpaem9fTXZLQTh0alVDMXBKdmFXWWg4d1NKZlJPcUdxc0JfWk5xQzFvMjBVRTc3SU1SN3dSYjZFclFtVExYUHZqc3llcW9hYmVKSTMtRXdUcGRKMmFWUjB0SjRFMG01T25ZM1dOMWpLZmttM1Rmc3hmUXJOX0s3NGpCenBjdVl0a2ZoOEZ4TlRLbFR4R0dYeTZXM1FORV95aXR1OVJUY3FsSWdqMG4zVXZWXzhZLWl3d9IBvwJBVV95cUxOQ0twU29sRGFGT3gzdEhxaXFSOUlEREg3Q0V2VjNKemtxTGlvZEk5by1fU2xkbm1yQ0stT2RlS0F1R21yVXZIOTBBS0ZUaFVwVU1KU1BEcjI1Ulp5NzFSbjA2eUpqZ0xWTU1jc0RTSWYyN3ZIMEhfdGwyUXNQbFNPeEpGb0JiWVhGMDNScUtwYktadl9yOWg5SUxXRmoyX0FfT1R2VjZ1eUVvazVWZk5aSkJpYWRnb1VoZTVJRDExTVZ6YnVoMlB5X2tqY01yNERwaDBTWDNJRDVnRmZ2ZGRKNFR0UFpJMEhaRk9UQ1ZobXVodFB0dEtQcmFhWWNydUwtWFNiV1NDY0ZCa2Rxa0ZudWJUZmdhd1VzWk1RQlRzUTVEc3hGZGhQVmFkVDRKbEE2N3pSa3FmdFcwRDNkSUFR?oc=5",
    "published": "2026-08-31",
-   "source": "app.dealroom.co"
-  },
-  {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-08-31",
-   "source": "Stocktwits"
-  },
-  {
-   "title": "Veraxa Biotech (VRXA) CEO now holds 5,000 ordinary shares - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczR0U0F1Ui1TelJsbkhFR3VtVkNhTXV0Mi05VEFTS2ZIeXJsT042OXNRemVrZ0RhMjBhaVNTY0FXQlNSTWhfU2xRaS16a2xkSHFkbXhEZVhpcU0xb185VVJkalNuak5jbEZQMldGTDFjUUw0bmdaTENlalZkN3JXWDlNUnZqN2h3Mk1EaFY5SHJOYU9xSDR2U0FQVTRyeThDeExjbmNFdndlX3pWYjI5LVEyR3FqblppWnlzQ3FYZnl6UQ?oc=5",
-   "published": "2026-08-31",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Ares Acquisition (AAC) Stock Analysis Report | Financials & Insights - benzinga.com",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1AxUmNleFQtUWc2MzBIdkF4eHpWck54eDJMUkxOczk2bnFMZ0tncEw2czRkOFV5bW12V2VVM2FSMW9pLTRNOWljZ01LS3Frcm84?oc=5",
-   "published": "2026-08-31",
-   "source": "benzinga.com"
+   "source": "The Manila Times"
   }
  ],
  "regs": []

@@ -1752,6 +1752,84 @@
    "filed": "2026-08-31",
    "path": "edgar/data/2026767/0001493152-26-040758.txt",
    "blurb": ""
+  },
+  "edgar/data/2128462/0001193125-26-378248.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2128462",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2128462/0001193125-26-378248.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: sports, entertainment, and life sciences he co-founded in 2020 (auto-extracted)"
+  },
+  "edgar/data/2087087/0001104659-26-104338.txt": {
+   "company": "Black Spade Acquisition III Co",
+   "form": "425",
+   "cik": "2087087",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2087087/0001104659-26-104338.txt",
+   "blurb": "business combination with Black Spade Acquisition III Co (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-095894.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2128045/0001213900-26-095894.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/1834032/0001213900-26-096304.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-01",
+   "path": "edgar/data/1834032/0001213900-26-096304.txt",
+   "blurb": "business combination with Jindalee Lithium Limited (auto-extracted)"
+  },
+  "edgar/data/2051985/0001213900-26-095972.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2051985/0001213900-26-095972.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  "edgar/data/2025341/0001213900-26-095886.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2025341/0001213900-26-095886.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2051985/0001213900-26-095968.txt": {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2051985",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2051985/0001213900-26-095968.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-095891.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2025341/0001213900-26-095891.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2089787/0001213900-26-095969.txt": {
+   "company": "RainRock Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2089787",
+   "filed": "2026-09-01",
+   "path": "edgar/data/2089787/0001213900-26-095969.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
   }
  }
 }
