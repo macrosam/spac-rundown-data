@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T11:50:15Z",
+ "generated_at": "2026-09-03T18:50:34Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1433,40 +1433,40 @@
  ],
  "media": [
   {
-   "title": "PlusAI to take autonomous trucking public via a SPAC deal - The Robot Report",
+   "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEFRNFZvNHpMbnpRVExHTlFwTm1TbF9HbVVVaEh1ekdzSGhNdkJHY1BmUldfNkRVQkRBZUpETnBqWVFCRFJNd051OEI5QjcxdU9ZRzU1UDlLbWh2Rk1SVUMwc2ZiOFhZNWlIYjBjVVh1eEg2LWJLQWNuNXpPNkdLWGYwN2lTNVp2akdqemJxVDBzeHkxTjZWM1lFXzdlOGthb0h6Y2xvREx2Y3NKSkdIUnAxdVR0NlVCRUxGTDIxRDlDY1lSRnFz?oc=5",
+   "published": "2026-09-03",
+   "source": "Reuters"
+  },
+  {
+   "title": "PlusAI to take autonomous trucking public via a SPAC deal - therobotreport.com",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE53UExGSEtlS0NYZGlvelViR0ZudTg2cE4taXJOUTFCeTRFZVZiLXdBdXBSZFZVMFFmcXJtc3BLdHMtdlpsblJoQmx0M0lid1BmTWxwNGZTa0pYWlVGN1ZuVmhJTkJQZnpRTE5ROC1xX004eUs4VGZEMkFvV3NXZFZOaFZPMXpOM3NOcXhn?oc=5",
    "published": "2026-09-03",
-   "source": "The Robot Report"
+   "source": "therobotreport.com"
   },
   {
-   "title": "Autonomous trucks are hauling freight in Texas. PlusAI targets a factory-built launch in 2027. - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmxESzEwYzRpcEhHUlR5VTYtcVNNUFpoMTlFWS03LVBISFlXekZjUEJKNjZ6RHBJV2NkUWFVY3dwRHZ2NkpRMmJzRjJoN0pmRDRPbUtXeUJ2dEdpelRNNF9aS1Z2SjFVcGpuSWw1ZXEzbDBZNVdHcUdIMl91azhrQzhpdHU2VmRnbFd6UFRMWXNlMlh6VDFfTGY2b1diVjlnZThIZlMyWG1Jc0VRSHBxUGIyWXV1LWdQVi1BVA?oc=5",
+   "title": "3 Firms Steer Autonomous Truck Tech Co.'s $800M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1dWY3JIeUZXOVpuQ0VwUTNpT1I4cl92N0lMeWRPVUpWa195a0dHM2FPaGFMSXc3cnJsWDBVRjM3X1RiTThzSVNsSWxrNnhXOU53dkM4eE04dEd5T1FaMmk2SFZyMThkdUF4ZjhXcW5pQnlpazZPTnBaUzc0eGVsc1gwX3FVMUxLRW9LdkJVZFBRYWxiTHRmVjVVc0LSAVZBVV95cUxPeFlUSnBNZ0drb1dCVTZENk5jUTJXUHhGUnM0RGNsZXBQVUd3QzFZZGxKdEx6NFRraC1sYm5nZThlMHdRdUx0akJEOC10NmEyN0pSQkRudw?oc=5",
    "published": "2026-09-03",
-   "source": "Stock Titan"
+   "source": "Law360"
   },
   {
-   "title": "Self-Driving Firm PlusAI to Go Public Via Yorkville SPAC Merger - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeV92bFQ1RE9hQ0ZYSnctdVpJWjVSYWxYNDhIZ1ZINGhCR2NQNFc1UzRvWnROS1lsLUFHTFRJVzhXNlAwdGVCNGpKZ3U1ZWcwUl9iaEZQWVVMMEd6R2ZWUmRnTWxucVU4NjVBcnU0cjRncmx2SDZxZmlIempMdHFNNmhxSWtBMjUtV1hPYndLNm5Pb2xLLV9OSXhhQ0hMMC1NRS1vOWxWb09IYXh5eE1JcF9KQ1Y?oc=5",
-   "published": "2026-09-02",
-   "source": "Bloomberg.com"
-  },
-  {
-   "title": "Data443 to go public via SPAC merger with Four Leaf, eyes Nasdaq listing - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTVQM3p6OHVfRXFYY0htWUVFOWhhMVBWVFJIY3AzUzlmNmJOSmlsYWJxTlJlNDlYRTRiSnA1Z0xjQVBjd0M2SkNiLUJNM0dtdWdtUGZxaUUyZlg5MFd0QXplaHQ4NDQxQzFzaXRteFhMRExObF9vQWdnSlc3UExILUZqd24zTU9QU1c3cW9ROWtCS3NGSUhvTFQyX3RDN1FQNk9scG1zeGs?oc=5",
-   "published": "2026-09-02",
+   "title": "PlusAI to go public via SPAC deal at $800M valuation - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDBUWFBld2JyNFR4VU55VWZ4bF9za0l5Um5Wdm9iRFdqbVpSQnZDcjkxTUpMcDgwOTA1WEw3YjlTYXFYUlFXYk9oNzF1ZVlZZWE5U21BYWxsb2lVU0tBS2hLR0daMDd5dXdYVGFZRlNJUWVHdzJsa083a21rdzBmakFKVUZxcjRpZGJLbmln?oc=5",
+   "published": "2026-09-03",
    "source": "Dealroom"
   },
   {
-   "title": "PlusAI Lines Up A SPAC Deal To Go Public - Finimize",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JQURrbFVld0Fac3dWTjhGZFc5TkdON1FyRUhJcUZlc1hVOUdLVU9kZUhpcUI2VXpjYm50Zzc2QXpKY2lIYkcwVTFFQjlpWk5BRmMzbmpqUEEtRDlOQXllV0cwcWpFbkk5bHF2am80OEVmbjZuZ0F2WQ?oc=5",
-   "published": "2026-09-02",
-   "source": "Finimize"
+   "title": "PlusAI to Go Public Through SPAC Merger With Texas Ventures III - Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTVyMkJSVi1SWW41ZkhjX0lIc1VGeUsyeU1DXzg1SlJrSWZ0ZTZMVVFXVzZGZGVyOTRhU2YyYndKeFJGQ1R0RktwVU0zS0dpY2w2V2JtbXVTMmZXSVJieUtrU3ZOenYxaGhMUVBHblJzbkpQQkFNVTRwd3lMdHoxaWYzaTFJaUM3Mjl5MTdB?oc=5",
+   "published": "2026-09-03",
+   "source": "Unite.AI"
   },
   {
-   "title": "Mkango subsidiary files amended F-4 for SPAC merger with CPTK - Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclc3dFdmcmQxVU8tSEo5TkVvVGdtT2J4cDFQTmpqeTdrWWhqZmk5LVFxT204LWMzanY1dUtOVGp5eFlTVGhEcnlfcF81c1VlakxEbXk2OGQ2SlppblJoazk0eTBmbEIzWXRaSjMzbVd1d2FjRmUteVktNXdTU21oeG50LWx0SU42cDFoc1RxZWdBOE8zWUJDU1Q2Tl9QMGpHOE5YQUxQaERFZWxUMEotSzlpZ0QySXFCQWxqSGhn?oc=5",
+   "title": "PlusAI Going Public to Fund Autonomous Truck Launch - Heavy Duty Trucking",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDZiZ0pjQVlReTJGV2c3Nm8wZ0RURlBleS1DLXhzRURGdWg1cExrNmtrM1ZQbWRTUjJRWWV4Qk13TVFnX1FJSzhKbmtVdVZVRjllUmtfVkJrRENqekVUb1BxdWdEbG9ndVpOZmVFZHVFMXBhbU5Ra1ZFdDhGZlZUUmo3VE1GRVlsY0hZVmtB?oc=5",
    "published": "2026-09-03",
-   "source": "Investing.com India"
+   "source": "Heavy Duty Trucking"
   }
  ],
  "regs": []
