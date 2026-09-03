@@ -1830,6 +1830,185 @@
    "filed": "2026-09-01",
    "path": "edgar/data/2089787/0001213900-26-095969.txt",
    "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2028516/0001104659-26-104791.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2028516/0001104659-26-104791.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
+  },
+  "edgar/data/2059654/0001185185-26-003820.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2059654/0001185185-26-003820.txt",
+   "blurb": ""
+  },
+  "edgar/data/2052547/0001104659-26-104743.txt": {
+   "company": "EGH Acquisition Corp.",
+   "form": "425",
+   "cik": "2052547",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2052547/0001104659-26-104743.txt",
+   "blurb": "business combination with EGH (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-096373.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2023676/0001213900-26-096373.txt",
+   "blurb": ""
+  },
+  "edgar/data/2009183/0001829126-26-009618.txt": {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2009183/0001829126-26-009618.txt",
+   "blurb": ""
+  },
+  "edgar/data/2080023/0001213900-26-096704.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2080023/0001213900-26-096704.txt",
+   "blurb": ""
+  },
+  "edgar/data/2073515/0001493152-26-041233.txt": {
+   "company": "ARC Group Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2073515",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2073515/0001493152-26-041233.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2059654/0001185185-26-003819.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2059654/0001185185-26-003819.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2052547/0001104659-26-104740.txt": {
+   "company": "EGH Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2052547",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2052547/0001104659-26-104740.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2000410/0001213900-26-096465.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2000410/0001213900-26-096465.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/1936255/0001493152-26-041247.txt": {
+   "company": "Four Leaf Acquisition Corp",
+   "form": "8-K",
+   "cik": "1936255",
+   "filed": "2026-09-02",
+   "path": "edgar/data/1936255/0001493152-26-041247.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2146310/0001213900-26-096744.txt": {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2146310/0001213900-26-096744.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2145659/0001213900-26-096806.txt": {
+   "company": "JATT III Acquisition Corp",
+   "form": "8-K",
+   "cik": "2145659",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2145659/0001213900-26-096806.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2049248/0001929980-26-000520.txt": {
+   "company": "Lakeshore Acquisition III Corp.",
+   "form": "8-K",
+   "cik": "2049248",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2049248/0001929980-26-000520.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2070900/0001829126-26-009623.txt": {
+   "company": "Quantumsphere Acquisition Corp",
+   "form": "8-K",
+   "cik": "2070900",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2070900/0001829126-26-009623.txt",
+   "items": [
+    "Termination of a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2133239/0001929980-26-000525.txt": {
+   "company": "Southern Cross Acquisition II Corp.",
+   "form": "8-K",
+   "cik": "2133239",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2133239/0001929980-26-000525.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2080023/0001213900-26-096700.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2080023",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2080023/0001213900-26-096700.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2111838/0001193125-26-380080.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2111838/0001193125-26-380080.txt",
+   "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
   }
  }
 }

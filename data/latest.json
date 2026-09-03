@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T18:50:13Z",
+ "generated_at": "2026-09-03T11:50:15Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -118,6 +118,14 @@
  ],
  "amends": [
   {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2111838/0001193125-26-380080.txt",
+   "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Giant Oak Acquisition Corp",
    "form": "S-1/A",
    "cik": "1858939",
@@ -191,6 +199,82 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2028516/0001104659-26-104791.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2059654/0001185185-26-003820.txt"
+  },
+  {
+   "company": "EGH Acquisition Corp.",
+   "form": "425",
+   "cik": "2052547",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2052547/0001104659-26-104743.txt",
+   "blurb": "business combination with EGH (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2023676/0001213900-26-096373.txt"
+  },
+  {
+   "company": "Titan Acquisition Corp.",
+   "form": "425",
+   "cik": "2009183",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2009183/0001829126-26-009618.txt"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2080023/0001213900-26-096704.txt"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2059654/0001185185-26-003819.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Four Leaf Acquisition Corp",
+   "form": "8-K",
+   "cik": "1936255",
+   "filed": "2026-09-02",
+   "path": "edgar/data/1936255/0001493152-26-041247.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2146310/0001213900-26-096744.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Quantumsphere Acquisition Corp",
+   "form": "8-K",
+   "cik": "2070900",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2070900/0001829126-26-009623.txt",
+   "note": "8-K: termination of material agreement"
+  },
   {
    "company": "Black Spade Acquisition III Co",
    "form": "425",
@@ -856,6 +940,22 @@
  ],
  "votes": [
   {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2146310/0001213900-26-096744.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2080023",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2080023/0001213900-26-096700.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
    "company": "Andretti Acquisition Corp. II",
    "form": "DEFA14A",
    "cik": "2025341",
@@ -1034,6 +1134,14 @@
  ],
  "pipes": [
   {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2146310/0001213900-26-096744.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
    "company": "JATT III Acquisition Corp",
    "form": "8-K",
    "cik": "2145659",
@@ -1083,6 +1191,14 @@
   }
  ],
  "sponsors": [
+  {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2146310/0001213900-26-096744.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "JATT III Acquisition Corp",
    "form": "8-K",
@@ -1157,6 +1273,22 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "ARC Group Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2073515",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2073515/0001493152-26-041233.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000410",
+   "filed": "2026-09-02",
+   "path": "edgar/data/2000410/0001213900-26-096465.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Three Lions Acquisition Corp.",
    "form": "8-A12B",
@@ -1301,40 +1433,40 @@
  ],
  "media": [
   {
+   "title": "PlusAI to take autonomous trucking public via a SPAC deal - The Robot Report",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE53UExGSEtlS0NYZGlvelViR0ZudTg2cE4taXJOUTFCeTRFZVZiLXdBdXBSZFZVMFFmcXJtc3BLdHMtdlpsblJoQmx0M0lid1BmTWxwNGZTa0pYWlVGN1ZuVmhJTkJQZnpRTE5ROC1xX004eUs4VGZEMkFvV3NXZFZOaFZPMXpOM3NOcXhn?oc=5",
+   "published": "2026-09-03",
+   "source": "The Robot Report"
+  },
+  {
+   "title": "Autonomous trucks are hauling freight in Texas. PlusAI targets a factory-built launch in 2027. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmxESzEwYzRpcEhHUlR5VTYtcVNNUFpoMTlFWS03LVBISFlXekZjUEJKNjZ6RHBJV2NkUWFVY3dwRHZ2NkpRMmJzRjJoN0pmRDRPbUtXeUJ2dEdpelRNNF9aS1Z2SjFVcGpuSWw1ZXEzbDBZNVdHcUdIMl91azhrQzhpdHU2VmRnbFd6UFRMWXNlMlh6VDFfTGY2b1diVjlnZThIZlMyWG1Jc0VRSHBxUGIyWXV1LWdQVi1BVA?oc=5",
+   "published": "2026-09-03",
+   "source": "Stock Titan"
+  },
+  {
+   "title": "Self-Driving Firm PlusAI to Go Public Via Yorkville SPAC Merger - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeV92bFQ1RE9hQ0ZYSnctdVpJWjVSYWxYNDhIZ1ZINGhCR2NQNFc1UzRvWnROS1lsLUFHTFRJVzhXNlAwdGVCNGpKZ3U1ZWcwUl9iaEZQWVVMMEd6R2ZWUmRnTWxucVU4NjVBcnU0cjRncmx2SDZxZmlIempMdHFNNmhxSWtBMjUtV1hPYndLNm5Pb2xLLV9OSXhhQ0hMMC1NRS1vOWxWb09IYXh5eE1JcF9KQ1Y?oc=5",
+   "published": "2026-09-02",
+   "source": "Bloomberg.com"
+  },
+  {
    "title": "Data443 to go public via SPAC merger with Four Leaf, eyes Nasdaq listing - Dealroom",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTVQM3p6OHVfRXFYY0htWUVFOWhhMVBWVFJIY3AzUzlmNmJOSmlsYWJxTlJlNDlYRTRiSnA1Z0xjQVBjd0M2SkNiLUJNM0dtdWdtUGZxaUUyZlg5MFd0QXplaHQ4NDQxQzFzaXRteFhMRExObF9vQWdnSlc3UExILUZqd24zTU9QU1c3cW9ROWtCS3NGSUhvTFQyX3RDN1FQNk9scG1zeGs?oc=5",
    "published": "2026-09-02",
    "source": "Dealroom"
   },
   {
-   "title": "Rainier Acquisition plans $75M SPAC IPO - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW1PTWRVT3NMVDg3ZjlYaTA2WXZQZ3J4My1EcmlFVkdGZlVSNk1EekhwT0tDdUxFeTlkQmUwWTBRM2xYcVVXOTd6TTZlU28xTUZuSW02NWNEN1NiV0lxVExQMlFreXlzUW5rVjNTV3BVajJiWDl5d2pmaXRuQ19SY2x5Z1hrSlNSODFDaFVpdmdpNFBTUWRHRkhFbU1waFdHOU5UYjdqRWNrX2VuRmQxVGRnZkZXVC1Zc0VFYnBsMkw1SzFkcEE?oc=5",
+   "title": "PlusAI Lines Up A SPAC Deal To Go Public - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JQURrbFVld0Fac3dWTjhGZFc5TkdON1FyRUhJcUZlc1hVOUdLVU9kZUhpcUI2VXpjYm50Zzc2QXpKY2lIYkcwVTFFQjlpWk5BRmMzbmpqUEEtRDlOQXllV0cwcWpFbkk5bHF2am80OEVmbjZuZ0F2WQ?oc=5",
    "published": "2026-09-02",
-   "source": "Stock Titan"
+   "source": "Finimize"
   },
   {
-   "title": "French quantum computing firm Pasqal completes SPAC merger and goes public - datacenterdynamics.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXpGazJOdzRMZ1lHVnV0YWVtVDhZOXdiN0NFWXlmX2d5UU0teklRdWphNXFlQlhvUFYzZW5WMm05bS01c1Z2aXhFRFg5N0U0SkRGYk1xWkQ4SXVIbzJIcVc5X2VfQWxHMEk2Snk1dlRrOVF6dWRKWC1ieXM4emJ2UUJ3ZFZpN0tiTTVoZGhFVTYtUGJYVUpuYlNpN2FqcHpseDc1YWdrMzRJZHlsYkMyQm1QM3VSTVoyWWc?oc=5",
-   "published": "2026-09-01",
-   "source": "datacenterdynamics.com"
-  },
-  {
-   "title": "Blank-check firm Haymaker Acquisition Corp V (HYAC) lines up $250M IPO to hunt consumer and industrial deals - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWlaU19EejBydy1mMmhyd0JQVG52REJEdmVpc2dJeUVJUHMwQWJZQ3c5MTg3dXVlbGVDczhaSkVtYS1SZGt2dERtNjVOSGVrOWs2UEhnUGgyMTRyN01jcmx1TkFKSGNNSUFOVUh0RlB3ZjR5SnZlTlowOWdvaUJwYm4xU1UtQ0NzNDQyZFllUE12WFNGaWR4RlRWaUhuOXo1R2Y0TzVOd0pCWDRtREczUGxYWXZVTmdiNUc5RE9VdDcxdUtF?oc=5",
-   "published": "2026-09-02",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "JAB Acquisition Corp I Financial Statements \u2013 NASDAQ:ATLQ - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFZRWZIdDFTcnp3MlhlYVpTbDI5SmhodXFFSkNJX2ZDRjd3MkVQZVBIbU8tYUZGamg4OThwRTF6T096dmlOYXB6cHF0LUdEOEh6UVktRE91Z0NGUC1mYTNBM0pDSU91b0d2eUFHNExiVGhab0J6ZFJfUDFtbDZ1YlNuT2swNGRVN3VOTm1zS3BNNUU?oc=5",
-   "published": "2026-09-02",
-   "source": "TradingView"
-  },
-  {
-   "title": "NorthStrive Acquisition Corp I. Announces the Separate Trading of its Class A Ordinary Shares, Rights and Warrants, Commencing September 2, 2026 - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWmtxRnVUdnpZbi01YkU4b0NYZW8wdGlaeHRxSGVpNmlYem55MFpsNzUyYVpyZE1kOXRQOEpMemhtUnJJUFNKanA4OUdBZ3MweXd1V0kwZ2xRbm1zc0xYTUdyS1Z3S3RubGVRYWIwQVVJemxleHhjLTRiY3VRaU9sMjl3OGg1WE54VEpaem9fTXZLQTh0alVDMXBKdmFXWWg4d1NKZlJPcUdxc0JfWk5xQzFvMjBVRTc3SU1SN3dSYjZFclFtVExYUHZqc3llcW9hYmVKSTMtRXdUcGRKMmFWUjB0SjRFMG01T25ZM1dOMWpLZmttM1Rmc3hmUXJOX0s3NGpCenBjdVl0a2ZoOEZ4TlRLbFR4R0dYeTZXM1FORV95aXR1OVJUY3FsSWdqMG4zVXZWXzhZLWl3d9IBvwJBVV95cUxOQ0twU29sRGFGT3gzdEhxaXFSOUlEREg3Q0V2VjNKemtxTGlvZEk5by1fU2xkbm1yQ0stT2RlS0F1R21yVXZIOTBBS0ZUaFVwVU1KU1BEcjI1Ulp5NzFSbjA2eUpqZ0xWTU1jc0RTSWYyN3ZIMEhfdGwyUXNQbFNPeEpGb0JiWVhGMDNScUtwYktadl9yOWg5SUxXRmoyX0FfT1R2VjZ1eUVvazVWZk5aSkJpYWRnb1VoZTVJRDExTVZ6YnVoMlB5X2tqY01yNERwaDBTWDNJRDVnRmZ2ZGRKNFR0UFpJMEhaRk9UQ1ZobXVodFB0dEtQcmFhWWNydUwtWFNiV1NDY0ZCa2Rxa0ZudWJUZmdhd1VzWk1RQlRzUTVEc3hGZGhQVmFkVDRKbEE2N3pSa3FmdFcwRDNkSUFR?oc=5",
-   "published": "2026-08-31",
-   "source": "The Manila Times"
+   "title": "Mkango subsidiary files amended F-4 for SPAC merger with CPTK - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclc3dFdmcmQxVU8tSEo5TkVvVGdtT2J4cDFQTmpqeTdrWWhqZmk5LVFxT204LWMzanY1dUtOVGp5eFlTVGhEcnlfcF81c1VlakxEbXk2OGQ2SlppblJoazk0eTBmbEIzWXRaSjMzbVd1d2FjRmUteVktNXdTU21oeG50LWx0SU42cDFoc1RxZWdBOE8zWUJDU1Q2Tl9QMGpHOE5YQUxQaERFZWxUMEotSzlpZ0QySXFCQWxqSGhn?oc=5",
+   "published": "2026-09-03",
+   "source": "Investing.com India"
   }
  ],
  "regs": []
