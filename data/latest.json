@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:50:11Z",
+ "generated_at": "2026-09-04T18:50:06Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1639,22 +1639,22 @@
    "source": "Law360"
   },
   {
-   "title": "Self-driving firm PlusAI to go public via Yorkville SPAC merger - Equipment Finance News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVVqM3ZkNVRRTlhPMlk4V2lUN2FMRU1WbnIwc0JNc0ZIaGI3amRLR2hTZFpWZGxkVDRlc28tcEdXV1o4YWR2U2pVRDIxa0MyeUw3dnlrZnUyMVFubGdpa1c5d2FWYnZNZVVyamNJdm5IdkZQS0VZSDZSLXl2OWVwQ2ZpcXhjS0lKZzUxcEpqajE0am8yb181eEhReHRkcG5OUmZadVFjaWNISnJUeU5ETGZkN2swN3BP?oc=5",
-   "published": "2026-09-03",
-   "source": "Equipment Finance News"
-  },
-  {
    "title": "PlusAI to take autonomous trucking public via a SPAC deal - The Robot Report",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE53UExGSEtlS0NYZGlvelViR0ZudTg2cE4taXJOUTFCeTRFZVZiLXdBdXBSZFZVMFFmcXJtc3BLdHMtdlpsblJoQmx0M0lid1BmTWxwNGZTa0pYWlVGN1ZuVmhJTkJQZnpRTE5ROC1xX004eUs4VGZEMkFvV3NXZFZOaFZPMXpOM3NOcXhn?oc=5",
    "published": "2026-09-03",
    "source": "The Robot Report"
   },
   {
-   "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal - reuters.com",
+   "title": "Self-driving firm PlusAI to go public via Yorkville SPAC merger - Equipment Finance News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVVqM3ZkNVRRTlhPMlk4V2lUN2FMRU1WbnIwc0JNc0ZIaGI3amRLR2hTZFpWZGxkVDRlc28tcEdXV1o4YWR2U2pVRDIxa0MyeUw3dnlrZnUyMVFubGdpa1c5d2FWYnZNZVVyamNJdm5IdkZQS0VZSDZSLXl2OWVwQ2ZpcXhjS0lKZzUxcEpqajE0am8yb181eEhReHRkcG5OUmZadVFjaWNISnJUeU5ETGZkN2swN3BP?oc=5",
+   "published": "2026-09-03",
+   "source": "Equipment Finance News"
+  },
+  {
+   "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal - Reuters",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEFRNFZvNHpMbnpRVExHTlFwTm1TbF9HbVVVaEh1ekdzSGhNdkJHY1BmUldfNkRVQkRBZUpETnBqWVFCRFJNd051OEI5QjcxdU9ZRzU1UDlLbWh2Rk1SVUMwc2ZiOFhZNWlIYjBjVVh1eEg2LWJLQWNuNXpPNkdLWGYwN2lTNVp2akdqemJxVDBzeHkxTjZWM1lFXzdlOGthb0h6Y2xvREx2Y3NKSkdIUnAxdVR0NlVCRUxGTDIxRDlDY1lSRnFz?oc=5",
    "published": "2026-09-03",
-   "source": "reuters.com"
+   "source": "Reuters"
   },
   {
    "title": "NT1 To Go Public Through $500 Million SPAC Merger With Plutonian Acquisition Corp. II - Pulse 2.0",
