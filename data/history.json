@@ -2009,6 +2009,233 @@
    "filed": "2026-09-02",
    "path": "edgar/data/2111838/0001193125-26-380080.txt",
    "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2128045/0001213900-26-096871.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2128045/0001213900-26-096871.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2028355/0001213900-26-097275.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2028355/0001213900-26-097275.txt",
+   "blurb": ""
+  },
+  "edgar/data/2088805/0001213900-26-096853.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2088805/0001213900-26-096853.txt",
+   "blurb": "business combination with Inflection Point Acquisition Corp. VII (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-097281.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2023676/0001213900-26-097281.txt",
+   "blurb": ""
+  },
+  "edgar/data/2065661/0001477932-26-005399.txt": {
+   "company": "Plutonian Acquisition Corp. II",
+   "form": "425",
+   "cik": "2065661",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2065661/0001477932-26-005399.txt",
+   "blurb": ""
+  },
+  "edgar/data/2035016/0001213900-26-096911.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "425",
+   "cik": "2035016",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2035016/0001213900-26-096911.txt",
+   "blurb": "business combination with Ribbon (auto-extracted)"
+  },
+  "edgar/data/2025608/0001493152-26-041393.txt": {
+   "company": "Soulpower Acquisition Corp.",
+   "form": "425",
+   "cik": "2025608",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025608/0001493152-26-041393.txt",
+   "blurb": ""
+  },
+  "edgar/data/2033991/0001104659-26-104864.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104864.txt",
+   "blurb": ""
+  },
+  "edgar/data/2033991/0001104659-26-104926.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104926.txt",
+   "blurb": ""
+  },
+  "edgar/data/2053927/0001829126-26-009714.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "425",
+   "cik": "2053927",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2053927/0001829126-26-009714.txt",
+   "blurb": ""
+  },
+  "edgar/data/1901336/0001104659-26-104880.txt": {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "1901336",
+   "filed": "2026-09-03",
+   "path": "edgar/data/1901336/0001104659-26-104880.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-096872.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-096872.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-097296.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-097296.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028355/0001213900-26-097265.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2028355/0001213900-26-097265.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2065661/0001477932-26-005397.txt": {
+   "company": "Plutonian Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2065661",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2065661/0001477932-26-005397.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2147219/0001104659-26-105110.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2147219/0001104659-26-105110.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-096875.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2035016/0001213900-26-096875.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2025608/0001493152-26-041389.txt": {
+   "company": "Soulpower Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2025608",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025608/0001493152-26-041389.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2033991/0001104659-26-104858.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104858.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2053927/0001829126-26-009713.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2053927/0001829126-26-009713.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-096879.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-096879.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2025341/0001213900-26-097299.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-097299.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1978528/0001493152-26-041291.txt": {
+   "company": "Quetta Acquisition Corp",
+   "form": "F-4",
+   "cik": "1978528",
+   "filed": "2026-09-03",
+   "path": "edgar/data/1978528/0001493152-26-041291.txt",
+   "blurb": ""
+  },
+  "edgar/data/2017950/0001493152-26-041391.txt": {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2017950",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2017950/0001493152-26-041391.txt",
+   "blurb": "meeting December 31, 2026; extension on the agenda (auto-extracted)"
   }
  }
 }

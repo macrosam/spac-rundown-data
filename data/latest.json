@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T18:50:34Z",
+ "generated_at": "2026-09-04T11:50:11Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -199,6 +199,134 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2128045/0001213900-26-096871.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "425",
+   "cik": "2028355",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2028355/0001213900-26-097275.txt"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2088805/0001213900-26-096853.txt",
+   "blurb": "business combination with Inflection Point Acquisition Corp. VII (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2023676/0001213900-26-097281.txt"
+  },
+  {
+   "company": "Plutonian Acquisition Corp. II",
+   "form": "425",
+   "cik": "2065661",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2065661/0001477932-26-005399.txt"
+  },
+  {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "425",
+   "cik": "2035016",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2035016/0001213900-26-096911.txt",
+   "blurb": "business combination with Ribbon (auto-extracted)"
+  },
+  {
+   "company": "Soulpower Acquisition Corp.",
+   "form": "425",
+   "cik": "2025608",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025608/0001493152-26-041393.txt"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104864.txt"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104926.txt"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "425",
+   "cik": "2053927",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2053927/0001829126-26-009714.txt"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-096872.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-097296.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2035016/0001213900-26-096875.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Soulpower Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2025608",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025608/0001493152-26-041389.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104858.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2053927/0001829126-26-009713.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Quetta Acquisition Corp",
+   "form": "F-4",
+   "cik": "1978528",
+   "filed": "2026-09-03",
+   "path": "edgar/data/1978528/0001493152-26-041291.txt"
+  },
   {
    "company": "Archimedes Tech SPAC Partners II Co.",
    "form": "425",
@@ -940,6 +1068,46 @@
  ],
  "votes": [
   {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "1901336",
+   "filed": "2026-09-03",
+   "path": "edgar/data/1901336/0001104659-26-104880.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2028355/0001213900-26-097265.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-096879.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2025341/0001213900-26-097299.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2017950",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2017950/0001493152-26-041391.txt",
+   "blurb": "meeting December 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Inflection Point Acquisition Corp. VIII",
    "form": "8-K",
    "cik": "2146310",
@@ -1133,6 +1301,38 @@
   }
  ],
  "pipes": [
+  {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2147219/0001104659-26-105110.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2035016/0001213900-26-096875.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "8-K",
+   "cik": "2033991",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2033991/0001104659-26-104858.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-03",
+   "path": "edgar/data/2053927/0001829126-26-009713.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Inflection Point Acquisition Corp. VIII",
    "form": "8-K",
@@ -1433,40 +1633,40 @@
  ],
  "media": [
   {
-   "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEFRNFZvNHpMbnpRVExHTlFwTm1TbF9HbVVVaEh1ekdzSGhNdkJHY1BmUldfNkRVQkRBZUpETnBqWVFCRFJNd051OEI5QjcxdU9ZRzU1UDlLbWh2Rk1SVUMwc2ZiOFhZNWlIYjBjVVh1eEg2LWJLQWNuNXpPNkdLWGYwN2lTNVp2akdqemJxVDBzeHkxTjZWM1lFXzdlOGthb0h6Y2xvREx2Y3NKSkdIUnAxdVR0NlVCRUxGTDIxRDlDY1lSRnFz?oc=5",
-   "published": "2026-09-03",
-   "source": "Reuters"
-  },
-  {
-   "title": "PlusAI to take autonomous trucking public via a SPAC deal - therobotreport.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE53UExGSEtlS0NYZGlvelViR0ZudTg2cE4taXJOUTFCeTRFZVZiLXdBdXBSZFZVMFFmcXJtc3BLdHMtdlpsblJoQmx0M0lid1BmTWxwNGZTa0pYWlVGN1ZuVmhJTkJQZnpRTE5ROC1xX004eUs4VGZEMkFvV3NXZFZOaFZPMXpOM3NOcXhn?oc=5",
-   "published": "2026-09-03",
-   "source": "therobotreport.com"
-  },
-  {
-   "title": "3 Firms Steer Autonomous Truck Tech Co.'s $800M SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1dWY3JIeUZXOVpuQ0VwUTNpT1I4cl92N0lMeWRPVUpWa195a0dHM2FPaGFMSXc3cnJsWDBVRjM3X1RiTThzSVNsSWxrNnhXOU53dkM4eE04dEd5T1FaMmk2SFZyMThkdUF4ZjhXcW5pQnlpazZPTnBaUzc0eGVsc1gwX3FVMUxLRW9LdkJVZFBRYWxiTHRmVjVVc0LSAVZBVV95cUxPeFlUSnBNZ0drb1dCVTZENk5jUTJXUHhGUnM0RGNsZXBQVUd3QzFZZGxKdEx6NFRraC1sYm5nZThlMHdRdUx0akJEOC10NmEyN0pSQkRudw?oc=5",
-   "published": "2026-09-03",
+   "title": "Australian Mineral Biz To Go Public Via $500M SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1scXYzY0swbnFDOEhjVGV0Sm1YSmkzTm93QmpRNGZPQ3pNWFJuWC1aSDFnUkNxTG5CUGdXSDFNRXBlT3E2U0dYRW9HUVVDV0VBS1V1VWRB0gFWQVVfeXFMTWxxdjNjSzBucUM4SGNUZXRKbVhKaTNOb3dCalE0Zk9Dek1YUm5YLVpIMWdSQ3FMbkJQZ1dIMU1FcGVPcTZTR1hFb0dRVUNXRUFLVXVVZEE?oc=5",
+   "published": "2026-09-04",
    "source": "Law360"
   },
   {
-   "title": "PlusAI to go public via SPAC deal at $800M valuation - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDBUWFBld2JyNFR4VU55VWZ4bF9za0l5Um5Wdm9iRFdqbVpSQnZDcjkxTUpMcDgwOTA1WEw3YjlTYXFYUlFXYk9oNzF1ZVlZZWE5U21BYWxsb2lVU0tBS2hLR0daMDd5dXdYVGFZRlNJUWVHdzJsa083a21rdzBmakFKVUZxcjRpZGJLbmln?oc=5",
+   "title": "Self-driving firm PlusAI to go public via Yorkville SPAC merger - Equipment Finance News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVVqM3ZkNVRRTlhPMlk4V2lUN2FMRU1WbnIwc0JNc0ZIaGI3amRLR2hTZFpWZGxkVDRlc28tcEdXV1o4YWR2U2pVRDIxa0MyeUw3dnlrZnUyMVFubGdpa1c5d2FWYnZNZVVyamNJdm5IdkZQS0VZSDZSLXl2OWVwQ2ZpcXhjS0lKZzUxcEpqajE0am8yb181eEhReHRkcG5OUmZadVFjaWNISnJUeU5ETGZkN2swN3BP?oc=5",
    "published": "2026-09-03",
-   "source": "Dealroom"
+   "source": "Equipment Finance News"
   },
   {
-   "title": "PlusAI to Go Public Through SPAC Merger With Texas Ventures III - Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTVyMkJSVi1SWW41ZkhjX0lIc1VGeUsyeU1DXzg1SlJrSWZ0ZTZMVVFXVzZGZGVyOTRhU2YyYndKeFJGQ1R0RktwVU0zS0dpY2w2V2JtbXVTMmZXSVJieUtrU3ZOenYxaGhMUVBHblJzbkpQQkFNVTRwd3lMdHoxaWYzaTFJaUM3Mjl5MTdB?oc=5",
+   "title": "PlusAI to take autonomous trucking public via a SPAC deal - The Robot Report",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcE53UExGSEtlS0NYZGlvelViR0ZudTg2cE4taXJOUTFCeTRFZVZiLXdBdXBSZFZVMFFmcXJtc3BLdHMtdlpsblJoQmx0M0lid1BmTWxwNGZTa0pYWlVGN1ZuVmhJTkJQZnpRTE5ROC1xX004eUs4VGZEMkFvV3NXZFZOaFZPMXpOM3NOcXhn?oc=5",
    "published": "2026-09-03",
-   "source": "Unite.AI"
+   "source": "The Robot Report"
   },
   {
-   "title": "PlusAI Going Public to Fund Autonomous Truck Launch - Heavy Duty Trucking",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDZiZ0pjQVlReTJGV2c3Nm8wZ0RURlBleS1DLXhzRURGdWg1cExrNmtrM1ZQbWRTUjJRWWV4Qk13TVFnX1FJSzhKbmtVdVZVRjllUmtfVkJrRENqekVUb1BxdWdEbG9ndVpOZmVFZHVFMXBhbU5Ra1ZFdDhGZlZUUmo3VE1GRVlsY0hZVmtB?oc=5",
+   "title": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal - reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEFRNFZvNHpMbnpRVExHTlFwTm1TbF9HbVVVaEh1ekdzSGhNdkJHY1BmUldfNkRVQkRBZUpETnBqWVFCRFJNd051OEI5QjcxdU9ZRzU1UDlLbWh2Rk1SVUMwc2ZiOFhZNWlIYjBjVVh1eEg2LWJLQWNuNXpPNkdLWGYwN2lTNVp2akdqemJxVDBzeHkxTjZWM1lFXzdlOGthb0h6Y2xvREx2Y3NKSkdIUnAxdVR0NlVCRUxGTDIxRDlDY1lSRnFz?oc=5",
    "published": "2026-09-03",
-   "source": "Heavy Duty Trucking"
+   "source": "reuters.com"
+  },
+  {
+   "title": "NT1 To Go Public Through $500 Million SPAC Merger With Plutonian Acquisition Corp. II - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2RCYnVyZ1N0dC1ZYWU1dXhwYXFlY0NwYjlSbmlPU0JVc1lBRWNtNmZFNWJDTnYxX1lneGsxbHlON0sybEh3VlVUckROMDNwOTQ0TXZCSTRVNmRaZm05YzkzYkl6dUNZcXpNVFBKUXFTeFhTRUFPWnJjMjNUa1NhWndMcmVZcXcyTG1tTUlDNzNmdi1hVDBiT2hMQ0xKdnVPWVQ5dU9n0gGrAUFVX3lxTFB0MTZfN1ExOUdUVmZNUzdycVRhNUYwU1dBMnJBazF2SXpYYkcwU09vaXNYVWY2VEp5THRYVUV6Qm5YTzVMTlZITTBtMUpLUDBiWXBCVGk1ZTRqWXNsaWMwT1ZybnAyaWRDWVd3dFJ5Tmo2aWNBTVBraGJOZXhpV0hvdXNWRDNscGFhUjNibGlobC1KTm5wTUlDM09KZUtsQ3VnNzhpeWhnSXJHNA?oc=5",
+   "published": "2026-09-03",
+   "source": "Pulse 2.0"
+  },
+  {
+   "title": "Rainier Acquisition (RNAQU) sets aside $75M to hunt its first deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczY1ZXFoREJ2djBLZktKNjBDckw1Q3NrSng0ajMxRW80RmNyUmRBMlFLZGNXWk4xamlGMkY4Z1VLOXdDVkw2TVR0SVpMaWJQbkhlRUpVdHpyMUJLeVh1eHJHT3EyTW9Fc0hMVUVLNWlvMnNxM0dvQUg5WmJ2bTJUYmJWMjdHRXNPZ0F5bFZtc2ppQXp3WHRRMGNZODhMWFlES2JSR0hxclBGSzhpNmJDT1YteGg?oc=5",
+   "published": "2026-09-03",
+   "source": "Stock Titan"
   }
  ],
  "regs": []
