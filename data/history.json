@@ -2236,6 +2236,164 @@
    "filed": "2026-09-03",
    "path": "edgar/data/2017950/0001493152-26-041391.txt",
    "blurb": "meeting December 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2079109/0001829126-26-009753.txt": {
+   "company": "Veraxa Biotech AG - Post de-SPAC",
+   "form": "424B3",
+   "cik": "2079109",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2079109/0001829126-26-009753.txt",
+   "blurb": "offering $50,000,000 (auto-extracted)"
+  },
+  "edgar/data/2079109/0001829126-26-009754.txt": {
+   "company": "Veraxa Biotech AG - Post de-SPAC",
+   "form": "424B3",
+   "cik": "2079109",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2079109/0001829126-26-009754.txt",
+   "blurb": ""
+  },
+  "edgar/data/2110119/0001213900-26-097666.txt": {
+   "company": "AMR Resources Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2110119",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2110119/0001213900-26-097666.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1901336/0001104659-26-105532.txt": {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "1901336",
+   "filed": "2026-09-04",
+   "path": "edgar/data/1901336/0001104659-26-105532.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2079173/0001193125-26-383659.txt": {
+   "company": "American Exceptionalism Acquisition Corp. A",
+   "form": "8-K",
+   "cik": "2079173",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2079173/0001193125-26-383659.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2146310/0001213900-26-097736.txt": {
+   "company": "Inflection Point Acquisition Corp. VIII",
+   "form": "8-K",
+   "cik": "2146310",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2146310/0001213900-26-097736.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2122505/0001104659-26-105500.txt": {
+   "company": "Irenic Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2122505",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2122505/0001104659-26-105500.txt",
+   "items": [
+    "Changes in Registrant's Certifying Accountant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030829/0001213900-26-097703.txt": {
+   "company": "PANTAGES CAPITAL ACQUISITION Corp",
+   "form": "8-K",
+   "cik": "2030829",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2030829/0001213900-26-097703.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2128462/0001193125-26-383643.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2128462",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2128462/0001193125-26-383643.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1998781/0001493152-26-041539.txt": {
+   "company": "IB Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1998781",
+   "filed": "2026-09-04",
+   "path": "edgar/data/1998781/0001493152-26-041539.txt",
+   "blurb": "meeting September 24, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1901336/0001104659-26-105536.txt": {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "DEFA14A",
+   "cik": "1901336",
+   "filed": "2026-09-04",
+   "path": "edgar/data/1901336/0001104659-26-105536.txt",
+   "blurb": "meeting September 8, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-097631.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2023676",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2023676/0001213900-26-097631.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2151558/0001213900-26-097368.txt": {
+   "company": "Legion Capital Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2151558",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2151558/0001213900-26-097368.txt",
+   "blurb": ""
+  },
+  "edgar/data/2148245/0001185185-26-003850.txt": {
+   "company": "New Iceland Arctic Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2148245",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2148245/0001185185-26-003850.txt",
+   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit; focus: compelling and underappreciated companies in high-growth sectors (auto-extracted)"
+  },
+  "edgar/data/2135163/0001829126-26-009779.txt": {
+   "company": "Albatross Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2135163",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2135163/0001829126-26-009779.txt",
+   "blurb": ""
+  },
+  "edgar/data/2000775/0001829126-26-009732.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000775",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2000775/0001829126-26-009732.txt",
+   "blurb": ""
+  },
+  "edgar/data/2026767/0001493152-26-041476.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2026767",
+   "filed": "2026-09-04",
+   "path": "edgar/data/2026767/0001493152-26-041476.txt",
+   "blurb": ""
   }
  }
 }
