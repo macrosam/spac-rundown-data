@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T18:49:44Z",
+ "generated_at": "2026-09-08T11:50:02Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1762,16 +1762,22 @@
    "source": "Startup Fortune"
   },
   {
+   "title": "XRP Seoul 2026 Unveils Second Speaker Lineup, Adding Evernorth and South Korean Finance Executives - en.bloomingbit.io",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYVgtbExwNGFSeWlQRnhNZDZ3NGNHZ0JwTmRVajA2eTRwWjljLVNwMEhranRnSEtpVWcxWGRqejN0V01McFg1MHhnSG9iVVNTeXJIbw?oc=5",
+   "published": "2026-09-07",
+   "source": "en.bloomingbit.io"
+  },
+  {
    "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC - The Robot Report",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
    "published": "2026-09-07",
    "source": "The Robot Report"
   },
   {
-   "title": "XRP Seoul 2026 Unveils Second Speaker Lineup, Adding Evernorth and South Korean Finance Executives - bloomingbit",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYVgtbExwNGFSeWlQRnhNZDZ3NGNHZ0JwTmRVajA2eTRwWjljLVNwMEhranRnSEtpVWcxWGRqejN0V01McFg1MHhnSG9iVVNTeXJIbw?oc=5",
+   "title": "Altenergy Acq Corp A (AEAE) Stock Price and News - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMZmFLX29RSC1Kbl9qWlRtY1p2QldUSEZXQTY3d1o3Y0diQl80YXkyQkE4ajA0OXY4b0Z5UVNXVTdaMU0zQWxKbUkzU00yWDUyVHF1OW9wenBFMTA1M194NW8tTUZFVURuMTJMRmRoQQ?oc=5",
    "published": "2026-09-07",
-   "source": "bloomingbit"
+   "source": "The Globe and Mail"
   },
   {
    "title": "Tokenized stocks market hits $3.1B record as SECZ leads $29M surge - The Cryptonomist",
@@ -1780,16 +1786,10 @@
    "source": "The Cryptonomist"
   },
   {
-   "title": "IPVV Stock: Price, Forecast, Financials & AI Analysis - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93M0QtaDNxdGVKLVJQQ3Y2OUhxbklraTJrYTZuXzZUMUJVVDJLbVFSRTNIemVYeVhGeHgwMHRNczJ3RkhQWmd5aw?oc=5",
-   "published": "2026-09-06",
-   "source": "Intellectia AI"
-  },
-  {
-   "title": "OpenPayd Targets Nasdaq In $1.145 Billion SPAC Deal With 43 U.S. Licences - ascendants.in",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTFiQURBeVpEVElyY1FkX3YyRWJKa3B1LXBJUzg2aHhNa3N4dC1zQjZ1VEVCajVia1JvdWJpM055LW5KQXV2R3A2dUYzejJCUldYVVQwNkhEajhLWUVXQjlLSEJuamU1bW92cHBpQk50TEFPYU0zVFkzVmdPVlFEWXBuX1N6VjJsVjlpUzRRQTNqMTNDbEpMQVh4THo2THlMWDV4SVBha3J6S2hRcFhKTzFSUVg?oc=5",
+   "title": "EWAV Stock: Price, Forecast, Financials & AI Analysis - intellectia.ai",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qSzFoYmlibC1uUzIweW5HbHhGUHdjbm9RelQzbjVpRDVOWkZmYVdjMk9sTDJNUHNvYmFFWnBkNnRLN2VnTFJ1WA?oc=5",
    "published": "2026-09-07",
-   "source": "ascendants.in"
+   "source": "intellectia.ai"
   }
  ],
  "regs": []
