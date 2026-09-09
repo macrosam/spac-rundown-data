@@ -2394,6 +2394,100 @@
    "filed": "2026-09-04",
    "path": "edgar/data/2026767/0001493152-26-041476.txt",
    "blurb": ""
+  },
+  "edgar/data/2023676/0001213900-26-098114.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2023676/0001213900-26-098114.txt",
+   "blurb": ""
+  },
+  "edgar/data/2081468/0001213900-26-097903.txt": {
+   "company": "Meshflow Acquisition Corp",
+   "form": "425",
+   "cik": "2081468",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2081468/0001213900-26-097903.txt",
+   "blurb": ""
+  },
+  "edgar/data/2054876/0001213900-26-097872.txt": {
+   "company": "NMP Acquisition Corp.",
+   "form": "425",
+   "cik": "2054876",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2054876/0001213900-26-097872.txt",
+   "blurb": ""
+  },
+  "edgar/data/2025341/0001213900-26-097832.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2025341/0001213900-26-097832.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2024203/0001493152-26-041659.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024203",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2024203/0001493152-26-041659.txt",
+   "items": [
+    "Termination of a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2081468/0001213900-26-097901.txt": {
+   "company": "Meshflow Acquisition Corp",
+   "form": "8-K",
+   "cik": "2081468",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2081468/0001213900-26-097901.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2054876/0001213900-26-097868.txt": {
+   "company": "NMP Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2054876",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2054876/0001213900-26-097868.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2024203/0001493152-26-041667.txt": {
+   "company": "Cayson Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "2024203",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2024203/0001493152-26-041667.txt",
+   "blurb": "meeting September 23, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2025341/0001213900-26-097835.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2025341/0001213900-26-097835.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1978528/0001493152-26-041626.txt": {
+   "company": "Quetta Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1978528",
+   "filed": "2026-09-08",
+   "path": "edgar/data/1978528/0001493152-26-041626.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
   }
  }
 }

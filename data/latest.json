@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:52:34Z",
+ "generated_at": "2026-09-09T11:49:45Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -236,6 +236,59 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2023676/0001213900-26-098114.txt"
+  },
+  {
+   "company": "Meshflow Acquisition Corp",
+   "form": "425",
+   "cik": "2081468",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2081468/0001213900-26-097903.txt"
+  },
+  {
+   "company": "NMP Acquisition Corp.",
+   "form": "425",
+   "cik": "2054876",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2054876/0001213900-26-097872.txt"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2025341/0001213900-26-097832.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Cayson Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024203",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2024203/0001493152-26-041659.txt",
+   "note": "8-K: termination of material agreement"
+  },
+  {
+   "company": "Meshflow Acquisition Corp",
+   "form": "8-K",
+   "cik": "2081468",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2081468/0001213900-26-097901.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "NMP Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2054876",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2054876/0001213900-26-097868.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Three Lions Acquisition Corp.",
    "form": "8-K",
@@ -1127,6 +1180,30 @@
  ],
  "votes": [
   {
+   "company": "Cayson Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "2024203",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2024203/0001493152-26-041667.txt",
+   "blurb": "meeting September 23, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "DEFA14A",
+   "cik": "2025341",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2025341/0001213900-26-097835.txt",
+   "blurb": "meeting September 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Quetta Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1978528",
+   "filed": "2026-09-08",
+   "path": "edgar/data/1978528/0001493152-26-041626.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Alchemy Investments Acquisition Corp 1",
    "form": "8-K",
    "cik": "1901336",
@@ -1756,16 +1833,22 @@
  ],
  "media": [
   {
+   "title": "PlusAI to go public in $800 million SPAC deal - Robotics & Automation News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkx0R2gzc21FSThjazlIWG9sczlFVUliajNobTRFZ2ZNWmV0OXV0eEluRnlSUEp6RklRUE5KNlZLdVY0TE8ybXNmUUZEbGZldFN1d0lhUW9Ud2xybjlwelRmN1pMTDdqVW90X1lzMzEtOE8xSy1GMTZmdnR0ckZqM2t6NmY4d1Z4ZWVqYlhYU2hER1lMUXpWLVNKcFZ4ZlRGbi1v?oc=5",
+   "published": "2026-09-09",
+   "source": "Robotics & Automation News"
+  },
+  {
    "title": "Nuclear Firm HGP Said to Plan SPAC Deal at $1.2 Billion Value - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3QtWVkwcDN2SWxhLW9QYWd5OWVxZnRuY3hBa3pXSjNKT3FmRTZxQUw0aTBkN3NMS1ctNGdmVllBRWd3T3l1Z2ZPYVR0U05QcUFvQ05NU0MxSVJBLU9ubUUzcnJseHVkUzd3T0lwTFV5aDJjQkNnTHhvUE1KM2ZCSnNYRjBONmg3RHVHZGdsQkRjVjhkWUdxbXlWUy1YVXhpbGhFYng2czZ0MFg5c0ozNQ?oc=5",
    "published": "2026-09-08",
    "source": "Bloomberg.com"
   },
   {
-   "title": "NMP Acquisition to Combine With GTS in $400 Million SPAC Deal; Pubco to List on Nasdaq - TradingView",
+   "title": "NMP Acquisition to Combine With GTS in $400 Million SPAC Deal; Pubco to List on Nasdaq - tradingview.com",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaS1OTUpZTzAtYjRLanNZZ01JVnoxbjYzWnVzbVVWa3lIZGdESC1VZGFpUkxhbmh5TUVadzNCcTR6aWZZal9tREVtUjdFaEZwY01OU1ZnelUtY1RWMmZya1N1VXhIWWY2QzdQbkpwYlk0TllaUzJyS3g0WjJCYUxQelJFX3RheU9yOHNtbUcwakczaW5hTTdFUTRxbDVMUXJGMVNkcUNSSVl0NktFd0NXeTBmSjMxekVuT3Rtb0ZJRmt5aGNBOEpFZHVWcy1fd0ZYc21ETUlwekR3UlVQNWZR?oc=5",
    "published": "2026-09-08",
-   "source": "TradingView"
+   "source": "tradingview.com"
   },
   {
    "title": "HGP Intelligent Energy Plans to Go Public in SPAC Deal at $1.2 Billion Valuation - marketscreener.com",
@@ -1780,16 +1863,10 @@
    "source": "Investing.com Canada"
   },
   {
-   "title": "Nuclear firm HGP said to plan SPAC deal at $1.2 billion value - Bloomberg News - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWmVfRldvZjg2Y3dpT0FzR1c4VEg1RG1nYk9tR2lmNXV5UXJEZjQ4UjBKdk1DTlk2OVR4M3d2QjA0TnRsYmphWmtRMkN5NDk1QXd2NTBBM0drVGRrXzZOYlJ5RlA4QW1ReERpby11UmQzSm1oUHVsME1RN3NVWWJvWjNnbXFGZTRVSHhDSHZzakFXa0VyMHhWWmZRSmlIb2trNUN4MGxzUXJJWk11bmc4OU5SLXdMSXE3ekZhc29Uank3X3lYS0JHR0xDdmRfUUY4SzRzVzlQZm5URlotTUE?oc=5",
+   "title": "Veraxa Biotech AG (NASDAQ: VRXA) Names Raju Willener as CFO Following De-SPAC Completion - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUx0WGQzS1VpeTlHWkpBcG52ODZqMVNwV2t1U1NXaXRoci1TMWRqaHJFRFBCM1FGMWptREJzbVJhbnprdHlTbVM4eWxBdzNIR0tZR2VYTG5XQXR6MERWdkhLYndLVzlheXphQ3RCbVZkVWNLREhaVTBHU2d1bVhSRHlJQkdNZ2VveTl4RnNhY1NVazVTRm9lOEZxMnozaG9xQk1BZEdsTm1MajlCVGNBSDZEM0k0U0RybF9RYi1EWURsNHh4b055TjNCb00?oc=5",
    "published": "2026-09-08",
-   "source": "TradingView"
-  },
-  {
-   "title": "HGP Intelligent Energy plans SPAC deal at $1B valuation to bring retired Navy reactors to AI data centers - Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTMxamZiSWdvNEd0cTVZMERPU3FYRElTYVlsMGFFS2xvRF8xbWxFa3FFdHNDZE1qRXVRZWdfRmhMdGtvUmJNNFlMVGJZQ3lkeTZKVkUtS2tOTXV1YjZOa0RmVUFDMVR2QXJiMWd5MG1QeUtrejFSejQtV1h0amExTExDamw?oc=5",
-   "published": "2026-09-08",
-   "source": "Crypto Briefing"
+   "source": "Kalkine Media"
   }
  ],
  "regs": []
