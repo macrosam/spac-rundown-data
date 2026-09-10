@@ -2488,6 +2488,109 @@
    "filed": "2026-09-08",
    "path": "edgar/data/1978528/0001493152-26-041626.txt",
    "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2102041/0001213900-26-098396.txt": {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2102041/0001213900-26-098396.txt",
+   "blurb": ""
+  },
+  "edgar/data/1901336/0001104659-26-106324.txt": {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "1901336",
+   "filed": "2026-09-09",
+   "path": "edgar/data/1901336/0001104659-26-106324.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2025341/0001213900-26-098391.txt": {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2025341/0001213900-26-098391.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2082149/0001213900-26-098215.txt": {
+   "company": "Daedalus Special Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2082149",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2082149/0001213900-26-098215.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2095443/0001213900-26-098452.txt": {
+   "company": "Breeze Acquisition Corp. II",
+   "form": "8-K/A",
+   "cik": "2095443",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2095443/0001213900-26-098452.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2128739/0001213900-26-098424.txt": {
+   "company": "JAB Acquisition Corp I",
+   "form": "PRE 14A",
+   "cik": "2128739",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2128739/0001213900-26-098424.txt",
+   "blurb": ""
+  },
+  "edgar/data/2133939/0001104659-26-106403.txt": {
+   "company": "Football Manager SPAC Inc.",
+   "form": "S-1",
+   "cik": "2133939",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2133939/0001104659-26-106403.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2131072/0001213900-26-098404.txt": {
+   "company": "Harbour Island Acquisition Corp. I",
+   "form": "S-1",
+   "cik": "2131072",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2131072/0001213900-26-098404.txt",
+   "blurb": ""
+  },
+  "edgar/data/2087035/0001493152-26-041834.txt": {
+   "company": "AfterNext Acquisition I Corp.",
+   "form": "S-1/A",
+   "cik": "2087035",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2087035/0001493152-26-041834.txt",
+   "blurb": ""
+  },
+  "edgar/data/2098410/0001104659-26-106379.txt": {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2098410",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2098410/0001104659-26-106379.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units (auto-extracted)"
+  },
+  "edgar/data/2148436/0001185185-26-003872.txt": {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2148436/0001185185-26-003872.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  }
 }

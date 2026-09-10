@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-09-09T18:49:26Z",
+ "generated_at": "2026-09-10T11:49:49Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Football Manager SPAC Inc.",
+   "form": "S-1",
+   "cik": "2133939",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2133939/0001104659-26-106403.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Harbour Island Acquisition Corp. I",
+   "form": "S-1",
+   "cik": "2131072",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2131072/0001213900-26-098404.txt"
+  },
   {
    "company": "Legion Capital Acquisition Corp.",
    "form": "S-1",
@@ -148,6 +163,29 @@
  ],
  "amends": [
   {
+   "company": "AfterNext Acquisition I Corp.",
+   "form": "S-1/A",
+   "cik": "2087035",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2087035/0001493152-26-041834.txt"
+  },
+  {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2098410",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2098410/0001104659-26-106379.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units (auto-extracted)"
+  },
+  {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-09-08",
+   "path": "edgar/data/2148436/0001185185-26-003872.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Albatross Acquisition Corp",
    "form": "S-1/A",
    "cik": "2135163",
@@ -236,6 +274,21 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2102041/0001213900-26-098396.txt"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2025341/0001213900-26-098391.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Launch Two Acquisition Corp.",
    "form": "425",
@@ -1180,6 +1233,29 @@
  ],
  "votes": [
   {
+   "company": "Alchemy Investments Acquisition Corp 1",
+   "form": "8-K",
+   "cik": "1901336",
+   "filed": "2026-09-09",
+   "path": "edgar/data/1901336/0001104659-26-106324.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Andretti Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2025341",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2025341/0001213900-26-098391.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "JAB Acquisition Corp I",
+   "form": "PRE 14A",
+   "cik": "2128739",
+   "filed": "2026-09-09",
+   "path": "edgar/data/2128739/0001213900-26-098424.txt"
+  },
+  {
    "company": "Cayson Acquisition Corp",
    "form": "DEF 14A",
    "cik": "2024203",
@@ -1833,22 +1909,28 @@
  ],
  "media": [
   {
-   "title": "PlusAI to go public in $800 million SPAC deal - Robotics & Automation News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkx0R2gzc21FSThjazlIWG9sczlFVUliajNobTRFZ2ZNWmV0OXV0eEluRnlSUEp6RklRUE5KNlZLdVY0TE8ybXNmUUZEbGZldFN1d0lhUW9Ud2xybjlwelRmN1pMTDdqVW90X1lzMzEtOE8xSy1GMTZmdnR0ckZqM2t6NmY4d1Z4ZWVqYlhYU2hER1lMUXpWLVNKcFZ4ZlRGbi1v?oc=5",
+   "title": "Nuclear Energy Firm HGP Going Public Via $1.2B SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQXM2c2RJeDdEMkNNN25OOXRNQ043al83MzNZS1BXYUZyNU9sR0h5WWZ5SjFlNnYyblh1YzFhcmpWOWJub2plNUhMbjhDWlg2Zk9IUVVn0gFWQVVfeXFMTWNBczZzZEl4N0QyQ003bk45dE1DTjdqXzczM1lLUFdhRnI1T2xHSHlZZnlKMWU2djJuWHVjMWFyalY5Ym5vamU1SExuOENaWDZmT0hRVWc?oc=5",
    "published": "2026-09-09",
-   "source": "Robotics & Automation News"
+   "source": "Law360"
   },
   {
-   "title": "Nuclear Firm HGP Said to Plan SPAC Deal at $1.2 Billion Value - Bloomberg",
+   "title": "Nuclear Firm HGP Plans SPAC Deal at $1.2 Billion Value - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3QtWVkwcDN2SWxhLW9QYWd5OWVxZnRuY3hBa3pXSjNKT3FmRTZxQUw0aTBkN3NMS1ctNGdmVllBRWd3T3l1Z2ZPYVR0U05QcUFvQ05NU0MxSVJBLU9ubUUzcnJseHVkUzd3T0lwTFV5aDJjQkNnTHhvUE1KM2ZCSnNYRjBONmg3RHVHZGdsQkRjVjhkWUdxbXlWUy1YVXhpbGhFYng2czZ0MFg5c0ozNQ?oc=5",
    "published": "2026-09-08",
-   "source": "Bloomberg"
+   "source": "Bloomberg.com"
   },
   {
    "title": "NMP Acquisition to Combine With GTS in $400 Million SPAC Deal; Pubco to List on Nasdaq - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaS1OTUpZTzAtYjRLanNZZ01JVnoxbjYzWnVzbVVWa3lIZGdESC1VZGFpUkxhbmh5TUVadzNCcTR6aWZZal9tREVtUjdFaEZwY01OU1ZnelUtY1RWMmZya1N1VXhIWWY2QzdQbkpwYlk0TllaUzJyS3g0WjJCYUxQelJFX3RheU9yOHNtbUcwakczaW5hTTdFUTRxbDVMUXJGMVNkcUNSSVl0NktFd0NXeTBmSjMxekVuT3Rtb0ZJRmt5aGNBOEpFZHVWcy1fd0ZYc21ETUlwekR3UlVQNWZR?oc=5",
    "published": "2026-09-08",
    "source": "TradingView"
+  },
+  {
+   "title": "PlusAI to go public in $800 million SPAC deal - Robotics & Automation News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkx0R2gzc21FSThjazlIWG9sczlFVUliajNobTRFZ2ZNWmV0OXV0eEluRnlSUEp6RklRUE5KNlZLdVY0TE8ybXNmUUZEbGZldFN1d0lhUW9Ud2xybjlwelRmN1pMTDdqVW90X1lzMzEtOE8xSy1GMTZmdnR0ckZqM2t6NmY4d1Z4ZWVqYlhYU2hER1lMUXpWLVNKcFZ4ZlRGbi1v?oc=5",
+   "published": "2026-09-09",
+   "source": "Robotics & Automation News"
   },
   {
    "title": "HGP Intelligent Energy Plans to Go Public in SPAC Deal at $1.2 Billion Valuation - marketscreener.com",
@@ -1861,12 +1943,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVhiQUVsOWxjX1M5QUNCTWZSVTY4MHlHeUF1M1lDX3RyUzZNbnFwVkRIQzl5MXl6NUsyUl9iYkpvd05FZEJvR0d4V0lGSC1RREZXVDZJYktTamYtYmZQRl85TkR6dHZvRHVMakgyZXlCMzhPelV2dDRIN0ptX2l6WEJRRHJ3MWdydlljN3hvZWNFQlk0ZmpqOXRvZTd4RElaWFg1THppLXlxYUNyYUlxTmNBRlg2OU1F?oc=5",
    "published": "2026-09-08",
    "source": "Investing.com Canada"
-  },
-  {
-   "title": "Nuclear firm HGP said to plan SPAC deal at $1.2 billion value - Bloomberg News - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWmVfRldvZjg2Y3dpT0FzR1c4VEg1RG1nYk9tR2lmNXV5UXJEZjQ4UjBKdk1DTlk2OVR4M3d2QjA0TnRsYmphWmtRMkN5NDk1QXd2NTBBM0drVGRrXzZOYlJ5RlA4QW1ReERpby11UmQzSm1oUHVsME1RN3NVWWJvWjNnbXFGZTRVSHhDSHZzakFXa0VyMHhWWmZRSmlIb2trNUN4MGxzUXJJWk11bmc4OU5SLXdMSXE3ekZhc29Uank3X3lYS0JHR0xDdmRfUUY4SzRzVzlQZm5URlotTUE?oc=5",
-   "published": "2026-09-08",
-   "source": "TradingView"
   }
  ],
  "regs": []
