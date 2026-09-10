@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T11:49:49Z",
+ "generated_at": "2026-09-10T18:50:19Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1909,22 +1909,22 @@
  ],
  "media": [
   {
+   "title": "FortuneX closes $86M SPAC IPO, but its acquisition target stays a mystery - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVNQdUtpV2RJOHRLMmpsR3lIalowVEY2X05kY09GWG9jVFNPWmdtZzd3TXFVNHpMRkxRZ3c0a0xjUlBJOHVpVVg3MFpmS1V0N2VDb3QzdlhCazhaZVZlS0l3UHRzQUZFUldpNHlzZkl3SFlqYl9yTmRpU1k0OEdtNjN1M1lMM2ZsVkZOTTlIdGdwZFVQalNQdGQ0ZWN6MXlEbXNtVEU2czM?oc=5",
+   "published": "2026-09-10",
+   "source": "Dealroom"
+  },
+  {
+   "title": "Blank Check Company Allarity Acquisition Corp Offers 10,000,000 Units In IPO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUENfbjhDSjNmT2FjVTlOVGhnazdLMzNqZ09aQlA3YXo4Rzd3UFJoMkxNUGc5dkMxREtGR05KYVBnSkZ6c1ctbW02M0Y3VzNteTlwVHQ3NnE0ckVzaTZ6M3R6eVRXTWVyQlZBdVVsdnptdFBmQ3NDUnF1QThZY1ZBcDN5RFMwN092eG91ZUNuQ0hPYk1lNHplUVpQaXNlTWs5VXl0NHFYZENQVGNFengwcW91a1l0QTVVQU9SSXFVaXRhVU44UnpNaGt2SktMamJqem93WEwzMWtDY1pCcnI0?oc=5",
+   "published": "2026-09-10",
+   "source": "TradingView"
+  },
+  {
    "title": "Nuclear Energy Firm HGP Going Public Via $1.2B SPAC Deal - Law360",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQXM2c2RJeDdEMkNNN25OOXRNQ043al83MzNZS1BXYUZyNU9sR0h5WWZ5SjFlNnYyblh1YzFhcmpWOWJub2plNUhMbjhDWlg2Zk9IUVVn0gFWQVVfeXFMTWNBczZzZEl4N0QyQ003bk45dE1DTjdqXzczM1lLUFdhRnI1T2xHSHlZZnlKMWU2djJuWHVjMWFyalY5Ym5vamU1SExuOENaWDZmT0hRVWc?oc=5",
    "published": "2026-09-09",
    "source": "Law360"
-  },
-  {
-   "title": "Nuclear Firm HGP Plans SPAC Deal at $1.2 Billion Value - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3QtWVkwcDN2SWxhLW9QYWd5OWVxZnRuY3hBa3pXSjNKT3FmRTZxQUw0aTBkN3NMS1ctNGdmVllBRWd3T3l1Z2ZPYVR0U05QcUFvQ05NU0MxSVJBLU9ubUUzcnJseHVkUzd3T0lwTFV5aDJjQkNnTHhvUE1KM2ZCSnNYRjBONmg3RHVHZGdsQkRjVjhkWUdxbXlWUy1YVXhpbGhFYng2czZ0MFg5c0ozNQ?oc=5",
-   "published": "2026-09-08",
-   "source": "Bloomberg.com"
-  },
-  {
-   "title": "NMP Acquisition to Combine With GTS in $400 Million SPAC Deal; Pubco to List on Nasdaq - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaS1OTUpZTzAtYjRLanNZZ01JVnoxbjYzWnVzbVVWa3lIZGdESC1VZGFpUkxhbmh5TUVadzNCcTR6aWZZal9tREVtUjdFaEZwY01OU1ZnelUtY1RWMmZya1N1VXhIWWY2QzdQbkpwYlk0TllaUzJyS3g0WjJCYUxQelJFX3RheU9yOHNtbUcwakczaW5hTTdFUTRxbDVMUXJGMVNkcUNSSVl0NktFd0NXeTBmSjMxekVuT3Rtb0ZJRmt5aGNBOEpFZHVWcy1fd0ZYc21ETUlwekR3UlVQNWZR?oc=5",
-   "published": "2026-09-08",
-   "source": "TradingView"
   },
   {
    "title": "PlusAI to go public in $800 million SPAC deal - Robotics & Automation News",
@@ -1933,16 +1933,16 @@
    "source": "Robotics & Automation News"
   },
   {
-   "title": "HGP Intelligent Energy Plans to Go Public in SPAC Deal at $1.2 Billion Valuation - marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkR0M082Z2pHeE1QOUNkZm9hTTdsdWhuTlgzYWwzVDhlVnlQa011M0JlbjNBTUxieW9YMFBYMTJ6alhwSDZZV2p3QTVLcnNDUjNocTFyRkVCMEEyRTUzcTVPdFZKS05jYXotSmM3MDBJd1VPVWE5NDNRWV9wMDZuWjV4ZTFxdkJ5SUVLRDZVYkotazRuNFlmdHdDQ214N0J4S0pxM21YcC00MlZYUGhOS2NrRC1mOTk0RGtpb3A0ekVMcFQwNGVWMlE4QnY?oc=5",
+   "title": "Veraxa Biotech AG (NASDAQ: VRXA) Names Raju Willener as CFO Following De-SPAC Completion - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUx0WGQzS1VpeTlHWkpBcG52ODZqMVNwV2t1U1NXaXRoci1TMWRqaHJFRFBCM1FGMWptREJzbVJhbnprdHlTbVM4eWxBdzNIR0tZR2VYTG5XQXR6MERWdkhLYndLVzlheXphQ3RCbVZkVWNLREhaVTBHU2d1bVhSRHlJQkdNZ2VveTl4RnNhY1NVazVTRm9lOEZxMnozaG9xQk1BZEdsTm1MajlCVGNBSDZEM0k0U0RybF9RYi1EWURsNHh4b055TjNCb00?oc=5",
    "published": "2026-09-08",
-   "source": "marketscreener.com"
+   "source": "Kalkine Media"
   },
   {
-   "title": "GTS to go public via $400M SPAC deal with NMP Acquisition - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVhiQUVsOWxjX1M5QUNCTWZSVTY4MHlHeUF1M1lDX3RyUzZNbnFwVkRIQzl5MXl6NUsyUl9iYkpvd05FZEJvR0d4V0lGSC1RREZXVDZJYktTamYtYmZQRl85TkR6dHZvRHVMakgyZXlCMzhPelV2dDRIN0ptX2l6WEJRRHJ3MWdydlljN3hvZWNFQlk0ZmpqOXRvZTd4RElaWFg1THppLXlxYUNyYUlxTmNBRlg2OU1F?oc=5",
-   "published": "2026-09-08",
-   "source": "Investing.com Canada"
+   "title": "BOXABL shares are trading lower amid volatility following SPAC merger - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEVNLTAyaHA3OHg3Nk1rdFpzcnI3UnVBV2wtV2tpT2JTdVhmSTMxZ3F6bldzeXdTWXN5SndyZUEtRVRLOEt5ckEzR25XU2dJc2xYU2s1b0N2Vk1BanpSeGdFdlFWM1FYSmNzUUtpVzVGVGdlbzE0VDNXT3VTbTNzdkdFcUF5aURqNHh1RE9hekc4Uk9GZ0Z4bjJNeVYwb0dqVGt0ck12QmQyeGlxOWFrZW5ncw?oc=5",
+   "published": "2026-09-09",
+   "source": "scanx.trade"
   }
  ],
  "regs": []
