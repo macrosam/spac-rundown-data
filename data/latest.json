@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T11:49:43Z",
+ "generated_at": "2026-09-11T18:49:49Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -1971,40 +1971,40 @@
  ],
  "media": [
   {
-   "title": "NewHold Sets Prepaid Share Forward to Support de-SPAC, Up to 7M Shares at ~$10.65 - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHJIcDZ5MTNrZFpoWWVqZkx6bUlhVDFGRE4wUUFhZnoyRlhLa0ttbW43UkVzUWRTZ29weUZLLXliYWZuTWtLamlTandiNHZKWnNmWGVrZHdxclBsYk1Nakg1MDlZdkQzWkxtdkl0TDVjR2tYc01Ecnh4OVpTUFdBSEFfTHM2VTVEcFhta21uamlrUmwtWC05dmJrdjdjck80Y2dZS0IzWTRrWVF6ellLZEJmODM2aHFrM3VZTUQySEgtZG1TN0FaTmtSRGtEWE16eWs0TmZkQQ?oc=5",
+   "title": "Breakingviews - COMMENTARY: Wild SPAC deal-hounds howl at moonshots - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVBsQnYzeThxNkx6cGdoNUR6UDAybC11VHpaZjgyWUFzajZfU28tQ0EwNWJ4OU16Qzd6a1dWVTBobTVZdERwSWI2ME5ObThIZzVWUXZiRFVnSnUzaGw3MXdZZWRoOXZla0RNcWZmWHFfZEI0X21tbmNTeTJHMFktNEpybDlSRVNlbFdEUmFkNzcwLVBZY1AzNG8wVl90QQ?oc=5",
+   "published": "2026-09-11",
+   "source": "Reuters"
+  },
+  {
+   "title": "Wild SPAC deal-hounds howl at moonshots - Breakingviews",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXVTRUdCSWdFQUhRWmwtUlBINDBRNkRTa2JfRnFvVENTQ0ZFNXlacHlLdW5UQ2szamZPaWJxX2djc1JYTkRNcDR6N2NadlFwOFNXbjByOWhMWjQ0TUdwUlJsZWYxYmFYdUtVaUdndTBXSG1LTnU3WTNZUmlPOWdKcGNyc0FWUW1Pel9wOU5pRlk5NURiVmZfRTR5TDRfNjhvUmYzSw?oc=5",
+   "published": "2026-09-11",
+   "source": "Breakingviews"
+  },
+  {
+   "title": "Wild SPAC deal-hounds howl at moonshots - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGl6V01wSGxDRzM0MzFndktITF9LRERicVJtZko1NE9DTzB4Z0VXRlRzUzRHQU1nUmhKdGZ2b0NuQmF5Vm1haG1JMWdRdTdpbWNlTGZIMWxSLWNKUThSVmFWbWFONU80VkdDWnlmNEhlVDEtNWZwWTBpUERvdzBneUFvdHU3emFvZmptcTNCWXg4amY3dGZpYlRLUDNObGlwTzk0VzV3NzZiMHlLb2c?oc=5",
    "published": "2026-09-11",
    "source": "TradingView"
   },
   {
-   "title": "TCGX raises $86M in SPAC IPO, starts 24-month clock for a deal - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTB5T1VSZE1CUkxFOEpUb1VQNUU3Y3VWVmc5cDZZcjJxOFloS094V2gtZXJqS2I5bWdvYlVZMXdtUUF1LWpvcDNOYTNCZ1E3c0ZVQUlhSzdldExfOFUzOFVuTkwwRV96cV9IRkI2UzcxZ1VTbnJqVzF6eWdYdVlUU3BTWWVJREVReTVDWTdOTTBfUGU4ek5Dd0pB?oc=5",
+   "title": "Korea's Futuremain to list on Nasdaq via $80M SPAC merger - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk1sYzZTYUNhVklqSWxNdmtyeDdKWXBWN0VrM09xZHNvczFudDItcHZHVGpyX3Z6bkhZcnRKWnBqcldUUjkwcjZtWUtHVWpfNE8xZzMxT0w1MDNqdU5HU2hLaXczTE9QSG9jckU0dmVBMDU2Y2hTRDk3SEV5Qm1MUDFvRkN2WHo3d0hnZENzcXVsM1ZI?oc=5",
    "published": "2026-09-11",
    "source": "Dealroom"
   },
   {
-   "title": "Two-year SPAC clock starts as TCGX Acquisition (TCGX) banks $86.25M - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0QybU5HR240V0hHVWtWbklVdEpNNHd6T3Vkc0tnZWY3WHpFLWtmYVN2YUs3dmJZZTVFLV9remh3YUdmdVBxTC1iaU5hdHVRaGd4ZUdaODZLU0VRLWdlVGMtdFBfd1hXN3dVbEQ4ZG9wTG5PN1NhQUdzMEZ2TGQyblBWaUFmbDhkNFpBRk5uR3ZKOEd3MDI0aWZVend5ZmY4QVFiREl0Wlp6X2NjcFp2V21hS3U?oc=5",
-   "published": "2026-09-10",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Nuclear Energy Firm HGP Going Public Via $1.2B SPAC Deal - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQXM2c2RJeDdEMkNNN25OOXRNQ043al83MzNZS1BXYUZyNU9sR0h5WWZ5SjFlNnYyblh1YzFhcmpWOWJub2plNUhMbjhDWlg2Zk9IUVVn0gFWQVVfeXFMTWNBczZzZEl4N0QyQ003bk45dE1DTjdqXzczM1lLUFdhRnI1T2xHSHlZZnlKMWU2djJuWHVjMWFyalY5Ym5vamU1SExuOENaWDZmT0hRVWc?oc=5",
-   "published": "2026-09-09",
-   "source": "Law360"
-  },
-  {
-   "title": "Malaysia's Firstborn Top Capital to go public via $1.1B SPAC merger - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDBqWGdac0RXOGRPandYbldMZVRGd29EM0ZNcHUzMDkxc2ltOXdockJIdmxDQjIwaGtEa3BZT2VhTmNmZjVXNnRybDdrRkk3anA3Ykh4LWlXWmNWUW9yZUFTYVZuamtKZ0ktMDBVMEh0bXRocEY2WHBzVXhxZjNHMGtpSVU5YnJoaGdJdHhiLWYzUjJxZFRJV2hjcVBfVm0tWXc?oc=5",
+   "title": "A former Novo Nordisk president will chair Allarity\u2019s new acquisition company. The proposed offering is $100 million. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak1jVDRKb255dUFrSDhPbEhVa2I3eHA5SlZXTGlyLU9KdWdDdlBtd3NzTTJnR0N6T2NEbEdrRlAwYXJSZmNXdFRJeElvXzJiR0U3UTFERUFjNkNZRUoydWxJQXlUWjQ3TmF1WHpWMVFuQkRKc0xYMFgxMWtkWVRiZmktdzNSTHVqWHFhLURnTXFjVVBmZ3FybmlmbW45V1lwS0VlYzdGOUdVU3E0bDJKREVFOWRydVhnNXE0?oc=5",
    "published": "2026-09-11",
-   "source": "Dealroom"
+   "source": "Stock Titan"
   },
   {
-   "title": "Three Lions (TLACU) locks $100.5M in trust for future deal - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFVtRFlRS3hEQnZGZWd2RXA0M3Z0UXJSdFhJeEhfRjQxWnhGT1N5ZzBIeEdJMmNIVHV6LTJtV1FmMDc4WXdBOF9HZ1FxemVodVJFZ0lwS204T3NLbjBFU2FzbUlKQ2JJWkJoNFNlYkhUMzlmUnEwZEJnVkNPTHE0bERtcEk5eV8tMENRWmhkdlZqNFVUNXJOdERUN2Y0OWI0RDZXOWtYcXMzb21NaHBKNHFzWVdHNjdQSVE?oc=5",
-   "published": "2026-09-10",
-   "source": "Stock Titan"
+   "title": "Bitcoin Miner With $28.6M In Revenue Seeks $227M Value On AI Data Center Pivot In SPAC Deal - the deep dive",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTY1d19rMnhyQnNXUVZTN2J1NVFVM21sUHBQeHhrVXhmZnpLLXRQRlhBMVY5cEpZcDBLTUw4MTNhUUUwLWh1RzhCZVNIX2tHalpHRjVqd1JzRlJyRXJ0Z1poMk9xMlpRQlRtNXlySUJXYWFXekpLV3pBcC1qMnF1SVdFVFBIOTdxSWN6cG5sSk5aLU9yazhCT1k0VmJ4TGtIbHRqdmRvZkZYOGFsanJ5ZjJiSQ?oc=5",
+   "published": "2026-09-11",
+   "source": "the deep dive"
   }
  ],
  "regs": []
