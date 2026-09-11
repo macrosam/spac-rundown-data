@@ -2591,6 +2591,96 @@
    "filed": "2026-09-08",
    "path": "edgar/data/2148436/0001185185-26-003872.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2112446/0001193125-26-387352.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2112446/0001193125-26-387352.txt",
+   "blurb": "business combination with JATT II Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-098855.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2023676/0001213900-26-098855.txt",
+   "blurb": ""
+  },
+  "edgar/data/2073515/0001493152-26-042241.txt": {
+   "company": "ARC Group Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2073515",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2073515/0001493152-26-042241.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2100704/0001493152-26-042171.txt": {
+   "company": "East West Ave Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2100704",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2100704/0001493152-26-042171.txt",
+   "items": [
+    "Changes in Registrant's Certifying Accountant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2128462/0001193125-26-387717.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2128462",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2128462/0001193125-26-387717.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1865111/0001493152-26-042120.txt": {
+   "company": "Alpha Star Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1865111",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1865111/0001493152-26-042120.txt",
+   "blurb": "meeting December 9, 2021; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1863719/0001829126-26-009996.txt": {
+   "company": "Everest Consolidator Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1863719",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1863719/0001829126-26-009996.txt",
+   "blurb": "meeting March 8, 2021; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1852019/0001104659-26-106703.txt": {
+   "company": "IX Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1852019",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1852019/0001104659-26-106703.txt",
+   "blurb": "meeting October 7, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2059165/0001829126-26-009993.txt": {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "PRE 14A",
+   "cik": "2059165",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2059165/0001829126-26-009993.txt",
+   "blurb": "meeting October 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2141983/0001493152-26-042104.txt": {
+   "company": "Allarity Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2141983",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2141983/0001493152-26-042104.txt",
+   "blurb": ""
   }
  }
 }

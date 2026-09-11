@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-09-10T18:50:19Z",
+ "generated_at": "2026-09-11T11:49:43Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Allarity Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2141983",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2141983/0001493152-26-042104.txt"
+  },
   {
    "company": "Football Manager SPAC Inc.",
    "form": "S-1",
@@ -274,6 +281,29 @@
   }
  ],
  "mergers": [
+  {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2112446/0001193125-26-387352.txt",
+   "blurb": "business combination with JATT II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2023676/0001213900-26-098855.txt"
+  },
+  {
+   "company": "ARC Group Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "2073515",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2073515/0001493152-26-042241.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Inflection Point Acquisition Corp. VI",
    "form": "425",
@@ -1233,6 +1263,38 @@
  ],
  "votes": [
   {
+   "company": "Alpha Star Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1865111",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1865111/0001493152-26-042120.txt",
+   "blurb": "meeting December 9, 2021; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Everest Consolidator Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "1863719",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1863719/0001829126-26-009996.txt",
+   "blurb": "meeting March 8, 2021; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "IX Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1852019",
+   "filed": "2026-09-10",
+   "path": "edgar/data/1852019/0001104659-26-106703.txt",
+   "blurb": "meeting October 7, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "PRE 14A",
+   "cik": "2059165",
+   "filed": "2026-09-10",
+   "path": "edgar/data/2059165/0001829126-26-009993.txt",
+   "blurb": "meeting October 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Alchemy Investments Acquisition Corp 1",
    "form": "8-K",
    "cik": "1901336",
@@ -1909,16 +1971,22 @@
  ],
  "media": [
   {
-   "title": "FortuneX closes $86M SPAC IPO, but its acquisition target stays a mystery - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVNQdUtpV2RJOHRLMmpsR3lIalowVEY2X05kY09GWG9jVFNPWmdtZzd3TXFVNHpMRkxRZ3c0a0xjUlBJOHVpVVg3MFpmS1V0N2VDb3QzdlhCazhaZVZlS0l3UHRzQUZFUldpNHlzZkl3SFlqYl9yTmRpU1k0OEdtNjN1M1lMM2ZsVkZOTTlIdGdwZFVQalNQdGQ0ZWN6MXlEbXNtVEU2czM?oc=5",
-   "published": "2026-09-10",
+   "title": "NewHold Sets Prepaid Share Forward to Support de-SPAC, Up to 7M Shares at ~$10.65 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHJIcDZ5MTNrZFpoWWVqZkx6bUlhVDFGRE4wUUFhZnoyRlhLa0ttbW43UkVzUWRTZ29weUZLLXliYWZuTWtLamlTandiNHZKWnNmWGVrZHdxclBsYk1Nakg1MDlZdkQzWkxtdkl0TDVjR2tYc01Ecnh4OVpTUFdBSEFfTHM2VTVEcFhta21uamlrUmwtWC05dmJrdjdjck80Y2dZS0IzWTRrWVF6ellLZEJmODM2aHFrM3VZTUQySEgtZG1TN0FaTmtSRGtEWE16eWs0TmZkQQ?oc=5",
+   "published": "2026-09-11",
+   "source": "TradingView"
+  },
+  {
+   "title": "TCGX raises $86M in SPAC IPO, starts 24-month clock for a deal - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTB5T1VSZE1CUkxFOEpUb1VQNUU3Y3VWVmc5cDZZcjJxOFloS094V2gtZXJqS2I5bWdvYlVZMXdtUUF1LWpvcDNOYTNCZ1E3c0ZVQUlhSzdldExfOFUzOFVuTkwwRV96cV9IRkI2UzcxZ1VTbnJqVzF6eWdYdVlUU3BTWWVJREVReTVDWTdOTTBfUGU4ek5Dd0pB?oc=5",
+   "published": "2026-09-11",
    "source": "Dealroom"
   },
   {
-   "title": "Blank Check Company Allarity Acquisition Corp Offers 10,000,000 Units In IPO - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUENfbjhDSjNmT2FjVTlOVGhnazdLMzNqZ09aQlA3YXo4Rzd3UFJoMkxNUGc5dkMxREtGR05KYVBnSkZ6c1ctbW02M0Y3VzNteTlwVHQ3NnE0ckVzaTZ6M3R6eVRXTWVyQlZBdVVsdnptdFBmQ3NDUnF1QThZY1ZBcDN5RFMwN092eG91ZUNuQ0hPYk1lNHplUVpQaXNlTWs5VXl0NHFYZENQVGNFengwcW91a1l0QTVVQU9SSXFVaXRhVU44UnpNaGt2SktMamJqem93WEwzMWtDY1pCcnI0?oc=5",
+   "title": "Two-year SPAC clock starts as TCGX Acquisition (TCGX) banks $86.25M - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0QybU5HR240V0hHVWtWbklVdEpNNHd6T3Vkc0tnZWY3WHpFLWtmYVN2YUs3dmJZZTVFLV9remh3YUdmdVBxTC1iaU5hdHVRaGd4ZUdaODZLU0VRLWdlVGMtdFBfd1hXN3dVbEQ4ZG9wTG5PN1NhQUdzMEZ2TGQyblBWaUFmbDhkNFpBRk5uR3ZKOEd3MDI0aWZVend5ZmY4QVFiREl0Wlp6X2NjcFp2V21hS3U?oc=5",
    "published": "2026-09-10",
-   "source": "TradingView"
+   "source": "Stock Titan"
   },
   {
    "title": "Nuclear Energy Firm HGP Going Public Via $1.2B SPAC Deal - Law360",
@@ -1927,22 +1995,16 @@
    "source": "Law360"
   },
   {
-   "title": "PlusAI to go public in $800 million SPAC deal - Robotics & Automation News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkx0R2gzc21FSThjazlIWG9sczlFVUliajNobTRFZ2ZNWmV0OXV0eEluRnlSUEp6RklRUE5KNlZLdVY0TE8ybXNmUUZEbGZldFN1d0lhUW9Ud2xybjlwelRmN1pMTDdqVW90X1lzMzEtOE8xSy1GMTZmdnR0ckZqM2t6NmY4d1Z4ZWVqYlhYU2hER1lMUXpWLVNKcFZ4ZlRGbi1v?oc=5",
-   "published": "2026-09-09",
-   "source": "Robotics & Automation News"
+   "title": "Malaysia's Firstborn Top Capital to go public via $1.1B SPAC merger - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDBqWGdac0RXOGRPandYbldMZVRGd29EM0ZNcHUzMDkxc2ltOXdockJIdmxDQjIwaGtEa3BZT2VhTmNmZjVXNnRybDdrRkk3anA3Ykh4LWlXWmNWUW9yZUFTYVZuamtKZ0ktMDBVMEh0bXRocEY2WHBzVXhxZjNHMGtpSVU5YnJoaGdJdHhiLWYzUjJxZFRJV2hjcVBfVm0tWXc?oc=5",
+   "published": "2026-09-11",
+   "source": "Dealroom"
   },
   {
-   "title": "Veraxa Biotech AG (NASDAQ: VRXA) Names Raju Willener as CFO Following De-SPAC Completion - Kalkine Media",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUx0WGQzS1VpeTlHWkpBcG52ODZqMVNwV2t1U1NXaXRoci1TMWRqaHJFRFBCM1FGMWptREJzbVJhbnprdHlTbVM4eWxBdzNIR0tZR2VYTG5XQXR6MERWdkhLYndLVzlheXphQ3RCbVZkVWNLREhaVTBHU2d1bVhSRHlJQkdNZ2VveTl4RnNhY1NVazVTRm9lOEZxMnozaG9xQk1BZEdsTm1MajlCVGNBSDZEM0k0U0RybF9RYi1EWURsNHh4b055TjNCb00?oc=5",
-   "published": "2026-09-08",
-   "source": "Kalkine Media"
-  },
-  {
-   "title": "BOXABL shares are trading lower amid volatility following SPAC merger - scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEVNLTAyaHA3OHg3Nk1rdFpzcnI3UnVBV2wtV2tpT2JTdVhmSTMxZ3F6bldzeXdTWXN5SndyZUEtRVRLOEt5ckEzR25XU2dJc2xYU2s1b0N2Vk1BanpSeGdFdlFWM1FYSmNzUUtpVzVGVGdlbzE0VDNXT3VTbTNzdkdFcUF5aURqNHh1RE9hekc4Uk9GZ0Z4bjJNeVYwb0dqVGt0ck12QmQyeGlxOWFrZW5ncw?oc=5",
-   "published": "2026-09-09",
-   "source": "scanx.trade"
+   "title": "Three Lions (TLACU) locks $100.5M in trust for future deal - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFVtRFlRS3hEQnZGZWd2RXA0M3Z0UXJSdFhJeEhfRjQxWnhGT1N5ZzBIeEdJMmNIVHV6LTJtV1FmMDc4WXdBOF9HZ1FxemVodVJFZ0lwS204T3NLbjBFU2FzbUlKQ2JJWkJoNFNlYkhUMzlmUnEwZEJnVkNPTHE0bERtcEk5eV8tMENRWmhkdlZqNFVUNXJOdERUN2Y0OWI0RDZXOWtYcXMzb21NaHBKNHFzWVdHNjdQSVE?oc=5",
+   "published": "2026-09-10",
+   "source": "Stock Titan"
   }
  ],
  "regs": []
