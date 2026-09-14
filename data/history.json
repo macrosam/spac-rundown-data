@@ -2681,6 +2681,204 @@
    "filed": "2026-09-10",
    "path": "edgar/data/2141983/0001493152-26-042104.txt",
    "blurb": ""
+  },
+  "edgar/data/2026767/0001493152-26-042390.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "424B3",
+   "cik": "2026767",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2026767/0001493152-26-042390.txt",
+   "blurb": "offering $262,446; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2024460/0001213900-26-099017.txt": {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "425",
+   "cik": "2024460",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2024460/0001213900-26-099017.txt",
+   "blurb": "business combination with ChampionsGate Acquisition Corp SUWON-SI (auto-extracted)"
+  },
+  "edgar/data/2085659/0001213900-26-099354.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2085659/0001213900-26-099354.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-099355.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2085659/0001213900-26-099355.txt",
+   "blurb": ""
+  },
+  "edgar/data/1882198/0001213900-26-099259.txt": {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "1882198",
+   "filed": "2026-09-11",
+   "path": "edgar/data/1882198/0001213900-26-099259.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2024460/0001213900-26-099015.txt": {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024460",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2024460/0001213900-26-099015.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028201/0001213900-26-098977.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2028201/0001213900-26-098977.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2042902/0001213900-26-099260.txt": {
+   "company": "EQV Ventures Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2042902",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2042902/0001213900-26-099260.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2087361/0001213900-26-099283.txt": {
+   "company": "M Evo Global Acquisition Corp II",
+   "form": "8-K",
+   "cik": "2087361",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2087361/0001213900-26-099283.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926314/0001493152-26-042309.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-09-11",
+   "path": "edgar/data/1926314/0001493152-26-042309.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2137679/0001829126-26-010007.txt": {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2137679/0001829126-26-010007.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1978528/0001829126-26-010050.txt": {
+   "company": "Quetta Acquisition Corp",
+   "form": "8-K",
+   "cik": "1978528",
+   "filed": "2026-09-11",
+   "path": "edgar/data/1978528/0001829126-26-010050.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2147219/0001104659-26-107095.txt": {
+   "company": "Rainier Acquisition Corp",
+   "form": "8-K",
+   "cik": "2147219",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2147219/0001104659-26-107095.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-099253.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2035016/0001213900-26-099253.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-099263.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2035016/0001213900-26-099263.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2028201/0001213900-26-098979.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2028201/0001213900-26-098979.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2142699/0001829126-26-010047.txt": {
+   "company": "FutureCore Acquisition Corp",
+   "form": "S-1",
+   "cik": "2142699",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2142699/0001829126-26-010047.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2105318/0001493152-26-042376.txt": {
+   "company": "Gold Mountain Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2105318",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2105318/0001493152-26-042376.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2111838/0001193125-26-389409.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2111838/0001193125-26-389409.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-099372.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "S-4",
+   "cik": "2023676",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2023676/0001213900-26-099372.txt",
+   "blurb": ""
+  },
+  "edgar/data/2053927/0001829126-26-010024.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2053927/0001829126-26-010024.txt",
+   "blurb": ""
   }
  }
 }

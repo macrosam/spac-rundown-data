@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-09-11T18:49:49Z",
+ "generated_at": "2026-09-14T11:49:58Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "FutureCore Acquisition Corp",
+   "form": "S-1",
+   "cik": "2142699",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2142699/0001829126-26-010047.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Allarity Acquisition Corp.",
    "form": "S-1",
@@ -90,6 +98,14 @@
  ],
  "pricings": [
   {
+   "company": "Calisa Acquisition Corp",
+   "form": "424B3",
+   "cik": "2026767",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2026767/0001493152-26-042390.txt",
+   "blurb": "offering $262,446; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Veraxa Biotech AG - Post de-SPAC",
    "form": "424B3",
    "cik": "2079109",
@@ -169,6 +185,22 @@
   }
  ],
  "amends": [
+  {
+   "company": "Gold Mountain Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2105318",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2105318/0001493152-26-042376.txt",
+   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2111838/0001193125-26-389409.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "AfterNext Acquisition I Corp.",
    "form": "S-1/A",
@@ -281,6 +313,42 @@
   }
  ],
  "mergers": [
+  {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "425",
+   "cik": "2024460",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2024460/0001213900-26-099017.txt",
+   "blurb": "business combination with ChampionsGate Acquisition Corp SUWON-SI (auto-extracted)"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2085659/0001213900-26-099354.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2085659/0001213900-26-099355.txt"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "S-4",
+   "cik": "2023676",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2023676/0001213900-26-099372.txt"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2053927/0001829126-26-010024.txt"
+  },
   {
    "company": "JATT II Acquisition Corp.",
    "form": "425",
@@ -1263,6 +1331,30 @@
  ],
  "votes": [
   {
+   "company": "Athena Technology Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "1882198",
+   "filed": "2026-09-11",
+   "path": "edgar/data/1882198/0001213900-26-099259.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2035016/0001213900-26-099253.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2028201/0001213900-26-098979.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Alpha Star Acquisition Corp",
    "form": "PRE 14A",
    "cik": "1865111",
@@ -1706,6 +1798,30 @@
  ],
  "sponsors": [
   {
+   "company": "EQV Ventures Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2042902",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2042902/0001213900-26-099260.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "M Evo Global Acquisition Corp II",
+   "form": "8-K",
+   "cik": "2087361",
+   "filed": "2026-09-11",
+   "path": "edgar/data/2087361/0001213900-26-099283.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-09-11",
+   "path": "edgar/data/1926314/0001493152-26-042309.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "American Exceptionalism Acquisition Corp. A",
    "form": "8-K",
    "cik": "2079173",
@@ -1971,40 +2087,10 @@
  ],
  "media": [
   {
-   "title": "Breakingviews - COMMENTARY: Wild SPAC deal-hounds howl at moonshots - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVBsQnYzeThxNkx6cGdoNUR6UDAybC11VHpaZjgyWUFzajZfU28tQ0EwNWJ4OU16Qzd6a1dWVTBobTVZdERwSWI2ME5ObThIZzVWUXZiRFVnSnUzaGw3MXdZZWRoOXZla0RNcWZmWHFfZEI0X21tbmNTeTJHMFktNEpybDlSRVNlbFdEUmFkNzcwLVBZY1AzNG8wVl90QQ?oc=5",
-   "published": "2026-09-11",
-   "source": "Reuters"
-  },
-  {
-   "title": "Wild SPAC deal-hounds howl at moonshots - Breakingviews",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXVTRUdCSWdFQUhRWmwtUlBINDBRNkRTa2JfRnFvVENTQ0ZFNXlacHlLdW5UQ2szamZPaWJxX2djc1JYTkRNcDR6N2NadlFwOFNXbjByOWhMWjQ0TUdwUlJsZWYxYmFYdUtVaUdndTBXSG1LTnU3WTNZUmlPOWdKcGNyc0FWUW1Pel9wOU5pRlk5NURiVmZfRTR5TDRfNjhvUmYzSw?oc=5",
-   "published": "2026-09-11",
-   "source": "Breakingviews"
-  },
-  {
-   "title": "Wild SPAC deal-hounds howl at moonshots - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGl6V01wSGxDRzM0MzFndktITF9LRERicVJtZko1NE9DTzB4Z0VXRlRzUzRHQU1nUmhKdGZ2b0NuQmF5Vm1haG1JMWdRdTdpbWNlTGZIMWxSLWNKUThSVmFWbWFONU80VkdDWnlmNEhlVDEtNWZwWTBpUERvdzBneUFvdHU3emFvZmptcTNCWXg4amY3dGZpYlRLUDNObGlwTzk0VzV3NzZiMHlLb2c?oc=5",
-   "published": "2026-09-11",
-   "source": "TradingView"
-  },
-  {
-   "title": "Korea's Futuremain to list on Nasdaq via $80M SPAC merger - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk1sYzZTYUNhVklqSWxNdmtyeDdKWXBWN0VrM09xZHNvczFudDItcHZHVGpyX3Z6bkhZcnRKWnBqcldUUjkwcjZtWUtHVWpfNE8xZzMxT0w1MDNqdU5HU2hLaXczTE9QSG9jckU0dmVBMDU2Y2hTRDk3SEV5Qm1MUDFvRkN2WHo3d0hnZENzcXVsM1ZI?oc=5",
-   "published": "2026-09-11",
-   "source": "Dealroom"
-  },
-  {
-   "title": "A former Novo Nordisk president will chair Allarity\u2019s new acquisition company. The proposed offering is $100 million. - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak1jVDRKb255dUFrSDhPbEhVa2I3eHA5SlZXTGlyLU9KdWdDdlBtd3NzTTJnR0N6T2NEbEdrRlAwYXJSZmNXdFRJeElvXzJiR0U3UTFERUFjNkNZRUoydWxJQXlUWjQ3TmF1WHpWMVFuQkRKc0xYMFgxMWtkWVRiZmktdzNSTHVqWHFhLURnTXFjVVBmZ3FybmlmbW45V1lwS0VlYzdGOUdVU3E0bDJKREVFOWRydVhnNXE0?oc=5",
-   "published": "2026-09-11",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "Bitcoin Miner With $28.6M In Revenue Seeks $227M Value On AI Data Center Pivot In SPAC Deal - the deep dive",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTY1d19rMnhyQnNXUVZTN2J1NVFVM21sUHBQeHhrVXhmZnpLLXRQRlhBMVY5cEpZcDBLTUw4MTNhUUUwLWh1RzhCZVNIX2tHalpHRjVqd1JzRlJyRXJ0Z1poMk9xMlpRQlRtNXlySUJXYWFXekpLV3pBcC1qMnF1SVdFVFBIOTdxSWN6cG5sSk5aLU9yazhCT1k0VmJ4TGtIbHRqdmRvZkZYOGFsanJ5ZjJiSQ?oc=5",
-   "published": "2026-09-11",
-   "source": "the deep dive"
+   "title": "Defence, space firms turn to SPACs as investor appetite soars - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTdfOVB2anFKcl9hRHlvX2lieUxKVVJzaWRUVzBBd0lFU3hCcEllSC1leThydkxONDJnODFTdlBJdWZCOGFjV1N2WkMteFdDakZLYndRTTdueEg2RXJkYldXTVEyWm9KNGNSblcyTFFqamhlTlo1UUgwaHJ5cmNvejBxNzloVjZqQVV3S25kcjg3QnRxR1ZTMlIyUnc0a3l4Q2xmNnA1RnFWTTFyRVdlZA?oc=5",
+   "published": "2026-09-14",
+   "source": "The Globe and Mail"
   }
  ],
  "regs": []
