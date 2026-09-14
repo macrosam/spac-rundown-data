@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T11:49:58Z",
+ "generated_at": "2026-09-14T18:50:49Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2087,10 +2087,22 @@
  ],
  "media": [
   {
+   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFYybmRpVHlfZnRqVUdRRFpDQ19MYVF0ZURYdG9jaXp6UnRpYnpRQk95THBucjhocXdILUpGclktRDVvSGEzdHVvYUE2S2ZCZDJzd1VWNlVPVkVrOS1JX00xQjg4aHhpTUFsZWt0RUlhaDRKdDJKRDdZNHVBeWhFMDN4cS1pYTBnZVpPMjJBbTVYcmo0bGZreEEzNGdlQnlUWGVyWXhWMUtsdG1VLUxGby0xdGJaSDJfNjlRNlNzbHRUOEk?oc=5",
+   "published": "2026-09-14",
+   "source": "Stock Titan"
+  },
+  {
    "title": "Defence, space firms turn to SPACs as investor appetite soars - The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTdfOVB2anFKcl9hRHlvX2lieUxKVVJzaWRUVzBBd0lFU3hCcEllSC1leThydkxONDJnODFTdlBJdWZCOGFjV1N2WkMteFdDakZLYndRTTdueEg2RXJkYldXTVEyWm9KNGNSblcyTFFqamhlTlo1UUgwaHJ5cmNvejBxNzloVjZqQVV3S25kcjg3QnRxR1ZTMlIyUnc0a3l4Q2xmNnA1RnFWTTFyRVdlZA?oc=5",
    "published": "2026-09-14",
    "source": "The Globe and Mail"
+  },
+  {
+   "title": "Defense, space startups take SPAC route as investor interest soars - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmU0Ung3a2dacDA5aUgtUDBBZGpjVDlHRExPYzlCaHNLLUVTSlM5RkstUWxQeVFJOFBlelptVklOVlNyUVRFLU5kM3lVX3JIZE1aLWcxb2VYM251SUFmcURHdk9CX29OUnY2eHQtQ2Fwd2xfdE83c2p4dHNiQWY0VzI0Q0gyS0pacFc2VTB0UVJnZTZmZVdEUjZlbng5dXZMcUZISHlZMUFURGZZVmxWaUlqcHU3NnpvSGNib3RJME9RbnRFWXQw?oc=5",
+   "published": "2026-09-14",
+   "source": "TradingView"
   }
  ],
  "regs": []
