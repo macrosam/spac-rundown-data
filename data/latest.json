@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T11:49:27Z",
+ "generated_at": "2026-09-15T18:51:38Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2195,34 +2195,40 @@
  ],
  "media": [
   {
-   "title": "NewSpace Navigator \u2013 Seventh Edition - wfw.com",
+   "title": "NewSpace Navigator \u2013 Seventh Edition - Watson Farley & Williams",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uWGhLbXFlZm1SM01weHBiMUplc0laa3ZxQzF4VHNGODM4b1lsdWYxSHdqSEZFS1R4WGRmZTJxcmJ4UXRUNURiR1JSeDdDeGh5RXlIYjBXRGhBcE1WNnYwZjBJVXg1eUNsdXZGeW9MN0VEdkN1?oc=5",
    "published": "2026-09-15",
-   "source": "wfw.com"
+   "source": "Watson Farley & Williams"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHFWX21VQTlGdlJ3UzZjRkEyU25vUnZSMHZPbnM0dnF4SlVObWROSWN6YmNheTQ0all3T3BSYVBaTFlpX1dHUEc3cFJadjU5dlI5WXhNUE0zWEFwdmloM2k2a19RLWxNb0Y0RldGZEJGajhzdkFYQ1FNWlVGVGtaRkZQYU02WVFxN0dnWUxjVXliSFl4eTNDak9pOWptN2I4Wm5NWWJYckstTjlXNXc4a2Mwcmc1M0xaQUExNXgyVHhfMFRKTm84aGpfWQ?oc=5",
-   "published": "2026-09-14",
-   "source": "Stock Titan"
-  },
-  {
-   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - Stock Titan",
+   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - stocktitan.net",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFYybmRpVHlfZnRqVUdRRFpDQ19MYVF0ZURYdG9jaXp6UnRpYnpRQk95THBucjhocXdILUpGclktRDVvSGEzdHVvYUE2S2ZCZDJzd1VWNlVPVkVrOS1JX00xQjg4aHhpTUFsZWt0RUlhaDRKdDJKRDdZNHVBeWhFMDN4cS1pYTBnZVpPMjJBbTVYcmo0bGZreEEzNGdlQnlUWGVyWXhWMUtsdG1VLUxGby0xdGJaSDJfNjlRNlNzbHRUOEk?oc=5",
    "published": "2026-09-14",
-   "source": "Stock Titan"
+   "source": "stocktitan.net"
   },
   {
-   "title": "Defense, space startups take SPAC route as investor interest soars - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmU0Ung3a2dacDA5aUgtUDBBZGpjVDlHRExPYzlCaHNLLUVTSlM5RkstUWxQeVFJOFBlelptVklOVlNyUVRFLU5kM3lVX3JIZE1aLWcxb2VYM251SUFmcURHdk9CX29OUnY2eHQtQ2Fwd2xfdE83c2p4dHNiQWY0VzI0Q0gyS0pacFc2VTB0UVJnZTZmZVdEUjZlbng5dXZMcUZISHlZMUFURGZZVmxWaUlqcHU3NnpvSGNib3RJME9RbnRFWXQw?oc=5",
+   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHFWX21VQTlGdlJ3UzZjRkEyU25vUnZSMHZPbnM0dnF4SlVObWROSWN6YmNheTQ0all3T3BSYVBaTFlpX1dHUEc3cFJadjU5dlI5WXhNUE0zWEFwdmloM2k2a19RLWxNb0Y0RldGZEJGajhzdkFYQ1FNWlVGVGtaRkZQYU02WVFxN0dnWUxjVXliSFl4eTNDak9pOWptN2I4Wm5NWWJYckstTjlXNXc4a2Mwcmc1M0xaQUExNXgyVHhfMFRKTm84aGpfWQ?oc=5",
    "published": "2026-09-14",
-   "source": "TradingView"
+   "source": "stocktitan.net"
   },
   {
-   "title": "Defense, Space Firms Turn to SPACs - Newsmax",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWtjbE1DSHlRRDhWTEFyYzhGMVAwMjVHQlMwdFlBZmhmTld1NktwaVpJcDBXdGxhNFNWd241WXBka1ZFSzR5dDVGVXFmRmhVYVB6aEdBdUhkcWhsMGZoVjY0NUlpbUFycnNtNTdvcnBPeXRxeDNOMzR1SksxXzVmaFhFNFNaU2dVaFc4bmxn?oc=5",
-   "published": "2026-09-14",
-   "source": "Newsmax"
+   "title": "Agility's new Digit 5 robot lifts 50 pounds, works 20+ hours a day and operates alongside people - geekwire.com",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XWk9TSFNfa0d2N2ZCNTY1eU9pTk9BRGltZ2F0MkFVZ0RZem9kdGlQMGdpUGQ0MDFYUjM5enFob3YtRHFOT2gxN0tn?oc=5",
+   "published": "2026-09-15",
+   "source": "geekwire.com"
+  },
+  {
+   "title": "Blank-check Haymaker Acquisition Corp V (HYAC) outlines $250M IPO trust and founder stake - stocktitan.net",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2p5bDNFaHJiYnNsQVRBQTlLemd0SWV1VDRJZ091OTBqZ0NnNDFrcTlMTTBmdm15UWVpcE4wRVFteTlneHJXWHBuRTVLdEk5X184Y2FDUEhCeHUyX0p6SGhvVzUyMmFBYjhJbDdma2RUMkJJY2VOZ1RGQVFuUERrU0tfRWQ1WDdPcnpHWDg2Q0tDajl1bWlBRy1HMm5IM1M3bHppVy1Tbm1ncjZwWGhwZ1RqbWxNOU5ZeEhfalU4UkEyT19RY3pVTg?oc=5",
+   "published": "2026-09-15",
+   "source": "stocktitan.net"
+  },
+  {
+   "title": "Launch Two moves NuCube microreactor SPAC deal forward - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmNpMVlMVE5kTllyUlBxVUhoVzdZd1dzS09YdHdjNm5mQkpDdU5PYjdRdzBoX05DQXNQZTFqZ1gxbFZBOElRcHNDMjd6c2hCczhNNjJlNExXM2k4bG9pckhIRzBoSHNyUGlrN2N4SnNDdmc5WlAxVDh0OTlVTkh1U213NWpGMEFneUVrbi10SjdpTXBpS0g4WHpLQWliVlBNb3J3dUw2VWo3Zw?oc=5",
+   "published": "2026-09-15",
+   "source": "TipRanks"
   }
  ],
  "regs": []
