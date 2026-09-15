@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T18:50:49Z",
+ "generated_at": "2026-09-15T11:49:27Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -186,6 +186,22 @@
  ],
  "amends": [
   {
+   "company": "Eaglesky Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2143067",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2143067/0001185185-26-003965.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: United States of America (auto-extracted)"
+  },
+  {
+   "company": "Leader's Advantage Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2109823",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2109823/0001213900-26-099404.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Gold Mountain Acquisition Corp.",
    "form": "S-1/A",
    "cik": "2105318",
@@ -313,6 +329,66 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "425",
+   "cik": "2028614",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2028614/0001213900-26-099743.txt"
+  },
+  {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2112446/0001193125-26-389929.txt"
+  },
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1926599/0001193125-26-389768.txt"
+  },
+  {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2028614",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2028614/0001213900-26-099738.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Embrace Change Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1869601",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1869601/0001493152-26-042465.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2010653/0001829126-26-010068.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "byNordic Acquisition Corp",
+   "form": "8-K",
+   "cik": "1801417",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1801417/0001213900-26-099780.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Eureka Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000410",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2000410/0001213900-26-099481.txt"
+  },
   {
    "company": "ChampionsGate Acquisition Corp",
    "form": "425",
@@ -1331,6 +1407,30 @@
  ],
  "votes": [
   {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "1853047",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1853047/0001096906-26-001362.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "2017950",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2017950/0001493152-26-042602.txt",
+   "blurb": "meeting December 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2023676",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2023676/0001213900-26-099792.txt",
+   "blurb": "meeting October 6, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
    "company": "Athena Technology Acquisition Corp. II",
    "form": "8-K",
    "cik": "1882198",
@@ -1699,6 +1799,14 @@
   }
  ],
  "pipes": [
+  {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2010653/0001829126-26-010068.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Three Lions Acquisition Corp.",
    "form": "8-K",
@@ -2087,22 +2195,34 @@
  ],
  "media": [
   {
+   "title": "NewSpace Navigator \u2013 Seventh Edition - wfw.com",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uWGhLbXFlZm1SM01weHBiMUplc0laa3ZxQzF4VHNGODM4b1lsdWYxSHdqSEZFS1R4WGRmZTJxcmJ4UXRUNURiR1JSeDdDeGh5RXlIYjBXRGhBcE1WNnYwZjBJVXg1eUNsdXZGeW9MN0VEdkN1?oc=5",
+   "published": "2026-09-15",
+   "source": "wfw.com"
+  },
+  {
+   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHFWX21VQTlGdlJ3UzZjRkEyU25vUnZSMHZPbnM0dnF4SlVObWROSWN6YmNheTQ0all3T3BSYVBaTFlpX1dHUEc3cFJadjU5dlI5WXhNUE0zWEFwdmloM2k2a19RLWxNb0Y0RldGZEJGajhzdkFYQ1FNWlVGVGtaRkZQYU02WVFxN0dnWUxjVXliSFl4eTNDak9pOWptN2I4Wm5NWWJYckstTjlXNXc4a2Mwcmc1M0xaQUExNXgyVHhfMFRKTm84aGpfWQ?oc=5",
+   "published": "2026-09-14",
+   "source": "Stock Titan"
+  },
+  {
    "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFYybmRpVHlfZnRqVUdRRFpDQ19MYVF0ZURYdG9jaXp6UnRpYnpRQk95THBucjhocXdILUpGclktRDVvSGEzdHVvYUE2S2ZCZDJzd1VWNlVPVkVrOS1JX00xQjg4aHhpTUFsZWt0RUlhaDRKdDJKRDdZNHVBeWhFMDN4cS1pYTBnZVpPMjJBbTVYcmo0bGZreEEzNGdlQnlUWGVyWXhWMUtsdG1VLUxGby0xdGJaSDJfNjlRNlNzbHRUOEk?oc=5",
    "published": "2026-09-14",
    "source": "Stock Titan"
   },
   {
-   "title": "Defence, space firms turn to SPACs as investor appetite soars - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTdfOVB2anFKcl9hRHlvX2lieUxKVVJzaWRUVzBBd0lFU3hCcEllSC1leThydkxONDJnODFTdlBJdWZCOGFjV1N2WkMteFdDakZLYndRTTdueEg2RXJkYldXTVEyWm9KNGNSblcyTFFqamhlTlo1UUgwaHJ5cmNvejBxNzloVjZqQVV3S25kcjg3QnRxR1ZTMlIyUnc0a3l4Q2xmNnA1RnFWTTFyRVdlZA?oc=5",
-   "published": "2026-09-14",
-   "source": "The Globe and Mail"
-  },
-  {
    "title": "Defense, space startups take SPAC route as investor interest soars - TradingView",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmU0Ung3a2dacDA5aUgtUDBBZGpjVDlHRExPYzlCaHNLLUVTSlM5RkstUWxQeVFJOFBlelptVklOVlNyUVRFLU5kM3lVX3JIZE1aLWcxb2VYM251SUFmcURHdk9CX29OUnY2eHQtQ2Fwd2xfdE83c2p4dHNiQWY0VzI0Q0gyS0pacFc2VTB0UVJnZTZmZVdEUjZlbng5dXZMcUZISHlZMUFURGZZVmxWaUlqcHU3NnpvSGNib3RJME9RbnRFWXQw?oc=5",
    "published": "2026-09-14",
    "source": "TradingView"
+  },
+  {
+   "title": "Defense, Space Firms Turn to SPACs - Newsmax",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWtjbE1DSHlRRDhWTEFyYzhGMVAwMjVHQlMwdFlBZmhmTld1NktwaVpJcDBXdGxhNFNWd241WXBka1ZFSzR5dDVGVXFmRmhVYVB6aEdBdUhkcWhsMGZoVjY0NUlpbUFycnNtNTdvcnBPeXRxeDNOMzR1SksxXzVmaFhFNFNaU2dVaFc4bmxn?oc=5",
+   "published": "2026-09-14",
+   "source": "Newsmax"
   }
  ],
  "regs": []

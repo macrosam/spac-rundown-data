@@ -2879,6 +2879,140 @@
    "filed": "2026-09-11",
    "path": "edgar/data/2053927/0001829126-26-010024.txt",
    "blurb": ""
+  },
+  "edgar/data/2028614/0001213900-26-099743.txt": {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "425",
+   "cik": "2028614",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2028614/0001213900-26-099743.txt",
+   "blurb": ""
+  },
+  "edgar/data/2112446/0001193125-26-389929.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2112446/0001193125-26-389929.txt",
+   "blurb": ""
+  },
+  "edgar/data/1926599/0001193125-26-389768.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1926599/0001193125-26-389768.txt",
+   "blurb": ""
+  },
+  "edgar/data/2028614/0001213900-26-099738.txt": {
+   "company": "Drugs Made In America Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2028614",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2028614/0001213900-26-099738.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1869601/0001493152-26-042465.txt": {
+   "company": "Embrace Change Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1869601",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1869601/0001493152-26-042465.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement"
+   ]
+  },
+  "edgar/data/2010653/0001829126-26-010068.txt": {
+   "company": "Future Vision II Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2010653",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2010653/0001829126-26-010068.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1853047/0001096906-26-001362.txt": {
+   "company": "Hudson Acquisition I Corp.",
+   "form": "8-K",
+   "cik": "1853047",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1853047/0001096906-26-001362.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2133719/0001213900-26-099386.txt": {
+   "company": "NorthStrive Acquisition Corp I.",
+   "form": "8-K",
+   "cik": "2133719",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2133719/0001213900-26-099386.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1801417/0001213900-26-099780.txt": {
+   "company": "byNordic Acquisition Corp",
+   "form": "8-K",
+   "cik": "1801417",
+   "filed": "2026-09-14",
+   "path": "edgar/data/1801417/0001213900-26-099780.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2017950/0001493152-26-042602.txt": {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "2017950",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2017950/0001493152-26-042602.txt",
+   "blurb": "meeting December 31, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-099792.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2023676",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2023676/0001213900-26-099792.txt",
+   "blurb": "meeting October 6, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2143067/0001185185-26-003965.txt": {
+   "company": "Eaglesky Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2143067",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2143067/0001185185-26-003965.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: United States of America (auto-extracted)"
+  },
+  "edgar/data/2109823/0001213900-26-099404.txt": {
+   "company": "Leader's Advantage Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2109823",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2109823/0001213900-26-099404.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2000410/0001213900-26-099481.txt": {
+   "company": "Eureka Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2000410",
+   "filed": "2026-09-14",
+   "path": "edgar/data/2000410/0001213900-26-099481.txt",
+   "blurb": ""
   }
  }
 }
