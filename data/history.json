@@ -3013,6 +3013,138 @@
    "filed": "2026-09-14",
    "path": "edgar/data/2000410/0001213900-26-099481.txt",
    "blurb": ""
+  },
+  "edgar/data/2028516/0001104659-26-107735.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2028516/0001104659-26-107735.txt",
+   "blurb": "business combination with Archimedes II (auto-extracted)"
+  },
+  "edgar/data/2057030/0001213900-26-099802.txt": {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2057030/0001213900-26-099802.txt",
+   "blurb": "business combination with Axiom Intelligence Acquisition Corp 1 (auto-extracted)"
+  },
+  "edgar/data/1834032/0001213900-26-100143.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1834032/0001213900-26-100143.txt",
+   "blurb": ""
+  },
+  "edgar/data/1834032/0001213900-26-100144.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1834032/0001213900-26-100144.txt",
+   "blurb": "business combination with HiTech Minerals (auto-extracted)"
+  },
+  "edgar/data/1850059/0001829126-26-010119.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "425",
+   "cik": "1850059",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1850059/0001829126-26-010119.txt",
+   "blurb": ""
+  },
+  "edgar/data/2023676/0001213900-26-099972.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2023676/0001213900-26-099972.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  "edgar/data/2033991/0001193125-26-390812.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2033991/0001193125-26-390812.txt",
+   "blurb": "business combination with Texas Ventures Acquisition III Corp. (auto-extracted)"
+  },
+  "edgar/data/2104391/0001213900-26-100217.txt": {
+   "company": "Catalyst Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2104391",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2104391/0001213900-26-100217.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1850059/0001829126-26-010118.txt": {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1850059/0001829126-26-010118.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2072404/0001213900-26-099873.txt": {
+   "company": "GSR IV Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2072404",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2072404/0001213900-26-099873.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
+   ]
+  },
+  "edgar/data/2023676/0001213900-26-099968.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2023676",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2023676/0001213900-26-099968.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2134856/0001829126-26-010113.txt": {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2134856",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2134856/0001829126-26-010113.txt",
+   "blurb": "meeting October 15, 2026; business-combination vote (auto-extracted)"
+  },
+  "edgar/data/2143038/0001185185-26-004010.txt": {
+   "company": "Oceanhawk Acquisition II Corp.",
+   "form": "S-1",
+   "cik": "2143038",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2143038/0001185185-26-004010.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2131303/0001185185-26-004030.txt": {
+   "company": "SPACCircle Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2131303",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2131303/0001185185-26-004030.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit; focus: developing a tokenized private equity marketplace for early-stage through Series A C venture-backed companies and accredited investors (auto-extracted)"
+  },
+  "edgar/data/2111838/0001193125-26-391060.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2111838/0001193125-26-391060.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
   }
  }
 }

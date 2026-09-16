@@ -1,8 +1,24 @@
 {
- "generated_at": "2026-09-15T18:51:38Z",
+ "generated_at": "2026-09-16T11:49:21Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Oceanhawk Acquisition II Corp.",
+   "form": "S-1",
+   "cik": "2143038",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2143038/0001185185-26-004010.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "SPACCircle Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2131303",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2131303/0001185185-26-004030.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit; focus: developing a tokenized private equity marketplace for early-stage through Series A C venture-backed companies and accredited investors (auto-extracted)"
+  },
   {
    "company": "FutureCore Acquisition Corp",
    "form": "S-1",
@@ -186,6 +202,14 @@
  ],
  "amends": [
   {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "S-1/A",
+   "cik": "2111838",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2111838/0001193125-26-391060.txt",
+   "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
+  {
    "company": "Eaglesky Acquisition Corp",
    "form": "S-1/A",
    "cik": "2143067",
@@ -329,6 +353,68 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2028516/0001104659-26-107735.txt",
+   "blurb": "business combination with Archimedes II (auto-extracted)"
+  },
+  {
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "form": "425",
+   "cik": "2057030",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2057030/0001213900-26-099802.txt",
+   "blurb": "business combination with Axiom Intelligence Acquisition Corp 1 (auto-extracted)"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1834032/0001213900-26-100143.txt"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1834032/0001213900-26-100144.txt",
+   "blurb": "business combination with HiTech Minerals (auto-extracted)"
+  },
+  {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "425",
+   "cik": "1850059",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1850059/0001829126-26-010119.txt"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2023676/0001213900-26-099972.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "425",
+   "cik": "2033991",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2033991/0001193125-26-390812.txt",
+   "blurb": "business combination with Texas Ventures Acquisition III Corp. (auto-extracted)"
+  },
+  {
+   "company": "Flag Ship Acquisition Corp",
+   "form": "8-K",
+   "cik": "1850059",
+   "filed": "2026-09-15",
+   "path": "edgar/data/1850059/0001829126-26-010118.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Drugs Made In America Acquisition Corp.",
    "form": "425",
@@ -1407,6 +1493,14 @@
  ],
  "votes": [
   {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2134856",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2134856/0001829126-26-010113.txt",
+   "blurb": "meeting October 15, 2026; business-combination vote (auto-extracted)"
+  },
+  {
    "company": "Hudson Acquisition I Corp.",
    "form": "8-K",
    "cik": "1853047",
@@ -1906,6 +2000,14 @@
  ],
  "sponsors": [
   {
+   "company": "GSR IV Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2072404",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2072404/0001213900-26-099873.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "EQV Ventures Acquisition Corp. II",
    "form": "8-K",
    "cik": "2042902",
@@ -2195,40 +2297,40 @@
  ],
  "media": [
   {
-   "title": "NewSpace Navigator \u2013 Seventh Edition - Watson Farley & Williams",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uWGhLbXFlZm1SM01weHBiMUplc0laa3ZxQzF4VHNGODM4b1lsdWYxSHdqSEZFS1R4WGRmZTJxcmJ4UXRUNURiR1JSeDdDeGh5RXlIYjBXRGhBcE1WNnYwZjBJVXg1eUNsdXZGeW9MN0VEdkN1?oc=5",
-   "published": "2026-09-15",
-   "source": "Watson Farley & Williams"
+   "title": "Humanoid robot maker behind Digit 5 warns on going concern as Churchill Capital Corp XI (CCXI) pursues $2.5B SPAC - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlM4MWpBLWV3YVJyVE5iZU1VMWdfNXRaRFhsdGJJOEQ2UGNkajJQRm5kRVpQaFlINTYtS0I0OWcyTHA3Yl9tdFpIcGxBX3VmREc0aWQ2Y2dPTHpQQXA1ZDhvRExuN3dsYzE5WVNKbWlHLU94WUxyckdHeWlMSHIyb1pJNGhSSkF0QVd3aXlKYkttbHJuQkE0dkE3RzkxZGUwV05KUnpMMTdOY3JkZDB3LWRjWF9OUzlLNE8yc3Z4U3pBX25U?oc=5",
+   "published": "2026-09-16",
+   "source": "Stock Titan"
   },
   {
-   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - stocktitan.net",
+   "title": "Flag Ship Acquisition to Combine With Bluechip in $400 Million All-Stock SPAC Merger - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazA1MGZlcUFsdi1RVEFlMWYwT29JZkwtazBscEJZREk4VmVwU010STJ1SElOWUFQSXlGZGItSkN1ZUplWFhIT1ctTDRwaFVHUVdVUkxjZWc5TFV6aDZHXy0xczdsZGxFZW92ZkVGQVRXYnFTdmlGSWhZT3hNT2M3M080WkNXbGt0c0hXVkhFTFMyMTdGbnRvWXZ0SGZYWlpWSFgwV0VieFRUZDNPOXVDeFZvVTRRM0pKUkZkTkZ4OVRFaDZiX3dlNE1NdTJ5TXJiVHFZbEcwM2dnY21IcEE?oc=5",
+   "published": "2026-09-15",
+   "source": "TradingView"
+  },
+  {
+   "title": "Circle Acquisition files for $150M SPAC IPO tar... - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnVncGE0Mnp6MWJ6MnJMNjdYR3loWWh4VjJmX1l5OVFfUksyZ2NyUlE1R0pwMG1MaGFTSkp4eGdfTFg3VGhZZ1lxVHJjVUtDb1loamZ0M1VkVEJoS0loYlhRN2RqT08xUU1qWDBMR0U3RUZLc2pRRUJJSy1EbUctRjg4NkRCQWZtb1pTc1JNZnhaMjZGQlpXeGdBZHZNRXFfMlRuTGFPcVE?oc=5",
+   "published": "2026-09-15",
+   "source": "Pluang"
+  },
+  {
+   "title": "Flag Ship Acquisition Corporation Announces Definitive Business Combination Agreement with Bluechip & Co. Holdings - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS25CdmotZTZYajJ0SlBJZFF6X2hobW9HcVo2WFpWUzlYTldpRUFXZVp4NFpINm9yVkcweTJpNFBtb0tsejVzQno4dGdFSEF6UnJvSmxQdTkwNTI3LV9nb1pvT2oyNnBIX01rN2Zjem9pSXREZmNuRVBEdkE3TmtKRVdvU2VJZmRWcXpwRk5FcDhNa3J0T1RneWp0MjdhcFJoSzlPN1Z4dkgwNm55WC1xN0l0NXNMLTJfdWpxUzBDeGpZSmlsZnRKNEhYeWJ0S0xLbHRoVXMtNEZoc2ZRMTFtU1hkQ0dTLS1JWGVudkN3TUQtQVk4aFlGSzJheU9DV3R6LVJHSEd4bWpSVjY2M0wxU3FIRdIBmAJBVV95cUxNem5Jck9TVTV4eHZCSEptOUw2eC1QeFp5Y0Z4cWFMaEgzb0piajM2V3RVdTRUWWVtMno3X0NfUzhHYnlBZE9iTUVTUURzYlVDRTRVRl8tR2tLTlppRWZDN1h0VkNTZzFsNjRvZ08ta2NBOXVVRElyWjh3QjMweTRpd2NESFFLUFN5VmVXNWFSdHoxazhJeVljWlQ1MkEzQVZESkpnWFNTVlNoS0JXQThjdExPY0dnRFFwLVlOU05DNUpNR3ZEUUIyUEkxQXRublhxQmV4ZXcwb3duRGdaSjRDdTZ2dHROaFBNYmtOQVVyVFR5eFFHNjhJeW5SWlg2ei1fSzJZdkduSExfX2Zvd01kd0QzOVJqRm0t?oc=5",
+   "published": "2026-09-15",
+   "source": "The Manila Times"
+  },
+  {
+   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFYybmRpVHlfZnRqVUdRRFpDQ19MYVF0ZURYdG9jaXp6UnRpYnpRQk95THBucjhocXdILUpGclktRDVvSGEzdHVvYUE2S2ZCZDJzd1VWNlVPVkVrOS1JX00xQjg4aHhpTUFsZWt0RUlhaDRKdDJKRDdZNHVBeWhFMDN4cS1pYTBnZVpPMjJBbTVYcmo0bGZreEEzNGdlQnlUWGVyWXhWMUtsdG1VLUxGby0xdGJaSDJfNjlRNlNzbHRUOEk?oc=5",
    "published": "2026-09-14",
-   "source": "stocktitan.net"
+   "source": "Stock Titan"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - stocktitan.net",
+   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHFWX21VQTlGdlJ3UzZjRkEyU25vUnZSMHZPbnM0dnF4SlVObWROSWN6YmNheTQ0all3T3BSYVBaTFlpX1dHUEc3cFJadjU5dlI5WXhNUE0zWEFwdmloM2k2a19RLWxNb0Y0RldGZEJGajhzdkFYQ1FNWlVGVGtaRkZQYU02WVFxN0dnWUxjVXliSFl4eTNDak9pOWptN2I4Wm5NWWJYckstTjlXNXc4a2Mwcmc1M0xaQUExNXgyVHhfMFRKTm84aGpfWQ?oc=5",
    "published": "2026-09-14",
-   "source": "stocktitan.net"
-  },
-  {
-   "title": "Agility's new Digit 5 robot lifts 50 pounds, works 20+ hours a day and operates alongside people - geekwire.com",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XWk9TSFNfa0d2N2ZCNTY1eU9pTk9BRGltZ2F0MkFVZ0RZem9kdGlQMGdpUGQ0MDFYUjM5enFob3YtRHFOT2gxN0tn?oc=5",
-   "published": "2026-09-15",
-   "source": "geekwire.com"
-  },
-  {
-   "title": "Blank-check Haymaker Acquisition Corp V (HYAC) outlines $250M IPO trust and founder stake - stocktitan.net",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2p5bDNFaHJiYnNsQVRBQTlLemd0SWV1VDRJZ091OTBqZ0NnNDFrcTlMTTBmdm15UWVpcE4wRVFteTlneHJXWHBuRTVLdEk5X184Y2FDUEhCeHUyX0p6SGhvVzUyMmFBYjhJbDdma2RUMkJJY2VOZ1RGQVFuUERrU0tfRWQ1WDdPcnpHWDg2Q0tDajl1bWlBRy1HMm5IM1M3bHppVy1Tbm1ncjZwWGhwZ1RqbWxNOU5ZeEhfalU4UkEyT19RY3pVTg?oc=5",
-   "published": "2026-09-15",
-   "source": "stocktitan.net"
-  },
-  {
-   "title": "Launch Two moves NuCube microreactor SPAC deal forward - TipRanks",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmNpMVlMVE5kTllyUlBxVUhoVzdZd1dzS09YdHdjNm5mQkpDdU5PYjdRdzBoX05DQXNQZTFqZ1gxbFZBOElRcHNDMjd6c2hCczhNNjJlNExXM2k4bG9pckhIRzBoSHNyUGlrN2N4SnNDdmc5WlAxVDh0OTlVTkh1U213NWpGMEFneUVrbi10SjdpTXBpS0g4WHpLQWliVlBNb3J3dUw2VWo3Zw?oc=5",
-   "published": "2026-09-15",
-   "source": "TipRanks"
+   "source": "Stock Titan"
   }
  ],
  "regs": []
