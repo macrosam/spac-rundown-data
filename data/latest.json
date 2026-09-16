@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T11:49:21Z",
+ "generated_at": "2026-09-16T18:50:58Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2297,40 +2297,40 @@
  ],
  "media": [
   {
-   "title": "Humanoid robot maker behind Digit 5 warns on going concern as Churchill Capital Corp XI (CCXI) pursues $2.5B SPAC - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlM4MWpBLWV3YVJyVE5iZU1VMWdfNXRaRFhsdGJJOEQ2UGNkajJQRm5kRVpQaFlINTYtS0I0OWcyTHA3Yl9tdFpIcGxBX3VmREc0aWQ2Y2dPTHpQQXA1ZDhvRExuN3dsYzE5WVNKbWlHLU94WUxyckdHeWlMSHIyb1pJNGhSSkF0QVd3aXlKYkttbHJuQkE0dkE3RzkxZGUwV05KUnpMMTdOY3JkZDB3LWRjWF9OUzlLNE8yc3Z4U3pBX25U?oc=5",
+   "title": "May Mobility to go public in SPAC deal at $1.4B valuation - Axios",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZU4zRk80MVRaRV93TGtQRVFPQl9LRVJtdTV3aEVNVE9ZR043bHRiUlhieFJ1WFdWQ05kWWRhNTNPaGhfTklsV1lFTlg2RjNBX3JtdzU0a0dBUy1PckRxa2I2QlZ2RVlRdTBkb2ZUZlBFVklYVTJRWnJOc0k2TlE4Rk1FLTdPRE1rNTMw?oc=5",
    "published": "2026-09-16",
-   "source": "Stock Titan"
+   "source": "Axios"
   },
   {
-   "title": "Flag Ship Acquisition to Combine With Bluechip in $400 Million All-Stock SPAC Merger - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazA1MGZlcUFsdi1RVEFlMWYwT29JZkwtazBscEJZREk4VmVwU010STJ1SElOWUFQSXlGZGItSkN1ZUplWFhIT1ctTDRwaFVHUVdVUkxjZWc5TFV6aDZHXy0xczdsZGxFZW92ZkVGQVRXYnFTdmlGSWhZT3hNT2M3M080WkNXbGt0c0hXVkhFTFMyMTdGbnRvWXZ0SGZYWlpWSFgwV0VieFRUZDNPOXVDeFZvVTRRM0pKUkZkTkZ4OVRFaDZiX3dlNE1NdTJ5TXJiVHFZbEcwM2dnY21IcEE?oc=5",
-   "published": "2026-09-15",
-   "source": "TradingView"
+   "title": "May Mobility is going public in a $1.4B SPAC deal - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUFEMUZEWUUyUGV6NnJ5VlVpODFlU3RtUHZVcm1UeUkzMDhmVUVvckEwVk94ZUkwRk9IcUlfU2dGN0RJR2doaVRMY0lZdTgyMEZoMDR0VGJxRXBmcWJ3c0d4ZDNxQnZGVXRwRTlUbmZpRzdaSlltdXl1RXY1QXdkMl8zYTUtcG9wZGM4?oc=5",
+   "published": "2026-09-16",
+   "source": "TechCrunch"
   },
   {
-   "title": "Circle Acquisition files for $150M SPAC IPO tar... - Pluang",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnVncGE0Mnp6MWJ6MnJMNjdYR3loWWh4VjJmX1l5OVFfUksyZ2NyUlE1R0pwMG1MaGFTSkp4eGdfTFg3VGhZZ1lxVHJjVUtDb1loamZ0M1VkVEJoS0loYlhRN2RqT08xUU1qWDBMR0U3RUZLc2pRRUJJSy1EbUctRjg4NkRCQWZtb1pTc1JNZnhaMjZGQlpXeGdBZHZNRXFfMlRuTGFPcVE?oc=5",
-   "published": "2026-09-15",
-   "source": "Pluang"
+   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjNLcmM1ZjhNV2dieHFtdXFvVFRWU184Y09Vb1lKOU56TWxOYXlSLUZuWGNpSFBKTWlnc0JDX1ZqYWYzblNfbzduLUYzMkw5M1ZubFJqa0lXRE0zam95QnV4Nk41bjd1aW9nN253S2wyZVhFLVFvd2ZuX003NDFDaFpBeHBRNGhZZFZnN1RoQUpNMFplS3E1UlVtVF9HLV9lUTk1WDB0NE8?oc=5",
+   "published": "2026-09-16",
+   "source": "Reuters"
   },
   {
-   "title": "Flag Ship Acquisition Corporation Announces Definitive Business Combination Agreement with Bluechip & Co. Holdings - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS25CdmotZTZYajJ0SlBJZFF6X2hobW9HcVo2WFpWUzlYTldpRUFXZVp4NFpINm9yVkcweTJpNFBtb0tsejVzQno4dGdFSEF6UnJvSmxQdTkwNTI3LV9nb1pvT2oyNnBIX01rN2Zjem9pSXREZmNuRVBEdkE3TmtKRVdvU2VJZmRWcXpwRk5FcDhNa3J0T1RneWp0MjdhcFJoSzlPN1Z4dkgwNm55WC1xN0l0NXNMLTJfdWpxUzBDeGpZSmlsZnRKNEhYeWJ0S0xLbHRoVXMtNEZoc2ZRMTFtU1hkQ0dTLS1JWGVudkN3TUQtQVk4aFlGSzJheU9DV3R6LVJHSEd4bWpSVjY2M0wxU3FIRdIBmAJBVV95cUxNem5Jck9TVTV4eHZCSEptOUw2eC1QeFp5Y0Z4cWFMaEgzb0piajM2V3RVdTRUWWVtMno3X0NfUzhHYnlBZE9iTUVTUURzYlVDRTRVRl8tR2tLTlppRWZDN1h0VkNTZzFsNjRvZ08ta2NBOXVVRElyWjh3QjMweTRpd2NESFFLUFN5VmVXNWFSdHoxazhJeVljWlQ1MkEzQVZESkpnWFNTVlNoS0JXQThjdExPY0dnRFFwLVlOU05DNUpNR3ZEUUIyUEkxQXRublhxQmV4ZXcwb3duRGdaSjRDdTZ2dHROaFBNYmtOQVVyVFR5eFFHNjhJeW5SWlg2ei1fSzJZdkduSExfX2Zvd01kd0QzOVJqRm0t?oc=5",
-   "published": "2026-09-15",
-   "source": "The Manila Times"
+   "title": "BOXABL (BXBL) Joins Nasdaq Following SPAC Merger Approval, Bringing Factory-Built Housing Model to Public Markets - NewMediaWire",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOExLN1RNNmNpWTNiQk81SlhjRzBscm82VTFKd1RnT0R4b29rNGJBclhQWmI5djNWWS1iQWFwTzJ3UFhNZlREa21oYUdaSmh4dFh3S1lqRFE3RGZ0eU10aE5wVkJHYUZQbUJkX2RrTmE4OW9CU1pKTzRjTmZMZnBSNkNSdk9MSDJicXpUNDJmS0h0ckxpVG53d0NMRG11XzB1V2F0V0Fod0VqbXd3NWN4d3liWkI0ZEZfdjl1OUVwXzQ4dnZXZFBUTzEyVFlsZG5VQXpuUzVIdGhKSVJKMUYxcnZ5N1V4SGM?oc=5",
+   "published": "2026-09-16",
+   "source": "NewMediaWire"
   },
   {
-   "title": "New eczema drug backed by JATT II (NASDAQ: JATT) could mean only 3\u20134 doses a year - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFYybmRpVHlfZnRqVUdRRFpDQ19MYVF0ZURYdG9jaXp6UnRpYnpRQk95THBucjhocXdILUpGclktRDVvSGEzdHVvYUE2S2ZCZDJzd1VWNlVPVkVrOS1JX00xQjg4aHhpTUFsZWt0RUlhaDRKdDJKRDdZNHVBeWhFMDN4cS1pYTBnZVpPMjJBbTVYcmo0bGZreEEzNGdlQnlUWGVyWXhWMUtsdG1VLUxGby0xdGJaSDJfNjlRNlNzbHRUOEk?oc=5",
-   "published": "2026-09-14",
-   "source": "Stock Titan"
+   "title": "DLA Piper, Latham Steer $1.4B Driverless Vehicle SPAC Deal - Law360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk1hTUZKSEZzVWUzX3gzVl9kVzEzclFUSklBekJzZ051aGdwZkNGTmhIZWV3VnlHVWl6dzlpNldqWHNLN09WT0ZmcnBNVHBfSFdoOGFSUHFpMEo4R3ptTllNOWpIRGZFM0huWFl4NUczVzZUajVJOTBNeEc5OHVTa3FCdzFHZTEwQUppYVV4ZUUwQzBPOENiUkxPaVbSAVZBVV95cUxQaFhOQm1BdnE4UW1IM0M0WTdOM3JnU0ljMmlHb1F6S0pucGk2LV92X2pIejJCY0ROSkVvLUF5c0R5bTJTYXZvSmtCYmZjNFlScE9ZUGdGZw?oc=5",
+   "published": "2026-09-16",
+   "source": "Law360"
   },
   {
-   "title": "Veraxa Biotech (VRXA) CFO named insider with no reported shares - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHFWX21VQTlGdlJ3UzZjRkEyU25vUnZSMHZPbnM0dnF4SlVObWROSWN6YmNheTQ0all3T3BSYVBaTFlpX1dHUEc3cFJadjU5dlI5WXhNUE0zWEFwdmloM2k2a19RLWxNb0Y0RldGZEJGajhzdkFYQ1FNWlVGVGtaRkZQYU02WVFxN0dnWUxjVXliSFl4eTNDak9pOWptN2I4Wm5NWWJYckstTjlXNXc4a2Mwcmc1M0xaQUExNXgyVHhfMFRKTm84aGpfWQ?oc=5",
-   "published": "2026-09-14",
-   "source": "Stock Titan"
+   "title": "May Mobility To Go Public In $1.4 Billion SPAC Deal With ACP Holdings, Raising Up To $337 Million - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC1QVEQyUF9yZVlrMkNoTTJZTlpTbkp1ZW13VTJobmRZb2ZoZmJPQTU3QnI4Zk1MUU5obzZpM1JjTkt5eC1QTE1acW1aaXNvaEpEb2RLWFE2eElLbzVRanl2WlF3RHgwNDIyVWZNdHk4VzBnb0tBXzVTeFBnM2hoVFpOSUVlSHVZWkdGTEw1Tzdlb2R2Y0JTam1qOXpMeTZQdVA4QllQUU54QjdLbFlzS1pZMDTSAboBQVVfeXFMTzlKZng2RHpvUjVNRkRUWWZ6SlFYUDFBZk5RbkhiMlB5Ui1QUnN5ZXVadGJNMU9Gc1o4MTFQX0J0bzJZVUdieXFrWk9zdU5RUDl1V1NHcFhEWFZyU0F5aGFyN1N5dHRiS1RJQ2NyanJ6Z1lMN3VScTB3c1VNaVpJOHE1REtNRmJGeC1VSmlIUFR6bEVqaHU4YXRrNnFuRGNXTGxuSHdDVTdGODY2UHMyVC1lUmFuYVZsR3NB?oc=5",
+   "published": "2026-09-16",
+   "source": "Pulse 2.0"
   }
  ],
  "regs": []
