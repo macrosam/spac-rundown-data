@@ -3145,6 +3145,138 @@
    "filed": "2026-09-15",
    "path": "edgar/data/2111838/0001193125-26-391060.txt",
    "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100370.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2111542/0001213900-26-100370.txt",
+   "blurb": ""
+  },
+  "edgar/data/2128045/0001213900-26-100343.txt": {
+   "company": "Bleichroeder Acquisition Corp. III",
+   "form": "425",
+   "cik": "2128045",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2128045/0001213900-26-100343.txt",
+   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
+  },
+  "edgar/data/2059654/0001185185-26-004076.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2059654/0001185185-26-004076.txt",
+   "blurb": ""
+  },
+  "edgar/data/1834032/0001213900-26-100536.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-16",
+   "path": "edgar/data/1834032/0001213900-26-100536.txt",
+   "blurb": "business combination with HiTech Minerals (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-100215.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-15",
+   "path": "edgar/data/2023676/0001213900-26-100215.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  "edgar/data/2111838/0001193125-26-392746.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "8-A12B",
+   "cik": "2111838",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2111838/0001193125-26-392746.txt"
+  },
+  "edgar/data/2111542/0001213900-26-100367.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2111542",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2111542/0001213900-26-100367.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2029976/0001213900-26-100525.txt": {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "8-K",
+   "cik": "2029976",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2029976/0001213900-26-100525.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2133136/0001213900-26-100364.txt": {
+   "company": "Market Technology Acquisition Corp",
+   "form": "8-K",
+   "cik": "2133136",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2133136/0001213900-26-100364.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035644/0001193125-26-393168.txt": {
+   "company": "Range Capital Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035644",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2035644/0001193125-26-393168.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/2128462/0001193125-26-392190.txt": {
+   "company": "Three Lions Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2128462",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2128462/0001193125-26-392190.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2020987/0001683168-26-007194.txt": {
+   "company": "YHN Acquisition I Ltd",
+   "form": "8-K",
+   "cik": "2020987",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2020987/0001683168-26-007194.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2017950/0001493152-26-042939.txt": {
+   "company": "DT Cloud Star Acquisition Corp",
+   "form": "DEFA14A",
+   "cik": "2017950",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2017950/0001493152-26-042939.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2148245/0001185185-26-004057.txt": {
+   "company": "New Iceland Arctic Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2148245",
+   "filed": "2026-09-16",
+   "path": "edgar/data/2148245/0001185185-26-004057.txt",
+   "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit; focus: compelling and underappreciated companies in high-growth sectors (auto-extracted)"
   }
  }
 }
