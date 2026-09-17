@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:49:55Z",
+ "generated_at": "2026-09-17T18:52:17Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2398,16 +2398,16 @@
  ],
  "media": [
   {
-   "title": "JATT III raises $69M in Nasdaq SPAC IPO, Appleby's second in days - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREV4aGQwbWRpb0ZEb3hrSWxTU05tSkw1R1dDVEZidmhZLWotTEduT0pNSm9BV3h4cFBnSWxnYkw5ZXZsNTRtQkVMcE5aRTg1Q0d2NmQyLURTUGQ4RkxPODNvbTAzaHlRQVl4X0dfdUY0ZDhzWXF2bFhxV29HVHZUWVFEMU42WUxMU2dodjJhbFk1WVphNFBDdlNwSTE1dw?oc=5",
-   "published": "2026-09-17",
-   "source": "Dealroom"
-  },
-  {
    "title": "May Mobility to go public in SPAC deal at $1.4B valuation - Axios",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZU4zRk80MVRaRV93TGtQRVFPQl9LRVJtdTV3aEVNVE9ZR043bHRiUlhieFJ1WFdWQ05kWWRhNTNPaGhfTklsV1lFTlg2RjNBX3JtdzU0a0dBUy1PckRxa2I2QlZ2RVlRdTBkb2ZUZlBFVklYVTJRWnJOc0k2TlE4Rk1FLTdPRE1rNTMw?oc=5",
    "published": "2026-09-16",
    "source": "Axios"
+  },
+  {
+   "title": "JATT III raises $69M in Nasdaq SPAC IPO, Appleby's second in days - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREV4aGQwbWRpb0ZEb3hrSWxTU05tSkw1R1dDVEZidmhZLWotTEduT0pNSm9BV3h4cFBnSWxnYkw5ZXZsNTRtQkVMcE5aRTg1Q0d2NmQyLURTUGQ4RkxPODNvbTAzaHlRQVl4X0dfdUY0ZDhzWXF2bFhxV29HVHZUWVFEMU42WUxMU2dodjJhbFk1WVphNFBDdlNwSTE1dw?oc=5",
+   "published": "2026-09-17",
+   "source": "Dealroom"
   },
   {
    "title": "Quartzsea Acquisition Corp (QSEA) offers monthly cash boost if investors back SPAC delay - Stock Titan",
@@ -2416,22 +2416,22 @@
    "source": "Stock Titan"
   },
   {
-   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal - Reuters",
+   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjNLcmM1ZjhNV2dieHFtdXFvVFRWU184Y09Vb1lKOU56TWxOYXlSLUZuWGNpSFBKTWlnc0JDX1ZqYWYzblNfbzduLUYzMkw5M1ZubFJqa0lXRE0zam95QnV4Nk41bjd1aW9nN253S2wyZVhFLVFvd2ZuX003NDFDaFpBeHBRNGhZZFZnN1RoQUpNMFplS3E1UlVtVF9HLV9lUTk1WDB0NE8?oc=5",
    "published": "2026-09-16",
-   "source": "Reuters"
+   "source": "reuters.com"
+  },
+  {
+   "title": "BOXABL (NASDAQ: BXBL) Joins Nasdaq Following SPAC Merger Approval, Bringing Factory-Built Housing Model to Public Markets - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMm13VTNBVHZjZUs4MFNKYXBNUGNTT2J4QWMtZEtBMGoydU8zUjBib1kyZmNPWS0yTkZVbk1DQWsybHBpQnRpeUF4eEszXzAtTjRudTk5bTJpeFRVZmFQVWNQOGhUalVqU0ZKaXo5R1BqakZhdkdiM3dLNm5aNG1iQjRpWDR5T2FteGEwVFlxYkNtQkFNSEdWY1Z1VEN6UGgxc2kwdVhUbnhEQk40b0RpSFlOSFRlUk1sQzVNTll1RHAwRkR5MTMyM2Q2VTJmbWdnYW9uc3NUZVE1RVNTbVhxUFUyQi1MTllxcUpJenBnT0JpWmpuYVl2cTN0aFlQblRrVmhKRG5FUk5ZbW5CZExrNC03cGVwblVtSndEdDlfWjNoa3Ns?oc=5",
+   "published": "2026-09-17",
+   "source": "The Globe and Mail"
   },
   {
    "title": "DLA Piper, Latham Steer $1.4B Driverless Vehicle SPAC Deal - Law360",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWE5CbUF2cThRbUgzQzRZN04zcmdTSWMyaUdvUXpLSm5waTYtX3Zfakh6MkJjRE5KRW8tQXlzRHltMlNhdm9Ka0JiZmM0WVJwT1lQZ0Zn0gFWQVVfeXFMUGhYTkJtQXZxOFFtSDNDNFk3TjNyZ1NJYzJpR29RektKbnBpNi1fdl9qSHoyQmNETkpFby1BeXNEeW0yU2F2b0prQmJmYzRZUnBPWVBnRmc?oc=5",
    "published": "2026-09-16",
    "source": "Law360"
-  },
-  {
-   "title": "May Mobility is going public in a $1.4B SPAC deal - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUFEMUZEWUUyUGV6NnJ5VlVpODFlU3RtUHZVcm1UeUkzMDhmVUVvckEwVk94ZUkwRk9IcUlfU2dGN0RJR2doaVRMY0lZdTgyMEZoMDR0VGJxRXBmcWJ3c0d4ZDNxQnZGVXRwRTlUbmZpRzdaSlltdXl1RXY1QXdkMl8zYTUtcG9wZGM4?oc=5",
-   "published": "2026-09-16",
-   "source": "TechCrunch"
   }
  ],
  "regs": []
