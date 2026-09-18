@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T11:49:56Z",
+ "generated_at": "2026-09-18T18:49:39Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2525,16 +2525,22 @@
  ],
  "media": [
   {
-   "title": "May Mobility to go public in SPAC deal at $1.4B valuation - Axios",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZU4zRk80MVRaRV93TGtQRVFPQl9LRVJtdTV3aEVNVE9ZR043bHRiUlhieFJ1WFdWQ05kWWRhNTNPaGhfTklsV1lFTlg2RjNBX3JtdzU0a0dBUy1PckRxa2I2QlZ2RVlRdTBkb2ZUZlBFVklYVTJRWnJOc0k2TlE4Rk1FLTdPRE1rNTMw?oc=5",
-   "published": "2026-09-16",
-   "source": "Axios"
+   "title": "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger - Quantum Computing Report",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUtQXzZYbmFiU2padUljWVl6aTBYTmsxRFNVUEMxVENXRW5vQ0Z0amlqQklONWVzeUVVN2gxV1BFNms3YlVzUml1bHZqbGNlWWEyNUdaSGRyTXJXMWZhOWVpM05rRE9ZcU1XLThHMUxHTnVFc3dCaUg4REVpX01EVExMY0Jjay1WUnlmdUUyX3dNbEhVTmNTdHR1TXJIb01PR1g0VGNmNUt3SEVRSkVDWm1aTW5ZYlZud0labUgtY1NkdGsyMmpsWDBuNEpMQ3kxMmJGZHpCZi1XNW5VZXfSAeMBQVVfeXFMUGxOMkh5aDJnWU1kcXFFcTdiVjZKZWp1WkNZZ2M5SUFWaFRkM1NkbDJuWkNlcEZqaVhjckFrNDhpR2VmYTk5SVczSzNqczQ4aGVkRVFLTXE3YVlZSFZNNHRsUlZpaUlyTG1kT1NkZU1pcXVQT1hLb3NXT2FqUEtMeURzQ1ZmaVVNSkhTMHlCRDZRQzFaM21SSnlsWjVyS0JzUWJvWEpHSGxnclI1QW1SOXhOTjhxYVBldGdVOWNySzdKV1Zuc18yd1B3N3lMRm4tYkZodEtQUUJ2ZFh2ZUkyM3hoU1E?oc=5",
+   "published": "2026-09-18",
+   "source": "Quantum Computing Report"
   },
   {
-   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjNLcmM1ZjhNV2dieHFtdXFvVFRWU184Y09Vb1lKOU56TWxOYXlSLUZuWGNpSFBKTWlnc0JDX1ZqYWYzblNfbzduLUYzMkw5M1ZubFJqa0lXRE0zam95QnV4Nk41bjd1aW9nN253S2wyZVhFLVFvd2ZuX003NDFDaFpBeHBRNGhZZFZnN1RoQUpNMFplS3E1UlVtVF9HLV9lUTk1WDB0NE8?oc=5",
-   "published": "2026-09-16",
-   "source": "Reuters"
+   "title": "Meshflow to merge with nuclear tech developer HGP in $1.2B SPAC deal - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDFDRW82WGEzejRsWmdKVEYxS3NPekJXWXVpY2NralM1d2ljOGZsSFY4SUFhTk5yaGkyMFJ6T2JoNmtFTHJmQ1plcWtkNHl5eS1xNktLUjFRT1oxVnZyWVJPdUVDZ0lkWHdVWERUV05HeDJteWw3Y1l4ZnFjbmVmNUtwSXBBRjVLN0NRNml0M0xKbUNQZllEQTIwUkYzM1VfR2hv?oc=5",
+   "published": "2026-09-18",
+   "source": "Dealroom"
+  },
+  {
+   "title": "Tekcapital's Vesari hires adviser to pursue US listing via SPAC merger - proactiveinvestors.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamJIOXhBYjBZcDAyNlhXYUNuRkIwcFBaWFpiNC1iTmVKQ19pQjdHNzJ3dXE1Nkg1bE11d0ZmVEdSMUJiUmlINVVra01GakdVNXZMd25lYXhEV2xNSVZydzc2TFJsVy1aRVVLQUMxcnlSOE5LNmZyU3JoX0hxOHp1VWF5Q2pyNjAyN0VIcHNLdVlNMWl0M3FDWW1RWV9vYUVlZVQ1ekJncGY4VEZaWElzQmJjMHowUDAwdHN4NDVxRVlaYVFNUW9TdjFjTENIX3MxMkhDUEREaEQ?oc=5",
+   "published": "2026-09-18",
+   "source": "proactiveinvestors.com"
   },
   {
    "title": "XRP treasury firm Evernorth raises $30M via convertible notes tied to SPAC merger - CryptoRank",
@@ -2543,22 +2549,16 @@
    "source": "CryptoRank"
   },
   {
-   "title": "May Mobility is going public in a $1.4B SPAC deal - TechCrunch",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUFEMUZEWUUyUGV6NnJ5VlVpODFlU3RtUHZVcm1UeUkzMDhmVUVvckEwVk94ZUkwRk9IcUlfU2dGN0RJR2doaVRMY0lZdTgyMEZoMDR0VGJxRXBmcWJ3c0d4ZDNxQnZGVXRwRTlUbmZpRzdaSlltdXl1RXY1QXdkMl8zYTUtcG9wZGM4?oc=5",
-   "published": "2026-09-16",
-   "source": "TechCrunch"
-  },
-  {
-   "title": "May Mobility To Go Public In $1.4 Billion SPAC Deal With ACP Holdings, Raising Up To $337 Million - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC1QVEQyUF9yZVlrMkNoTTJZTlpTbkp1ZW13VTJobmRZb2ZoZmJPQTU3QnI4Zk1MUU5obzZpM1JjTkt5eC1QTE1acW1aaXNvaEpEb2RLWFE2eElLbzVRanl2WlF3RHgwNDIyVWZNdHk4VzBnb0tBXzVTeFBnM2hoVFpOSUVlSHVZWkdGTEw1Tzdlb2R2Y0JTam1qOXpMeTZQdVA4QllQUU54QjdLbFlzS1pZMDTSAboBQVVfeXFMTzlKZng2RHpvUjVNRkRUWWZ6SlFYUDFBZk5RbkhiMlB5Ui1QUnN5ZXVadGJNMU9Gc1o4MTFQX0J0bzJZVUdieXFrWk9zdU5RUDl1V1NHcFhEWFZyU0F5aGFyN1N5dHRiS1RJQ2NyanJ6Z1lMN3VScTB3c1VNaVpJOHE1REtNRmJGeC1VSmlIUFR6bEVqaHU4YXRrNnFuRGNXTGxuSHdDVTdGODY2UHMyVC1lUmFuYVZsR3NB?oc=5",
-   "published": "2026-09-16",
-   "source": "Pulse 2.0"
-  },
-  {
-   "title": "JATT III raises $69M in Nasdaq SPAC IPO, Appleby's second in days - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREV4aGQwbWRpb0ZEb3hrSWxTU05tSkw1R1dDVEZidmhZLWotTEduT0pNSm9BV3h4cFBnSWxnYkw5ZXZsNTRtQkVMcE5aRTg1Q0d2NmQyLURTUGQ4RkxPODNvbTAzaHlRQVl4X0dfdUY0ZDhzWXF2bFhxV29HVHZUWVFEMU42WUxMU2dodjJhbFk1WVphNFBDdlNwSTE1dw?oc=5",
+   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal By Reuters - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkxIQW5EcTNPUm85WWRqLVFFa3JJSDV2LXAtOXlQelllc212MXZIOU9kNDRJUHMxVldvR1JCNUtiX3I4TG9MVV9SeE85cFNYZm9GMGFfc1B3ajFVczJ0dEd3QjJOUFFwUkUzUEZfTy1IeWlnUXNIMENzNms3UEo5RlpfM1dSTkNheU9DMndNVlFtZktNV29oRnJ1VWR0T3oyVVRZOHE3cktfMHJuZUJncHVB?oc=5",
    "published": "2026-09-17",
-   "source": "Dealroom"
+   "source": "Investing.com"
+  },
+  {
+   "title": "Quartzsea Acquisition Corp (QSEA) offers monthly cash boost if investors back SPAC delay - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEVRa1llUzM0NVBUbXBmUFNxdkJJV2N0OUlaSDBZWTJFX19ZWTE5Y2FKOTg0U3RrcXN2VENCNnh4MmZpcnpocUVoclc4d1JaUWlod0paazFfRUNOMlhKYUxCQktYSVp0RGlUOUxpWXJFZmhHSWJhREllM0VrZDc0QW4zYVQ5em42c1NGYmFjTmVTeE9Wc0V2OEQ0dE5YSWtJQ0xDQ0xFdnE2NU5HQmJGS3RBSV9lbFluUTQ4VDJWWDFBQQ?oc=5",
+   "published": "2026-09-17",
+   "source": "Stock Titan"
   }
  ],
  "regs": []
