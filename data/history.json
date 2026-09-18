@@ -3277,6 +3277,177 @@
    "filed": "2026-09-16",
    "path": "edgar/data/2148245/0001185185-26-004057.txt",
    "blurb": "offering $125,000,000; 12,500,000 units; $10.00/unit; focus: compelling and underappreciated companies in high-growth sectors (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100777.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100777.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100778.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100778.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100780.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100780.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100781.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100781.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100783.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100783.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-100784.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-100784.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-101006.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-101006.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-101008.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-101008.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-101010.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-101010.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2111542/0001213900-26-101013.txt": {
+   "company": "ACP Holdings Acquisition Corp.",
+   "form": "425",
+   "cik": "2111542",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2111542/0001213900-26-101013.txt",
+   "blurb": "business combination with ACP Holdings Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2044009/0001193125-26-394370.txt": {
+   "company": "Armada Acquisition Corp. II",
+   "form": "425",
+   "cik": "2044009",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2044009/0001193125-26-394370.txt",
+   "blurb": ""
+  },
+  "edgar/data/2023676/0001213900-26-101025.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2023676/0001213900-26-101025.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  "edgar/data/2044009/0001193125-26-394363.txt": {
+   "company": "Armada Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2044009",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2044009/0001193125-26-394363.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1969475/0001493152-26-043151.txt": {
+   "company": "Bayview Acquisition Corp",
+   "form": "8-K",
+   "cik": "1969475",
+   "filed": "2026-09-17",
+   "path": "edgar/data/1969475/0001493152-26-043151.txt",
+   "items": [
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant"
+   ]
+  },
+  "edgar/data/2025401/0001213900-26-100942.txt": {
+   "company": "Fifth Era Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2025401",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2025401/0001213900-26-100942.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
+   ]
+  },
+  "edgar/data/1882464/0001493152-26-043070.txt": {
+   "company": "Metal Sky Star Acquisition Corp",
+   "form": "8-K",
+   "cik": "1882464",
+   "filed": "2026-09-17",
+   "path": "edgar/data/1882464/0001493152-26-043070.txt",
+   "items": [
+    "Changes in Registrant's Certifying Accountant",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2035016/0001213900-26-100982.txt": {
+   "company": "Ribbon Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2035016",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2035016/0001213900-26-100982.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/1848861/0001477932-26-005650.txt": {
+   "company": "Healthcare AI Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1848861",
+   "filed": "2026-09-17",
+   "path": "edgar/data/1848861/0001477932-26-005650.txt",
+   "blurb": "meeting August 11, 2023; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2047455/0001829126-26-010154.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2047455",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2047455/0001829126-26-010154.txt",
+   "blurb": "meeting October 19, 2027; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2123380/0001185185-26-004107.txt": {
+   "company": "Gravity Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2123380",
+   "filed": "2026-09-17",
+   "path": "edgar/data/2123380/0001185185-26-004107.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
   }
  }
 }
