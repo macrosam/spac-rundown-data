@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T11:49:09Z",
+ "generated_at": "2026-09-21T18:52:56Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2617,43 +2617,6 @@
    "path": "edgar/data/2133719/0001213900-26-090637.txt"
   }
  ],
- "media": [
-  {
-   "title": "Everli to go public via SPAC merger in $313M deal - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNczVSc2dIeld3RERrSVhnRmVwYVdZUkNDRGdfOWFDRHRLNlp3bWJ3ekdWTjY5aWRBSTlHMUtRLTFLMnVVRU1OMFpuaV93WlJzT2N4bUFaSkVKMGJ6QWpOQ0RkYUpkSEc3eGtpZ0NRa3dPWDUzSnFQck1MdUlZMnVBM1N5WHhJT0hTMHc?oc=5",
-   "published": "2026-09-20",
-   "source": "Dealroom"
-  },
-  {
-   "title": "Flag Ship Acquisition Corp. Rights (FSHPR) Hold Flat at $0.09 as Traders Watch SPAC Deal Pipeline - Smart Money Flow Stocks - careplusvn.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEx0SU9HLXNDV0I1eTBvM1U3V2pzSU5ad21IS3J3RDRBQ3FMbEF0ZHJqdmVPNEN4Y0dkNml4bUtnRGVGTjJtWktNU1p3SUpIWEJVRS1iRGM3dlNIX3JwZzd5X3hCc1BhTDBJb0s5dGpyT1liaGxRTzkzWW92NmdoYnBUdDNKT3I5Q01jR19NbXBxLVpWQWxwTHpuMWp4TXdsZWI2WTZVbUxFc2kzeFo1WUhLb3ZadHU2RTVkVC12NlhpdE1sOE5DZ2xhcDg4QTlQR01r?oc=5",
-   "published": "2026-09-20",
-   "source": "careplusvn.com"
-  },
-  {
-   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
-   "published": "2026-09-20",
-   "source": "Stocktwits"
-  },
-  {
-   "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
-   "published": "2026-09-19",
-   "source": "CoinMarketCap"
-  },
-  {
-   "title": "South Korea's NH Investment Backs Evernorth's XRP Treasury With $30 Million - Startup Fortune",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFlTVGVLdDRKOUQwa2dCVGluSlI4YUVkTDRlNXFqdTFiQUs0VHFMYTJQUXh5ZExXQzhPQ1hqQ2RTOGhxbmE0UUF2dXJ1RkdZQnhaVl8wbXkxMC11Mkp4b0xlTG1iM3hTeXcydFdXSkpDZEZyQmY3ZTNxZDJOR3d5QWRNR05QdVowYWE5MTdzRDR0MklPNlNRZTQxU3Joc0FJOGc?oc=5",
-   "published": "2026-09-20",
-   "source": "Startup Fortune"
-  },
-  {
-   "title": "Evernorth Can Use New $30M Note to Buy XRP, But Only If Its SPAC Deal Closes - Coinpaper",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTFQcnFhX05zZkFVSTZLd3hlLTVydE9OOWx1V25ScThkc1pkRk9Nc3BQaURIcm85MUI5WXY0Um5vUW9KYk90SS1xeXJiNktEUlgxZlkyX19RSEVRSXBwbDlOTWlwLTJaZmJ4Q0ZYbGQ5OHd5UEpTWktqb2pPYkxaN1JLZmI2NFh5TTU2WHdFYktXV1liUTlTUkRZaUtyMllrSjVWXw?oc=5",
-   "published": "2026-09-21",
-   "source": "Coinpaper"
-  }
- ],
+ "media": [],
  "regs": []
 }
