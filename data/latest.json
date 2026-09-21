@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T18:49:39Z",
+ "generated_at": "2026-09-21T11:49:09Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -114,6 +114,14 @@
  ],
  "pricings": [
   {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "424B4",
+   "cik": "2111838",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2111838/0001193125-26-395319.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: a target in industries that complement our management team s background (auto-extracted)"
+  },
+  {
    "company": "Calisa Acquisition Corp",
    "form": "424B3",
    "cik": "2026767",
@@ -191,16 +199,25 @@
    "filed": "2026-08-18",
    "path": "edgar/data/2134856/0001829126-26-009017.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "424B3",
-   "cik": "2088295",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2088295/0001213900-26-090313.txt"
   }
  ],
  "amends": [
+  {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "S-1/A",
+   "cik": "2115191",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2115191/0001213900-26-101388.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Pine Tree Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2076561",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2076561/0001477932-26-005673.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: technology, media and telecommunications ( TMT ), healthcare, and climate tech sectors (auto-extracted)"
+  },
   {
    "company": "Gravity Acquisition Corp.",
    "form": "S-1/A",
@@ -369,6 +386,87 @@
   }
  ],
  "mergers": [
+  {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "425",
+   "cik": "2024460",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2024460/0001213900-26-101425.txt"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2088805/0001213900-26-101055.txt",
+   "blurb": "business combination with Inflection Point Acquisition Corp. VII (auto-extracted)"
+  },
+  {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "425",
+   "cik": "2016221",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2016221/0001213900-26-101181.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101158.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101160.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101406.txt"
+  },
+  {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024460",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2024460/0001213900-26-101422.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101156.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "WinVest Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1854463",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1854463/0001493152-26-043273.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "S-4",
+   "cik": "2102713",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2102713/0001193125-26-394814.txt"
+  },
+  {
+   "company": "Miluna Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2077033",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2077033/0001493152-26-043206.txt"
+  },
   {
    "company": "ACP Holdings Acquisition Corp.",
    "form": "425",
@@ -1633,30 +1731,41 @@
    "cik": "2000410",
    "filed": "2026-08-17",
    "path": "edgar/data/2000410/0001213900-26-090328.txt"
-  },
-  {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102713",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2102713/0001193125-26-352483.txt"
-  },
-  {
-   "company": "Plum Acquisition Corp. III",
-   "form": "425",
-   "cik": "1845550",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1845550/0001213900-26-090305.txt"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "425",
-   "cik": "2012807",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012807/0001829126-26-008823.txt"
   }
  ],
  "votes": [
+  {
+   "company": "BPGC Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1841610",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1841610/0001185185-26-004172.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "WinVest Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1854463",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1854463/0001493152-26-043273.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "ASPAC III Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1890361",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1890361/0001213900-26-101440.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "PRE 14A",
+   "cik": "2033991",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2033991/0001104659-26-108971.txt",
+   "blurb": "meeting October 19, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Healthcare AI Acquisition Corp.",
    "form": "PRE 14A",
@@ -2071,25 +2180,17 @@
    "filed": "2026-08-17",
    "path": "edgar/data/2088295/0001213900-26-090410.txt",
    "blurb": "extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1877557",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1877557/0001104659-26-097234.txt",
-   "blurb": "meeting June 13, 2023; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "WinVest Acquisition Corp.",
-   "form": "PRE 14A",
-   "cik": "1854463",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1854463/0001493152-26-038280.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101156.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "ACP Holdings Acquisition Corp.",
    "form": "8-K",
@@ -2514,51 +2615,44 @@
    "cik": "2133719",
    "filed": "2026-08-17",
    "path": "edgar/data/2133719/0001213900-26-090637.txt"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. III",
-   "form": "25-NSE",
-   "cik": "2012318",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012318/0001354457-26-000790.txt"
   }
  ],
  "media": [
   {
-   "title": "EigenQ and Silicon Valley Acquisition Corp. Secure $45M Committed Convertible Financing Ahead of $3B SPAC Merger - Quantum Computing Report",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUtQXzZYbmFiU2padUljWVl6aTBYTmsxRFNVUEMxVENXRW5vQ0Z0amlqQklONWVzeUVVN2gxV1BFNms3YlVzUml1bHZqbGNlWWEyNUdaSGRyTXJXMWZhOWVpM05rRE9ZcU1XLThHMUxHTnVFc3dCaUg4REVpX01EVExMY0Jjay1WUnlmdUUyX3dNbEhVTmNTdHR1TXJIb01PR1g0VGNmNUt3SEVRSkVDWm1aTW5ZYlZud0labUgtY1NkdGsyMmpsWDBuNEpMQ3kxMmJGZHpCZi1XNW5VZXfSAeMBQVVfeXFMUGxOMkh5aDJnWU1kcXFFcTdiVjZKZWp1WkNZZ2M5SUFWaFRkM1NkbDJuWkNlcEZqaVhjckFrNDhpR2VmYTk5SVczSzNqczQ4aGVkRVFLTXE3YVlZSFZNNHRsUlZpaUlyTG1kT1NkZU1pcXVQT1hLb3NXT2FqUEtMeURzQ1ZmaVVNSkhTMHlCRDZRQzFaM21SSnlsWjVyS0JzUWJvWEpHSGxnclI1QW1SOXhOTjhxYVBldGdVOWNySzdKV1Zuc18yd1B3N3lMRm4tYkZodEtQUUJ2ZFh2ZUkyM3hoU1E?oc=5",
-   "published": "2026-09-18",
-   "source": "Quantum Computing Report"
-  },
-  {
-   "title": "Meshflow to merge with nuclear tech developer HGP in $1.2B SPAC deal - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDFDRW82WGEzejRsWmdKVEYxS3NPekJXWXVpY2NralM1d2ljOGZsSFY4SUFhTk5yaGkyMFJ6T2JoNmtFTHJmQ1plcWtkNHl5eS1xNktLUjFRT1oxVnZyWVJPdUVDZ0lkWHdVWERUV05HeDJteWw3Y1l4ZnFjbmVmNUtwSXBBRjVLN0NRNml0M0xKbUNQZllEQTIwUkYzM1VfR2hv?oc=5",
-   "published": "2026-09-18",
+   "title": "Everli to go public via SPAC merger in $313M deal - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNczVSc2dIeld3RERrSVhnRmVwYVdZUkNDRGdfOWFDRHRLNlp3bWJ3ekdWTjY5aWRBSTlHMUtRLTFLMnVVRU1OMFpuaV93WlJzT2N4bUFaSkVKMGJ6QWpOQ0RkYUpkSEc3eGtpZ0NRa3dPWDUzSnFQck1MdUlZMnVBM1N5WHhJT0hTMHc?oc=5",
+   "published": "2026-09-20",
    "source": "Dealroom"
   },
   {
-   "title": "Tekcapital's Vesari hires adviser to pursue US listing via SPAC merger - proactiveinvestors.com",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamJIOXhBYjBZcDAyNlhXYUNuRkIwcFBaWFpiNC1iTmVKQ19pQjdHNzJ3dXE1Nkg1bE11d0ZmVEdSMUJiUmlINVVra01GakdVNXZMd25lYXhEV2xNSVZydzc2TFJsVy1aRVVLQUMxcnlSOE5LNmZyU3JoX0hxOHp1VWF5Q2pyNjAyN0VIcHNLdVlNMWl0M3FDWW1RWV9vYUVlZVQ1ekJncGY4VEZaWElzQmJjMHowUDAwdHN4NDVxRVlaYVFNUW9TdjFjTENIX3MxMkhDUEREaEQ?oc=5",
-   "published": "2026-09-18",
-   "source": "proactiveinvestors.com"
+   "title": "Flag Ship Acquisition Corp. Rights (FSHPR) Hold Flat at $0.09 as Traders Watch SPAC Deal Pipeline - Smart Money Flow Stocks - careplusvn.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEx0SU9HLXNDV0I1eTBvM1U3V2pzSU5ad21IS3J3RDRBQ3FMbEF0ZHJqdmVPNEN4Y0dkNml4bUtnRGVGTjJtWktNU1p3SUpIWEJVRS1iRGM3dlNIX3JwZzd5X3hCc1BhTDBJb0s5dGpyT1liaGxRTzkzWW92NmdoYnBUdDNKT3I5Q01jR19NbXBxLVpWQWxwTHpuMWp4TXdsZWI2WTZVbUxFc2kzeFo1WUhLb3ZadHU2RTVkVC12NlhpdE1sOE5DZ2xhcDg4QTlQR01r?oc=5",
+   "published": "2026-09-20",
+   "source": "careplusvn.com"
   },
   {
-   "title": "XRP treasury firm Evernorth raises $30M via convertible notes tied to SPAC merger - CryptoRank",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DajY2UVAyMVZ6ZEliVVNCb3BRbFQ5cnVuTGZTaUtwanRBM01uRGFFX0U0aF9fa0VGV3hFQThjdF9hWFM5UnBrUVE1d2t1VVNHeFFhZlJDVXRkN3pabVk3eFdSdkRlUnZ2Mk9FZEtZdUZ2NS1qSDRJdF9aaS0?oc=5",
-   "published": "2026-09-18",
-   "source": "CryptoRank"
+   "title": "CCCX Stock Slides After-Hours: Barclays Cuts Stake Ahead Of High-Stakes SPAC Merger Vote - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2IyNUhUdXpqOEViYkxySTJIOFlEcFpmRjhwRURQZm00NVl1djhpVm9RTEx4UTRvbkN0dWNxMktaMlJReXlFUHhuZHV2RWdObEhTZEVTTVNaakV4Z0xCcFpYV1Y4WVZNTWNVTVpiYkJkMXFBeUljUk9wa21pOGhTSlBrZS1sT0dwVWE5Y25VZjA5amswbTF0SmhNakJQaE81WHJIU0dmcXRfV3RubTFReFhZdkFYd0dhWHBFMlJCOHd1YmJwOG5hS21jVk9YZ2VMZHdTWmxn?oc=5",
+   "published": "2026-09-20",
+   "source": "Stocktwits"
   },
   {
-   "title": "May Mobility to list on Nasdaq via $1.4 billion SPAC deal By Reuters - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkxIQW5EcTNPUm85WWRqLVFFa3JJSDV2LXAtOXlQelllc212MXZIOU9kNDRJUHMxVldvR1JCNUtiX3I4TG9MVV9SeE85cFNYZm9GMGFfc1B3ajFVczJ0dEd3QjJOUFFwUkUzUEZfTy1IeWlnUXNIMENzNms3UEo5RlpfM1dSTkNheU9DMndNVlFtZktNV29oRnJ1VWR0T3oyVVRZOHE3cktfMHJuZUJncHVB?oc=5",
-   "published": "2026-09-17",
-   "source": "Investing.com"
+   "title": "Ether Machine Scraps SPAC Merger, Drops $1.5B Ethereum Fund - CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdVWE1jNnE4SlZaZGRFdUdwNTJhSGk1M1FUb3g4V2V1ZjNWd3JhUW1oYzB0bHFJNnJvNnRXN1M1M1VZVk44WmNQS1MwaE1mSlg4bVo1Ni1hY1JVMTlJSWMyazUyM1lVb0JTYXRYQjB5aENPNkw0LXBrRGdhdFEtVWJLTC1sRHBVeW5FX1VZTFlYU3F4MEp6b1BTY2VNZVA0TVFuak9raw?oc=5",
+   "published": "2026-09-19",
+   "source": "CoinMarketCap"
   },
   {
-   "title": "Quartzsea Acquisition Corp (QSEA) offers monthly cash boost if investors back SPAC delay - Stock Titan",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEVRa1llUzM0NVBUbXBmUFNxdkJJV2N0OUlaSDBZWTJFX19ZWTE5Y2FKOTg0U3RrcXN2VENCNnh4MmZpcnpocUVoclc4d1JaUWlod0paazFfRUNOMlhKYUxCQktYSVp0RGlUOUxpWXJFZmhHSWJhREllM0VrZDc0QW4zYVQ5em42c1NGYmFjTmVTeE9Wc0V2OEQ0dE5YSWtJQ0xDQ0xFdnE2NU5HQmJGS3RBSV9lbFluUTQ4VDJWWDFBQQ?oc=5",
-   "published": "2026-09-17",
-   "source": "Stock Titan"
+   "title": "South Korea's NH Investment Backs Evernorth's XRP Treasury With $30 Million - Startup Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFlTVGVLdDRKOUQwa2dCVGluSlI4YUVkTDRlNXFqdTFiQUs0VHFMYTJQUXh5ZExXQzhPQ1hqQ2RTOGhxbmE0UUF2dXJ1RkdZQnhaVl8wbXkxMC11Mkp4b0xlTG1iM3hTeXcydFdXSkpDZEZyQmY3ZTNxZDJOR3d5QWRNR05QdVowYWE5MTdzRDR0MklPNlNRZTQxU3Joc0FJOGc?oc=5",
+   "published": "2026-09-20",
+   "source": "Startup Fortune"
+  },
+  {
+   "title": "Evernorth Can Use New $30M Note to Buy XRP, But Only If Its SPAC Deal Closes - Coinpaper",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTFQcnFhX05zZkFVSTZLd3hlLTVydE9OOWx1V25ScThkc1pkRk9Nc3BQaURIcm85MUI5WXY0Um5vUW9KYk90SS1xeXJiNktEUlgxZlkyX19RSEVRSXBwbDlOTWlwLTJaZmJ4Q0ZYbGQ5OHd5UEpTWktqb2pPYkxaN1JLZmI2NFh5TTU2WHdFYktXV1liUTlTUkRZaUtyMllrSjVWXw?oc=5",
+   "published": "2026-09-21",
+   "source": "Coinpaper"
   }
  ],
  "regs": []

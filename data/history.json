@@ -24,14 +24,6 @@
    "path": "edgar/data/2134856/0001829126-26-009017.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
   },
-  "edgar/data/2088295/0001213900-26-090313.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "424B3",
-   "cik": "2088295",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2088295/0001213900-26-090313.txt",
-   "blurb": ""
-  },
   "edgar/data/2133239/0001929980-26-000479.txt": {
    "company": "Southern Cross Acquisition II Corp.",
    "form": "S-1/A",
@@ -279,63 +271,6 @@
    "path": "edgar/data/2000410/0001213900-26-090328.txt",
    "blurb": ""
   },
-  "edgar/data/2102713/0001193125-26-352483.txt": {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102713",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2102713/0001193125-26-352483.txt",
-   "blurb": ""
-  },
-  "edgar/data/1845550/0001213900-26-090305.txt": {
-   "company": "Plum Acquisition Corp. III",
-   "form": "425",
-   "cik": "1845550",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1845550/0001213900-26-090305.txt",
-   "blurb": ""
-  },
-  "edgar/data/2012807/0001829126-26-008823.txt": {
-   "company": "RF Acquisition Corp II",
-   "form": "425",
-   "cik": "2012807",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012807/0001829126-26-008823.txt",
-   "blurb": ""
-  },
-  "edgar/data/2123955/0001213900-26-090210.txt": {
-   "company": "Pinnacle Acquisition Corp",
-   "form": "8-K",
-   "cik": "2123955",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2123955/0001213900-26-090210.txt",
-   "note": "8-K: entry into material definitive agreement",
-   "items": [
-    "entry into material definitive agreement"
-   ]
-  },
-  "edgar/data/2012807/0001829126-26-008821.txt": {
-   "company": "RF Acquisition Corp II",
-   "form": "8-K",
-   "cik": "2012807",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012807/0001829126-26-008821.txt",
-   "note": "8-K: entry into material definitive agreement",
-   "items": [
-    "entry into material definitive agreement"
-   ]
-  },
-  "edgar/data/2043630/0001437749-26-027948.txt": {
-   "company": "StoneBridge Acquisition II Corp",
-   "form": "8-K",
-   "cik": "2043630",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2043630/0001437749-26-027948.txt",
-   "note": "8-K: entry into material definitive agreement",
-   "items": [
-    "entry into material definitive agreement"
-   ]
-  },
   "edgar/data/2012807/0001829126-26-009168.txt": {
    "company": "RF Acquisition Corp II",
    "form": "8-K",
@@ -390,22 +325,6 @@
    "path": "edgar/data/2088295/0001213900-26-090410.txt",
    "blurb": "extension on the agenda (auto-extracted)"
   },
-  "edgar/data/1877557/0001104659-26-097234.txt": {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1877557",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1877557/0001104659-26-097234.txt",
-   "blurb": "meeting June 13, 2023; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/1854463/0001493152-26-038280.txt": {
-   "company": "WinVest Acquisition Corp.",
-   "form": "PRE 14A",
-   "cik": "1854463",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1854463/0001493152-26-038280.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
-  },
   "edgar/data/2041047/0001213900-26-091360.txt": {
    "company": "COLLECTIVE ACQUISITION CORP.",
    "form": "8-K",
@@ -456,17 +375,6 @@
    "cik": "2033991",
    "filed": "2026-08-18",
    "path": "edgar/data/2033991/0001104659-26-098333.txt",
-   "note": "8-K: officer/director change",
-   "items": [
-    "officer/director change"
-   ]
-  },
-  "edgar/data/1877557/0001104659-26-097185.txt": {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "8-K",
-   "cik": "1877557",
-   "filed": "2026-08-14",
-   "path": "edgar/data/1877557/0001104659-26-097185.txt",
    "note": "8-K: officer/director change",
    "items": [
     "officer/director change"
@@ -532,13 +440,6 @@
    "items": [
     "delisting / listing-deficiency notice"
    ]
-  },
-  "edgar/data/2012318/0001354457-26-000790.txt": {
-   "company": "Inflection Point Acquisition Corp. III",
-   "form": "25-NSE",
-   "cik": "2012318",
-   "filed": "2026-08-14",
-   "path": "edgar/data/2012318/0001354457-26-000790.txt"
   },
   "edgar/data/2067592/0001213900-26-092344.txt": {
    "company": "McKinley Acquisition Corp",
@@ -3448,6 +3349,173 @@
    "filed": "2026-09-17",
    "path": "edgar/data/2123380/0001185185-26-004107.txt",
    "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
+  },
+  "edgar/data/2111838/0001193125-26-395319.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "424B4",
+   "cik": "2111838",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2111838/0001193125-26-395319.txt",
+   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: a target in industries that complement our management team s background (auto-extracted)"
+  },
+  "edgar/data/2024460/0001213900-26-101425.txt": {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "425",
+   "cik": "2024460",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2024460/0001213900-26-101425.txt",
+   "blurb": ""
+  },
+  "edgar/data/2088805/0001213900-26-101055.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2088805/0001213900-26-101055.txt",
+   "blurb": "business combination with Inflection Point Acquisition Corp. VII (auto-extracted)"
+  },
+  "edgar/data/2016221/0001213900-26-101181.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "425",
+   "cik": "2016221",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2016221/0001213900-26-101181.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-101158.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101158.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-101160.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101160.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-101406.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101406.txt",
+   "blurb": ""
+  },
+  "edgar/data/1841610/0001185185-26-004172.txt": {
+   "company": "BPGC Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1841610",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1841610/0001185185-26-004172.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2024460/0001213900-26-101422.txt": {
+   "company": "ChampionsGate Acquisition Corp",
+   "form": "8-K",
+   "cik": "2024460",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2024460/0001213900-26-101422.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2016221/0001213900-26-101166.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "8-K",
+   "cik": "2016221",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2016221/0001213900-26-101166.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2085659/0001213900-26-101156.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2085659/0001213900-26-101156.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1854463/0001493152-26-043273.txt": {
+   "company": "WinVest Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1854463",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1854463/0001493152-26-043273.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1890361/0001213900-26-101440.txt": {
+   "company": "ASPAC III Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "1890361",
+   "filed": "2026-09-18",
+   "path": "edgar/data/1890361/0001213900-26-101440.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2033991/0001104659-26-108971.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "PRE 14A",
+   "cik": "2033991",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2033991/0001104659-26-108971.txt",
+   "blurb": "meeting October 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2115191/0001213900-26-101388.txt": {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "S-1/A",
+   "cik": "2115191",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2115191/0001213900-26-101388.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2076561/0001477932-26-005673.txt": {
+   "company": "Pine Tree Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2076561",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2076561/0001477932-26-005673.txt",
+   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit; focus: technology, media and telecommunications ( TMT ), healthcare, and climate tech sectors (auto-extracted)"
+  },
+  "edgar/data/2102713/0001193125-26-394814.txt": {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "S-4",
+   "cik": "2102713",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2102713/0001193125-26-394814.txt",
+   "blurb": ""
+  },
+  "edgar/data/2077033/0001493152-26-043206.txt": {
+   "company": "Miluna Acquisition Corp",
+   "form": "S-4/A",
+   "cik": "2077033",
+   "filed": "2026-09-18",
+   "path": "edgar/data/2077033/0001493152-26-043206.txt",
+   "blurb": ""
   }
  }
 }
