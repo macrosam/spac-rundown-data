@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T11:49:32Z",
+ "generated_at": "2026-09-22T18:50:52Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2684,16 +2684,22 @@
  ],
  "media": [
   {
-   "title": "Nuclear startup newcleo lists on Nasdaq with $250M SPAC deal - app.dealroom.co",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS09FSXRlcEZkNWpUNk5sbVJGdXRKTnNfRlFXc3FJYm9Ed2Y5S1N1X09jNUJZeUVXeWJiaFlDN0t6dmp2N2ZEc0pVWl9qWnNSQlVyWEdWTVBnaWR4UnlKc2dQNGZHTlgzS19nYWl5YTVTdjBJaXZYTzlBOEZkajBxVzFMMlB0bF9PZHRJaXNGU3dXQ3UtR2VZRQ?oc=5",
-   "published": "2026-09-21",
-   "source": "app.dealroom.co"
+   "title": "Blue Acquisition, Blockfusion Revise SPAC Deal: 15M-Share Earnout, CoreWeave Warrant Exchanged - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdmZXYTExRjhoaFFTWDB5SkF5UEtHSEoyQkN3cFo5YXRVa2g5d0VnY1JwYTNpX2h4WFlFdGVqUzB5YzZ2cFFZb1dlVXNadFREUDFCZnR4T2c5NlpHZmtEVWRtR2NkTE9fWlYzYlJ6SllGdWlNVmd4RmxBYUxEcEphYXZTcy1wWGJfeGwya0VDVUxWRVFxUDdwb1BzcWN5SVZxd0hJOV9ZVHIzdnRsRTZjVXVaQ0djQ2FwbEhuakJlODc2WTBjeFpBQnVUSmQ4ZE5kbktIbTJfb2VSUmtPdUNLTi1tMmhvQ1A3?oc=5",
+   "published": "2026-09-22",
+   "source": "TradingView"
   },
   {
    "title": "Real Estate Platform WT Realty Lands $600M SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mSm5qUklNbks5N0xfclJXelNfb1lKWTJJcUFNSEt6VE9zYWlPWnMwVThSdlZJLXRDTmxMRTcyWngzUHFzV2dUUno1alRGOGNZazJZT0hET2s5RndpbjVSWlBxSTgwbmVQal9qaVB0WnRFZ1nSAXNBVV95cUxOZkpualJJTW5LOTdMX3JSV3pTX29ZSlkySXFBTUhLelRPc2FpT1pzMFU4UnZWSS10Q05sTEU3Mlp4M1Bxc1dnVFJ6NWpURjhjWWsyWU9IRE9rOUZ3aW41UlpQcUk4MG5lUGpfamlQdFp0RWdZ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDMtQ1VBVjJYWmFmaGZCbG5YeGROZlBNMGVRRGpEMU5BUkRTOFpzUjNIdGNidGg3RUdZVlMyeUxsZElPTHgwbDhOeUhCRGFSYWtJSktOS0dGV2tYc2g2YUgyVHoyQTJFMzNiUlp0NHpJV2RRRFF6Z2ZvelZpckR4RTg0eXRlc3RPYTZ0NWhBYjZuNldCZGthdtIBVkFVX3lxTE5nbTNGaXp1SlRXeXBKSWxPRDh4dkJ3OTNsbHlnQ3dlNVhxdGVYSkZzNjBMZ1dfa21xZWcxWGw1UC00cFpiOEFtUW5fWmwzSFhhY1VvSjNB?oc=5",
    "published": "2026-09-21",
    "source": "Law360"
+  },
+  {
+   "title": "Nuclear startup newcleo lists on Nasdaq with $250M SPAC deal - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS09FSXRlcEZkNWpUNk5sbVJGdXRKTnNfRlFXc3FJYm9Ed2Y5S1N1X09jNUJZeUVXeWJiaFlDN0t6dmp2N2ZEc0pVWl9qWnNSQlVyWEdWTVBnaWR4UnlKc2dQNGZHTlgzS19nYWl5YTVTdjBJaXZYTzlBOEZkajBxVzFMMlB0bF9PZHRJaXNGU3dXQ3UtR2VZRQ?oc=5",
+   "published": "2026-09-21",
+   "source": "Dealroom"
   },
   {
    "title": "Blank Check Company Silicon Valley Acquisition Corp II Launches $220 Million IPO As SPAC - TradingView",
@@ -2702,22 +2708,16 @@
    "source": "TradingView"
   },
   {
-   "title": "Evernorth Lines Up $30 Million Convertible Note to Expand XRP Treasury After SPAC Merger - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxSTVYMXVENzZxT05yLWd1TktlWlV6b3BHQjNVSjJlekJnOU1xX1FvYzZVelJ2eUhDeFhDR2c3b1NjY1pzUDh1V1poUWpkRzU4NlFoWGYwVjJqa2hRRWZieTk1MmQ0Y2RYbmFzbGxQWUMzTVc3dGc?oc=5",
-   "published": "2026-09-21",
-   "source": "finance.biggo.com"
-  },
-  {
    "title": "newcleo completes SPAC merger, to begin Nasdaq trading By Investing.com - Investing.com India",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGg2MTd0R2lHdE1iLVZ6T0Z2RHk4Q09wZVd6UGcyeHo0eFhVbk1TQUs4SDFqQlZCU0YxOWJwS3NiRlNOTTdVOFVnNDhHNEZfOUYxblRMM1l3X1g0cVQtTDlLc0NYWXVWdjBEczhBemYtRUZsTHROYjlTbjhrZ3Z6VHNuLUNrTGRIbkJVWUVmVTlDZ1hqYzhRTEVITDhxS2pJcnhWYXBkWU81TTNrdWdrWml5blQ?oc=5",
    "published": "2026-09-21",
    "source": "Investing.com India"
   },
   {
-   "title": "Flag Ship Acquisition Corp. Rights (FSHPR) Hold Flat at $0.09 as Traders Watch SPAC Deal Pipeline - Smart Money Flow Stocks - careplusvn.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEx0SU9HLXNDV0I1eTBvM1U3V2pzSU5ad21IS3J3RDRBQ3FMbEF0ZHJqdmVPNEN4Y0dkNml4bUtnRGVGTjJtWktNU1p3SUpIWEJVRS1iRGM3dlNIX3JwZzd5X3hCc1BhTDBJb0s5dGpyT1liaGxRTzkzWW92NmdoYnBUdDNKT3I5Q01jR19NbXBxLVpWQWxwTHpuMWp4TXdsZWI2WTZVbUxFc2kzeFo1WUhLb3ZadHU2RTVkVC12NlhpdE1sOE5DZ2xhcDg4QTlQR01r?oc=5",
-   "published": "2026-09-20",
-   "source": "careplusvn.com"
+   "title": "Evernorth Lines Up $30 Million Convertible Note to Expand XRP Treasury After SPAC Merger - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxSTVYMXVENzZxT05yLWd1TktlWlV6b3BHQjNVSjJlekJnOU1xX1FvYzZVelJ2eUhDeFhDR2c3b1NjY1pzUDh1V1poUWpkRzU4NlFoWGYwVjJqa2hRRWZieTk1MmQ0Y2RYbmFzbGxQWUMzTVc3dGc?oc=5",
+   "published": "2026-09-21",
+   "source": "finance.biggo.com"
   }
  ],
  "regs": []
