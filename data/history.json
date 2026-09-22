@@ -32,14 +32,6 @@
    "path": "edgar/data/2133239/0001929980-26-000479.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   },
-  "edgar/data/2123380/0001185185-26-003563.txt": {
-   "company": "Gravity Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2123380",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2123380/0001185185-26-003563.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
-  },
   "edgar/data/2088295/0001213900-26-091899.txt": {
    "company": "Bleichroeder Acquisition Corp. II",
    "form": "425",
@@ -236,41 +228,6 @@
     "entry into material definitive agreement"
    ]
   },
-  "edgar/data/2088295/0001213900-26-090407.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2088295/0001213900-26-090407.txt",
-   "blurb": ""
-  },
-  "edgar/data/2010653/0001829126-26-008936.txt": {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2010653",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2010653/0001829126-26-008936.txt",
-   "note": "8-K: entry into material definitive agreement",
-   "items": [
-    "entry into material definitive agreement"
-   ]
-  },
-  "edgar/data/2026767/0001493152-26-038568.txt": {
-   "company": "Calisa Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2026767",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2026767/0001493152-26-038568.txt",
-   "blurb": ""
-  },
-  "edgar/data/2000410/0001213900-26-090328.txt": {
-   "company": "Eureka Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2000410",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2000410/0001213900-26-090328.txt",
-   "blurb": ""
-  },
   "edgar/data/2012807/0001829126-26-009168.txt": {
    "company": "RF Acquisition Corp II",
    "form": "8-K",
@@ -297,33 +254,6 @@
    "filed": "2026-08-18",
    "path": "edgar/data/2010653/0001829126-26-008993.txt",
    "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/1889450/0001493152-26-038635.txt": {
-   "company": "FutureTech II Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1889450",
-   "filed": "2026-08-17",
-   "path": "edgar/data/1889450/0001493152-26-038635.txt",
-   "note": "8-K: charter amendment (possible extension)",
-   "items": [
-    "charter amendment (possible extension)"
-   ]
-  },
-  "edgar/data/1841610/0001185185-26-003577.txt": {
-   "company": "BPGC Acquisition Corp.",
-   "form": "DEF 14A",
-   "cik": "1841610",
-   "filed": "2026-08-17",
-   "path": "edgar/data/1841610/0001185185-26-003577.txt",
-   "blurb": "meeting September 16, 2026; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/2088295/0001213900-26-090410.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "DEFA14A",
-   "cik": "2088295",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2088295/0001213900-26-090410.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   },
   "edgar/data/2041047/0001213900-26-091360.txt": {
    "company": "COLLECTIVE ACQUISITION CORP.",
@@ -404,38 +334,6 @@
    "cik": "1854149",
    "filed": "2026-08-18",
    "path": "edgar/data/1854149/0001193125-26-355695.txt",
-   "note": "8-K: delisting / listing-deficiency notice",
-   "items": [
-    "delisting / listing-deficiency notice"
-   ]
-  },
-  "edgar/data/2130219/0001829126-26-008967.txt": {
-   "company": "Hall Chadwick Acquisition Corp II",
-   "form": "8-A12B",
-   "cik": "2130219",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2130219/0001829126-26-008967.txt"
-  },
-  "edgar/data/2134856/0001829126-26-008949.txt": {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-A12B",
-   "cik": "2134856",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2134856/0001829126-26-008949.txt"
-  },
-  "edgar/data/2133719/0001213900-26-090637.txt": {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-A12B",
-   "cik": "2133719",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2133719/0001213900-26-090637.txt"
-  },
-  "edgar/data/2099656/0001213900-26-090826.txt": {
-   "company": "Helix Acquisition Corp. III",
-   "form": "8-K",
-   "cik": "2099656",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2099656/0001213900-26-090826.txt",
    "note": "8-K: delisting / listing-deficiency notice",
    "items": [
     "delisting / listing-deficiency notice"
@@ -633,16 +531,6 @@
    "items": [
     "Other Events",
     "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2035016/0001213900-26-090771.txt": {
-   "company": "Ribbon Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2035016",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2035016/0001213900-26-090771.txt",
-   "items": [
-    "Other Events"
    ]
   },
   "edgar/data/1834032/0001213900-26-093084.txt": {
@@ -3515,6 +3403,188 @@
    "cik": "2077033",
    "filed": "2026-09-18",
    "path": "edgar/data/2077033/0001493152-26-043206.txt",
+   "blurb": ""
+  },
+  "edgar/data/2109823/0001213900-26-101599.txt": {
+   "company": "Leader's Advantage Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2109823",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2109823/0001213900-26-101599.txt",
+   "blurb": "offering $150,000,000; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2026767/0001493152-26-043575.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "425",
+   "cik": "2026767",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2026767/0001493152-26-043575.txt",
+   "blurb": ""
+  },
+  "edgar/data/1834032/0001213900-26-101799.txt": {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1834032/0001213900-26-101799.txt",
+   "blurb": ""
+  },
+  "edgar/data/1998781/0001493152-26-043587.txt": {
+   "company": "IB Acquisition Corp.",
+   "form": "425",
+   "cik": "1998781",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1998781/0001493152-26-043587.txt",
+   "blurb": "business combination with GNQ Insilico (auto-extracted)"
+  },
+  "edgar/data/2088805/0001213900-26-101661.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2088805/0001213900-26-101661.txt",
+   "blurb": ""
+  },
+  "edgar/data/2026767/0001493152-26-043574.txt": {
+   "company": "Calisa Acquisition Corp",
+   "form": "8-K",
+   "cik": "2026767",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2026767/0001493152-26-043574.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1998781/0001493152-26-043585.txt": {
+   "company": "IB Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1998781",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1998781/0001493152-26-043585.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2088805/0001213900-26-101659.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "8-K",
+   "cik": "2088805",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2088805/0001213900-26-101659.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1877557/0001104659-26-109330.txt": {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "8-K",
+   "cik": "1877557",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1877557/0001104659-26-109330.txt",
+   "items": [
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Submission of Matters to a Vote of Security Holders",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2029976/0001213900-26-101813.txt": {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "8-K",
+   "cik": "2029976",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2029976/0001213900-26-101813.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1926314/0001493152-26-043481.txt": {
+   "company": "Ocean Capital Acquisition Corp",
+   "form": "8-K",
+   "cik": "1926314",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1926314/0001493152-26-043481.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2047455/0001829126-26-010281.txt": {
+   "company": "Quartzsea Acquisition Corp",
+   "form": "8-K",
+   "cik": "2047455",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2047455/0001829126-26-010281.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2043630/0001437749-26-030772.txt": {
+   "company": "StoneBridge Acquisition II Corp",
+   "form": "8-K",
+   "cik": "2043630",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2043630/0001437749-26-030772.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2139246/0001185185-26-004181.txt": {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2139246/0001185185-26-004181.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1865111/0001493152-26-043513.txt": {
+   "company": "Alpha Star Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1865111",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1865111/0001493152-26-043513.txt",
+   "blurb": "meeting December 9, 2021; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2059165/0001829126-26-010272.txt": {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "DEF 14A",
+   "cik": "2059165",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2059165/0001829126-26-010272.txt",
+   "blurb": "meeting October 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1978528/0001493152-26-043597.txt": {
+   "company": "Quetta Acquisition Corp",
+   "form": "F-4/A",
+   "cik": "1978528",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1978528/0001493152-26-043597.txt",
+   "blurb": ""
+  },
+  "edgar/data/2029769/0001193125-26-396720.txt": {
+   "company": "Oaktree Acquisition Corp. III Life Sciences",
+   "form": "PRE 14A",
+   "cik": "2029769",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2029769/0001193125-26-396720.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2145826/0001213900-26-101822.txt": {
+   "company": "Silicon Valley Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2145826",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2145826/0001213900-26-101822.txt",
    "blurb": ""
   }
  }

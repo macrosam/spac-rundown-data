@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-09-21T18:52:56Z",
+ "generated_at": "2026-09-22T11:49:32Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Silicon Valley Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2145826",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2145826/0001213900-26-101822.txt"
+  },
   {
    "company": "Oceanhawk Acquisition II Corp.",
    "form": "S-1",
@@ -113,6 +120,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "Leader's Advantage Acquisition Corp.",
+   "form": "424B4",
+   "cik": "2109823",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2109823/0001213900-26-101599.txt",
+   "blurb": "offering $150,000,000; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Haymaker Acquisition Corp V",
    "form": "424B4",
@@ -375,17 +390,77 @@
    "filed": "2026-08-19",
    "path": "edgar/data/2133239/0001929980-26-000479.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Gravity Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2123380",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2123380/0001185185-26-003563.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit; focus: bridging international companies with global capital markets (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "425",
+   "cik": "2026767",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2026767/0001493152-26-043575.txt"
+  },
+  {
+   "company": "Constellation Acquisition Corp I",
+   "form": "425",
+   "cik": "1834032",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1834032/0001213900-26-101799.txt"
+  },
+  {
+   "company": "IB Acquisition Corp.",
+   "form": "425",
+   "cik": "1998781",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1998781/0001493152-26-043587.txt",
+   "blurb": "business combination with GNQ Insilico (auto-extracted)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2088805/0001213900-26-101661.txt"
+  },
+  {
+   "company": "Calisa Acquisition Corp",
+   "form": "8-K",
+   "cik": "2026767",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2026767/0001493152-26-043574.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "IB Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1998781",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1998781/0001493152-26-043585.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "8-K",
+   "cik": "2029976",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2029976/0001213900-26-101813.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2139246/0001185185-26-004181.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Quetta Acquisition Corp",
+   "form": "F-4/A",
+   "cik": "1978528",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1978528/0001493152-26-043597.txt"
+  },
   {
    "company": "ChampionsGate Acquisition Corp",
    "form": "425",
@@ -1710,30 +1785,41 @@
    "filed": "2026-08-18",
    "path": "edgar/data/2028027/0001213900-26-091322.txt",
    "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2088295/0001213900-26-090407.txt"
-  },
-  {
-   "company": "Calisa Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2026767",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2026767/0001493152-26-038568.txt"
-  },
-  {
-   "company": "Eureka Acquisition Corp",
-   "form": "S-4/A",
-   "cik": "2000410",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2000410/0001213900-26-090328.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Integrated Wellness Acquisition Corp",
+   "form": "8-K",
+   "cik": "1877557",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1877557/0001104659-26-109330.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Alpha Star Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1865111",
+   "filed": "2026-09-21",
+   "path": "edgar/data/1865111/0001493152-26-043513.txt",
+   "blurb": "meeting December 9, 2021; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "STARRY SEA ACQUISITION CORP",
+   "form": "DEF 14A",
+   "cik": "2059165",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2059165/0001829126-26-010272.txt",
+   "blurb": "meeting October 9, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Oaktree Acquisition Corp. III Life Sciences",
+   "form": "PRE 14A",
+   "cik": "2029769",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2029769/0001193125-26-396720.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "BPGC Acquisition Corp.",
    "form": "8-K",
@@ -2164,25 +2250,25 @@
    "filed": "2026-08-18",
    "path": "edgar/data/2010653/0001829126-26-008993.txt",
    "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "BPGC Acquisition Corp.",
-   "form": "DEF 14A",
-   "cik": "1841610",
-   "filed": "2026-08-17",
-   "path": "edgar/data/1841610/0001185185-26-003577.txt",
-   "blurb": "meeting September 16, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "DEFA14A",
-   "cik": "2088295",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2088295/0001213900-26-090410.txt",
-   "blurb": "extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "8-K",
+   "cik": "2029976",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2029976/0001213900-26-101813.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Viking Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2139246",
+   "filed": "2026-09-21",
+   "path": "edgar/data/2139246/0001185185-26-004181.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Silicon Valley Acquisition Corp.",
    "form": "8-K",
@@ -2594,29 +2680,45 @@
    "cik": "2087035",
    "filed": "2026-08-19",
    "path": "edgar/data/2087035/0001493152-26-039093.txt"
-  },
-  {
-   "company": "Hall Chadwick Acquisition Corp II",
-   "form": "8-A12B",
-   "cik": "2130219",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2130219/0001829126-26-008967.txt"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "8-A12B",
-   "cik": "2134856",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2134856/0001829126-26-008949.txt"
-  },
-  {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-A12B",
-   "cik": "2133719",
-   "filed": "2026-08-17",
-   "path": "edgar/data/2133719/0001213900-26-090637.txt"
   }
  ],
- "media": [],
+ "media": [
+  {
+   "title": "Nuclear startup newcleo lists on Nasdaq with $250M SPAC deal - app.dealroom.co",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS09FSXRlcEZkNWpUNk5sbVJGdXRKTnNfRlFXc3FJYm9Ed2Y5S1N1X09jNUJZeUVXeWJiaFlDN0t6dmp2N2ZEc0pVWl9qWnNSQlVyWEdWTVBnaWR4UnlKc2dQNGZHTlgzS19nYWl5YTVTdjBJaXZYTzlBOEZkajBxVzFMMlB0bF9PZHRJaXNGU3dXQ3UtR2VZRQ?oc=5",
+   "published": "2026-09-21",
+   "source": "app.dealroom.co"
+  },
+  {
+   "title": "Real Estate Platform WT Realty Lands $600M SPAC Merger - Law360",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mSm5qUklNbks5N0xfclJXelNfb1lKWTJJcUFNSEt6VE9zYWlPWnMwVThSdlZJLXRDTmxMRTcyWngzUHFzV2dUUno1alRGOGNZazJZT0hET2s5RndpbjVSWlBxSTgwbmVQal9qaVB0WnRFZ1nSAXNBVV95cUxOZkpualJJTW5LOTdMX3JSV3pTX29ZSlkySXFBTUhLelRPc2FpT1pzMFU4UnZWSS10Q05sTEU3Mlp4M1Bxc1dnVFJ6NWpURjhjWWsyWU9IRE9rOUZ3aW41UlpQcUk4MG5lUGpfamlQdFp0RWdZ?oc=5",
+   "published": "2026-09-21",
+   "source": "Law360"
+  },
+  {
+   "title": "Blank Check Company Silicon Valley Acquisition Corp II Launches $220 Million IPO As SPAC - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSG4zUzRwV0V1eGluZVlQMmdPNklCN3lGckM5S2N4MWJDR3FUSkxQYlo5Mk9SbEM3TmVuU2FfZkpuenNhbWdiN3BsbzhHRVlEaWlmVU5zYUFTX2tPTDZjR0JQekRvVFRtYlBLVzVEN0VWamNqaWEta29PaHJhdW5Ud3c0S3JDbFhwR2ZLQ1dfZlpoNGl0ZjFXcUdXdHZ3dWtNVE9HcVdmelNzYlJERVRuOXl5ZDF3QmVPNDByX0staWhwSWVYN1RYUXlLNGNKaXFWVll6VVZBalR3RGxZTmJwdGN3Szc0LXNWNWNJdVRR?oc=5",
+   "published": "2026-09-21",
+   "source": "TradingView"
+  },
+  {
+   "title": "Evernorth Lines Up $30 Million Convertible Note to Expand XRP Treasury After SPAC Merger - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxSTVYMXVENzZxT05yLWd1TktlWlV6b3BHQjNVSjJlekJnOU1xX1FvYzZVelJ2eUhDeFhDR2c3b1NjY1pzUDh1V1poUWpkRzU4NlFoWGYwVjJqa2hRRWZieTk1MmQ0Y2RYbmFzbGxQWUMzTVc3dGc?oc=5",
+   "published": "2026-09-21",
+   "source": "finance.biggo.com"
+  },
+  {
+   "title": "newcleo completes SPAC merger, to begin Nasdaq trading By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGg2MTd0R2lHdE1iLVZ6T0Z2RHk4Q09wZVd6UGcyeHo0eFhVbk1TQUs4SDFqQlZCU0YxOWJwS3NiRlNOTTdVOFVnNDhHNEZfOUYxblRMM1l3X1g0cVQtTDlLc0NYWXVWdjBEczhBemYtRUZsTHROYjlTbjhrZ3Z6VHNuLUNrTGRIbkJVWUVmVTlDZ1hqYzhRTEVITDhxS2pJcnhWYXBkWU81TTNrdWdrWml5blQ?oc=5",
+   "published": "2026-09-21",
+   "source": "Investing.com India"
+  },
+  {
+   "title": "Flag Ship Acquisition Corp. Rights (FSHPR) Hold Flat at $0.09 as Traders Watch SPAC Deal Pipeline - Smart Money Flow Stocks - careplusvn.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEx0SU9HLXNDV0I1eTBvM1U3V2pzSU5ad21IS3J3RDRBQ3FMbEF0ZHJqdmVPNEN4Y0dkNml4bUtnRGVGTjJtWktNU1p3SUpIWEJVRS1iRGM3dlNIX3JwZzd5X3hCc1BhTDBJb0s5dGpyT1liaGxRTzkzWW92NmdoYnBUdDNKT3I5Q01jR19NbXBxLVpWQWxwTHpuMWp4TXdsZWI2WTZVbUxFc2kzeFo1WUhLb3ZadHU2RTVkVC12NlhpdE1sOE5DZ2xhcDg4QTlQR01r?oc=5",
+   "published": "2026-09-20",
+   "source": "careplusvn.com"
+  }
+ ],
  "regs": []
 }
