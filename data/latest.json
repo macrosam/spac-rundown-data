@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T18:50:52Z",
+ "generated_at": "2026-09-23T11:49:10Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -121,6 +121,14 @@
  ],
  "pricings": [
   {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "424B4",
+   "cik": "2000775",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2000775/0001829126-26-010292.txt",
+   "blurb": "offering $150,000 (auto-extracted)"
+  },
+  {
    "company": "Leader's Advantage Acquisition Corp.",
    "form": "424B4",
    "cik": "2109823",
@@ -206,17 +214,17 @@
    "filed": "2026-08-19",
    "path": "edgar/data/2133719/0001213900-26-091457.txt",
    "blurb": "offering $100,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Karman Line Acquisition Corp.",
-   "form": "424B4",
-   "cik": "2134856",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2134856/0001829126-26-009017.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: companies focused on the creation or expansion of services and capabilities for or tangential to space based infrastructure, with a focus on (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2098410",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2098410/0001104659-26-109546.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units (auto-extracted)"
+  },
   {
    "company": "Live Oak Acquisition Corp. VI",
    "form": "S-1/A",
@@ -393,6 +401,90 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2028516/0001104659-26-109671.txt",
+   "blurb": "business combination with ATII Holdings (auto-extracted)"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2059654/0001185185-26-004185.txt"
+  },
+  {
+   "company": "FortuneX Acquisition Corp",
+   "form": "425",
+   "cik": "2121703",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2121703/0001829126-26-010319.txt"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2051985/0001213900-26-101966.txt",
+   "blurb": "business combination with IRHO (auto-extracted)"
+  },
+  {
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102713",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2102713/0001193125-26-397915.txt"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2023676/0001213900-26-102253.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  {
+   "company": "Plutonian Acquisition Corp. II",
+   "form": "425",
+   "cik": "2065661",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2065661/0001477932-26-005748.txt"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2059654/0001185185-26-004183.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "FortuneX Acquisition Corp",
+   "form": "8-K",
+   "cik": "2121703",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2121703/0001829126-26-010318.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "8-K",
+   "cik": "2111838",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2111838/0001193125-26-398119.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Plutonian Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2065661",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2065661/0001477932-26-005747.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
   {
    "company": "Calisa Acquisition Corp",
    "form": "425",
@@ -1715,79 +1807,17 @@
    "filed": "2026-08-19",
    "path": "edgar/data/2028201/0001213900-26-091739.txt",
    "blurb": "business-combination vote (auto-extracted)"
-  },
-  {
-   "company": "Iron Horse Acquisition II Corp.",
-   "form": "425",
-   "cik": "2051985",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2051985/0001213900-26-090988.txt",
-   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
-  },
-  {
-   "company": "Launch Two Acquisition Corp.",
-   "form": "425",
-   "cik": "2023676",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2023676/0001213900-26-091312.txt"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-090997.txt"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091191.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091192.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091193.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091319.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091320.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2028027/0001213900-26-091322.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
   }
  ],
  "votes": [
+  {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "8-K",
+   "cik": "2111838",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2111838/0001193125-26-398119.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
   {
    "company": "Integrated Wellness Acquisition Corp",
    "form": "8-K",
@@ -2242,17 +2272,17 @@
    "filed": "2026-08-20",
    "path": "edgar/data/1884046/0001104659-26-099248.txt",
    "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Future Vision II Acquisition Corp.",
-   "form": "DEFA14A",
-   "cik": "2010653",
-   "filed": "2026-08-18",
-   "path": "edgar/data/2010653/0001829126-26-008993.txt",
-   "blurb": "meeting July 23, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "8-K",
+   "cik": "2111838",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2111838/0001193125-26-398119.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "K&F GROWTH ACQUISITION CORP. II",
    "form": "8-K",
@@ -2522,6 +2552,13 @@
  ],
  "exchanges": [
   {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-A12B",
+   "cik": "2115191",
+   "filed": "2026-09-22",
+   "path": "edgar/data/2115191/0001213900-26-102031.txt"
+  },
+  {
    "company": "Fifth Era Acquisition Corp I",
    "form": "8-K",
    "cik": "2025401",
@@ -2684,8 +2721,20 @@
  ],
  "media": [
   {
-   "title": "Blue Acquisition, Blockfusion Revise SPAC Deal: 15M-Share Earnout, CoreWeave Warrant Exchanged - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdmZXYTExRjhoaFFTWDB5SkF5UEtHSEoyQkN3cFo5YXRVa2g5d0VnY1JwYTNpX2h4WFlFdGVqUzB5YzZ2cFFZb1dlVXNadFREUDFCZnR4T2c5NlpHZmtEVWRtR2NkTE9fWlYzYlJ6SllGdWlNVmd4RmxBYUxEcEphYXZTcy1wWGJfeGwya0VDVUxWRVFxUDdwb1BzcWN5SVZxd0hJOV9ZVHIzdnRsRTZjVXVaQ0djQ2FwbEhuakJlODc2WTBjeFpBQnVUSmQ4ZE5kbktIbTJfb2VSUmtPdUNLTi1tMmhvQ1A3?oc=5",
+   "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3JtNXdFRVlxNDNqcGlUbGgwSEp2VkFDc19ma1BJWDN3R0Rla2FMSG9pdkZkM3U1QTlfSUp2U3VrN2ltbE1KOWt5YnU4NVRzRnBpTEdSSzRlVEdSVTRPbHotbElmMHdQZmFlaDc0cjdrRkVXaGpzUEdxQnRwMUwxXzQ3NGN4bnlmeHRnOTJibmJSeUZDNDlFODVzVQ?oc=5",
+   "published": "2026-09-23",
+   "source": "Yahoo Finance"
+  },
+  {
+   "title": "May Mobility\u2019s Proposed $1.4B SPAC Deal - quasa.io",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejByYVlIQUtscDNSdmEyQVhXRlF6TzRKcFJ4Zmg1VDhHZFQ0X1hkUk9qdjBpbEFJZVoxS01adlREX0pvYnp4NDVPb1ZUQnVRVzJBbEI3T1AzV25NVnNqWEdPenVpcFRWaE0zNHVMRU9ENFhIZzZIRHpVRFl5aUxiTlFCT1VXTUJJVzdoSVVvSmFyZ2s?oc=5",
+   "published": "2026-09-23",
+   "source": "quasa.io"
+  },
+  {
+   "title": "FortuneX to Merge With WT Realty in $600 Million De-SPAC; 60 Million Shares as Consideration - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFdmbnduNGNHcVEwdHJRY3BFR1hnQXBrdm5vbVBxTnRvMmlYR3VTR0ZaTlhwSEkyOGxpV25oa3RjYnVLRXlKVzJfSlNUUTI1VzV1bU9QUUJGMEtPUnY4N2g1VW5HQzRCX3BmaG03NzlmZ1o5anlvUW9DNS05TEkwTldPS0tqdF9nY3ZjaU5sN0JmYm5pS0hldWF2LWxGUFZTQXI2enFWbV9nX0l5UEp3ZkNvREx5eXJhRnliTG1OSjkzc0tpWXVmLTdzVjNrVjBySjNPR3FSYzZEOUhfOVd1cXdBRWN4M0U?oc=5",
    "published": "2026-09-22",
    "source": "TradingView"
   },
@@ -2702,22 +2751,10 @@
    "source": "Dealroom"
   },
   {
-   "title": "Blank Check Company Silicon Valley Acquisition Corp II Launches $220 Million IPO As SPAC - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSG4zUzRwV0V1eGluZVlQMmdPNklCN3lGckM5S2N4MWJDR3FUSkxQYlo5Mk9SbEM3TmVuU2FfZkpuenNhbWdiN3BsbzhHRVlEaWlmVU5zYUFTX2tPTDZjR0JQekRvVFRtYlBLVzVEN0VWamNqaWEta29PaHJhdW5Ud3c0S3JDbFhwR2ZLQ1dfZlpoNGl0ZjFXcUdXdHZ3dWtNVE9HcVdmelNzYlJERVRuOXl5ZDF3QmVPNDByX0staWhwSWVYN1RYUXlLNGNKaXFWVll6VVZBalR3RGxZTmJwdGN3Szc0LXNWNWNJdVRR?oc=5",
-   "published": "2026-09-21",
-   "source": "TradingView"
-  },
-  {
-   "title": "newcleo completes SPAC merger, to begin Nasdaq trading By Investing.com - Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGg2MTd0R2lHdE1iLVZ6T0Z2RHk4Q09wZVd6UGcyeHo0eFhVbk1TQUs4SDFqQlZCU0YxOWJwS3NiRlNOTTdVOFVnNDhHNEZfOUYxblRMM1l3X1g0cVQtTDlLc0NYWXVWdjBEczhBemYtRUZsTHROYjlTbjhrZ3Z6VHNuLUNrTGRIbkJVWUVmVTlDZ1hqYzhRTEVITDhxS2pJcnhWYXBkWU81TTNrdWdrWml5blQ?oc=5",
-   "published": "2026-09-21",
-   "source": "Investing.com India"
-  },
-  {
-   "title": "Evernorth Lines Up $30 Million Convertible Note to Expand XRP Treasury After SPAC Merger - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxSTVYMXVENzZxT05yLWd1TktlWlV6b3BHQjNVSjJlekJnOU1xX1FvYzZVelJ2eUhDeFhDR2c3b1NjY1pzUDh1V1poUWpkRzU4NlFoWGYwVjJqa2hRRWZieTk1MmQ0Y2RYbmFzbGxQWUMzTVc3dGc?oc=5",
-   "published": "2026-09-21",
-   "source": "finance.biggo.com"
+   "title": "Live Oak Acquisition Corp. VI prices $200 million SPAC IPO on Nasdaq - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzhvUk5HY1hCZ2pRN3lYVk9COFdZYVpjZzUtUHZlN21kQzlua05vSVNTUmJvTmxLTGY2Z0EyM3YwVFVpRXdHSDN4cXFJcFctM2NpalhsazkweFRvb3BTZGxCVWZkZkxMZi1tX0hESXk4YTBVQlJ1Q2ZaSXpvTzl2SDE0alFUZHh4THB0M3ZIT3FSZHRUcEFTbXJtSTFaU1ZPZnFWTmdwdHh1cjJDU2NxSEFySnQ?oc=5",
+   "published": "2026-09-22",
+   "source": "scanx.trade"
   }
  ],
  "regs": []
