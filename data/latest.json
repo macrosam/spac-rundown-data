@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T11:49:10Z",
+ "generated_at": "2026-09-23T18:50:54Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2721,6 +2721,12 @@
  ],
  "media": [
   {
+   "title": "WT Realty Strikes $600M SPAC Deal With FortuneX - connectmoney.com",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0R4RDg5bS1vc1lhSGhnajhmekgwQzdzNlJFWHZHeF9NWW1vNmVqclZVeC0wTjFSZ2FDaEZoRm1PVlhtaF91R19STmFMNmhGNFEtU0VpY1BKZmUwRFY2aC1OdzBRU25ZNkpqRTkwSGZ0RVUtZmJsVkxXYkRyN3VHbVpfa24xOXF3allXNA?oc=5",
+   "published": "2026-09-23",
+   "source": "connectmoney.com"
+  },
+  {
    "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors? - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3JtNXdFRVlxNDNqcGlUbGgwSEp2VkFDc19ma1BJWDN3R0Rla2FMSG9pdkZkM3U1QTlfSUp2U3VrN2ltbE1KOWt5YnU4NVRzRnBpTEdSSzRlVEdSVTRPbHotbElmMHdQZmFlaDc0cjdrRkVXaGpzUEdxQnRwMUwxXzQ3NGN4bnlmeHRnOTJibmJSeUZDNDlFODVzVQ?oc=5",
    "published": "2026-09-23",
@@ -2737,12 +2743,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFdmbnduNGNHcVEwdHJRY3BFR1hnQXBrdm5vbVBxTnRvMmlYR3VTR0ZaTlhwSEkyOGxpV25oa3RjYnVLRXlKVzJfSlNUUTI1VzV1bU9QUUJGMEtPUnY4N2g1VW5HQzRCX3BmaG03NzlmZ1o5anlvUW9DNS05TEkwTldPS0tqdF9nY3ZjaU5sN0JmYm5pS0hldWF2LWxGUFZTQXI2enFWbV9nX0l5UEp3ZkNvREx5eXJhRnliTG1OSjkzc0tpWXVmLTdzVjNrVjBySjNPR3FSYzZEOUhfOVd1cXdBRWN4M0U?oc=5",
    "published": "2026-09-22",
    "source": "TradingView"
-  },
-  {
-   "title": "Real Estate Platform WT Realty Lands $600M SPAC Merger - Law360",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDMtQ1VBVjJYWmFmaGZCbG5YeGROZlBNMGVRRGpEMU5BUkRTOFpzUjNIdGNidGg3RUdZVlMyeUxsZElPTHgwbDhOeUhCRGFSYWtJSktOS0dGV2tYc2g2YUgyVHoyQTJFMzNiUlp0NHpJV2RRRFF6Z2ZvelZpckR4RTg0eXRlc3RPYTZ0NWhBYjZuNldCZGthdtIBVkFVX3lxTE5nbTNGaXp1SlRXeXBKSWxPRDh4dkJ3OTNsbHlnQ3dlNVhxdGVYSkZzNjBMZ1dfa21xZWcxWGw1UC00cFpiOEFtUW5fWmwzSFhhY1VvSjNB?oc=5",
-   "published": "2026-09-21",
-   "source": "Law360"
   },
   {
    "title": "Nuclear startup newcleo lists on Nasdaq with $250M SPAC deal - Dealroom",
