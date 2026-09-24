@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T11:50:30Z",
+ "generated_at": "2026-09-24T18:51:45Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2827,10 +2827,22 @@
  ],
  "media": [
   {
+   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
+   "published": "2026-09-24",
+   "source": "Investing.com"
+  },
+  {
    "title": "ONE Nuclear to go public via $1.1B SPAC merger with Hennessy Capital VII - Dealroom",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWMwNHZrQ3IzRUFaMk1yTHBfTG10a0ZIVFJYWjNiZXJyWTFFWHlVcWxJdXROU1VjUUh0WUw1SzdtS2M0RmtuVnBISkVVSklqdjRQVkxpZEYyOTJjOGFxWENPMEE3NlFjanFQMklrTkNxRlpRUU1DZVRMT2FwSGNQYWZ3S2pPWDJlOHpiSE9wZ3JVVFdLWWVwRnZnOWpTWjZxcTJPeE5XU1Q?oc=5",
    "published": "2026-09-23",
    "source": "Dealroom"
+  },
+  {
+   "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors? - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWNTODdSaU5xVjlHZFcxT0ZSdU8zanJ6RWpvWmx1Z0NsOUVaVEVrSFpMMDZhNXp4cnQtcHZWdkxCOGhvNFJxYWEwX2tHU0tHV01iLWpycTV5YS1RZ0xPOWluTW9ESGUyZzNEdGpkS2RjNHJjZzg1Zk8tX1BJaGp4ZGNzdnBwV2tXYkhsXzhOdUY4RGRWeDE2cQ?oc=5",
+   "published": "2026-09-23",
+   "source": "The Motley Fool"
   },
   {
    "title": "WT Realty Strikes $600M SPAC Deal With FortuneX - connectmoney.com",
@@ -2845,22 +2857,10 @@
    "source": "TradingView"
   },
   {
-   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com India",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWtBdkdnRG41c21MQTVoY2VzZWloajJILUViNHlwUHpPRkRfbXFPLVFIZWRNcmxCWlhzb2FPN1NKTzdmLVFKQTRXTlBZaFQ3cS05STZTaC05LUI3bFVZQWdwQ3BQX3AwYU5UMUlONE1qZnJsWmVUdG55YTVwdFYzYVdmOFMtMllJd2tNc2Vrd1R1Z0c0SzNnbmgzdFQ0N3ItZ3JZZGVQZHNkNW1KMExVVm9Rd3JkZm1LVkp3MEY1S1ptc1U?oc=5",
+   "title": "Elroy Air upsizes PIPE deal to $175 million ahead of SPAC merger - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1NKelRDREVxLVYtU0xuVHVDTkl4dEU4N192dUw5ank0TXRtakU1RE1EU0xNc3lvSWc2V3lHaG50TXhJZ2FhOWxCVjFveEZnSmNqb0FsSzN0QVVFRUdvWlg4T1BQRjVhMm1jRjVmZjBvb3MzRjR2cmVJT1BvUFlpRnFCVHZyWnhaN1VlQkR6bVRDUUl2cVFOZzI2QXBKYzFsd1M2aURqRmxxazNo?oc=5",
    "published": "2026-09-24",
-   "source": "Investing.com India"
-  },
-  {
-   "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors? - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWNTODdSaU5xVjlHZFcxT0ZSdU8zanJ6RWpvWmx1Z0NsOUVaVEVrSFpMMDZhNXp4cnQtcHZWdkxCOGhvNFJxYWEwX2tHU0tHV01iLWpycTV5YS1RZ0xPOWluTW9ESGUyZzNEdGpkS2RjNHJjZzg1Zk8tX1BJaGp4ZGNzdnBwV2tXYkhsXzhOdUY4RGRWeDE2cQ?oc=5",
-   "published": "2026-09-23",
-   "source": "The Motley Fool"
-  },
-  {
-   "title": "May Mobility\u2019s Proposed $1.4B SPAC Deal - quasa.io",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOejByYVlIQUtscDNSdmEyQVhXRlF6TzRKcFJ4Zmg1VDhHZFQ0X1hkUk9qdjBpbEFJZVoxS01adlREX0pvYnp4NDVPb1ZUQnVRVzJBbEI3T1AzV25NVnNqWEdPenVpcFRWaE0zNHVMRU9ENFhIZzZIRHpVRFl5aUxiTlFCT1VXTUJJVzdoSVVvSmFyZ2s?oc=5",
-   "published": "2026-09-23",
-   "source": "quasa.io"
+   "source": "scanx.trade"
   }
  ],
  "regs": []
