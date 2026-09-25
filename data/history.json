@@ -1,102 +1,5 @@
 {
  "rows": {
-  "edgar/data/2073516/0001493152-26-039519.txt": {
-   "company": "ARC Group Acquisition II Corp.",
-   "form": "S-1",
-   "cik": "2073516",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2073516/0001493152-26-039519.txt",
-   "blurb": "offering $105,000,000; 10,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2088295/0001213900-26-091899.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2088295/0001213900-26-091899.txt",
-   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
-  },
-  "edgar/data/2102713/0001193125-26-359211.txt": {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102713",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2102713/0001193125-26-359211.txt",
-   "blurb": ""
-  },
-  "edgar/data/2028027/0001213900-26-091818.txt": {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2028027/0001213900-26-091818.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2028027/0001213900-26-092091.txt": {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2028027/0001213900-26-092091.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2030482/0001213900-26-091868.txt": {
-   "company": "Plum Acquisition Corp, IV",
-   "form": "425",
-   "cik": "2030482",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2030482/0001213900-26-091868.txt",
-   "blurb": ""
-  },
-  "edgar/data/2012807/0001829126-26-009169.txt": {
-   "company": "RF Acquisition Corp II",
-   "form": "425",
-   "cik": "2012807",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2012807/0001829126-26-009169.txt",
-   "blurb": ""
-  },
-  "edgar/data/2133719/0001213900-26-092206.txt": {
-   "company": "NorthStrive Acquisition Corp I.",
-   "form": "8-K",
-   "cik": "2133719",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2133719/0001213900-26-092206.txt",
-   "note": "8-K: entry into material definitive agreement",
-   "items": [
-    "entry into material definitive agreement"
-   ]
-  },
-  "edgar/data/2012807/0001829126-26-009168.txt": {
-   "company": "RF Acquisition Corp II",
-   "form": "8-K",
-   "cik": "2012807",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2012807/0001829126-26-009168.txt",
-   "note": "8-K: shareholder vote results",
-   "items": [
-    "shareholder vote results"
-   ]
-  },
-  "edgar/data/1884046/0001104659-26-099248.txt": {
-   "company": "Spark I Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1884046",
-   "filed": "2026-08-20",
-   "path": "edgar/data/1884046/0001104659-26-099248.txt",
-   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/2018145/0001213900-26-091870.txt": {
-   "company": "Rising Dragon Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2018145",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2018145/0001213900-26-091870.txt",
-   "note": "8-K: delisting / listing-deficiency notice",
-   "items": [
-    "delisting / listing-deficiency notice"
-   ]
-  },
   "edgar/data/2067592/0001213900-26-092344.txt": {
    "company": "McKinley Acquisition Corp",
    "form": "425",
@@ -191,39 +94,6 @@
    "filed": "2026-08-21",
    "path": "edgar/data/2016221/0001213900-26-092711.txt",
    "blurb": ""
-  },
-  "edgar/data/2128115/0001104659-26-099241.txt": {
-   "company": "Ares Acquisition Corp III",
-   "form": "8-K",
-   "cik": "2128115",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2128115/0001104659-26-099241.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2088295/0001213900-26-091898.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2088295/0001213900-26-091898.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2030482/0001213900-26-091866.txt": {
-   "company": "Plum Acquisition Corp, IV",
-   "form": "8-K",
-   "cik": "2030482",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2030482/0001213900-26-091866.txt",
-   "items": [
-    "Regulation FD Disclosure",
-    "Financial Statements and Exhibits"
-   ]
   },
   "edgar/data/1834032/0001213900-26-093084.txt": {
    "company": "Constellation Acquisition Corp I",
@@ -3647,6 +3517,183 @@
    "filed": "2026-09-23",
    "path": "edgar/data/2024459/0001213900-26-102408.txt",
    "blurb": "meeting October 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028516/0001104659-26-110424.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028516/0001104659-26-110424.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
+  },
+  "edgar/data/2023676/0001213900-26-103107.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2023676/0001213900-26-103107.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  "edgar/data/2081300/0001193125-26-401170.txt": {
+   "company": "SPACSphere Acquisition Corp.",
+   "form": "425",
+   "cik": "2081300",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2081300/0001193125-26-401170.txt",
+   "blurb": "business combination with Mobilewalla (auto-extracted)"
+  },
+  "edgar/data/1926599/0001193125-26-401002.txt": {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-09-24",
+   "path": "edgar/data/1926599/0001193125-26-401002.txt",
+   "blurb": "business combination with Translational Development Acquisition Corp. (auto-extracted)"
+  },
+  "edgar/data/2036973/0001185185-26-004286.txt": {
+   "company": "UY Scuti Acquisition Corp.",
+   "form": "425",
+   "cik": "2036973",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2036973/0001185185-26-004286.txt",
+   "blurb": ""
+  },
+  "edgar/data/2098410/0001104659-26-110318.txt": {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "8-A12B",
+   "cik": "2098410",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2098410/0001104659-26-110318.txt"
+  },
+  "edgar/data/2148245/0001185185-26-004283.txt": {
+   "company": "New Iceland Arctic Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2148245",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2148245/0001185185-26-004283.txt"
+  },
+  "edgar/data/2094712/0001493152-26-044084.txt": {
+   "company": "ARC Group Securities Acquisition I",
+   "form": "8-K",
+   "cik": "2094712",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2094712/0001493152-26-044084.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2000775/0001829126-26-010385.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2000775/0001829126-26-010385.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028201/0001213900-26-102855.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028201/0001213900-26-102855.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2111838/0001193125-26-401094.txt": {
+   "company": "Haymaker Acquisition Corp V",
+   "form": "8-K",
+   "cik": "2111838",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2111838/0001193125-26-401094.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2115191/0001213900-26-103070.txt": {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2115191",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2115191/0001213900-26-103070.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2036973/0001185185-26-004284.txt": {
+   "company": "UY Scuti Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2036973",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2036973/0001185185-26-004284.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2097986/0001213900-26-102843.txt": {
+   "company": "Forefront Tech Holdings Acquisition Corp",
+   "form": "8-K/A",
+   "cik": "2097986",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2097986/0001213900-26-102843.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028201/0001213900-26-102858.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028201/0001213900-26-102858.txt",
+   "blurb": "meeting August 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028516/0001104659-26-110234.txt": {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "DEFM14A",
+   "cik": "2028516",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028516/0001104659-26-110234.txt",
+   "blurb": "business-combination vote (auto-extracted)"
+  },
+  "edgar/data/2029976/0001213900-26-102727.txt": {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "PRE 14A",
+   "cik": "2029976",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2029976/0001213900-26-102727.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2153598/0001193125-26-399703.txt": {
+   "company": "Frazier Life Sciences Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2153598",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2153598/0001193125-26-399703.txt",
+   "blurb": "offering $75,000,000; $10.00./unit (auto-extracted)"
+  },
+  "edgar/data/2148436/0001185185-26-004287.txt": {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2148436/0001185185-26-004287.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  }
 }

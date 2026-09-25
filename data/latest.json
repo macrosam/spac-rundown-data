@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-09-24T18:51:45Z",
+ "generated_at": "2026-09-25T11:49:15Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Frazier Life Sciences Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2153598",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2153598/0001193125-26-399703.txt",
+   "blurb": "offering $75,000,000; $10.00./unit (auto-extracted)"
+  },
   {
    "company": "Silicon Valley Acquisition Corp. II",
    "form": "S-1",
@@ -109,14 +117,6 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2115191/0001213900-26-093129.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "ARC Group Acquisition II Corp.",
-   "form": "S-1",
-   "cik": "2073516",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2073516/0001493152-26-039519.txt",
-   "blurb": "offering $105,000,000; 10,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "pricings": [
@@ -217,6 +217,14 @@
   }
  ],
  "amends": [
+  {
+   "company": "Southport Acquisition Corp. II",
+   "form": "S-1/A",
+   "cik": "2148436",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2148436/0001185185-26-004287.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "S-1/A",
@@ -393,6 +401,77 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "425",
+   "cik": "2028516",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028516/0001104659-26-110424.txt",
+   "blurb": "business combination with Forge Nano (auto-extracted)"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2023676/0001213900-26-103107.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  {
+   "company": "SPACSphere Acquisition Corp.",
+   "form": "425",
+   "cik": "2081300",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2081300/0001193125-26-401170.txt",
+   "blurb": "business combination with Mobilewalla (auto-extracted)"
+  },
+  {
+   "company": "Translational Development Acquisition Corp.",
+   "form": "425",
+   "cik": "1926599",
+   "filed": "2026-09-24",
+   "path": "edgar/data/1926599/0001193125-26-401002.txt",
+   "blurb": "business combination with Translational Development Acquisition Corp. (auto-extracted)"
+  },
+  {
+   "company": "UY Scuti Acquisition Corp.",
+   "form": "425",
+   "cik": "2036973",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2036973/0001185185-26-004286.txt"
+  },
+  {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2000775/0001829126-26-010385.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2115191",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2115191/0001213900-26-103070.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "UY Scuti Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2036973",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2036973/0001185185-26-004284.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Archimedes Tech SPAC Partners II Co.",
+   "form": "DEFM14A",
+   "cik": "2028516",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028516/0001104659-26-110234.txt",
+   "blurb": "business-combination vote (auto-extracted)"
+  },
   {
    "company": "Archimedes Tech SPAC Partners II Co.",
    "form": "425",
@@ -1787,54 +1866,33 @@
    "cik": "2016221",
    "filed": "2026-08-21",
    "path": "edgar/data/2016221/0001213900-26-092711.txt"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2088295/0001213900-26-091899.txt",
-   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
-  },
-  {
-   "company": "Kensington Capital Acquisition Corp. VI",
-   "form": "425",
-   "cik": "2102713",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2102713/0001193125-26-359211.txt"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2028027/0001213900-26-091818.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2028027/0001213900-26-092091.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Plum Acquisition Corp, IV",
-   "form": "425",
-   "cik": "2030482",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2030482/0001213900-26-091868.txt"
-  },
-  {
-   "company": "RF Acquisition Corp II",
-   "form": "425",
-   "cik": "2012807",
-   "filed": "2026-08-20",
-   "path": "edgar/data/2012807/0001829126-26-009169.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2115191",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2115191/0001213900-26-103070.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2028201/0001213900-26-102858.txt",
+   "blurb": "meeting August 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "K&F GROWTH ACQUISITION CORP. II",
+   "form": "PRE 14A",
+   "cik": "2029976",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2029976/0001213900-26-102727.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Cayson Acquisition Corp",
    "form": "8-K",
@@ -2353,17 +2411,33 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2020987/0001683168-26-006677.txt",
    "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "PRE 14A",
-   "cik": "1884046",
-   "filed": "2026-08-20",
-   "path": "edgar/data/1884046/0001104659-26-099248.txt",
-   "blurb": "meeting August 12, 2026; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "8-K",
+   "cik": "2000775",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2000775/0001829126-26-010385.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2115191",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2115191/0001213900-26-103070.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Forefront Tech Holdings Acquisition Corp",
+   "form": "8-K/A",
+   "cik": "2097986",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2097986/0001213900-26-102843.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Leader's Advantage Acquisition Corp.",
    "form": "8-K",
@@ -2527,6 +2601,14 @@
  ],
  "sponsors": [
   {
+   "company": "Live Oak Acquisition Corp. VI",
+   "form": "8-K",
+   "cik": "2115191",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2115191/0001213900-26-103070.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "GSR IV Acquisition Corp.",
    "form": "8-K",
    "cik": "2072404",
@@ -2656,6 +2738,20 @@
   }
  ],
  "exchanges": [
+  {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "8-A12B",
+   "cik": "2098410",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2098410/0001104659-26-110318.txt"
+  },
+  {
+   "company": "New Iceland Arctic Acquisition Corp.",
+   "form": "8-A12B",
+   "cik": "2148245",
+   "filed": "2026-09-24",
+   "path": "edgar/data/2148245/0001185185-26-004283.txt"
+  },
   {
    "company": "Lakeshore Acquisition III Corp.",
    "form": "8-K",
@@ -2827,28 +2923,22 @@
  ],
  "media": [
   {
-   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
-   "published": "2026-09-24",
-   "source": "Investing.com"
-  },
-  {
    "title": "ONE Nuclear to go public via $1.1B SPAC merger with Hennessy Capital VII - Dealroom",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWMwNHZrQ3IzRUFaMk1yTHBfTG10a0ZIVFJYWjNiZXJyWTFFWHlVcWxJdXROU1VjUUh0WUw1SzdtS2M0RmtuVnBISkVVSklqdjRQVkxpZEYyOTJjOGFxWENPMEE3NlFjanFQMklrTkNxRlpRUU1DZVRMT2FwSGNQYWZ3S2pPWDJlOHpiSE9wZ3JVVFdLWWVwRnZnOWpTWjZxcTJPeE5XU1Q?oc=5",
    "published": "2026-09-23",
    "source": "Dealroom"
   },
   {
-   "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors? - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWNTODdSaU5xVjlHZFcxT0ZSdU8zanJ6RWpvWmx1Z0NsOUVaVEVrSFpMMDZhNXp4cnQtcHZWdkxCOGhvNFJxYWEwX2tHU0tHV01iLWpycTV5YS1RZ0xPOWluTW9ESGUyZzNEdGpkS2RjNHJjZzg1Zk8tX1BJaGp4ZGNzdnBwV2tXYkhsXzhOdUY4RGRWeDE2cQ?oc=5",
-   "published": "2026-09-23",
-   "source": "The Motley Fool"
-  },
-  {
    "title": "WT Realty Strikes $600M SPAC Deal With FortuneX - connectmoney.com",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0R4RDg5bS1vc1lhSGhnajhmekgwQzdzNlJFWHZHeF9NWW1vNmVqclZVeC0wTjFSZ2FDaEZoRm1PVlhtaF91R19STmFMNmhGNFEtU0VpY1BKZmUwRFY2aC1OdzBRU25ZNkpqRTkwSGZ0RVUtZmJsVkxXYkRyN3VHbVpfa24xOXF3allXNA?oc=5",
    "published": "2026-09-23",
    "source": "connectmoney.com"
+  },
+  {
+   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
+   "published": "2026-09-24",
+   "source": "Investing.com"
   },
   {
    "title": "Leader\u2019s Advantage Raises $150 Million SPAC IPO; Places $151.1 Million in Trust, Signs Key Agreements - TradingView",
@@ -2861,6 +2951,12 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1NKelRDREVxLVYtU0xuVHVDTkl4dEU4N192dUw5ank0TXRtakU1RE1EU0xNc3lvSWc2V3lHaG50TXhJZ2FhOWxCVjFveEZnSmNqb0FsSzN0QVVFRUdvWlg4T1BQRjVhMm1jRjVmZjBvb3MzRjR2cmVJT1BvUFlpRnFCVHZyWnhaN1VlQkR6bVRDUUl2cVFOZzI2QXBKYzFsd1M2aURqRmxxazNo?oc=5",
    "published": "2026-09-24",
    "source": "scanx.trade"
+  },
+  {
+   "title": "ONE Nuclear completes SPAC merger, to trade as ONEN on Nasdaq - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3ViX1djSWcxNWRJTTM0V2ZFcW0tV09WLXNSVEpsTlFvT1NsWXJqdVdiNFRxMUFqRDRMUG1vTWdkSjYyZDBxY2w2elYtMll6OVZaSWZkV0ZGMllpWlo5Q1RUUEdOeTJNN0paWWxMdF85MGxzS0VkSEVxRVF4MGRFQ2Y1cEJBa2prMFlxT1p2RzRtSEtJeEFqaFQyYnBDdkVnR1NwSDdZR2RLWjU1YkZUemNzWGE5UklIN3JyR1pn?oc=5",
+   "published": "2026-09-23",
+   "source": "Investing.com Canada"
   }
  ],
  "regs": []
