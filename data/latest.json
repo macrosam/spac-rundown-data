@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T11:49:15Z",
+ "generated_at": "2026-09-25T18:52:33Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2923,21 +2923,15 @@
  ],
  "media": [
   {
-   "title": "ONE Nuclear to go public via $1.1B SPAC merger with Hennessy Capital VII - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWMwNHZrQ3IzRUFaMk1yTHBfTG10a0ZIVFJYWjNiZXJyWTFFWHlVcWxJdXROU1VjUUh0WUw1SzdtS2M0RmtuVnBISkVVSklqdjRQVkxpZEYyOTJjOGFxWENPMEE3NlFjanFQMklrTkNxRlpRUU1DZVRMT2FwSGNQYWZ3S2pPWDJlOHpiSE9wZ3JVVFdLWWVwRnZnOWpTWjZxcTJPeE5XU1Q?oc=5",
-   "published": "2026-09-23",
+   "title": "GOWell goes public via $300M SPAC merger, to trade as \"GOW - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE9pbnRFWWlnanNmbG9GSWNEeXNmSXhwNUdUZTRyM3ltbGVOcUJ3R0t0c1lMZ0kySWRlWW84LVVVZUJWSzU5UVMyWF9JbXBrcjFfQjVZaVNXTXZOaDdfSm83cnNsZ1JYNWpLUGx2OGZUSnRrLUpUYlRZNVU5M2lWdXRSaWJxdWFKU1JkZFNKZFh0LXM?oc=5",
+   "published": "2026-09-25",
    "source": "Dealroom"
   },
   {
-   "title": "WT Realty Strikes $600M SPAC Deal With FortuneX - connectmoney.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0R4RDg5bS1vc1lhSGhnajhmekgwQzdzNlJFWHZHeF9NWW1vNmVqclZVeC0wTjFSZ2FDaEZoRm1PVlhtaF91R19STmFMNmhGNFEtU0VpY1BKZmUwRFY2aC1OdzBRU25ZNkpqRTkwSGZ0RVUtZmJsVkxXYkRyN3VHbVpfa24xOXF3allXNA?oc=5",
-   "published": "2026-09-23",
-   "source": "connectmoney.com"
-  },
-  {
-   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
-   "published": "2026-09-24",
+   "title": "Leader\u2019s Advantage completes $150 million SPAC IPO on Nasdaq - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1FkQmNHMjZsU2c2NGJMQlVUYjd1ZjNKVnQ1MjdpNWdfZ2JkQ3QwRmhaekJzLXNvdmtwSXFCd0hSZ3ZqdEZjdzhfcGVGaE43d2NNeW5zWGJqNkk0X1V6UWhBd0JDQjczRnRUck9uWGptMnpFeE5WNVhCVTRlaDh2bFJIcldha3dxdWlKZDdXcVB1YjhNS3k2QWlELUFwVV8tM18xaU5EeG5pb1JuS29ranY2RlhNdw?oc=5",
+   "published": "2026-09-25",
    "source": "Investing.com"
   },
   {
@@ -2947,16 +2941,22 @@
    "source": "TradingView"
   },
   {
+   "title": "ONE Nuclear to go public via $1.1B SPAC merger with Hennessy Capital VII - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWMwNHZrQ3IzRUFaMk1yTHBfTG10a0ZIVFJYWjNiZXJyWTFFWHlVcWxJdXROU1VjUUh0WUw1SzdtS2M0RmtuVnBISkVVSklqdjRQVkxpZEYyOTJjOGFxWENPMEE3NlFjanFQMklrTkNxRlpRUU1DZVRMT2FwSGNQYWZ3S2pPWDJlOHpiSE9wZ3JVVFdLWWVwRnZnOWpTWjZxcTJPeE5XU1Q?oc=5",
+   "published": "2026-09-23",
+   "source": "Dealroom"
+  },
+  {
+   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
+   "published": "2026-09-24",
+   "source": "Investing.com"
+  },
+  {
    "title": "Elroy Air upsizes PIPE deal to $175 million ahead of SPAC merger - scanx.trade",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1NKelRDREVxLVYtU0xuVHVDTkl4dEU4N192dUw5ank0TXRtakU1RE1EU0xNc3lvSWc2V3lHaG50TXhJZ2FhOWxCVjFveEZnSmNqb0FsSzN0QVVFRUdvWlg4T1BQRjVhMm1jRjVmZjBvb3MzRjR2cmVJT1BvUFlpRnFCVHZyWnhaN1VlQkR6bVRDUUl2cVFOZzI2QXBKYzFsd1M2aURqRmxxazNo?oc=5",
    "published": "2026-09-24",
    "source": "scanx.trade"
-  },
-  {
-   "title": "ONE Nuclear completes SPAC merger, to trade as ONEN on Nasdaq - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3ViX1djSWcxNWRJTTM0V2ZFcW0tV09WLXNSVEpsTlFvT1NsWXJqdVdiNFRxMUFqRDRMUG1vTWdkSjYyZDBxY2w2elYtMll6OVZaSWZkV0ZGMllpWlo5Q1RUUEdOeTJNN0paWWxMdF85MGxzS0VkSEVxRVF4MGRFQ2Y1cEJBa2prMFlxT1p2RzRtSEtJeEFqaFQyYnBDdkVnR1NwSDdZR2RLWjU1YkZUemNzWGE5UklIN3JyR1pn?oc=5",
-   "published": "2026-09-23",
-   "source": "Investing.com Canada"
   }
  ],
  "regs": []
