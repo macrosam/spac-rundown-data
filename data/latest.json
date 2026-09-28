@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T11:50:45Z",
+ "generated_at": "2026-09-28T18:55:58Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -2951,28 +2951,40 @@
  ],
  "media": [
   {
-   "title": "Israeli cyber company Paragon to go public through Nasdaq SPAC merger - calcalistech.com",
+   "title": "Satellite firm Astro Digital to go public in $587 million SPAC deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTQtMGFWZFJMc0lJc0pZWWJrZ0hSdC02akpXSTc1UWE3RzJBOXpjSTFmbmVOUThVTGo3TE5FMWZ6elJoaWxnb3U0eDB5UHNJQ0dScDAxOUp4X3FDbGtORkFVc05QeTBObnNHOW9kNW11YWlwaG5nRDN5d1BTSnlnUXBXa09OU3dzMEllb2hmYmxhZHRHREh5Nk51MExUa3VraFJveW5UWEhZRXFSTVRmODc5eUlsQTQ?oc=5",
+   "published": "2026-09-28",
+   "source": "Reuters"
+  },
+  {
+   "title": "Kirkland, White & Case Lead Defense Firm's $1.25B SPAC Deal - law360.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMy1zcklGMWttUEduNFJrYVZ0UG9XOUJ1NjdvOWk3ZE1JcDJOTFE5aEszZjZOTU9QanZCOHA5V1Jld0NDUlc4clRhckI5cjJDODllUWdDdXNSbmFFakNUWVVHQnV3aW1OQmI3bVRYR1JkTzhEaEFrOThaWk1DbUFQNEx2NHdmTjU1d1pjNEtvN3lXcjNxc2J1ZFh2Y9IBVkFVX3lxTE9JaHZPSE5rRHZPR3FYazZieXZHQ2hUN25xcGpzZHdCLXRsX2VkRDJPdVlsMWRXbmNMd2U5M1NfeldhMHd4d3dKeU15ZXlIR2JuME1STHlB?oc=5",
+   "published": "2026-09-28",
+   "source": "law360.com"
+  },
+  {
+   "title": "Israeli cyber company Paragon to go public through Nasdaq SPAC merger at $1.25 billion valuation - calcalistech.com",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WQ3Bxemx3ODV1cUQ5akNUMGg3S1BOTWZtRU5jcncwektUTHBReFBsTkkxSWpjSlRISHhvNHdRUVBVd2VhajQyUnEtTENwSjBkcUFrb0N0VVBUUXFvdXlKZ21acTVtUlp0?oc=5",
    "published": "2026-09-28",
    "source": "calcalistech.com"
   },
   {
-   "title": "Cyberattack co Paragon plans SPAC merger at $2b valuation - Globes - Israel Business News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUFRS042MDhoQ05yS0V2TjRwZVpRMzN0eFYxemQ5WnNlaWJJejl2ZG5RclpleUg4M2JjSWdQS19wYlg1UHhxbktrRTVzVG15OS03aTdGeDB6dmJfQ1FNNmtpZmw5N1J1d056SmcwVjRSc1k1Ynd2ZmNKb2didzd1Rk5fM0c0VzdXT2JVS0xBMkdEMWFMX3NoVF9WT0JqcFByU1IyMg?oc=5",
+   "title": "Astro Digital to Go Public Through Proem SPAC Merger at $587 Million Enterprise Value - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNczF5TjQtV1lGN2JVMFVOWjBobEF0NnlMd3Y2LVo5enhoT2dwVjlWVjRFYTRyVWlCOHVLZ3djOThJT0x1WGlsZ1B1TWFMZndKVGRkVmQ3dUh5cmVmSUp3aXFTLS1CMW1rWXdkeUFYaFRYdm4zWGJTczRrd0xaRXFza0dYdXJDSUJmYzJ5NkNwUVVGOUg3RV8wMnpGMHdKek5PcEhnUC14YlIxald6S1hTX29jSlktZG1rWW9fRFg4Y0I?oc=5",
    "published": "2026-09-28",
-   "source": "Globes - Israel Business News"
+   "source": "citybiz"
   },
   {
-   "title": "Kairos & Samsung in $100M Deal for EPC Services - Neutron Bytes",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd4UEE3eEpiY2pOYWFTai05Yjd4UlcydFlqWTkweFViQlBUNTRnWkc5Uk9uYnYwY1hqNnJVR19QSl9LQVpwM2RUel8tMlcwazB2bjVHakZiMWlXeFo2aFhDaWpkbWo1Tzd2b2YxRzNpeUpkNURzNjcyZlFQWHZULUI2dWluWVJu?oc=5",
-   "published": "2026-09-26",
-   "source": "Neutron Bytes"
+   "title": "Satellite maker Astro Digital to go public in $587M SPAC deal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3lXbVo4aVVCTXZjNjkyeFdUY2RGR3h2RGI5LXNpUzh0NEpzOUQzU2s4aDhLdWQ5SHJhaUFSd2xVLURySTkxVGlXN2VoUl9QdWdpbUMxMzhKWlZhQUxydWFQdTlIcnE4M1JFT1ZpS1NfX1BESmRZNWNaLWRsdnBKY0hkcVh6a1V5NExTUldiZjhTTXo3bEo2WVk5dGNBdFFtcHdCSU5YeHlnVlFmMThYUUlZa0U4QVAyYnNxWVlWdVM?oc=5",
+   "published": "2026-09-28",
+   "source": "TradingView"
   },
   {
-   "title": "Smart Capital Portfolio Firm Newcleo Lists on Nasdaq After $2.4 Billion SPAC Deal - tipranks.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblQ3dHAzSlVMQVVTM2hKRTRBVXBBZGx2SXA3VzRDLV9QWU5sM2VrTFpTcVcyWWtqdlhscFRXWG0yazQxVFNGY1E0c2RpTmgxNG85anhIUHJIay0tcnZvaUxDSjQyWlhUZ1FPY1gxNFdKdklFUkNhZXlMeVp2NWVOeVBXck5lWEFJNUROOEdYYlM0Q0ZxcEZmX0FLSm5CX3lmNnNRRHNEak9kYjktc0EwRGZEdlVkaVYycDdMeGR0RDNLakdwdVU4Wm1Nc0g?oc=5",
-   "published": "2026-09-26",
-   "source": "tipranks.com"
+   "title": "Defense tech firm REDLattice strikes SPAC deal to go public in US - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVU5rdmJEUjY4cW1wQWFtam9TQVNIckNodHdCWE8yaERZLUFUWGNGMXp6QVhKVHJLQjBUSnE0TTlURmVwUWliYnBseXZfMnowTmp6Q0RvU3p3ckEwZE1KZ2UwNkdCS3hUallOVVU5OUl4SXJjemswanM3WXVkVHR2NEV5VloxQmJ6R2tDUWxrajNHZVRCLVpGRWtPNGRKY09tLWdjR1VCUm92S01UdkdvVlVGQ1FyUQ?oc=5",
+   "published": "2026-09-28",
+   "source": "Reuters"
   }
  ],
  "regs": []
