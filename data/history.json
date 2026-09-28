@@ -1,100 +1,5 @@
 {
  "rows": {
-  "edgar/data/2067592/0001213900-26-092344.txt": {
-   "company": "McKinley Acquisition Corp",
-   "form": "425",
-   "cik": "2067592",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2067592/0001213900-26-092344.txt",
-   "blurb": "business combination with McKinley Acquisition Corp. (auto-extracted)"
-  },
-  "edgar/data/2088295/0001213900-26-092600.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2088295/0001213900-26-092600.txt",
-   "items": [
-    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2095443/0001213900-26-092598.txt": {
-   "company": "Breeze Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2095443",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2095443/0001213900-26-092598.txt",
-   "items": [
-    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
-    "Regulation FD Disclosure",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2128739/0001213900-26-092644.txt": {
-   "company": "JAB Acquisition Corp I",
-   "form": "8-K",
-   "cik": "2128739",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2128739/0001213900-26-092644.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2029976/0001213900-26-092693.txt": {
-   "company": "K&F GROWTH ACQUISITION CORP. II",
-   "form": "8-K",
-   "cik": "2029976",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2029976/0001213900-26-092693.txt",
-   "items": [
-    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
-   ]
-  },
-  "edgar/data/2136530/0001104659-26-099399.txt": {
-   "company": "Meridian3 Industrials Acquisition Corp",
-   "form": "8-K",
-   "cik": "2136530",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2136530/0001104659-26-099399.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2135163/0001829126-26-009225.txt": {
-   "company": "Albatross Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2135163",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2135163/0001829126-26-009225.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2095476/0001213900-26-092718.txt": {
-   "company": "Dune Acquisition Corp III",
-   "form": "S-1/A",
-   "cik": "2095476",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2095476/0001213900-26-092718.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2128462/0001193125-26-361172.txt": {
-   "company": "Three Lions Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2128462",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2128462/0001193125-26-361172.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2016221/0001213900-26-092711.txt": {
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "form": "S-4",
-   "cik": "2016221",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2016221/0001213900-26-092711.txt",
-   "blurb": ""
-  },
   "edgar/data/1834032/0001213900-26-093084.txt": {
    "company": "Constellation Acquisition Corp I",
    "form": "425",
@@ -3694,6 +3599,130 @@
    "filed": "2026-09-24",
    "path": "edgar/data/2148436/0001185185-26-004287.txt",
    "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2028355/0001354457-26-000916.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "25-NSE",
+   "cik": "2028355",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2028355/0001354457-26-000916.txt"
+  },
+  "edgar/data/2098410/0001104659-26-111049.txt": {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "424B4",
+   "cik": "2098410",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2098410/0001104659-26-111049.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2000775/0001829126-26-010391.txt": {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "425",
+   "cik": "2000775",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2000775/0001829126-26-010391.txt",
+   "blurb": "business combination with Vesicor (auto-extracted)"
+  },
+  "edgar/data/2059654/0001185185-26-004322.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2059654/0001185185-26-004322.txt",
+   "blurb": ""
+  },
+  "edgar/data/2088805/0001213900-26-103123.txt": {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2088805/0001213900-26-103123.txt",
+   "blurb": ""
+  },
+  "edgar/data/2054876/0001213900-26-103593.txt": {
+   "company": "NMP Acquisition Corp.",
+   "form": "425",
+   "cik": "2054876",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2054876/0001213900-26-103593.txt",
+   "blurb": ""
+  },
+  "edgar/data/2059654/0001185185-26-004321.txt": {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "8-K",
+   "cik": "2059654",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2059654/0001185185-26-004321.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2099232/0001493152-26-044364.txt": {
+   "company": "Future Money Acquisition Corp",
+   "form": "8-K",
+   "cik": "2099232",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2099232/0001493152-26-044364.txt",
+   "items": [
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2054876/0001213900-26-103585.txt": {
+   "company": "NMP Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2054876",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2054876/0001213900-26-103585.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2123955/0001213900-26-103368.txt": {
+   "company": "Pinnacle Acquisition Corp",
+   "form": "8-K",
+   "cik": "2123955",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2123955/0001213900-26-103368.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1852019/0001104659-26-111045.txt": {
+   "company": "IX Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1852019",
+   "filed": "2026-09-25",
+   "path": "edgar/data/1852019/0001104659-26-111045.txt",
+   "blurb": "meeting October 7, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2134856/0001829126-26-010430.txt": {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2134856",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2134856/0001829126-26-010430.txt",
+   "blurb": "meeting October 19, 2026; business-combination vote (auto-extracted)"
+  },
+  "edgar/data/2149916/0001193125-26-402977.txt": {
+   "company": "TCGX Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2149916",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2149916/0001193125-26-402977.txt",
+   "blurb": "offering $100,000,000; $10.00./unit (auto-extracted)"
+  },
+  "edgar/data/2016221/0001213900-26-103194.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "S-4/A",
+   "cik": "2016221",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2016221/0001213900-26-103194.txt",
+   "blurb": ""
   }
  }
 }

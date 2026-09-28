@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-09-25T18:52:33Z",
+ "generated_at": "2026-09-28T11:50:45Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "TCGX Acquisition Corp. II",
+   "form": "S-1",
+   "cik": "2149916",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2149916/0001193125-26-402977.txt",
+   "blurb": "offering $100,000,000; $10.00./unit (auto-extracted)"
+  },
   {
    "company": "Frazier Life Sciences Acquisition Corp. II",
    "form": "S-1",
@@ -120,6 +128,14 @@
   }
  ],
  "pricings": [
+  {
+   "company": "Bluerock Acquisition Corp. II",
+   "form": "424B4",
+   "cik": "2098410",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2098410/0001104659-26-111049.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
+  },
   {
    "company": "Live Oak Acquisition Corp. VI",
    "form": "424B4",
@@ -374,33 +390,53 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2147219/0001104659-26-099825.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Albatross Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2135163",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2135163/0001829126-26-009225.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Dune Acquisition Corp III",
-   "form": "S-1/A",
-   "cik": "2095476",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2095476/0001213900-26-092718.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Three Lions Acquisition Corp.",
-   "form": "S-1/A",
-   "cik": "2128462",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2128462/0001193125-26-361172.txt",
-   "blurb": "offering $100,000,000; 10,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Black Hawk Acquisition Corp",
+   "form": "425",
+   "cik": "2000775",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2000775/0001829126-26-010391.txt",
+   "blurb": "business combination with Vesicor (auto-extracted)"
+  },
+  {
+   "company": "Blue Acquisition Corp/Cayman",
+   "form": "425",
+   "cik": "2059654",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2059654/0001185185-26-004322.txt"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. VII",
+   "form": "425",
+   "cik": "2088805",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2088805/0001213900-26-103123.txt"
+  },
+  {
+   "company": "NMP Acquisition Corp.",
+   "form": "425",
+   "cik": "2054876",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2054876/0001213900-26-103593.txt"
+  },
+  {
+   "company": "NMP Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2054876",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2054876/0001213900-26-103585.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "S-4/A",
+   "cik": "2016221",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2016221/0001213900-26-103194.txt"
+  },
   {
    "company": "Archimedes Tech SPAC Partners II Co.",
    "form": "425",
@@ -1851,24 +1887,25 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2028027/0001213900-26-093105.txt",
    "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "425",
-   "cik": "2067592",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2067592/0001213900-26-092344.txt",
-   "blurb": "business combination with McKinley Acquisition Corp. (auto-extracted)"
-  },
-  {
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "form": "S-4",
-   "cik": "2016221",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2016221/0001213900-26-092711.txt"
   }
  ],
  "votes": [
+  {
+   "company": "IX Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1852019",
+   "filed": "2026-09-25",
+   "path": "edgar/data/1852019/0001104659-26-111045.txt",
+   "blurb": "meeting October 7, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Karman Line Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "2134856",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2134856/0001829126-26-010430.txt",
+   "blurb": "meeting October 19, 2026; business-combination vote (auto-extracted)"
+  },
   {
    "company": "Live Oak Acquisition Corp. VI",
    "form": "8-K",
@@ -2727,17 +2764,24 @@
    "filed": "2026-08-24",
    "path": "edgar/data/1877557/0001104659-26-100326.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2088295/0001213900-26-092600.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "25-NSE",
+   "cik": "2028355",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2028355/0001354457-26-000916.txt"
+  },
+  {
+   "company": "Future Money Acquisition Corp",
+   "form": "8-K",
+   "cik": "2099232",
+   "filed": "2026-09-25",
+   "path": "edgar/data/2099232/0001493152-26-044364.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "8-A12B",
@@ -2903,60 +2947,32 @@
    "filed": "2026-08-24",
    "path": "edgar/data/2032528/0001104659-26-099769.txt",
    "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "Breeze Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2095443",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2095443/0001213900-26-092598.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "K&F GROWTH ACQUISITION CORP. II",
-   "form": "8-K",
-   "cik": "2029976",
-   "filed": "2026-08-21",
-   "path": "edgar/data/2029976/0001213900-26-092693.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "GOWell goes public via $300M SPAC merger, to trade as \"GOW - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE9pbnRFWWlnanNmbG9GSWNEeXNmSXhwNUdUZTRyM3ltbGVOcUJ3R0t0c1lMZ0kySWRlWW84LVVVZUJWSzU5UVMyWF9JbXBrcjFfQjVZaVNXTXZOaDdfSm83cnNsZ1JYNWpLUGx2OGZUSnRrLUpUYlRZNVU5M2lWdXRSaWJxdWFKU1JkZFNKZFh0LXM?oc=5",
-   "published": "2026-09-25",
-   "source": "Dealroom"
+   "title": "Israeli cyber company Paragon to go public through Nasdaq SPAC merger - calcalistech.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WQ3Bxemx3ODV1cUQ5akNUMGg3S1BOTWZtRU5jcncwektUTHBReFBsTkkxSWpjSlRISHhvNHdRUVBVd2VhajQyUnEtTENwSjBkcUFrb0N0VVBUUXFvdXlKZ21acTVtUlp0?oc=5",
+   "published": "2026-09-28",
+   "source": "calcalistech.com"
   },
   {
-   "title": "Leader\u2019s Advantage completes $150 million SPAC IPO on Nasdaq - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1FkQmNHMjZsU2c2NGJMQlVUYjd1ZjNKVnQ1MjdpNWdfZ2JkQ3QwRmhaekJzLXNvdmtwSXFCd0hSZ3ZqdEZjdzhfcGVGaE43d2NNeW5zWGJqNkk0X1V6UWhBd0JDQjczRnRUck9uWGptMnpFeE5WNVhCVTRlaDh2bFJIcldha3dxdWlKZDdXcVB1YjhNS3k2QWlELUFwVV8tM18xaU5EeG5pb1JuS29ranY2RlhNdw?oc=5",
-   "published": "2026-09-25",
-   "source": "Investing.com"
+   "title": "Cyberattack co Paragon plans SPAC merger at $2b valuation - Globes - Israel Business News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUFRS042MDhoQ05yS0V2TjRwZVpRMzN0eFYxemQ5WnNlaWJJejl2ZG5RclpleUg4M2JjSWdQS19wYlg1UHhxbktrRTVzVG15OS03aTdGeDB6dmJfQ1FNNmtpZmw5N1J1d056SmcwVjRSc1k1Ynd2ZmNKb2didzd1Rk5fM0c0VzdXT2JVS0xBMkdEMWFMX3NoVF9WT0JqcFByU1IyMg?oc=5",
+   "published": "2026-09-28",
+   "source": "Globes - Israel Business News"
   },
   {
-   "title": "Leader\u2019s Advantage Raises $150 Million SPAC IPO; Places $151.1 Million in Trust, Signs Key Agreements - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcWo2WHp2Vk9XbXQ3ZUVrWVphZzFfc2l0c3VmNWY1NFpRUlhOclN4VnQ2NzlaX1podDE1WkFhQ096bldPM2kzMjFlMnRPdGs5cy00TjdCNC16MGNoblcyZ1ZzdFdPdkpTbGlFVEZoRWtteGVUVzJrU2l4RHRWUjFhWVlBVVhrQ0htQ1h4a2FydEczcUlKR2xXOXBGaFhiSHU0emVaUjVmblpTYnY4cWtZd04xSjFQYjR1N3YwX0lVS09pMWFjdmtxb3hxcVBvREZmQ2wxWnl4Z3Y3cFB2TklGbTVFc2Foc0ZOSTR4ZUEzT1Q?oc=5",
-   "published": "2026-09-23",
-   "source": "TradingView"
+   "title": "Kairos & Samsung in $100M Deal for EPC Services - Neutron Bytes",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd4UEE3eEpiY2pOYWFTai05Yjd4UlcydFlqWTkweFViQlBUNTRnWkc5Uk9uYnYwY1hqNnJVR19QSl9LQVpwM2RUel8tMlcwazB2bjVHakZiMWlXeFo2aFhDaWpkbWo1Tzd2b2YxRzNpeUpkNURzNjcyZlFQWHZULUI2dWluWVJu?oc=5",
+   "published": "2026-09-26",
+   "source": "Neutron Bytes"
   },
   {
-   "title": "ONE Nuclear to go public via $1.1B SPAC merger with Hennessy Capital VII - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWMwNHZrQ3IzRUFaMk1yTHBfTG10a0ZIVFJYWjNiZXJyWTFFWHlVcWxJdXROU1VjUUh0WUw1SzdtS2M0RmtuVnBISkVVSklqdjRQVkxpZEYyOTJjOGFxWENPMEE3NlFjanFQMklrTkNxRlpRUU1DZVRMT2FwSGNQYWZ3S2pPWDJlOHpiSE9wZ3JVVFdLWWVwRnZnOWpTWjZxcTJPeE5XU1Q?oc=5",
-   "published": "2026-09-23",
-   "source": "Dealroom"
-  },
-  {
-   "title": "Elroy Air expands PIPE funding to $175 million ahead of SPAC deal - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1peFdxRHpNdjZqeHRvRzBOSENka21IMkJNUlZfVVJ3ZU9GSXJ4eU81Zk5PWmgtMnJGVnhVbHVsQ0tjQk55X3lfUGtZS1B0OEFibHl4akU1Tk1NY1o3S0ZJQ2lUbmVUY3Z6LUhRNVJSU1FTUHU3MFZ3VDN6czF0WEh1UVJqMUdJSUJzaWV2T1ZMbGxYMjdENTdndXdtdUtJemFJUXUwcmx2QUFheDI1QS1wMFB5NG12OGFiVDJ3?oc=5",
-   "published": "2026-09-24",
-   "source": "Investing.com"
-  },
-  {
-   "title": "Elroy Air upsizes PIPE deal to $175 million ahead of SPAC merger - scanx.trade",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1NKelRDREVxLVYtU0xuVHVDTkl4dEU4N192dUw5ank0TXRtakU1RE1EU0xNc3lvSWc2V3lHaG50TXhJZ2FhOWxCVjFveEZnSmNqb0FsSzN0QVVFRUdvWlg4T1BQRjVhMm1jRjVmZjBvb3MzRjR2cmVJT1BvUFlpRnFCVHZyWnhaN1VlQkR6bVRDUUl2cVFOZzI2QXBKYzFsd1M2aURqRmxxazNo?oc=5",
-   "published": "2026-09-24",
-   "source": "scanx.trade"
+   "title": "Smart Capital Portfolio Firm Newcleo Lists on Nasdaq After $2.4 Billion SPAC Deal - tipranks.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblQ3dHAzSlVMQVVTM2hKRTRBVXBBZGx2SXA3VzRDLV9QWU5sM2VrTFpTcVcyWWtqdlhscFRXWG0yazQxVFNGY1E0c2RpTmgxNG85anhIUHJIay0tcnZvaUxDSjQyWlhUZ1FPY1gxNFdKdklFUkNhZXlMeVp2NWVOeVBXck5lWEFJNUROOEdYYlM0Q0ZxcEZmX0FLSm5CX3lmNnNRRHNEak9kYjktc0EwRGZEdlVkaVYycDdMeGR0RDNLakdwdVU4Wm1Nc0g?oc=5",
+   "published": "2026-09-26",
+   "source": "tipranks.com"
   }
  ],
  "regs": []
