@@ -1,126 +1,5 @@
 {
  "rows": {
-  "edgar/data/1834032/0001213900-26-093084.txt": {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1834032/0001213900-26-093084.txt",
-   "blurb": "business combination with HiTech Minerals (auto-extracted)"
-  },
-  "edgar/data/2028027/0001213900-26-093099.txt": {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093099.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2028027/0001213900-26-093104.txt": {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093104.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2028027/0001213900-26-093105.txt": {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093105.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/1877557/0001104659-26-100326.txt": {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "8-K",
-   "cik": "1877557",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1877557/0001104659-26-100326.txt",
-   "items": [
-    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers"
-   ]
-  },
-  "edgar/data/1846235/0001213900-26-093065.txt": {
-   "company": "International Media Acquisition Corp.",
-   "form": "8-K",
-   "cik": "1846235",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1846235/0001213900-26-093065.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2030829/0001213900-26-093072.txt": {
-   "company": "PANTAGES CAPITAL ACQUISITION Corp",
-   "form": "8-K",
-   "cik": "2030829",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2030829/0001213900-26-093072.txt",
-   "items": [
-    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
-   ]
-  },
-  "edgar/data/2032528/0001104659-26-099769.txt": {
-   "company": "Roman DBDR Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2032528",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2032528/0001104659-26-099769.txt",
-   "items": [
-    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing"
-   ]
-  },
-  "edgar/data/1877557/0001104659-26-100374.txt": {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "DEF 14A",
-   "cik": "1877557",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1877557/0001104659-26-100374.txt",
-   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/2020987/0001683168-26-006677.txt": {
-   "company": "YHN Acquisition I Ltd",
-   "form": "DEF 14A",
-   "cik": "2020987",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2020987/0001683168-26-006677.txt",
-   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
-  },
-  "edgar/data/2143060/0001185185-26-003690.txt": {
-   "company": "Essential Minerals Acquisition Corp",
-   "form": "S-1",
-   "cik": "2143060",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2143060/0001185185-26-003690.txt",
-   "blurb": "offering $5,125,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
-  },
-  "edgar/data/2115191/0001213900-26-093129.txt": {
-   "company": "Live Oak Acquisition Corp. VI",
-   "form": "S-1",
-   "cik": "2115191",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2115191/0001213900-26-093129.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2146310/0001213900-26-093109.txt": {
-   "company": "Inflection Point Acquisition Corp. VIII",
-   "form": "S-1/A",
-   "cik": "2146310",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2146310/0001213900-26-093109.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2147219/0001104659-26-099825.txt": {
-   "company": "Rainier Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2147219",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2147219/0001104659-26-099825.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
   "edgar/data/2128045/0001213900-26-093231.txt": {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "425",
@@ -3722,6 +3601,269 @@
    "cik": "2016221",
    "filed": "2026-09-25",
    "path": "edgar/data/2016221/0001213900-26-103194.txt",
+   "blurb": ""
+  },
+  "edgar/data/1852207/0001213900-26-103760.txt": {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "425",
+   "cik": "1852207",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1852207/0001213900-26-103760.txt",
+   "blurb": ""
+  },
+  "edgar/data/2070887/0001213900-26-103658.txt": {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "425",
+   "cik": "2070887",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2070887/0001213900-26-103658.txt",
+   "blurb": ""
+  },
+  "edgar/data/2087446/0001213900-26-103792.txt": {
+   "company": "Proem Acquisition Corp. I",
+   "form": "425",
+   "cik": "2087446",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2087446/0001213900-26-103792.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-103769.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103769.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-103899.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103899.txt",
+   "blurb": ""
+  },
+  "edgar/data/2080023/0001213900-26-104119.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2080023/0001213900-26-104119.txt",
+   "blurb": "business combination with Viking (auto-extracted)"
+  },
+  "edgar/data/2053927/0001829126-26-010489.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "425",
+   "cik": "2053927",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2053927/0001829126-26-010489.txt",
+   "blurb": ""
+  },
+  "edgar/data/1852207/0001213900-26-103758.txt": {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1852207",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1852207/0001213900-26-103758.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028201/0001213900-26-103784.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "8-K",
+   "cik": "2028201",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028201/0001213900-26-103784.txt",
+   "items": [
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2070887/0001213900-26-103656.txt": {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2070887",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2070887/0001213900-26-103656.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2075816/0001213900-26-104036.txt": {
+   "company": "Emmis Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2075816",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2075816/0001213900-26-104036.txt",
+   "items": [
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2028355/0001213900-26-103669.txt": {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Completion of Acquisition or Disposition of Assets",
+    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+    "Unregistered Sales of Equity Securities",
+    "Material Modifications to Rights of Security Holders",
+    "Changes in Control of Registrant",
+    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2049248/0001929980-26-000535.txt": {
+   "company": "Lakeshore Acquisition III Corp.",
+   "form": "8-K",
+   "cik": "2049248",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2049248/0001929980-26-000535.txt",
+   "items": [
+    "Other Events"
+   ]
+  },
+  "edgar/data/2028027/0001185185-26-004379.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "8-K",
+   "cik": "2028027",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028027/0001185185-26-004379.txt",
+   "items": [
+    "Shareholder Nominations Pursuant to Exchange Act Rule 14a-11",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2087446/0001213900-26-103789.txt": {
+   "company": "Proem Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2087446",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2087446/0001213900-26-103789.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Unregistered Sales of Equity Securities",
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2085659/0001213900-26-103766.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103766.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2080023/0001213900-26-104115.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "8-K",
+   "cik": "2080023",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2080023/0001213900-26-104115.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2053927/0001829126-26-010488.txt": {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2053927/0001829126-26-010488.txt",
+   "items": [
+    "Entry into a Material Definitive Agreement",
+    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+    "Unregistered Sales of Equity Securities",
+    "Other Events",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/1890361/0001213900-26-104070.txt": {
+   "company": "ASPAC III Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1890361",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1890361/0001213900-26-104070.txt",
+   "blurb": "meeting September 28, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1978528/0001493152-26-044604.txt": {
+   "company": "Quetta Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1978528",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1978528/0001493152-26-044604.txt",
+   "blurb": "meeting October 8, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2033991/0001104659-26-111418.txt": {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "DEF 14A",
+   "cik": "2033991",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2033991/0001104659-26-111418.txt",
+   "blurb": "meeting October 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028201/0001213900-26-103788.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028201/0001213900-26-103788.txt",
+   "blurb": "meeting August 17, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1865861/0001493152-26-044571.txt": {
+   "company": "Cactus Acquisition Corp. 1 Ltd",
+   "form": "PRE 14A",
+   "cik": "1865861",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1865861/0001493152-26-044571.txt",
+   "blurb": "meeting April 19, 2021; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028027/0001185185-26-004378.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2028027",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028027/0001185185-26-004378.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2154056/0001193125-26-404122.txt": {
+   "company": "Calm Seas Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2154056",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2154056/0001193125-26-404122.txt",
+   "blurb": "offering $300,000,000; 30,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  "edgar/data/2155556/0001493152-26-044503.txt": {
+   "company": "Orange Street Acquisition Corp",
+   "form": "S-1",
+   "cik": "2155556",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2155556/0001493152-26-044503.txt",
+   "blurb": ""
+  },
+  "edgar/data/2085659/0001213900-26-104040.txt": {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "S-4",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-104040.txt",
    "blurb": ""
   }
  }

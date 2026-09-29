@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-09-28T18:55:58Z",
+ "generated_at": "2026-09-29T11:51:25Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "Calm Seas Acquisition Corp.",
+   "form": "S-1",
+   "cik": "2154056",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2154056/0001193125-26-404122.txt",
+   "blurb": "offering $300,000,000; 30,000,000 units; $10.00/unit (auto-extracted)"
+  },
+  {
+   "company": "Orange Street Acquisition Corp",
+   "form": "S-1",
+   "cik": "2155556",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2155556/0001493152-26-044503.txt"
+  },
   {
    "company": "TCGX Acquisition Corp. II",
    "form": "S-1",
@@ -109,22 +124,6 @@
    "filed": "2026-08-25",
    "path": "edgar/data/2111838/0001193125-26-363922.txt",
    "blurb": "offering $250,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Essential Minerals Acquisition Corp",
-   "form": "S-1",
-   "cik": "2143060",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2143060/0001185185-26-003690.txt",
-   "blurb": "offering $5,125,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
-  },
-  {
-   "company": "Live Oak Acquisition Corp. VI",
-   "form": "S-1",
-   "cik": "2115191",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2115191/0001213900-26-093129.txt",
-   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "pricings": [
@@ -374,25 +373,114 @@
    "filed": "2026-08-28",
    "path": "edgar/data/2148436/0001185185-26-003758.txt",
    "blurb": "offering $800,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. VIII",
-   "form": "S-1/A",
-   "cik": "2146310",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2146310/0001213900-26-093109.txt",
-   "blurb": "offering $250,000,000; 25,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Rainier Acquisition Corp",
-   "form": "S-1/A",
-   "cik": "2147219",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2147219/0001104659-26-099825.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "mergers": [
+  {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "425",
+   "cik": "1852207",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1852207/0001213900-26-103760.txt"
+  },
+  {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "425",
+   "cik": "2070887",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2070887/0001213900-26-103658.txt"
+  },
+  {
+   "company": "Proem Acquisition Corp. I",
+   "form": "425",
+   "cik": "2087446",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2087446/0001213900-26-103792.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103769.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103899.txt"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "425",
+   "cik": "2080023",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2080023/0001213900-26-104119.txt",
+   "blurb": "business combination with Viking (auto-extracted)"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "425",
+   "cik": "2053927",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2053927/0001829126-26-010489.txt"
+  },
+  {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1852207",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1852207/0001213900-26-103758.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Crown Reserve Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2070887",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2070887/0001213900-26-103656.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Proem Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2087446",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2087446/0001213900-26-103789.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-103766.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2053927/0001829126-26-010488.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "S-4",
+   "cik": "2085659",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2085659/0001213900-26-104040.txt"
+  },
   {
    "company": "Black Hawk Acquisition Corp",
    "form": "425",
@@ -1855,41 +1943,65 @@
    "filed": "2026-08-25",
    "path": "edgar/data/1853047/0001096906-26-001289.txt",
    "blurb": "meeting September 14, 2026; business-combination vote (auto-extracted)"
-  },
-  {
-   "company": "Constellation Acquisition Corp I",
-   "form": "425",
-   "cik": "1834032",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1834032/0001213900-26-093084.txt",
-   "blurb": "business combination with HiTech Minerals (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093099.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093104.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Newbury Street II Acquisition Corp",
-   "form": "425",
-   "cik": "2028027",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2028027/0001213900-26-093105.txt",
-   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
   }
  ],
  "votes": [
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "ASPAC III Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1890361",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1890361/0001213900-26-104070.txt",
+   "blurb": "meeting September 28, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Quetta Acquisition Corp",
+   "form": "DEF 14A",
+   "cik": "1978528",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1978528/0001493152-26-044604.txt",
+   "blurb": "meeting October 8, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Texas Ventures Acquisition III Corp",
+   "form": "DEF 14A",
+   "cik": "2033991",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2033991/0001104659-26-111418.txt",
+   "blurb": "meeting October 19, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "DEFA14A",
+   "cik": "2028201",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028201/0001213900-26-103788.txt",
+   "blurb": "meeting August 17, 2026; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Cactus Acquisition Corp. 1 Ltd",
+   "form": "PRE 14A",
+   "cik": "1865861",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1865861/0001493152-26-044571.txt",
+   "blurb": "meeting April 19, 2021; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "PRE 14A",
+   "cik": "2028027",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028027/0001185185-26-004378.txt",
+   "blurb": "meeting December 31, 2025; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "IX Acquisition Corp.",
    "form": "DEF 14A",
@@ -2432,25 +2544,41 @@
    "filed": "2026-08-25",
    "path": "edgar/data/1998781/0001493152-26-039924.txt",
    "blurb": "meeting September 24, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "DEF 14A",
-   "cik": "1877557",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1877557/0001104659-26-100374.txt",
-   "blurb": "meeting September 15, 2026; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "YHN Acquisition I Ltd",
-   "form": "DEF 14A",
-   "cik": "2020987",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2020987/0001683168-26-006677.txt",
-   "blurb": "meeting September 17, 2024; extension on the agenda (auto-extracted)"
   }
  ],
  "pipes": [
+  {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1852207",
+   "filed": "2026-09-28",
+   "path": "edgar/data/1852207/0001213900-26-103758.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Proem Acquisition Corp. I",
+   "form": "8-K",
+   "cik": "2087446",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2087446/0001213900-26-103789.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2053927",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2053927/0001829126-26-010488.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Black Hawk Acquisition Corp",
    "form": "8-K",
@@ -2638,6 +2766,22 @@
  ],
  "sponsors": [
   {
+   "company": "Emmis Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2075816",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2075816/0001213900-26-104036.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "note": "8-K: officer/director change"
+  },
+  {
    "company": "Live Oak Acquisition Corp. VI",
    "form": "8-K",
    "cik": "2115191",
@@ -2756,17 +2900,17 @@
    "filed": "2026-08-25",
    "path": "edgar/data/2128045/0001213900-26-093229.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Integrated Wellness Acquisition Corp",
-   "form": "8-K",
-   "cik": "1877557",
-   "filed": "2026-08-24",
-   "path": "edgar/data/1877557/0001104659-26-100326.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Inflection Point Acquisition Corp. V",
+   "form": "8-K",
+   "cik": "2028355",
+   "filed": "2026-09-28",
+   "path": "edgar/data/2028355/0001213900-26-103669.txt",
+   "note": "8-K: delisting / listing-deficiency notice"
+  },
   {
    "company": "Inflection Point Acquisition Corp. V",
    "form": "25-NSE",
@@ -2931,60 +3075,44 @@
    "filed": "2026-08-25",
    "path": "edgar/data/2047455/0001829126-26-009312.txt",
    "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "PANTAGES CAPITAL ACQUISITION Corp",
-   "form": "8-K",
-   "cik": "2030829",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2030829/0001213900-26-093072.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "Roman DBDR Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2032528",
-   "filed": "2026-08-24",
-   "path": "edgar/data/2032528/0001104659-26-099769.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "Satellite firm Astro Digital to go public in $587 million SPAC deal - Reuters",
+   "title": "REDLattice to Go Public Through Bold Eagle SPAC Merger - GovCon Wire",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGZwWGJqTWxIUnhaZ0JVN3ltb3BOLWNpampkMkgzWDN5UGx0eV9WSXF2NGxOYTZ5dVZyUlN4aC1Kb0JkcVMyeFBWWE9CQ0djMGJXZjNScC1MWHQ2aW5jN1B2eDVkV0wtWWVZT0NTaUFiNDdFZTNHeVVaTk9qd3dELTFieHR0X2c1Vnd2bg?oc=5",
+   "published": "2026-09-29",
+   "source": "GovCon Wire"
+  },
+  {
+   "title": "Defense cyber intelligence company RedLattice to go public in $1.25B SPAC deal - SiliconANGLE",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajZSS2R0SExUczNUTDZnLUUyel9RcWVxckNnOGNzZndOV1BnRTloYlpQaUk1Ymp0Z0E1TktYa0R4Q21VQ0xqV1FZLW5YZ2MxLThjWEpNWVhyZmRqX2xsVUViOThCVjlHOXhteWszUEFKMFp3V0pPd3ZhSXlwMnBqMEtjcDNHcG1ZSl9pQTk2bGltS2FTNDg2TW9SajFmSngwN1RzSmtUd2luSGFlblJiZzNsSUU?oc=5",
+   "published": "2026-09-28",
+   "source": "SiliconANGLE"
+  },
+  {
+   "title": "Chantilly defense tech company RedLattice to go public in $1.25B SPAC deal - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3M2THpwaTJNcmVpS2pUVXVFYnlNTUtBYldONERlVFZlMWJhVXdMRzhITGdLTVFBck9KN2dpeS12dEZKQVBmMzJFeWh4WGJvZWFPaTFhZlNYNUY0US1jUEdJWlFmOXA1MTBFSDNLOHNGT0dLV3o5S1pDX3FwRFptMVUwM2M0TGJLY0UtbWFubDhUaGt4ZnJFUS1ZTTkwRTJH?oc=5",
+   "published": "2026-09-28",
+   "source": "The Business Journals"
+  },
+  {
+   "title": "Nextdoor, Khosla Say Investor Brought De-SPAC Suit Too Late - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oekd2ZVVvRFNMSG9kMkJnbzRneGVPWGlXY1dUSFVDOVhtZmx1TXptY2lFbkRYeUl0cXZLZUN6eUVUMS1ScXhESFA0dzVPaGdVMVJCTGp30gFWQVVfeXFMTmh6R3ZlVW9EU0xIb2QyQmdvNGd4ZU9YaVdjV1RIVUM5WG1mbHVNem1jaUVuRFh5SXRxdktlQ3p5RVQxLVJxeERIUDR3NU9oZ1UxUkJManc?oc=5",
+   "published": "2026-09-28",
+   "source": "Law360"
+  },
+  {
+   "title": "Satellite firm Astro Digital to go public in $587 million SPAC deal - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTQtMGFWZFJMc0lJc0pZWWJrZ0hSdC02akpXSTc1UWE3RzJBOXpjSTFmbmVOUThVTGo3TE5FMWZ6elJoaWxnb3U0eDB5UHNJQ0dScDAxOUp4X3FDbGtORkFVc05QeTBObnNHOW9kNW11YWlwaG5nRDN5d1BTSnlnUXBXa09OU3dzMEllb2hmYmxhZHRHREh5Nk51MExUa3VraFJveW5UWEhZRXFSTVRmODc5eUlsQTQ?oc=5",
    "published": "2026-09-28",
-   "source": "Reuters"
+   "source": "reuters.com"
   },
   {
-   "title": "Kirkland, White & Case Lead Defense Firm's $1.25B SPAC Deal - law360.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMy1zcklGMWttUEduNFJrYVZ0UG9XOUJ1NjdvOWk3ZE1JcDJOTFE5aEszZjZOTU9QanZCOHA5V1Jld0NDUlc4clRhckI5cjJDODllUWdDdXNSbmFFakNUWVVHQnV3aW1OQmI3bVRYR1JkTzhEaEFrOThaWk1DbUFQNEx2NHdmTjU1d1pjNEtvN3lXcjNxc2J1ZFh2Y9IBVkFVX3lxTE9JaHZPSE5rRHZPR3FYazZieXZHQ2hUN25xcGpzZHdCLXRsX2VkRDJPdVlsMWRXbmNMd2U5M1NfeldhMHd4d3dKeU15ZXlIR2JuME1STHlB?oc=5",
+   "title": "NorthStar to go public via Viking SPAC merger, debuts on NYSE American - Dealroom.co",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2t2SzNqV3pfVUUzQmUyeFd6bUhhc19IbHF1MkRBeWNFZTNWWi1IMXIyZV9nUzVjQk8wX3VrYWVxVDYwVnpCYzBwVmlsaVJqVnNmMzU1TnBvMmVrdWZQQy1INUNCc21lLS1MQnR1UW5MWThNbnNyRlRkYVZ0QmdQWmdJbG11VWRpS3A5OUxqVHQ3c2xUYzNtaUZ0TWRHR2VIYlpEY0d3?oc=5",
    "published": "2026-09-28",
-   "source": "law360.com"
-  },
-  {
-   "title": "Israeli cyber company Paragon to go public through Nasdaq SPAC merger at $1.25 billion valuation - calcalistech.com",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WQ3Bxemx3ODV1cUQ5akNUMGg3S1BOTWZtRU5jcncwektUTHBReFBsTkkxSWpjSlRISHhvNHdRUVBVd2VhajQyUnEtTENwSjBkcUFrb0N0VVBUUXFvdXlKZ21acTVtUlp0?oc=5",
-   "published": "2026-09-28",
-   "source": "calcalistech.com"
-  },
-  {
-   "title": "Astro Digital to Go Public Through Proem SPAC Merger at $587 Million Enterprise Value - citybiz",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNczF5TjQtV1lGN2JVMFVOWjBobEF0NnlMd3Y2LVo5enhoT2dwVjlWVjRFYTRyVWlCOHVLZ3djOThJT0x1WGlsZ1B1TWFMZndKVGRkVmQ3dUh5cmVmSUp3aXFTLS1CMW1rWXdkeUFYaFRYdm4zWGJTczRrd0xaRXFza0dYdXJDSUJmYzJ5NkNwUVVGOUg3RV8wMnpGMHdKek5PcEhnUC14YlIxald6S1hTX29jSlktZG1rWW9fRFg4Y0I?oc=5",
-   "published": "2026-09-28",
-   "source": "citybiz"
-  },
-  {
-   "title": "Satellite maker Astro Digital to go public in $587M SPAC deal - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3lXbVo4aVVCTXZjNjkyeFdUY2RGR3h2RGI5LXNpUzh0NEpzOUQzU2s4aDhLdWQ5SHJhaUFSd2xVLURySTkxVGlXN2VoUl9QdWdpbUMxMzhKWlZhQUxydWFQdTlIcnE4M1JFT1ZpS1NfX1BESmRZNWNaLWRsdnBKY0hkcVh6a1V5NExTUldiZjhTTXo3bEo2WVk5dGNBdFFtcHdCSU5YeHlnVlFmMThYUUlZa0U4QVAyYnNxWVlWdVM?oc=5",
-   "published": "2026-09-28",
-   "source": "TradingView"
-  },
-  {
-   "title": "Defense tech firm REDLattice strikes SPAC deal to go public in US - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVU5rdmJEUjY4cW1wQWFtam9TQVNIckNodHdCWE8yaERZLUFUWGNGMXp6QVhKVHJLQjBUSnE0TTlURmVwUWliYnBseXZfMnowTmp6Q0RvU3p3ckEwZE1KZ2UwNkdCS3hUallOVVU5OUl4SXJjemswanM3WXVkVHR2NEV5VloxQmJ6R2tDUWxrajNHZVRCLVpGRWtPNGRKY09tLWdjR1VCUm92S01UdkdvVlVGQ1FyUQ?oc=5",
-   "published": "2026-09-28",
-   "source": "Reuters"
+   "source": "Dealroom.co"
   }
  ],
  "regs": []
