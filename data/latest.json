@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T11:51:28Z",
+ "generated_at": "2026-09-30T18:55:54Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -3154,10 +3154,10 @@
    "source": "SiliconANGLE"
   },
   {
-   "title": "Satellite firm Astro Digital to go public in $587 million SPAC deal - reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTQtMGFWZFJMc0lJc0pZWWJrZ0hSdC02akpXSTc1UWE3RzJBOXpjSTFmbmVOUThVTGo3TE5FMWZ6elJoaWxnb3U0eDB5UHNJQ0dScDAxOUp4X3FDbGtORkFVc05QeTBObnNHOW9kNW11YWlwaG5nRDN5d1BTSnlnUXBXa09OU3dzMEllb2hmYmxhZHRHREh5Nk51MExUa3VraFJveW5UWEhZRXFSTVRmODc5eUlsQTQ?oc=5",
-   "published": "2026-09-28",
-   "source": "reuters.com"
+   "title": "IPO Activity Roars Back While SPAC Litigation\u2019s Long Tail Continues - dandodiary.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEFnMnIxSHE2cmFMOGF2alVxS01KcDVxWEUxNzRZX0hSNTJFWnMwTEd5TkY5Vjg1Tkdpa0o0UkJmdUtpd3phTVZTeThPNm0xOWRSN1RtLWVRa205RzhRalpTSnNBUHZpYXJkQjBkLXpDMmN3SFNEbU9NYVl4YV9ESS1BRkxWZm81bk54OGdMRVVKaDhQbnNreVljSm9aMUUwel9TazVRTkRsc2dfMW1kRTgtaG12emc?oc=5",
+   "published": "2026-09-30",
+   "source": "dandodiary.com"
   },
   {
    "title": "REDLattice to Go Public Through Bold Eagle SPAC Merger - GovCon Wire",
@@ -3166,16 +3166,16 @@
    "source": "GovCon Wire"
   },
   {
-   "title": "Harvard Ave Acquisition to Merge With OAG in $300 Million De-SPAC; Holders Sign Support and Lock-Ups - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMHZ0dlRMUnRIVXZMZlp4UjJHRVFJZXdTNzZoZUdtSm9hdVZ4b1dfeHA2WC1vNDB4cWtrQzRqTmlTOXh1aUZHdy0zZ3NYMzRiTmdrNkRHUU9HQUZLSnRFRTIyTnJuSWxQVzRoWmV6QlE3T05Nb1pEbEZSeXhiVWM3U0VkTE13c3hlZmlDUXg3NXREVnQwVlpveHBoQnpNaUpWQy05YnBlSTJVYUdiTkxHQXFCTWlnMGJlNDdoV0U4anhCanJVbTFZQVk1RkRSVXVsNDRZZTlIcVhmc2tNSzRlRDJKYXFON2JnUHpqY1RfMlpGdw?oc=5",
-   "published": "2026-09-29",
-   "source": "TradingView"
-  },
-  {
    "title": "Chantilly defense tech company RedLattice to go public in $1.25B SPAC deal - The Business Journals",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3M2THpwaTJNcmVpS2pUVXVFYnlNTUtBYldONERlVFZlMWJhVXdMRzhITGdLTVFBck9KN2dpeS12dEZKQVBmMzJFeWh4WGJvZWFPaTFhZlNYNUY0US1jUEdJWlFmOXA1MTBFSDNLOHNGT0dLV3o5S1pDX3FwRFptMVUwM2M0TGJLY0UtbWFubDhUaGt4ZnJFUS1ZTTkwRTJH?oc=5",
    "published": "2026-09-28",
    "source": "The Business Journals"
+  },
+  {
+   "title": "Nextdoor, Khosla Say Investor Brought De-SPAC Suit Too Late - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oekd2ZVVvRFNMSG9kMkJnbzRneGVPWGlXY1dUSFVDOVhtZmx1TXptY2lFbkRYeUl0cXZLZUN6eUVUMS1ScXhESFA0dzVPaGdVMVJCTGp30gFWQVVfeXFMTmh6R3ZlVW9EU0xIb2QyQmdvNGd4ZU9YaVdjV1RIVUM5WG1mbHVNem1jaUVuRFh5SXRxdktlQ3p5RVQxLVJxeERIUDR3NU9oZ1UxUkJManc?oc=5",
+   "published": "2026-09-28",
+   "source": "Law360"
   }
  ],
  "regs": []
