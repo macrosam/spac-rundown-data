@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T11:51:18Z",
+ "generated_at": "2026-10-01T18:54:39Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -3134,6 +3134,24 @@
  ],
  "media": [
   {
+   "title": "Blank Check Company POP Global Acquisition Offers 10 Mln Units In IPO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZaZ1N4bWFkcXhmdW9zS2ZlcnJ4SjJjazAzUkJoM2hXT05Vem9BQURCUUxYMFVWNFNPUjlsaXZYN20tS3hZRGdtZldyc0hfNlU5X01TSWVKV2xMQ2VUQS1oYkUxU2g2RlYxUWZPdnZrWW5SQVp2VmFobkxKd0xqcnZWX3liOXpzZWhxSXZ2LW93TUhkTW1Lb3RQZE1pOXFCSmdxX0M3T0duV2RUcWNCZ2hIMlZnWVNZVDNXTWJLMUpGWG9VWFh2S1R1QnVGVFhqVUJrSlFn?oc=5",
+   "published": "2026-10-01",
+   "source": "TradingView"
+  },
+  {
+   "title": "Evernode to List on Nasdaq Through SPAC Merger on Oct. 8 - en.bloomingbit.io",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rancyWUJfV19Xa0xtbTRlVnRrQ1BzUDhFSXMxelZOcjU0T1RCS2RqcjFxWW5iMUp2MFVwZnJsQlFuMFBmVERNVE1raFpreGliY2V0Xw?oc=5",
+   "published": "2026-10-01",
+   "source": "en.bloomingbit.io"
+  },
+  {
+   "title": "Fort Robotics Advances SPAC Deal With Confidential S-4 Filing - AI Insider",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzVfREJpLWpJdC1HX2N1UFRGM3V1enUzM0dQbmhtT1lUUzM0NE8yZ0JvMllhUEJtM1QwWGFYTmJ4dldFZVcwZ2VlZ0RxMG9ERVlIMUVBTkFQVVhsZ0s4VldqVWlGYzNlNF9fbWMxbU51aTk2aUw5RjBIeVNsR3UxVE9KNFpTaUtPc0VTMXQwQVo0Zno3RmdLQXkzRVg4UnZQ?oc=5",
+   "published": "2026-10-01",
+   "source": "AI Insider"
+  },
+  {
    "title": "Astro Digital to Go Public via $587 Million SPAC Merger with Proem Acquisition Corp I - satnews.com",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUlURG50Z1pPRlRuUlk4ajlGclNXNEVtUUhDam8waDh2SDF4S0JLOUZ0UGFhRUhoNGdETVVWN09GX0xYVUFYblRTWlZzZ1kxYkw1eDRmemcwX2gwS05LZUJ4aloyc1BHTU4xc08xZG5mMU1rRTJkNS1PVzVVTmpDLTVsaWxoallXN21lVEd0c1luZE43MlVqTFBLbk9ub2U1R1ZkVUdVeHNhZnlkMWM5TzZmNVFJV2c?oc=5",
    "published": "2026-09-30",
@@ -3150,24 +3168,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakU4elBLajdrWEdZVWxOeUc2YnZFYzFhMWRHRi1tUjliQUtYNkUzMlM4dUlQT3k3SEF0MXc2SDFfYkIwY1EyeUVyalRyeXN0UXlJY21qSzJ1dkZ2TVpvOGt1bUtqUkplQ0t4dEtzbHZUcGMxYWU1YmkwNzFHVEdZa281bVI5WWlhd3cwbVdwb055RllVbVE2SVdvTFdmUDBia0x1RFlzUTBiemNaTktxS3UtZUZDQQ?oc=5",
    "published": "2026-09-30",
    "source": "Investing.com"
-  },
-  {
-   "title": "IPO Activity Roars Back While SPAC Litigation\u2019s Long Tail Continues - The D&O Diary",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEFnMnIxSHE2cmFMOGF2alVxS01KcDVxWEUxNzRZX0hSNTJFWnMwTEd5TkY5Vjg1Tkdpa0o0UkJmdUtpd3phTVZTeThPNm0xOWRSN1RtLWVRa205RzhRalpTSnNBUHZpYXJkQjBkLXpDMmN3SFNEbU9NYVl4YV9ESS1BRkxWZm81bk54OGdMRVVKaDhQbnNreVljSm9aMUUwel9TazVRTkRsc2dfMW1kRTgtaG12emc?oc=5",
-   "published": "2026-09-30",
-   "source": "The D&O Diary"
-  },
-  {
-   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
-   "published": "2026-10-01",
-   "source": "Stocktwits"
-  },
-  {
-   "title": "Harvard Ave Acquisition to Merge With OAG in $300 Million De-SPAC; Holders Sign Support and Lock-Ups - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMHZ0dlRMUnRIVXZMZlp4UjJHRVFJZXdTNzZoZUdtSm9hdVZ4b1dfeHA2WC1vNDB4cWtrQzRqTmlTOXh1aUZHdy0zZ3NYMzRiTmdrNkRHUU9HQUZLSnRFRTIyTnJuSWxQVzRoWmV6QlE3T05Nb1pEbEZSeXhiVWM3U0VkTE13c3hlZmlDUXg3NXREVnQwVlpveHBoQnpNaUpWQy05YnBlSTJVYUdiTkxHQXFCTWlnMGJlNDdoV0U4anhCanJVbTFZQVk1RkRSVXVsNDRZZTlIcVhmc2tNSzRlRDJKYXFON2JnUHpqY1RfMlpGdw?oc=5",
-   "published": "2026-09-29",
-   "source": "TradingView"
   }
  ],
  "regs": []
