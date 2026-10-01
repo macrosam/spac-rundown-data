@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-09-30T18:55:54Z",
+ "generated_at": "2026-10-01T11:51:18Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
+  {
+   "company": "BHAV Acquisition Corp II",
+   "form": "S-1",
+   "cik": "2142627",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2142627/0001213900-26-104979.txt"
+  },
   {
    "company": "MNBS Acquisition Corp.",
    "form": "S-1",
@@ -117,13 +124,6 @@
    "filed": "2026-09-01",
    "path": "edgar/data/2089787/0001213900-26-095969.txt",
    "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Velos Acquisition I Corp.",
-   "form": "S-1",
-   "cik": "2016072",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2016072/0001213900-26-094011.txt"
   }
  ],
  "pricings": [
@@ -213,25 +213,25 @@
    "filed": "2026-08-27",
    "path": "edgar/data/2147219/0001104659-26-102498.txt",
    "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "JATT III Acquisition Corp",
-   "form": "424B4",
-   "cik": "2145659",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2145659/0001213900-26-093949.txt",
-   "blurb": "offering $60,000,000; $10.00./unit; focus: investing in us and directly or indirectly providing office space and administrative services to members of our management team (auto-extracted)"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "424B4",
-   "cik": "2133239",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2133239/0001929980-26-000507.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "Laris Growth Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2140589",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2140589/0001213900-26-105340.txt",
+   "blurb": "offering $200,000,000; 20,000,000 units; $10.00/unit; focus: identifying and acquiring a high-growth deep-tech business where we believe the private-to-public valuation arbitrage is most compelling and (auto-extracted)"
+  },
+  {
+   "company": "SPACCircle Acquisition Corp.",
+   "form": "S-1/A",
+   "cik": "2131303",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2131303/0001185185-26-004412.txt",
+   "blurb": "offering $150,000,000; 15,000,000 units; $10.00/unit; focus: developing a tokenized private equity marketplace for early-stage through Series A C venture-backed companies and accredited investors (auto-extracted)"
+  },
   {
    "company": "Pine Tree Acquisition Corp.",
    "form": "S-1/A",
@@ -392,6 +392,94 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Inflection Point Acquisition Corp. VI",
+   "form": "425",
+   "cik": "2102041",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2102041/0001213900-26-105239.txt"
+  },
+  {
+   "company": "Iron Horse Acquisition II Corp.",
+   "form": "425",
+   "cik": "2051985",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2051985/0001213900-26-104903.txt",
+   "blurb": "business combination with Iron Horse Acquisition II Corp. (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2028027/0001185185-26-004447.txt"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "425",
+   "cik": "2137679",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2137679/0001829126-26-010595.txt"
+  },
+  {
+   "company": "Proem Acquisition Corp. I",
+   "form": "425",
+   "cik": "2087446",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2087446/0001213900-26-104776.txt"
+  },
+  {
+   "company": "Silicon Valley Acquisition Corp.",
+   "form": "425",
+   "cik": "2085659",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2085659/0001213900-26-104773.txt"
+  },
+  {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "425",
+   "cik": "2030663",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2030663/0001213900-26-104912.txt"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "8-K",
+   "cik": "2028027",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2028027/0001185185-26-004446.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "OceanLight Acquisition Corp",
+   "form": "8-K",
+   "cik": "2137679",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2137679/0001829126-26-010594.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2030663",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2030663/0001213900-26-104909.txt",
+   "note": "8-K: entry into material definitive agreement"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "S-4",
+   "cik": "1884046",
+   "filed": "2026-09-30",
+   "path": "edgar/data/1884046/0001104659-26-112345.txt"
+  },
+  {
+   "company": "Wintergreen Acquisition Corp.",
+   "form": "S-4/A",
+   "cik": "2053927",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2053927/0001829126-26-010610.txt"
+  },
   {
    "company": "Bold Eagle Acquisition Corp.",
    "form": "425",
@@ -1894,111 +1982,33 @@
    "cik": "2077033",
    "filed": "2026-08-27",
    "path": "edgar/data/2077033/0001493152-26-040431.txt"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "425",
-   "cik": "2088295",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2088295/0001213900-26-094048.txt",
-   "blurb": "business combination with Pasqal Holding SAS (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "425",
-   "cik": "2128045",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2128045/0001213900-26-093690.txt",
-   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "425",
-   "cik": "2128045",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2128045/0001213900-26-093691.txt",
-   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "425",
-   "cik": "2128045",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2128045/0001213900-26-093692.txt",
-   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. III",
-   "form": "425",
-   "cik": "2128045",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2128045/0001213900-26-093693.txt",
-   "blurb": "business combination with Bleichroeder Acquisition Corp. III (auto-extracted)"
-  },
-  {
-   "company": "Crown Reserve Acquisition Corp. I",
-   "form": "425",
-   "cik": "2070887",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2070887/0001213900-26-094005.txt"
-  },
-  {
-   "company": "McKinley Acquisition Corp",
-   "form": "425",
-   "cik": "2067592",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2067592/0001213900-26-093749.txt",
-   "blurb": "business combination with McKinley Acquisition Corporation (auto-extracted)"
-  },
-  {
-   "company": "STARRY SEA ACQUISITION CORP",
-   "form": "425",
-   "cik": "2059165",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2059165/0001829126-26-009352.txt"
-  },
-  {
-   "company": "Spark I Acquisition Corp",
-   "form": "425",
-   "cik": "1884046",
-   "filed": "2026-08-26",
-   "path": "edgar/data/1884046/0001104659-26-101062.txt",
-   "blurb": "business combination with ZincFive (auto-extracted)"
-  },
-  {
-   "company": "Black Hawk Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000775",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2000775/0001829126-26-009347.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Crown Reserve Acquisition Corp. I",
-   "form": "8-K",
-   "cik": "2070887",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2070887/0001213900-26-094001.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "STARRY SEA ACQUISITION CORP",
-   "form": "8-K",
-   "cik": "2059165",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2059165/0001829126-26-009351.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Technology & Telecommunication Acquisition Corp",
-   "form": "8-K",
-   "cik": "1900679",
-   "filed": "2026-08-26",
-   "path": "edgar/data/1900679/0001493152-26-040261.txt",
-   "note": "8-K: entry into material definitive agreement"
   }
  ],
  "votes": [
+  {
+   "company": "IB Acquisition Corp.",
+   "form": "8-K",
+   "cik": "1998781",
+   "filed": "2026-09-30",
+   "path": "edgar/data/1998781/0001493152-26-044947.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Invest Acquisition Corp",
+   "form": "8-K",
+   "cik": "1857410",
+   "filed": "2026-09-30",
+   "path": "edgar/data/1857410/0001829126-26-010583.txt",
+   "note": "8-K: charter amendment (possible extension)"
+  },
+  {
+   "company": "Healthcare AI Acquisition Corp.",
+   "form": "DEF 14A",
+   "cik": "1848861",
+   "filed": "2026-09-30",
+   "path": "edgar/data/1848861/0001477932-26-005931.txt",
+   "blurb": "meeting October 13, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "8-K",
@@ -2597,22 +2607,6 @@
    "filed": "2026-08-27",
    "path": "edgar/data/2133239/0001929980-26-000510.txt",
    "note": "8-K: charter amendment (possible extension)"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2088295/0001213900-26-094046.txt",
-   "note": "8-K: shareholder vote results"
-  },
-  {
-   "company": "Technology & Telecommunication Acquisition Corp",
-   "form": "8-K",
-   "cik": "1900679",
-   "filed": "2026-08-26",
-   "path": "edgar/data/1900679/0001493152-26-040261.txt",
-   "note": "8-K: charter amendment (possible extension)"
   }
  ],
  "pipes": [
@@ -2831,17 +2825,17 @@
    "filed": "2026-08-27",
    "path": "edgar/data/2133239/0001929980-26-000510.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Black Hawk Acquisition Corp",
-   "form": "8-K",
-   "cik": "2000775",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2000775/0001829126-26-009347.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "8-K",
+   "cik": "2028027",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2028027/0001185185-26-004446.txt",
+   "note": "8-K: officer/director change"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "8-K",
@@ -2969,25 +2963,23 @@
    "filed": "2026-08-27",
    "path": "edgar/data/2133239/0001929980-26-000510.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2088295/0001213900-26-094046.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "New America Acquisition I Corp.",
-   "form": "8-K",
-   "cik": "2074878",
-   "filed": "2026-08-26",
-   "path": "edgar/data/2074878/0001493152-26-040253.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Keen Vision Acquisition Corp.",
+   "form": "25-NSE",
+   "cik": "1889983",
+   "filed": "2026-09-30",
+   "path": "edgar/data/1889983/0001354457-26-000927.txt"
+  },
+  {
+   "company": "Southport Acquisition Corp. II",
+   "form": "8-A12B",
+   "cik": "2148436",
+   "filed": "2026-09-30",
+   "path": "edgar/data/2148436/0001185185-26-004426.txt"
+  },
   {
    "company": "Bayview Acquisition Corp",
    "form": "8-K",
@@ -3142,40 +3134,40 @@
  ],
  "media": [
   {
+   "title": "Astro Digital to Go Public via $587 Million SPAC Merger with Proem Acquisition Corp I - satnews.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUlURG50Z1pPRlRuUlk4ajlGclNXNEVtUUhDam8waDh2SDF4S0JLOUZ0UGFhRUhoNGdETVVWN09GX0xYVUFYblRTWlZzZ1kxYkw1eDRmemcwX2gwS05LZUJ4aloyc1BHTU4xc08xZG5mMU1rRTJkNS1PVzVVTmpDLTVsaWxoallXN21lVEd0c1luZE43MlVqTFBLbk9ub2U1R1ZkVUdVeHNhZnlkMWM5TzZmNVFJV2c?oc=5",
+   "published": "2026-09-30",
+   "source": "satnews.com"
+  },
+  {
    "title": "Astro Digital Takes SPAC Deal to Scale Satellite Manufacturing - Via Satellite",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlNiMS1iRmVUM0R6c25nSFRycDF1eGYxNHVZZ3JyYWZ5eUJIYWZ3aTVWUEpkOEhmWGZxNTdmMi1xMHNQRFoybE8xVXpjaWZpc0RpWHlBeXYwRFhZVHdwMDE1TEV2ekg2Ukt6Q3BUYnZLR0w1SWI4dDJGamw0dWh3U1d1ald5c054R3FuVk1xYXVab01Mc2xLeURmUC0zM25GNDdMSnhyRmRtUHk5al9jblhLVQ?oc=5",
    "published": "2026-09-29",
    "source": "Via Satellite"
   },
   {
-   "title": "Defense cyber intelligence company RedLattice to go public in $1.25B SPAC deal - SiliconANGLE",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajZSS2R0SExUczNUTDZnLUUyel9RcWVxckNnOGNzZndOV1BnRTloYlpQaUk1Ymp0Z0E1TktYa0R4Q21VQ0xqV1FZLW5YZ2MxLThjWEpNWVhyZmRqX2xsVUViOThCVjlHOXhteWszUEFKMFp3V0pPd3ZhSXlwMnBqMEtjcDNHcG1ZSl9pQTk2bGltS2FTNDg2TW9SajFmSngwN1RzSmtUd2luSGFlblJiZzNsSUU?oc=5",
-   "published": "2026-09-28",
-   "source": "SiliconANGLE"
+   "title": "FORT Robotics files for SPAC merger, targets Nasdaq listing - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakU4elBLajdrWEdZVWxOeUc2YnZFYzFhMWRHRi1tUjliQUtYNkUzMlM4dUlQT3k3SEF0MXc2SDFfYkIwY1EyeUVyalRyeXN0UXlJY21qSzJ1dkZ2TVpvOGt1bUtqUkplQ0t4dEtzbHZUcGMxYWU1YmkwNzFHVEdZa281bVI5WWlhd3cwbVdwb055RllVbVE2SVdvTFdmUDBia0x1RFlzUTBiemNaTktxS3UtZUZDQQ?oc=5",
+   "published": "2026-09-30",
+   "source": "Investing.com"
   },
   {
-   "title": "IPO Activity Roars Back While SPAC Litigation\u2019s Long Tail Continues - dandodiary.com",
+   "title": "IPO Activity Roars Back While SPAC Litigation\u2019s Long Tail Continues - The D&O Diary",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEFnMnIxSHE2cmFMOGF2alVxS01KcDVxWEUxNzRZX0hSNTJFWnMwTEd5TkY5Vjg1Tkdpa0o0UkJmdUtpd3phTVZTeThPNm0xOWRSN1RtLWVRa205RzhRalpTSnNBUHZpYXJkQjBkLXpDMmN3SFNEbU9NYVl4YV9ESS1BRkxWZm81bk54OGdMRVVKaDhQbnNreVljSm9aMUUwel9TazVRTkRsc2dfMW1kRTgtaG12emc?oc=5",
    "published": "2026-09-30",
-   "source": "dandodiary.com"
+   "source": "The D&O Diary"
   },
   {
-   "title": "REDLattice to Go Public Through Bold Eagle SPAC Merger - GovCon Wire",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGZwWGJqTWxIUnhaZ0JVN3ltb3BOLWNpampkMkgzWDN5UGx0eV9WSXF2NGxOYTZ5dVZyUlN4aC1Kb0JkcVMyeFBWWE9CQ0djMGJXZjNScC1MWHQ2aW5jN1B2eDVkV0wtWWVZT0NTaUFiNDdFZTNHeVVaTk9qd3dELTFieHR0X2c1Vnd2bg?oc=5",
+   "title": "ADTX Stock Surges 40% Overnight: New 10% Holder Emerges After Aditxt\u2019s Ignite Proteomics SPAC Deal - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTk1ZWRtc3FiVjlGbFV0NzR6YlZhd1lHYksxNEMwanZhdVB5Z1ZPNUZQUzJZS20xSXUzVWFFRVJOdHFDOEVMYm9oREtrQ1Jya2V5RkVUVkI0SEtSRDI2T1VuUDJ1TzkwM1B1a1huRjgtSDN5V29OazRGLWhhemZWNmNIbDFiaUdUUllwc1BFREVHQlViWVllb2Zxb0JEbWlMcmd4N0xDQjhJaGQ4cGhqUmx3?oc=5",
+   "published": "2026-10-01",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "Harvard Ave Acquisition to Merge With OAG in $300 Million De-SPAC; Holders Sign Support and Lock-Ups - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMHZ0dlRMUnRIVXZMZlp4UjJHRVFJZXdTNzZoZUdtSm9hdVZ4b1dfeHA2WC1vNDB4cWtrQzRqTmlTOXh1aUZHdy0zZ3NYMzRiTmdrNkRHUU9HQUZLSnRFRTIyTnJuSWxQVzRoWmV6QlE3T05Nb1pEbEZSeXhiVWM3U0VkTE13c3hlZmlDUXg3NXREVnQwVlpveHBoQnpNaUpWQy05YnBlSTJVYUdiTkxHQXFCTWlnMGJlNDdoV0U4anhCanJVbTFZQVk1RkRSVXVsNDRZZTlIcVhmc2tNSzRlRDJKYXFON2JnUHpqY1RfMlpGdw?oc=5",
    "published": "2026-09-29",
-   "source": "GovCon Wire"
-  },
-  {
-   "title": "Chantilly defense tech company RedLattice to go public in $1.25B SPAC deal - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3M2THpwaTJNcmVpS2pUVXVFYnlNTUtBYldONERlVFZlMWJhVXdMRzhITGdLTVFBck9KN2dpeS12dEZKQVBmMzJFeWh4WGJvZWFPaTFhZlNYNUY0US1jUEdJWlFmOXA1MTBFSDNLOHNGT0dLV3o5S1pDX3FwRFptMVUwM2M0TGJLY0UtbWFubDhUaGt4ZnJFUS1ZTTkwRTJH?oc=5",
-   "published": "2026-09-28",
-   "source": "The Business Journals"
-  },
-  {
-   "title": "Nextdoor, Khosla Say Investor Brought De-SPAC Suit Too Late - Law360",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oekd2ZVVvRFNMSG9kMkJnbzRneGVPWGlXY1dUSFVDOVhtZmx1TXptY2lFbkRYeUl0cXZLZUN6eUVUMS1ScXhESFA0dzVPaGdVMVJCTGp30gFWQVVfeXFMTmh6R3ZlVW9EU0xIb2QyQmdvNGd4ZU9YaVdjV1RIVUM5WG1mbHVNem1jaUVuRFh5SXRxdktlQ3p5RVQxLVJxeERIUDR3NU9oZ1UxUkJManc?oc=5",
-   "published": "2026-09-28",
-   "source": "Law360"
+   "source": "TradingView"
   }
  ],
  "regs": []
