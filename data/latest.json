@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T18:54:39Z",
+ "generated_at": "2026-10-02T11:50:53Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -205,17 +205,17 @@
    "filed": "2026-08-31",
    "path": "edgar/data/2146310/0001213900-26-095396.txt",
    "blurb": "offering $250,000,000; $10.00/unit (auto-extracted)"
-  },
-  {
-   "company": "Rainier Acquisition Corp",
-   "form": "424B4",
-   "cik": "2147219",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2147219/0001104659-26-102498.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
   }
  ],
  "amends": [
+  {
+   "company": "Essential Minerals Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2143060",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2143060/0001185185-26-004457.txt",
+   "blurb": "offering $5,875,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
+  },
   {
    "company": "Laris Growth Acquisition Corp.",
    "form": "S-1/A",
@@ -392,6 +392,80 @@
   }
  ],
  "mergers": [
+  {
+   "company": "Armada Acquisition Corp. II",
+   "form": "425",
+   "cik": "2044009",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2044009/0001193125-26-409852.txt"
+  },
+  {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "425",
+   "cik": "1852207",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1852207/0001213900-26-105883.txt"
+  },
+  {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2112446/0001193125-26-409995.txt"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105890.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028027/0001185185-26-004474.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  {
+   "company": "Plum Acquisition Corp. IV",
+   "form": "425",
+   "cik": "2030482",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030482/0001213900-26-105490.txt"
+  },
+  {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "425",
+   "cik": "2030663",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030663/0001213900-26-105871.txt",
+   "blurb": "business combination with Trasteel (auto-extracted)"
+  },
+  {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1884046/0001104659-26-112816.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
+  },
+  {
+   "company": "Hall Chadwick Acquisition Corp",
+   "form": "S-4",
+   "cik": "2079013",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2079013/0001829126-26-010648.txt"
+  },
+  {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "S-4/A",
+   "cik": "2016221",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2016221/0001213900-26-105400.txt"
+  },
   {
    "company": "Inflection Point Acquisition Corp. VI",
    "form": "425",
@@ -1897,94 +1971,41 @@
    "cik": "2053927",
    "filed": "2026-08-28",
    "path": "edgar/data/2053927/0001829126-26-009468.txt"
-  },
-  {
-   "company": "Black Spade Acquisition III Co",
-   "form": "425",
-   "cik": "2087087",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2087087/0001104659-26-102032.txt"
-  },
-  {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2009183/0001829126-26-009425.txt",
-   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2009183/0001829126-26-009429.txt",
-   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
-  },
-  {
-   "company": "Viking Acquisition Corp I",
-   "form": "425",
-   "cik": "2080023",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2080023/0001213900-26-094382.txt"
-  },
-  {
-   "company": "Black Spade Acquisition III Co",
-   "form": "8-K",
-   "cik": "2087087",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2087087/0001104659-26-102023.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001213900-26-094397.txt",
-   "note": "8-K: termination of material agreement"
-  },
-  {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2024459/0001213900-26-094383.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "K2 Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "2086524",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2086524/0001213900-26-094428.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-K",
-   "cik": "2133239",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2133239/0001929980-26-000510.txt",
-   "note": "8-K: entry into material definitive agreement"
-  },
-  {
-   "company": "Armada Acquisition Corp. II",
-   "form": "DEFM14A",
-   "cik": "2044009",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2044009/0001193125-26-371516.txt",
-   "blurb": "meeting September 30, 2026; business-combination vote (auto-extracted)"
-  },
-  {
-   "company": "Miluna Acquisition Corp",
-   "form": "S-4",
-   "cik": "2077033",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2077033/0001493152-26-040431.txt"
   }
  ],
  "votes": [
+  {
+   "company": "Armada Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2044009",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2044009/0001193125-26-409850.txt",
+   "note": "8-K: shareholder vote results"
+  },
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105745.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "FACT II Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2028935",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028935/0001213900-26-105893.txt",
+   "blurb": "meeting June 19, 2024; extension on the agenda (auto-extracted)"
+  },
+  {
+   "company": "Mountain Crest Acquisition Corp. V",
+   "form": "PRE 14A",
+   "cik": "1859035",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1859035/0001829126-26-010651.txt",
+   "blurb": "meeting November 10, 2026; extension on the agenda (auto-extracted)"
+  },
   {
    "company": "IB Acquisition Corp.",
    "form": "8-K",
@@ -2599,17 +2620,17 @@
    "filed": "2026-08-28",
    "path": "edgar/data/2024203/0001493152-26-040575.txt",
    "blurb": "meeting March 23, 2027; extension on the agenda (auto-extracted)"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-K",
-   "cik": "2133239",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2133239/0001929980-26-000510.txt",
-   "note": "8-K: charter amendment (possible extension)"
   }
  ],
  "pipes": [
+  {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105744.txt",
+   "note": "8-K: unregistered equity sale (PIPE signal)"
+  },
   {
    "company": "Bluerock Acquisition Corp. II",
    "form": "8-K",
@@ -2809,22 +2830,6 @@
    "filed": "2026-08-28",
    "path": "edgar/data/2147219/0001104659-26-103228.txt",
    "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2024459/0001213900-26-094383.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-K",
-   "cik": "2133239",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2133239/0001929980-26-000510.txt",
-   "note": "8-K: unregistered equity sale (PIPE signal)"
   }
  ],
  "sponsors": [
@@ -2947,25 +2952,23 @@
    "filed": "2026-08-28",
    "path": "edgar/data/2147219/0001104659-26-103228.txt",
    "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001213900-26-094397.txt",
-   "note": "8-K: officer/director change"
-  },
-  {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-K",
-   "cik": "2133239",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2133239/0001929980-26-000510.txt",
-   "note": "8-K: officer/director change"
   }
  ],
  "exchanges": [
+  {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "25-NSE",
+   "cik": "2028201",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028201/0001354457-26-000937.txt"
+  },
+  {
+   "company": "Viking Acquisition Corp I",
+   "form": "8-A12B",
+   "cik": "2080023",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2080023/0001213900-26-105563.txt"
+  },
   {
    "company": "Keen Vision Acquisition Corp.",
    "form": "25-NSE",
@@ -3101,49 +3104,20 @@
    "filed": "2026-08-31",
    "path": "edgar/data/1850059/0001829126-26-009545.txt",
    "note": "8-K: delisting / listing-deficiency notice"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "25-NSE",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001354457-26-000828.txt"
-  },
-  {
-   "company": "D. Boral ARC Acquisition I Corp.",
-   "form": "25-NSE",
-   "cik": "2065779",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2065779/0001354457-26-000829.txt"
-  },
-  {
-   "company": "Inflection Point Acquisition Corp. VIII",
-   "form": "8-A12B",
-   "cik": "2146310",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2146310/0001213900-26-094281.txt"
-  },
-  {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001213900-26-094397.txt",
-   "note": "8-K: delisting / listing-deficiency notice"
   }
  ],
  "media": [
   {
-   "title": "Blank Check Company POP Global Acquisition Offers 10 Mln Units In IPO - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZaZ1N4bWFkcXhmdW9zS2ZlcnJ4SjJjazAzUkJoM2hXT05Vem9BQURCUUxYMFVWNFNPUjlsaXZYN20tS3hZRGdtZldyc0hfNlU5X01TSWVKV2xMQ2VUQS1oYkUxU2g2RlYxUWZPdnZrWW5SQVp2VmFobkxKd0xqcnZWX3liOXpzZWhxSXZ2LW93TUhkTW1Lb3RQZE1pOXFCSmdxX0M3T0duV2RUcWNCZ2hIMlZnWVNZVDNXTWJLMUpGWG9VWFh2S1R1QnVGVFhqVUJrSlFn?oc=5",
+   "title": "Aerospace company that moved HQ to Denver area plans to go public through SPAC merger - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1FOenpfUmw0emJZMjlTQ1lkMWJ6NXFLcHZZX0dxUVZKckJfWnBwV3kwcUZiUll0SU1sOFQ4SkEteWYxX0ExdmhGTjBHRDUyaXhMZWVSUnZHaW1LYUpoc3pTMGliSmFaLWhjeDNBOEtvY0FBWkRBd2hFWWZRVE9sNl9IajRaWHpFMXNIcHh1ODdhX3k5eXFNVnlKSEtiVnZqMFE?oc=5",
    "published": "2026-10-01",
-   "source": "TradingView"
+   "source": "The Business Journals"
   },
   {
-   "title": "Evernode to List on Nasdaq Through SPAC Merger on Oct. 8 - en.bloomingbit.io",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rancyWUJfV19Xa0xtbTRlVnRrQ1BzUDhFSXMxelZOcjU0T1RCS2RqcjFxWW5iMUp2MFVwZnJsQlFuMFBmVERNVE1raFpreGliY2V0Xw?oc=5",
+   "title": "Trasteel submits draft registration for SPAC merger with Sizzle - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkNQZVh3SHpwMjB3QktYdGhwMURJOEx1TkNSX0pENUt3YWxva1ljSWJTLWdWZl9FdmJxRnlaNWItZGprTFJGQ2NuLTVZQWdNVUlaOWpGb3MybXJhbzRLSUFwM0lUdmItQWJvS2FzWU10emstQzJWVTJGWm9xTV9NOUQwOHBKRzRBNnNwaGFVS0FKUjRjT3NueUtKZ21nZHVkdTUtQ0tmMW8xUlFzaDlHX0JNMVNQcnpQa1JJVQ?oc=5",
    "published": "2026-10-01",
-   "source": "en.bloomingbit.io"
+   "source": "Investing.com"
   },
   {
    "title": "Fort Robotics Advances SPAC Deal With Confidential S-4 Filing - AI Insider",
@@ -3152,22 +3126,22 @@
    "source": "AI Insider"
   },
   {
+   "title": "Blank Check Company POP Global Acquisition Offers 10 Mln Units In IPO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZaZ1N4bWFkcXhmdW9zS2ZlcnJ4SjJjazAzUkJoM2hXT05Vem9BQURCUUxYMFVWNFNPUjlsaXZYN20tS3hZRGdtZldyc0hfNlU5X01TSWVKV2xMQ2VUQS1oYkUxU2g2RlYxUWZPdnZrWW5SQVp2VmFobkxKd0xqcnZWX3liOXpzZWhxSXZ2LW93TUhkTW1Lb3RQZE1pOXFCSmdxX0M3T0duV2RUcWNCZ2hIMlZnWVNZVDNXTWJLMUpGWG9VWFh2S1R1QnVGVFhqVUJrSlFn?oc=5",
+   "published": "2026-10-01",
+   "source": "TradingView"
+  },
+  {
    "title": "Astro Digital to Go Public via $587 Million SPAC Merger with Proem Acquisition Corp I - satnews.com",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUlURG50Z1pPRlRuUlk4ajlGclNXNEVtUUhDam8waDh2SDF4S0JLOUZ0UGFhRUhoNGdETVVWN09GX0xYVUFYblRTWlZzZ1kxYkw1eDRmemcwX2gwS05LZUJ4aloyc1BHTU4xc08xZG5mMU1rRTJkNS1PVzVVTmpDLTVsaWxoallXN21lVEd0c1luZE43MlVqTFBLbk9ub2U1R1ZkVUdVeHNhZnlkMWM5TzZmNVFJV2c?oc=5",
    "published": "2026-09-30",
    "source": "satnews.com"
   },
   {
-   "title": "Astro Digital Takes SPAC Deal to Scale Satellite Manufacturing - Via Satellite",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlNiMS1iRmVUM0R6c25nSFRycDF1eGYxNHVZZ3JyYWZ5eUJIYWZ3aTVWUEpkOEhmWGZxNTdmMi1xMHNQRFoybE8xVXpjaWZpc0RpWHlBeXYwRFhZVHdwMDE1TEV2ekg2Ukt6Q3BUYnZLR0w1SWI4dDJGamw0dWh3U1d1ald5c054R3FuVk1xYXVab01Mc2xLeURmUC0zM25GNDdMSnhyRmRtUHk5al9jblhLVQ?oc=5",
-   "published": "2026-09-29",
-   "source": "Via Satellite"
-  },
-  {
-   "title": "FORT Robotics files for SPAC merger, targets Nasdaq listing - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakU4elBLajdrWEdZVWxOeUc2YnZFYzFhMWRHRi1tUjliQUtYNkUzMlM4dUlQT3k3SEF0MXc2SDFfYkIwY1EyeUVyalRyeXN0UXlJY21qSzJ1dkZ2TVpvOGt1bUtqUkplQ0t4dEtzbHZUcGMxYWU1YmkwNzFHVEdZa281bVI5WWlhd3cwbVdwb055RllVbVE2SVdvTFdmUDBia0x1RFlzUTBiemNaTktxS3UtZUZDQQ?oc=5",
-   "published": "2026-09-30",
-   "source": "Investing.com"
+   "title": "Evernode to List on Nasdaq Through SPAC Merger on Oct. 8 - bloomingbit",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rancyWUJfV19Xa0xtbTRlVnRrQ1BzUDhFSXMxelZOcjU0T1RCS2RqcjFxWW5iMUp2MFVwZnJsQlFuMFBmVERNVE1raFpreGliY2V0Xw?oc=5",
+   "published": "2026-10-01",
+   "source": "bloomingbit"
   }
  ],
  "regs": []

@@ -1,171 +1,5 @@
 {
  "rows": {
-  "edgar/data/2088295/0001354457-26-000828.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "25-NSE",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001354457-26-000828.txt"
-  },
-  "edgar/data/2065779/0001354457-26-000829.txt": {
-   "company": "D. Boral ARC Acquisition I Corp.",
-   "form": "25-NSE",
-   "cik": "2065779",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2065779/0001354457-26-000829.txt"
-  },
-  "edgar/data/2147219/0001104659-26-102498.txt": {
-   "company": "Rainier Acquisition Corp",
-   "form": "424B4",
-   "cik": "2147219",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2147219/0001104659-26-102498.txt",
-   "blurb": "offering $75,000,000; 7,500,000 units; $10.00/unit (auto-extracted)"
-  },
-  "edgar/data/2087087/0001104659-26-102032.txt": {
-   "company": "Black Spade Acquisition III Co",
-   "form": "425",
-   "cik": "2087087",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2087087/0001104659-26-102032.txt",
-   "blurb": ""
-  },
-  "edgar/data/2009183/0001829126-26-009425.txt": {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2009183/0001829126-26-009425.txt",
-   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2009183/0001829126-26-009429.txt": {
-   "company": "Titan Acquisition Corp.",
-   "form": "425",
-   "cik": "2009183",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2009183/0001829126-26-009429.txt",
-   "blurb": "business combination with Titan Acquisition Corp (auto-extracted)"
-  },
-  "edgar/data/2080023/0001213900-26-094382.txt": {
-   "company": "Viking Acquisition Corp I",
-   "form": "425",
-   "cik": "2080023",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2080023/0001213900-26-094382.txt",
-   "blurb": ""
-  },
-  "edgar/data/2146310/0001213900-26-094281.txt": {
-   "company": "Inflection Point Acquisition Corp. VIII",
-   "form": "8-A12B",
-   "cik": "2146310",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2146310/0001213900-26-094281.txt"
-  },
-  "edgar/data/2087087/0001104659-26-102023.txt": {
-   "company": "Black Spade Acquisition III Co",
-   "form": "8-K",
-   "cik": "2087087",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2087087/0001104659-26-102023.txt",
-   "items": [
-    "Entry into a Material Definitive Agreement",
-    "Regulation FD Disclosure",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2088295/0001213900-26-094397.txt": {
-   "company": "Bleichroeder Acquisition Corp. II",
-   "form": "8-K",
-   "cik": "2088295",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2088295/0001213900-26-094397.txt",
-   "items": [
-    "Termination of a Material Definitive Agreement",
-    "Completion of Acquisition or Disposition of Assets",
-    "Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
-    "Material Modifications to Rights of Security Holders",
-    "Changes in Control of Registrant",
-    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2024459/0001213900-26-094383.txt": {
-   "company": "Charlton Aria Acquisition Corp",
-   "form": "8-K",
-   "cik": "2024459",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2024459/0001213900-26-094383.txt",
-   "items": [
-    "Entry into a Material Definitive Agreement",
-    "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-    "Unregistered Sales of Equity Securities",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2086524/0001213900-26-094428.txt": {
-   "company": "K2 Capital Acquisition Corp",
-   "form": "8-K",
-   "cik": "2086524",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2086524/0001213900-26-094428.txt",
-   "items": [
-    "Entry into a Material Definitive Agreement",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2137679/0001829126-26-009426.txt": {
-   "company": "OceanLight Acquisition Corp",
-   "form": "8-K",
-   "cik": "2137679",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2137679/0001829126-26-009426.txt",
-   "items": [
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2133239/0001929980-26-000510.txt": {
-   "company": "Southern Cross Acquisition II Corp.",
-   "form": "8-K",
-   "cik": "2133239",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2133239/0001929980-26-000510.txt",
-   "items": [
-    "Entry into a Material Definitive Agreement",
-    "Unregistered Sales of Equity Securities",
-    "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-    "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
-    "Other Events",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2009183/0001829126-26-009424.txt": {
-   "company": "Titan Acquisition Corp.",
-   "form": "8-K",
-   "cik": "2009183",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2009183/0001829126-26-009424.txt",
-   "items": [
-    "Regulation FD Disclosure",
-    "Financial Statements and Exhibits"
-   ]
-  },
-  "edgar/data/2044009/0001193125-26-371516.txt": {
-   "company": "Armada Acquisition Corp. II",
-   "form": "DEFM14A",
-   "cik": "2044009",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2044009/0001193125-26-371516.txt",
-   "blurb": "meeting September 30, 2026; business-combination vote (auto-extracted)"
-  },
-  "edgar/data/2077033/0001493152-26-040431.txt": {
-   "company": "Miluna Acquisition Corp",
-   "form": "S-4",
-   "cik": "2077033",
-   "filed": "2026-08-27",
-   "path": "edgar/data/2077033/0001493152-26-040431.txt",
-   "blurb": ""
-  },
   "edgar/data/2128045/0001213900-26-094540.txt": {
    "company": "Bleichroeder Acquisition Corp. III",
    "form": "425",
@@ -3945,6 +3779,175 @@
    "cik": "2053927",
    "filed": "2026-09-30",
    "path": "edgar/data/2053927/0001829126-26-010610.txt",
+   "blurb": ""
+  },
+  "edgar/data/2028201/0001354457-26-000937.txt": {
+   "company": "Columbus Acquisition Corp/Cayman Islands",
+   "form": "25-NSE",
+   "cik": "2028201",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028201/0001354457-26-000937.txt"
+  },
+  "edgar/data/2044009/0001193125-26-409852.txt": {
+   "company": "Armada Acquisition Corp. II",
+   "form": "425",
+   "cik": "2044009",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2044009/0001193125-26-409852.txt",
+   "blurb": ""
+  },
+  "edgar/data/1852207/0001213900-26-105883.txt": {
+   "company": "Bold Eagle Acquisition Corp.",
+   "form": "425",
+   "cik": "1852207",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1852207/0001213900-26-105883.txt",
+   "blurb": ""
+  },
+  "edgar/data/2112446/0001193125-26-409995.txt": {
+   "company": "JATT II Acquisition Corp.",
+   "form": "425",
+   "cik": "2112446",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2112446/0001193125-26-409995.txt",
+   "blurb": ""
+  },
+  "edgar/data/2023676/0001213900-26-105890.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "425",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105890.txt",
+   "blurb": "business combination with NuCube (auto-extracted)"
+  },
+  "edgar/data/2028027/0001185185-26-004474.txt": {
+   "company": "Newbury Street II Acquisition Corp",
+   "form": "425",
+   "cik": "2028027",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028027/0001185185-26-004474.txt",
+   "blurb": "business combination with Newbury Street II Acquisition Corp (auto-extracted)"
+  },
+  "edgar/data/2030482/0001213900-26-105490.txt": {
+   "company": "Plum Acquisition Corp. IV",
+   "form": "425",
+   "cik": "2030482",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030482/0001213900-26-105490.txt",
+   "blurb": ""
+  },
+  "edgar/data/2030663/0001213900-26-105871.txt": {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "425",
+   "cik": "2030663",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030663/0001213900-26-105871.txt",
+   "blurb": "business combination with Trasteel (auto-extracted)"
+  },
+  "edgar/data/1884046/0001104659-26-112816.txt": {
+   "company": "Spark I Acquisition Corp",
+   "form": "425",
+   "cik": "1884046",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1884046/0001104659-26-112816.txt",
+   "blurb": "business combination with ZincFive (auto-extracted)"
+  },
+  "edgar/data/2080023/0001213900-26-105563.txt": {
+   "company": "Viking Acquisition Corp I",
+   "form": "8-A12B",
+   "cik": "2080023",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2080023/0001213900-26-105563.txt"
+  },
+  "edgar/data/2044009/0001193125-26-409850.txt": {
+   "company": "Armada Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2044009",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2044009/0001193125-26-409850.txt",
+   "items": [
+    "Submission of Matters to a Vote of Security Holders"
+   ]
+  },
+  "edgar/data/2023676/0001213900-26-105744.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "8-K",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105744.txt",
+   "items": [
+    "Unregistered Sales of Equity Securities",
+    "Other Events"
+   ]
+  },
+  "edgar/data/2030482/0001213900-26-105485.txt": {
+   "company": "Plum Acquisition Corp. IV",
+   "form": "8-K",
+   "cik": "2030482",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030482/0001213900-26-105485.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2030663/0001213900-26-105864.txt": {
+   "company": "Sizzle Acquisition Corp. II",
+   "form": "8-K",
+   "cik": "2030663",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2030663/0001213900-26-105864.txt",
+   "items": [
+    "Regulation FD Disclosure",
+    "Financial Statements and Exhibits"
+   ]
+  },
+  "edgar/data/2023676/0001213900-26-105745.txt": {
+   "company": "Launch Two Acquisition Corp.",
+   "form": "DEFA14A",
+   "cik": "2023676",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2023676/0001213900-26-105745.txt",
+   "blurb": "extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2028935/0001213900-26-105893.txt": {
+   "company": "FACT II Acquisition Corp.",
+   "form": "PRE 14A",
+   "cik": "2028935",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2028935/0001213900-26-105893.txt",
+   "blurb": "meeting June 19, 2024; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/1859035/0001829126-26-010651.txt": {
+   "company": "Mountain Crest Acquisition Corp. V",
+   "form": "PRE 14A",
+   "cik": "1859035",
+   "filed": "2026-10-01",
+   "path": "edgar/data/1859035/0001829126-26-010651.txt",
+   "blurb": "meeting November 10, 2026; extension on the agenda (auto-extracted)"
+  },
+  "edgar/data/2143060/0001185185-26-004457.txt": {
+   "company": "Essential Minerals Acquisition Corp",
+   "form": "S-1/A",
+   "cik": "2143060",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2143060/0001185185-26-004457.txt",
+   "blurb": "offering $5,875,000; 15,000,000 units; $10.00/unit; focus: primary silver and other precious metals projects, and on critical minerals assets that support United States domestic resource security, in (auto-extracted)"
+  },
+  "edgar/data/2079013/0001829126-26-010648.txt": {
+   "company": "Hall Chadwick Acquisition Corp",
+   "form": "S-4",
+   "cik": "2079013",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2079013/0001829126-26-010648.txt",
+   "blurb": ""
+  },
+  "edgar/data/2016221/0001213900-26-105400.txt": {
+   "company": "Melar Acquisition Corp. I/Cayman",
+   "form": "S-4/A",
+   "cik": "2016221",
+   "filed": "2026-10-01",
+   "path": "edgar/data/2016221/0001213900-26-105400.txt",
    "blurb": ""
   }
  }
