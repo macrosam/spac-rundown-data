@@ -32,6 +32,7 @@ import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
+from decimal import Decimal
 
 INDEX_BASE = "https://www.sec.gov/Archives/edgar/daily-index"
 HISTORY_PATH = "data/history.json"
@@ -165,6 +166,28 @@ def _strip_html(text: str) -> str:
     return re.sub(r"\s+", " ", text)
 
 
+def consistent_offering_blurb(blurb: str) -> str:
+    """Withhold an amount that contradicts the emitted unit economics.
+
+    This does not infer a replacement or certify the remaining extracted facts.
+    Apply to cached blurbs too, since history otherwise keeps them indefinitely.
+    """
+    suffix = " (auto-extracted)" if blurb.endswith(" (auto-extracted)") else ""
+    parts = blurb[:-len(suffix)].split("; ") if suffix else blurb.split("; ")
+    amount = units = price = None
+    for part in parts:
+        if match := re.fullmatch(r"offering \$(\d[\d,]*(?:\.\d+)?)", part):
+            amount = (part, Decimal(match.group(1).replace(",", "")))
+        elif match := re.fullmatch(r"(\d[\d,]*) units", part):
+            units = Decimal(match.group(1).replace(",", ""))
+        elif match := re.fullmatch(r"\$(\d+(?:\.\d+)?)/unit", part):
+            price = Decimal(match.group(1))
+    if amount is not None and units is not None and price is not None:
+        if amount[1] != units * price:
+            parts = [part for part in parts if part != amount[0]]
+    return "; ".join(parts) + suffix
+
+
 def extract_blurb(form: str, path: str, ua: str) -> str:
     """Best-effort key facts from a filing's cover page. Labeled auto-extracted."""
     raw = fetch(f"https://www.sec.gov/Archives/{path}", ua, max_bytes=120000)
@@ -209,7 +232,7 @@ def extract_blurb(form: str, path: str, ua: str) -> str:
 
     if not parts:
         return ""
-    return "; ".join(parts)[:220] + " (auto-extracted)"
+    return consistent_offering_blurb("; ".join(parts))[:220] + " (auto-extracted)"
 
 
 def fetch_rss_items(url: str, ua: str) -> list[dict]:
@@ -289,6 +312,11 @@ def main() -> int:
     for r in pending:
         r["blurb"] = extract_blurb(r["form"].upper(), r["path"], ua)
         time.sleep(0.3)
+
+    # Previously cached extraction errors must not survive fresh feed generation.
+    for r in history.values():
+        if r["form"].upper() in BLURB_OFFERING and r.get("blurb"):
+            r["blurb"] = consistent_offering_blurb(r["blurb"])
 
     # Prune beyond the rolling horizon
     cutoff = (today - timedelta(days=HISTORY_DAYS)).isoformat()
