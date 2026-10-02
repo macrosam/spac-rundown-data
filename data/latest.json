@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T11:50:53Z",
+ "generated_at": "2026-10-02T18:54:00Z",
  "history_days": 35,
  "source": "SEC EDGAR daily index + 8-K item headers; Google News RSS; SEC.gov RSS",
  "pipeline": [
@@ -3108,28 +3108,28 @@
  ],
  "media": [
   {
+   "title": "NorthStar Earth & Space Goes Public After SPAC Merger - Via Satellite",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU050OGdLcEFXMm1Zd2dOdzNMTUdhSEhXbE1BZDh2elZteFNVejBTT2dCNUNERnNPeFVUMmRqaGZpNERqVlhab29iTHhWcE8xTUlaVXZ4ejUtWUlUaFNQME5xNTlwOUFVcGJIaFRKekJGTEpPR0VoQnRLTzlnNnh4b01RVEEwOUl6SEdvV3JrQ3Q5bm1DZzF3QXYzaEpqTHlKdVZ6Sg?oc=5",
+   "published": "2026-10-02",
+   "source": "Via Satellite"
+  },
+  {
+   "title": "Space Monitoring Firm NorthStar Goes Public After SPAC Merger - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGVLTWc5MEVOdzA1WlVGaV9YYVBUODNrc2lMYUgzZjhDS1A5N1pseEduMm9HNmlwaXVJVEF5bk5uSENSUGs4NGw2Zm5wNk4xZFZKbGhjSGF1V1FIUDNfQWZETGE0SnZISVM4UG9XQmZGaV9CcHNZdXhoMkJFcnNtYU9EcDhJRTRUS0p2NENJdnlwOVJNeXZlaW5VNkRIcktCaE1NaS03R0lfVVF5NjY2cmxn?oc=5",
+   "published": "2026-10-02",
+   "source": "Bloomberg.com"
+  },
+  {
    "title": "Aerospace company that moved HQ to Denver area plans to go public through SPAC merger - The Business Journals",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1FOenpfUmw0emJZMjlTQ1lkMWJ6NXFLcHZZX0dxUVZKckJfWnBwV3kwcUZiUll0SU1sOFQ4SkEteWYxX0ExdmhGTjBHRDUyaXhMZWVSUnZHaW1LYUpoc3pTMGliSmFaLWhjeDNBOEtvY0FBWkRBd2hFWWZRVE9sNl9IajRaWHpFMXNIcHh1ODdhX3k5eXFNVnlKSEtiVnZqMFE?oc=5",
    "published": "2026-10-01",
    "source": "The Business Journals"
   },
   {
-   "title": "Trasteel submits draft registration for SPAC merger with Sizzle - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkNQZVh3SHpwMjB3QktYdGhwMURJOEx1TkNSX0pENUt3YWxva1ljSWJTLWdWZl9FdmJxRnlaNWItZGprTFJGQ2NuLTVZQWdNVUlaOWpGb3MybXJhbzRLSUFwM0lUdmItQWJvS2FzWU10emstQzJWVTJGWm9xTV9NOUQwOHBKRzRBNnNwaGFVS0FKUjRjT3NueUtKZ21nZHVkdTUtQ0tmMW8xUlFzaDlHX0JNMVNQcnpQa1JJVQ?oc=5",
-   "published": "2026-10-01",
-   "source": "Investing.com"
-  },
-  {
-   "title": "Fort Robotics Advances SPAC Deal With Confidential S-4 Filing - AI Insider",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzVfREJpLWpJdC1HX2N1UFRGM3V1enUzM0dQbmhtT1lUUzM0NE8yZ0JvMllhUEJtM1QwWGFYTmJ4dldFZVcwZ2VlZ0RxMG9ERVlIMUVBTkFQVVhsZ0s4VldqVWlGYzNlNF9fbWMxbU51aTk2aUw5RjBIeVNsR3UxVE9KNFpTaUtPc0VTMXQwQVo0Zno3RmdLQXkzRVg4UnZQ?oc=5",
-   "published": "2026-10-01",
-   "source": "AI Insider"
-  },
-  {
-   "title": "Blank Check Company POP Global Acquisition Offers 10 Mln Units In IPO - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmZaZ1N4bWFkcXhmdW9zS2ZlcnJ4SjJjazAzUkJoM2hXT05Vem9BQURCUUxYMFVWNFNPUjlsaXZYN20tS3hZRGdtZldyc0hfNlU5X01TSWVKV2xMQ2VUQS1oYkUxU2g2RlYxUWZPdnZrWW5SQVp2VmFobkxKd0xqcnZWX3liOXpzZWhxSXZ2LW93TUhkTW1Lb3RQZE1pOXFCSmdxX0M3T0duV2RUcWNCZ2hIMlZnWVNZVDNXTWJLMUpGWG9VWFh2S1R1QnVGVFhqVUJrSlFn?oc=5",
-   "published": "2026-10-01",
-   "source": "TradingView"
+   "title": "Space Monitoring Firm NorthStar Goes Public After SPAC Merger - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEFITVJGYVRFSHdKaUJ4dmFtbjQ1R3dLa2pEd0ZkNVZEY1lJYW4xMC1BamtyWUptejhOcDFhYzdOLXE5Mkd0TDhpaHVWcGtMSENzWmdSb0hlRU5HRjk0X2lLajdTVVdhNzg2TTZjT2F5NFdGUVoxUVdfb1hFMFNGZTlkeGdZcU0zNEt3WUNoVF82M1VyZEJ6bU9Fb1k3U0thdUo0RG85ZGVmQnpPV3VzMmc0eTI4OFVDd1NHQUtOS0xncmxWSkdLYQ?oc=5",
+   "published": "2026-10-02",
+   "source": "Bloomberg.com"
   },
   {
    "title": "Astro Digital to Go Public via $587 Million SPAC Merger with Proem Acquisition Corp I - satnews.com",
@@ -3138,10 +3138,10 @@
    "source": "satnews.com"
   },
   {
-   "title": "Evernode to List on Nasdaq Through SPAC Merger on Oct. 8 - bloomingbit",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rancyWUJfV19Xa0xtbTRlVnRrQ1BzUDhFSXMxelZOcjU0T1RCS2RqcjFxWW5iMUp2MFVwZnJsQlFuMFBmVERNVE1raFpreGliY2V0Xw?oc=5",
+   "title": "Trasteel submits draft registration for SPAC merger with Sizzle - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkNQZVh3SHpwMjB3QktYdGhwMURJOEx1TkNSX0pENUt3YWxva1ljSWJTLWdWZl9FdmJxRnlaNWItZGprTFJGQ2NuLTVZQWdNVUlaOWpGb3MybXJhbzRLSUFwM0lUdmItQWJvS2FzWU10emstQzJWVTJGWm9xTV9NOUQwOHBKRzRBNnNwaGFVS0FKUjRjT3NueUtKZ21nZHVkdTUtQ0tmMW8xUlFzaDlHX0JNMVNQcnpQa1JJVQ?oc=5",
    "published": "2026-10-01",
-   "source": "bloomingbit"
+   "source": "Investing.com"
   }
  ],
  "regs": []
